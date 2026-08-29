@@ -49,12 +49,12 @@ function pickImage(images = []) {
   return img ? `https:${img.Uri}`.replace(/^https:https:/, 'https:') : null;
 }
 
-async function fetchProducts(ids) {
+async function fetchProducts(ids, lang = LANG) {
   const out = new Map();
   for (let i = 0; i < ids.length; i += 20) {
     const batch = ids.slice(i, i + 20);
     const url = `https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${batch.join(',')}` +
-      `&market=${MARKET}&languages=${LANG}&MS-CV=DGU1mcuYo0WMMp`;
+      `&market=${MARKET}&languages=${lang}&MS-CV=DGU1mcuYo0WMMp`;
     const json = await getJSON(url);
     for (const p of json.Products || []) {
       const loc = p.LocalizedProperties?.[0] || {};
@@ -73,7 +73,7 @@ async function fetchProducts(ids) {
         storeUrl: `https://www.xbox.com/${LANG}/games/store/_/${p.ProductId}`,
       });
     }
-    process.stdout.write(`\r  products ${Math.min(i + 20, ids.length)}/${ids.length}`);
+    process.stdout.write(`\r  products (${lang}) ${Math.min(i + 20, ids.length)}/${ids.length}`);
   }
   process.stdout.write('\n');
   return out;
@@ -92,11 +92,19 @@ for (const list of LISTS) {
 console.log(`Unique products: ${allIds.size}`);
 
 const products = await fetchProducts([...allIds]);
+
+// Second pass for Chinese titles. Plenty of titles (especially indies) are only
+// published in English, so this only records a value when it actually differs.
+const ZH_LANG = process.env.ZH_LANG || 'zh-cn';
+const zh = await fetchProducts([...allIds], ZH_LANG);
 const games = [...products.values()]
   .map(({ rawConsoleGen, ...g }) => {
     const platforms = platformsById.get(g.productId) || [];
+    const zhTitle = zh.get(g.productId)?.title;
     return {
       ...g,
+      titleZh: zhTitle && zhTitle !== g.title ? zhTitle : null,
+      shortDescriptionZh: zh.get(g.productId)?.shortDescription || null,
       platforms,
       // xbox.com's "Handhelds" facet is served by the PC catalog, so it is not
       // stored separately — the page derives it from the pc platform.

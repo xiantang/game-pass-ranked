@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,6 +35,8 @@
     border-radius: var(--radius); padding: 8px 11px; font: inherit; font-size: 14px;
   }
   input[type="search"] { min-width: 240px; flex: 1 1 240px; }
+  .lang { margin-left: auto; }
+  .name-sub { color: var(--muted); font-size: 12px; font-weight: 400; }
   input[type="search"]:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
   .seg { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
   .seg button {
@@ -104,45 +106,49 @@
 <header>
   <div class="wrap">
     <div class="titlebar">
-      <h1>Xbox Game Pass, ranked by <span>Metacritic</span></h1>
-      <div class="meta" id="meta">loading…</div>
+      <h1 id="h1"></h1>
+      <div class="meta" id="meta"></div>
+      <div class="seg lang" id="lang">
+        <button data-v="zh" aria-pressed="false">中文</button>
+        <button data-v="en" aria-pressed="false">EN</button>
+      </div>
     </div>
     <div class="controls">
       <input type="search" id="q" placeholder="Search title, studio, genre…" autocomplete="off">
       <select id="sort">
-        <option value="score-desc">Metacritic ↓</option>
-        <option value="score-asc">Metacritic ↑</option>
-        <option value="date-desc">Newest first</option>
-        <option value="date-asc">Oldest first</option>
-        <option value="title-asc">Title A–Z</option>
+        <option value="score-desc" data-i18n="sortScoreDesc"></option>
+        <option value="score-asc" data-i18n="sortScoreAsc"></option>
+        <option value="date-desc" data-i18n="sortNewest"></option>
+        <option value="date-asc" data-i18n="sortOldest"></option>
+        <option value="title-asc" data-i18n="sortTitle"></option>
       </select>
       <div class="playon" id="platform">
-        <span class="playon-label">Play on</span>
-        <label><input type="checkbox" value="xboxSeries"> Xbox Series X|S</label>
-        <label><input type="checkbox" value="xboxOne"> Xbox One</label>
-        <label><input type="checkbox" value="pc"> Windows PC</label>
-        <label title="Xbox serves the Handhelds facet from the PC catalog"><input type="checkbox" value="handheld"> Handhelds</label>
-        <label><input type="checkbox" value="playAnywhere"> Play Anywhere</label>
+        <span class="playon-label" data-i18n="playOn"></span>
+        <label><input type="checkbox" value="xboxSeries"> <span data-i18n="devSeries"></span></label>
+        <label><input type="checkbox" value="xboxOne"> <span data-i18n="devOne"></span></label>
+        <label><input type="checkbox" value="pc"> <span data-i18n="devPc"></span></label>
+        <label data-i18n-title="handheldHint"><input type="checkbox" value="handheld"> <span data-i18n="devHandheld"></span></label>
+        <label><input type="checkbox" value="playAnywhere"> <span data-i18n="devXpa"></span></label>
       </div>
       <select id="min">
-        <option value="0">Any score</option>
-        <option value="90">90+ · Universal acclaim</option>
+        <option value="0" data-i18n="anyScore"></option>
+        <option value="90" data-i18n="score90"></option>
         <option value="80">80+</option>
-        <option value="75">75+ · Generally favorable</option>
+        <option value="75" data-i18n="score75"></option>
         <option value="60">60+</option>
       </select>
       <select id="since">
-        <option value="0">Any year</option>
-        <option value="2025">2025 or newer</option>
-        <option value="2023">2023 or newer</option>
-        <option value="2020">2020 or newer</option>
-        <option value="2015">2015 or newer</option>
-        <option value="2010">2010 or newer</option>
+        <option value="0" data-i18n="anyYear"></option>
+        <option value="2025" data-i18n="since" data-year="2025"></option>
+        <option value="2023" data-i18n="since" data-year="2023"></option>
+        <option value="2020" data-i18n="since" data-year="2020"></option>
+        <option value="2015" data-i18n="since" data-year="2015"></option>
+        <option value="2010" data-i18n="since" data-year="2010"></option>
       </select>
-      <label class="toggle"><input type="checkbox" id="unrated"> Include unrated</label>
+      <label class="toggle"><input type="checkbox" id="unrated"> <span data-i18n="unrated"></span></label>
       <div class="seg" id="view">
-        <button data-v="grid" aria-pressed="true">Grid</button>
-        <button data-v="list" aria-pressed="false">List</button>
+        <button data-v="grid" aria-pressed="true" data-i18n="viewGrid"></button>
+        <button data-v="list" aria-pressed="false" data-i18n="viewList"></button>
       </div>
     </div>
   </div>
@@ -153,14 +159,62 @@
   <div id="out"></div>
 </main>
 
-<footer>
-  Catalog from Microsoft's public Game Pass catalog API · scores from Metacritic ·
-  titles are matched by name, so a handful may be missing or point at a re-release.
-  Regenerate with <code>npm run build</code>.
-</footer>
+<footer id="footer"></footer>
 
 <script>
-const state = { q: '', sort: 'score-desc', playOn: [], min: 0, since: 0, unrated: false, view: 'grid' };
+const I18N = {
+  zh: {
+    title: 'Xbox Game Pass 游戏库 · 按 <span>Metacritic</span> 评分排序',
+    meta: (n, s, m, d) => `${n} 款游戏 · ${s} 款有评分 · ${m} 区目录 · 更新于 ${d}`,
+    search: '搜索游戏名、开发商、类型…',
+    sortScoreDesc: '评分从高到低', sortScoreAsc: '评分从低到高',
+    sortNewest: '最新发售', sortOldest: '最早发售', sortTitle: '名称 A–Z',
+    playOn: '可玩平台',
+    devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
+    devHandheld: '掌机', devXpa: 'Play Anywhere',
+    handheldHint: '微软官网的「掌机」筛选直接复用 PC 目录，结果与 Windows PC 相同',
+    anyScore: '不限评分', score90: '90+ · 普遍赞誉', score75: '75+ · 好评',
+    anyYear: '不限年份', since: (y) => `${y} 年及以后`,
+    unrated: '包含无评分作品', viewGrid: '封面', viewList: '列表',
+    count: (n, total, scoredOnly, since) =>
+      `共 ${total} 款中的 ${n} 款` + (scoredOnly ? '（有 Metacritic 评分）' : '') + (since ? ` · ${since} 年及以后` : ''),
+    empty: '没有符合条件的游戏',
+    store: '商店', mc: 'Metacritic', mcShort: 'M 站',
+    thRank: '#', thScore: '评分', thTitle: '游戏', thStudio: '开发商', thYear: '年份', thPlat: '平台', thLinks: '链接',
+    footer: '目录来自微软 Game Pass 公开接口 · 评分来自 Metacritic · 游戏按名称匹配，少数可能缺失或指向重制版。运行 <code>npm run build</code> 可刷新数据。',
+  },
+  en: {
+    title: 'Xbox Game Pass, ranked by <span>Metacritic</span>',
+    meta: (n, s, m, d) => `${n} games · ${s} scored · ${m} catalog · updated ${d}`,
+    search: 'Search title, studio, genre…',
+    sortScoreDesc: 'Metacritic ↓', sortScoreAsc: 'Metacritic ↑',
+    sortNewest: 'Newest first', sortOldest: 'Oldest first', sortTitle: 'Title A–Z',
+    playOn: 'Play on',
+    devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
+    devHandheld: 'Handhelds', devXpa: 'Play Anywhere',
+    handheldHint: "Xbox serves the Handhelds facet from the PC catalog, so it matches Windows PC",
+    anyScore: 'Any score', score90: '90+ · Universal acclaim', score75: '75+ · Generally favorable',
+    anyYear: 'Any year', since: (y) => `${y} or newer`,
+    unrated: 'Include unrated', viewGrid: 'Grid', viewList: 'List',
+    count: (n, total, scoredOnly, since) =>
+      `${n} of ${total} titles` + (scoredOnly ? ' with a Metacritic score' : '') + (since ? ` · released ${since} or later` : ''),
+    empty: 'Nothing matches those filters.',
+    store: 'Store', mc: 'Metacritic', mcShort: 'MC',
+    thRank: '#', thScore: 'Score', thTitle: 'Title', thStudio: 'Studio', thYear: 'Year', thPlat: 'Platform', thLinks: 'Links',
+    footer: "Catalog from Microsoft's public Game Pass catalog API · scores from Metacritic · titles are matched by name, so a handful may be missing or point at a re-release. Regenerate with <code>npm run build</code>.",
+  },
+};
+
+const pickLang = () => {
+  try {
+    const saved = localStorage.getItem('xgp-lang');
+    if (saved === 'zh' || saved === 'en') return saved;
+  } catch {}
+  return /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+};
+
+let t = I18N.zh;
+const state = { q: '', sort: 'score-desc', playOn: [], min: 0, since: 0, unrated: false, view: 'grid', lang: 'zh' };
 
 // xbox.com's own facets. "handheld" is not a distinct catalog flag there — the
 // site filters it against the PC list, so it resolves to the same predicate.
@@ -197,16 +251,23 @@ function visible() {
   }).sort(cmp);
 }
 
+// zh-Hans collation orders Chinese titles by pinyin rather than code point.
+const collator = () => new Intl.Collator(state.lang === 'zh' ? 'zh-Hans' : 'en');
+const byTitle = (a, b) => collator().compare(displayTitle(a), displayTitle(b));
+
 function cmp(a, b) {
   const sa = a.metacritic?.score, sb = b.metacritic?.score;
   switch (state.sort) {
-    case 'score-desc': return (sb ?? -1) - (sa ?? -1) || a.title.localeCompare(b.title);
-    case 'score-asc': return (sa ?? 1e3) - (sb ?? 1e3) || a.title.localeCompare(b.title);
-    case 'date-desc': return (b.year ?? -1) - (a.year ?? -1) || a.title.localeCompare(b.title);
-    case 'date-asc': return (a.year ?? 1e4) - (b.year ?? 1e4) || a.title.localeCompare(b.title);
-    default: return a.title.localeCompare(b.title);
+    case 'score-desc': return (sb ?? -1) - (sa ?? -1) || byTitle(a, b);
+    case 'score-asc': return (sa ?? 1e3) - (sb ?? 1e3) || byTitle(a, b);
+    case 'date-desc': return (b.year ?? -1) - (a.year ?? -1) || byTitle(a, b);
+    case 'date-asc': return (a.year ?? 1e4) - (b.year ?? 1e4) || byTitle(a, b);
+    default: return byTitle(a, b);
   }
 }
+
+// Only ~40% of the catalog ships a Chinese title; the rest stay English.
+const displayTitle = (g) => (state.lang === 'zh' && g.titleZh) || g.title;
 
 function deviceTags(g) {
   const tags = [];
@@ -227,7 +288,8 @@ function renderGrid(list) {
         <div class="score ${band(s)}">${s ?? '–'}</div>
       </div>
       <div class="body">
-        <div class="name">${esc(g.title)}</div>
+        <div class="name">${esc(displayTitle(g))}
+          ${state.lang === 'zh' && g.titleZh ? `<div class="name-sub">${esc(g.title)}</div>` : ''}</div>
         <div class="sub">
           ${g.developer ? esc(g.developer) : ''}
           ${g.year ? `<span class="tag">${g.year}</span>` : ''}
@@ -235,8 +297,8 @@ function renderGrid(list) {
         </div>
       </div>
       <div class="links">
-        <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">Store</a>
-        ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">Metacritic</a>` : ''}
+        <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">${t.store}</a>
+        ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">${t.mc}</a>` : ''}
       </div>
     </article>`;
   }).join('')}</div>`;
@@ -244,19 +306,20 @@ function renderGrid(list) {
 
 function renderList(list) {
   return `<table><thead><tr>
-      <th class="num">#</th><th>Score</th><th>Title</th><th>Studio</th><th>Year</th><th>Platform</th><th>Links</th>
+      <th class="num">${t.thRank}</th><th>${t.thScore}</th><th>${t.thTitle}</th>
+      <th>${t.thStudio}</th><th>${t.thYear}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
     </tr></thead><tbody>${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
     return `<tr>
       <td class="num">${i + 1}</td>
       <td class="mc"><span class="pill ${band(s)}">${s ?? '–'}</span></td>
-      <td>${esc(g.title)}</td>
+      <td>${esc(displayTitle(g))}</td>
       <td style="color:var(--muted)">${esc(g.developer || '')}</td>
       <td style="color:var(--muted)">${g.year ?? ''}</td>
       <td style="color:var(--muted)">${deviceTags(g).join(' · ')}</td>
       <td><span class="links" style="padding:0">
-        <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">Store</a>
-        ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">MC</a>` : ''}
+        <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">${t.store}</a>
+        ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">${t.mcShort}</a>` : ''}
       </span></td>
     </tr>`;
   }).join('')}</tbody></table>`;
@@ -265,13 +328,36 @@ function renderList(list) {
 function render() {
   const list = visible();
   document.getElementById('count').textContent =
-    `${list.length} of ${games.length} titles`
-    + (state.unrated ? '' : ' with a Metacritic score')
-    + (state.since ? ` · released ${state.since} or later` : '');
+    t.count(list.length, games.length, !state.unrated, state.since);
   document.getElementById('out').innerHTML = list.length
     ? (state.view === 'grid' ? renderGrid(list) : renderList(list))
-    : '<div class="empty">Nothing matches those filters.</div>';
+    : `<div class="empty">${t.empty}</div>`;
 }
+
+function applyLang(lang) {
+  state.lang = lang;
+  t = I18N[lang];
+  document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+  try { localStorage.setItem('xgp-lang', lang); } catch {}
+
+  document.getElementById('h1').innerHTML = t.title;
+  document.getElementById('q').placeholder = t.search;
+  document.getElementById('footer').innerHTML = t.footer;
+  for (const el of document.querySelectorAll('[data-i18n]')) {
+    const v = t[el.dataset.i18n];
+    el.textContent = typeof v === 'function' ? v(el.dataset.year) : v;
+  }
+  for (const el of document.querySelectorAll('[data-i18n-title]')) el.title = t[el.dataset.i18nTitle];
+  for (const b of document.getElementById('lang').children) {
+    b.setAttribute('aria-pressed', String(b.dataset.v === lang));
+  }
+  if (meta.data) {
+    document.getElementById('meta').textContent =
+      t.meta(meta.data.games, meta.data.scored, meta.data.market, meta.data.date);
+  }
+  render();
+}
+const meta = {};
 
 function bindSeg(id, key) {
   document.getElementById(id).addEventListener('click', (e) => {
@@ -297,18 +383,25 @@ function bindSeg(id, key) {
     prev.platforms = [...new Set([...prev.platforms, ...g.platforms])];
     if (!prev.image && g.image) prev.image = g.image;
     for (const f of ['xboxOne', 'xboxSeries', 'playAnywhere']) prev[f] ||= g[f];
-    if (prev.title.length > g.title.length) { prev.title = g.title; prev.storeUrl = g.storeUrl; }
+    if (!prev.titleZh && g.titleZh) prev.titleZh = g.titleZh;
+    if (prev.title.length > g.title.length) {
+      prev.title = g.title; prev.storeUrl = g.storeUrl;
+      if (g.titleZh) prev.titleZh = g.titleZh;
+    }
   }
   games = [...merged.values()].map((g) => ({
     ...g,
     year: gameYear(g),
-    searchText: [g.title, g.developer, g.publisher, ...(g.metacritic?.genres || []), ...g.categories]
+    searchText: [g.title, g.titleZh, g.developer, g.publisher, ...(g.metacritic?.genres || []), ...g.categories]
       .filter(Boolean).join(' ').toLowerCase(),
   }));
 
-  const scored = games.filter((g) => g.metacritic).length;
-  document.getElementById('meta').textContent =
-    `${games.length} games · ${scored} scored · ${data.market} catalog · updated ${data.fetchedAt.slice(0, 10)}`;
+  meta.data = {
+    games: games.length,
+    scored: games.filter((g) => g.metacritic).length,
+    market: data.market,
+    date: data.fetchedAt.slice(0, 10),
+  };
 
   document.getElementById('q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
   document.getElementById('sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
@@ -320,7 +413,11 @@ function bindSeg(id, key) {
     render();
   });
   bindSeg('view', 'view');
-  render();
+  document.getElementById('lang').addEventListener('click', (e) => {
+    const btn = e.target.closest('button');
+    if (btn) applyLang(btn.dataset.v);
+  });
+  applyLang(pickLang());
 })();
 </script>
 </body>

@@ -46,6 +46,21 @@ script (`xgpcatPopulate-2025.js`):
 
 Checking several devices widens the results (union), as on the store.
 
+## 中文 / language
+
+The page ships a 中文 / EN switch (top right). It picks up `navigator.language` on
+first visit and remembers the choice in `localStorage`.
+
+Chinese game titles come from a second pass over the same catalog API with
+`languages=zh-cn`, stored as `titleZh` — 313 of 821 SKUs have one, the rest are
+published in English only and fall back to it. In Chinese mode a card shows the
+Chinese title with the English one beneath it, search matches either, and A–Z
+sorting uses `Intl.Collator('zh-Hans')` so titles order by pinyin.
+
+Some publishers only ship a Traditional Chinese title in the SG market, so a few
+entries appear in 繁體 even in 简体 mode — that is the store's own data.
+`ZH_LANG=zh-tw npm run build` fetches Traditional throughout instead.
+
 ## Release year
 
 The year shown, sorted on, and filtered by is Metacritic's **original** release date,
