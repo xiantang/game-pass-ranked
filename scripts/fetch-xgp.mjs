@@ -32,6 +32,17 @@ async function fetchList({ id, platform }) {
   return { platform, ids };
 }
 
+// Mirrors xbox.com's own rules (xgpcatPopulate-2025.js): a console SKU with no
+// XboxConsoleGenCompatible runs on both generations, an absent field means Xbox
+// One only, otherwise the listed generations win.
+function consoleGens(props, isConsole) {
+  if (!isConsole) return { xboxOne: false, xboxSeries: false };
+  const gens = props?.XboxConsoleGenCompatible;
+  if (gens === null) return { xboxOne: true, xboxSeries: true };
+  if (gens === undefined) return { xboxOne: true, xboxSeries: false };
+  return { xboxOne: gens.includes('ConsoleGen8'), xboxSeries: gens.includes('ConsoleGen9') };
+}
+
 function pickImage(images = []) {
   const by = (purpose) => images.find((i) => i.ImagePurpose === purpose);
   const img = by('Poster') || by('BoxArt') || by('SuperHeroArt') || by('BrandedKeyArt') || images[0];
@@ -49,6 +60,9 @@ async function fetchProducts(ids) {
       const loc = p.LocalizedProperties?.[0] || {};
       out.set(p.ProductId, {
         productId: p.ProductId,
+        rawConsoleGen: p.Properties?.XboxConsoleGenCompatible,
+        // Play Anywhere lives on the SKU, not the product.
+        playAnywhere: (p.DisplaySkuAvailabilities || []).some((d) => d.Sku?.Properties?.XboxXPA === true),
         title: loc.ProductTitle || loc.ShortTitle || '(unknown)',
         developer: loc.DeveloperName || null,
         publisher: loc.PublisherName || null,
@@ -79,7 +93,16 @@ console.log(`Unique products: ${allIds.size}`);
 
 const products = await fetchProducts([...allIds]);
 const games = [...products.values()]
-  .map((g) => ({ ...g, platforms: platformsById.get(g.productId) || [] }))
+  .map(({ rawConsoleGen, ...g }) => {
+    const platforms = platformsById.get(g.productId) || [];
+    return {
+      ...g,
+      platforms,
+      // xbox.com's "Handhelds" facet is served by the PC catalog, so it is not
+      // stored separately — the page derives it from the pc platform.
+      ...consoleGens({ XboxConsoleGenCompatible: rawConsoleGen }, platforms.includes('console')),
+    };
+  })
   .sort((a, b) => a.title.localeCompare(b.title));
 
 await mkdir(new URL('../data/', import.meta.url), { recursive: true });

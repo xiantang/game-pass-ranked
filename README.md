@@ -31,6 +31,21 @@ bigrams, and then applies two guards:
 - **Sequel numbers must agree** — so `Gears of War: Ultimate Edition` cannot match `Gears of War 2`.
 - **Release year breaks ties** — so `Modern Warfare III` lands on the 2023 game (56), not the 2011 one (88).
 
+## Play on
+
+The device filter mirrors xbox.com's own facets, using the rules from its catalog
+script (`xgpcatPopulate-2025.js`):
+
+| Facet | Rule |
+| --- | --- |
+| Xbox Series X\|S | `XboxConsoleGenCompatible` includes `ConsoleGen9` (or is `null`) |
+| Xbox One | includes `ConsoleGen8`, or the field is `null`/absent |
+| Windows PC | listed in the PC catalog |
+| Handhelds | same as Windows PC — Xbox has no separate handheld flag, its site filters this facet against the PC list |
+| Play Anywhere | any SKU has `XboxXPA === true` |
+
+Checking several devices widens the results (union), as on the store.
+
 Unmatched or unscored titles still appear in the page under **Include unrated**.
 Roughly 85% of SKUs resolve to a score; the rest are mostly Game Preview titles and
 brand-new releases Metacritic has not reviewed.

@@ -42,6 +42,15 @@
     padding: 8px 13px; cursor: pointer;
   }
   .seg button[aria-pressed="true"] { background: var(--panel-2); color: var(--text); }
+  .playon {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    background: var(--panel); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 7px 12px;
+  }
+  .playon-label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .playon label { display: flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); cursor: pointer; }
+  .playon label:has(:checked) { color: var(--accent); }
+  .playon input { accent-color: var(--accent); margin: 0; }
   .toggle { display: flex; align-items: center; gap: 7px; color: var(--muted); font-size: 14px; cursor: pointer; }
 
   main { max-width: 1400px; margin: 0 auto; padding: 20px; }
@@ -107,10 +116,13 @@
         <option value="date-asc">Oldest first</option>
         <option value="title-asc">Title A–Z</option>
       </select>
-      <div class="seg" id="platform">
-        <button data-v="all" aria-pressed="true">All</button>
-        <button data-v="console" aria-pressed="false">Console</button>
-        <button data-v="pc" aria-pressed="false">PC</button>
+      <div class="playon" id="platform">
+        <span class="playon-label">Play on</span>
+        <label><input type="checkbox" value="xboxSeries"> Xbox Series X|S</label>
+        <label><input type="checkbox" value="xboxOne"> Xbox One</label>
+        <label><input type="checkbox" value="pc"> Windows PC</label>
+        <label title="Xbox serves the Handhelds facet from the PC catalog"><input type="checkbox" value="handheld"> Handhelds</label>
+        <label><input type="checkbox" value="playAnywhere"> Play Anywhere</label>
       </div>
       <select id="min">
         <option value="0">Any score</option>
@@ -140,7 +152,17 @@
 </footer>
 
 <script>
-const state = { q: '', sort: 'score-desc', platform: 'all', min: 0, unrated: false, view: 'grid' };
+const state = { q: '', sort: 'score-desc', playOn: [], min: 0, unrated: false, view: 'grid' };
+
+// xbox.com's own facets. "handheld" is not a distinct catalog flag there — the
+// site filters it against the PC list, so it resolves to the same predicate.
+const PLAY_ON = {
+  xboxSeries: (g) => g.xboxSeries,
+  xboxOne: (g) => g.xboxOne,
+  pc: (g) => g.platforms.includes('pc'),
+  handheld: (g) => g.platforms.includes('pc'),
+  playAnywhere: (g) => g.playAnywhere,
+};
 let games = [];
 
 const band = (s) => s == null ? 'none' : s >= 75 ? 'good' : s >= 50 ? 'mixed' : 'bad';
@@ -154,7 +176,8 @@ function visible() {
     if (score == null && !state.unrated) return false;
     if (score != null && score < state.min) return false;
     if (score == null && state.min > 0) return false;
-    if (state.platform !== 'all' && !g.platforms.includes(state.platform)) return false;
+    // Checking several devices widens the result set, matching the store's behaviour.
+    if (state.playOn.length && !state.playOn.some((k) => PLAY_ON[k](g))) return false;
     if (!q) return true;
     return g.searchText.includes(q);
   }).sort(cmp);
@@ -171,6 +194,15 @@ function cmp(a, b) {
   }
 }
 
+function deviceTags(g) {
+  const tags = [];
+  if (g.xboxSeries) tags.push('X|S');
+  if (g.xboxOne) tags.push('One');
+  if (g.platforms.includes('pc')) tags.push('PC');
+  if (g.playAnywhere) tags.push('XPA');
+  return tags;
+}
+
 function renderGrid(list) {
   return `<div class="grid">${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
@@ -185,7 +217,7 @@ function renderGrid(list) {
         <div class="sub">
           ${g.developer ? esc(g.developer) : ''}
           ${year(g.releaseDate) ? `<span class="tag">${year(g.releaseDate)}</span>` : ''}
-          ${g.platforms.map((p) => `<span class="tag">${p === 'pc' ? 'PC' : 'Console'}</span>`).join('')}
+          ${deviceTags(g).map((t) => `<span class="tag">${t}</span>`).join('')}
         </div>
       </div>
       <div class="links">
@@ -207,7 +239,7 @@ function renderList(list) {
       <td>${esc(g.title)}</td>
       <td style="color:var(--muted)">${esc(g.developer || '')}</td>
       <td style="color:var(--muted)">${year(g.releaseDate)}</td>
-      <td style="color:var(--muted)">${g.platforms.map((p) => (p === 'pc' ? 'PC' : 'Console')).join(' + ')}</td>
+      <td style="color:var(--muted)">${deviceTags(g).join(' · ')}</td>
       <td><span class="links" style="padding:0">
         <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">Store</a>
         ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">MC</a>` : ''}
@@ -248,6 +280,7 @@ function bindSeg(id, key) {
     if (!prev) { merged.set(key, { ...g, platforms: [...g.platforms] }); continue; }
     prev.platforms = [...new Set([...prev.platforms, ...g.platforms])];
     if (!prev.image && g.image) prev.image = g.image;
+    for (const f of ['xboxOne', 'xboxSeries', 'playAnywhere']) prev[f] ||= g[f];
     if (prev.title.length > g.title.length) { prev.title = g.title; prev.storeUrl = g.storeUrl; }
   }
   games = [...merged.values()].map((g) => ({
@@ -264,7 +297,10 @@ function bindSeg(id, key) {
   document.getElementById('sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
   document.getElementById('min').addEventListener('change', (e) => { state.min = +e.target.value; render(); });
   document.getElementById('unrated').addEventListener('change', (e) => { state.unrated = e.target.checked; render(); });
-  bindSeg('platform', 'platform');
+  document.getElementById('platform').addEventListener('change', (e) => {
+    state.playOn = [...e.currentTarget.querySelectorAll('input:checked')].map((i) => i.value);
+    render();
+  });
   bindSeg('view', 'view');
   render();
 })();
