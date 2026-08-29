@@ -81,6 +81,15 @@
   .score.mixed { background: var(--mixed); }
   .score.bad { background: var(--bad); color: #2a0409; }
   .score.none { background: var(--panel-2); color: var(--muted); font-size: 13px; box-shadow: none; }
+  .scores { position: absolute; right: 8px; bottom: 8px; display: flex; gap: 5px; align-items: flex-end; }
+  .scores .score { position: static; }
+  .user {
+    width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center;
+    font-weight: 700; font-size: 12px; color: #05140c; box-shadow: 0 2px 10px rgba(0,0,0,.45);
+  }
+  .user.good { background: var(--good); } .user.mixed { background: var(--mixed); }
+  .user.bad { background: var(--bad); color: #2a0409; }
+  td.mc .pill.user { border-radius: 50%; min-width: 30px; padding: 4px 0; font-size: 12px; }
   .body { padding: 10px 11px 12px; display: flex; flex-direction: column; gap: 5px; }
   .name { font-size: 14px; font-weight: 600; line-height: 1.3; }
   .sub { color: var(--muted); font-size: 12px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
@@ -118,6 +127,7 @@
       <select id="sort">
         <option value="score-desc" data-i18n="sortScoreDesc"></option>
         <option value="score-asc" data-i18n="sortScoreAsc"></option>
+        <option value="user-desc" data-i18n="sortUserDesc"></option>
         <option value="date-desc" data-i18n="sortNewest"></option>
         <option value="date-asc" data-i18n="sortOldest"></option>
         <option value="title-asc" data-i18n="sortTitle"></option>
@@ -136,6 +146,13 @@
         <option value="80">80+</option>
         <option value="75" data-i18n="score75"></option>
         <option value="60">60+</option>
+      </select>
+      <select id="minUser">
+        <option value="0" data-i18n="anyUser"></option>
+        <option value="8" data-i18n="user8"></option>
+        <option value="7.5">7.5+</option>
+        <option value="7">7.0+</option>
+        <option value="6">6.0+</option>
       </select>
       <select id="since">
         <option value="0" data-i18n="anyYear"></option>
@@ -168,7 +185,12 @@ const I18N = {
     meta: (n, s, m, d) => `${n} 款游戏 · ${s} 款有评分 · ${m} 区目录 · 更新于 ${d}`,
     search: '搜索游戏名、开发商、类型…',
     sortScoreDesc: '评分从高到低', sortScoreAsc: '评分从低到高',
+    sortUserDesc: '玩家评分从高到低',
     sortNewest: '最新发售', sortOldest: '最早发售', sortTitle: '名称 A–Z',
+    anyUser: '不限玩家评分', user8: '8.0+ · 玩家力荐',
+    criticScoreTip: '媒体评分（满分 100）',
+    userScoreTip: (n) => `玩家评分（满分 10）· ${n ?? 0} 条评价`,
+    thUser: '玩家',
     playOn: '可玩平台',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
     devHandheld: '掌机', devXpa: 'Play Anywhere',
@@ -181,14 +203,19 @@ const I18N = {
     empty: '没有符合条件的游戏',
     store: '商店', mc: 'Metacritic', mcShort: 'M 站',
     thRank: '#', thScore: '评分', thTitle: '游戏', thStudio: '开发商', thYear: '年份', thPlat: '平台', thLinks: '链接',
-    footer: '目录来自微软 Game Pass 公开接口 · 评分来自 Metacritic · 游戏按名称匹配，少数可能缺失或指向重制版。运行 <code>npm run build</code> 可刷新数据。',
+    footer: '目录来自微软 Game Pass 公开接口 · 媒体与玩家评分来自 Metacritic · 游戏按名称匹配，少数可能缺失或指向重制版。运行 <code>npm run build</code> 可刷新数据。',
   },
   en: {
     title: 'Xbox Game Pass, ranked by <span>Metacritic</span>',
     meta: (n, s, m, d) => `${n} games · ${s} scored · ${m} catalog · updated ${d}`,
     search: 'Search title, studio, genre…',
     sortScoreDesc: 'Metacritic ↓', sortScoreAsc: 'Metacritic ↑',
+    sortUserDesc: 'User score ↓',
     sortNewest: 'Newest first', sortOldest: 'Oldest first', sortTitle: 'Title A–Z',
+    anyUser: 'Any user score', user8: '8.0+ · Player favourite',
+    criticScoreTip: 'Critic score (out of 100)',
+    userScoreTip: (n) => `User score (out of 10) · ${n ?? 0} ratings`,
+    thUser: 'Users',
     playOn: 'Play on',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
     devHandheld: 'Handhelds', devXpa: 'Play Anywhere',
@@ -201,7 +228,7 @@ const I18N = {
     empty: 'Nothing matches those filters.',
     store: 'Store', mc: 'Metacritic', mcShort: 'MC',
     thRank: '#', thScore: 'Score', thTitle: 'Title', thStudio: 'Studio', thYear: 'Year', thPlat: 'Platform', thLinks: 'Links',
-    footer: "Catalog from Microsoft's public Game Pass catalog API · scores from Metacritic · titles are matched by name, so a handful may be missing or point at a re-release. Regenerate with <code>npm run build</code>.",
+    footer: "Catalog from Microsoft's public Game Pass catalog API · critic and user scores from Metacritic · titles are matched by name, so a handful may be missing or point at a re-release. Regenerate with <code>npm run build</code>.",
   },
 };
 
@@ -214,7 +241,7 @@ const pickLang = () => {
 };
 
 let t = I18N.zh;
-const state = { q: '', sort: 'score-desc', playOn: [], min: 0, since: 0, unrated: false, view: 'grid', lang: 'zh' };
+const state = { q: '', sort: 'score-desc', playOn: [], min: 0, minUser: 0, since: 0, unrated: false, view: 'grid', lang: 'zh' };
 
 // xbox.com's own facets. "handheld" is not a distinct catalog flag there — the
 // site filters it against the PC list, so it resolves to the same predicate.
@@ -233,6 +260,10 @@ const year = (d) => (d ? String(d).slice(0, 4) : '');
 // The store date is often a re-release or the Game Pass listing date — GoldenEye 007
 // is listed as 2023 but is a 1997 game. Metacritic's date is the original release,
 // which is what "too old" actually means.
+// The user score is a 0-10 scale; Metacritic's own thresholds are 7.5 / 5.0.
+const userBand = (u) => u == null ? 'none' : u >= 7.5 ? 'good' : u >= 5 ? 'mixed' : 'bad';
+const fmtUser = (u) => (u == null ? '–' : u.toFixed(1));
+
 const gameYear = (g) => Number(year(g.metacritic?.releaseDate) || year(g.releaseDate)) || null;
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
@@ -246,6 +277,7 @@ function visible() {
     // Checking several devices widens the result set, matching the store's behaviour.
     if (state.playOn.length && !state.playOn.some((k) => PLAY_ON[k](g))) return false;
     if (state.since && !(g.year >= state.since)) return false;
+    if (state.minUser && !(g.metacritic?.userScore >= state.minUser)) return false;
     if (!q) return true;
     return g.searchText.includes(q);
   }).sort(cmp);
@@ -258,6 +290,7 @@ const byTitle = (a, b) => collator().compare(displayTitle(a), displayTitle(b));
 function cmp(a, b) {
   const sa = a.metacritic?.score, sb = b.metacritic?.score;
   switch (state.sort) {
+    case 'user-desc': return (b.metacritic?.userScore ?? -1) - (a.metacritic?.userScore ?? -1) || byTitle(a, b);
     case 'score-desc': return (sb ?? -1) - (sa ?? -1) || byTitle(a, b);
     case 'score-asc': return (sa ?? 1e3) - (sb ?? 1e3) || byTitle(a, b);
     case 'date-desc': return (b.year ?? -1) - (a.year ?? -1) || byTitle(a, b);
@@ -281,11 +314,15 @@ function deviceTags(g) {
 function renderGrid(list) {
   return `<div class="grid">${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
+    const u = g.metacritic?.userScore ?? null;
     return `<article class="card">
       <div class="art">
         ${g.image ? `<img loading="lazy" src="${esc(g.image)}" alt="">` : ''}
         <div class="rank">#${i + 1}</div>
-        <div class="score ${band(s)}">${s ?? '–'}</div>
+        <div class="scores">
+          ${u != null ? `<div class="user ${userBand(u)}" title="${t.userScoreTip(g.metacritic.userReviewCount)}">${fmtUser(u)}</div>` : ''}
+          <div class="score ${band(s)}" title="${t.criticScoreTip}">${s ?? '–'}</div>
+        </div>
       </div>
       <div class="body">
         <div class="name">${esc(displayTitle(g))}
@@ -306,13 +343,15 @@ function renderGrid(list) {
 
 function renderList(list) {
   return `<table><thead><tr>
-      <th class="num">${t.thRank}</th><th>${t.thScore}</th><th>${t.thTitle}</th>
+      <th class="num">${t.thRank}</th><th>${t.thScore}</th><th>${t.thUser}</th><th>${t.thTitle}</th>
       <th>${t.thStudio}</th><th>${t.thYear}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
     </tr></thead><tbody>${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
+    const u = g.metacritic?.userScore ?? null;
     return `<tr>
       <td class="num">${i + 1}</td>
       <td class="mc"><span class="pill ${band(s)}">${s ?? '–'}</span></td>
+      <td class="mc"><span class="pill user ${userBand(u)}">${fmtUser(u)}</span></td>
       <td>${esc(displayTitle(g))}</td>
       <td style="color:var(--muted)">${esc(g.developer || '')}</td>
       <td style="color:var(--muted)">${g.year ?? ''}</td>
@@ -407,6 +446,7 @@ function bindSeg(id, key) {
   document.getElementById('sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
   document.getElementById('min').addEventListener('change', (e) => { state.min = +e.target.value; render(); });
   document.getElementById('since').addEventListener('change', (e) => { state.since = +e.target.value; render(); });
+  document.getElementById('minUser').addEventListener('change', (e) => { state.minUser = +e.target.value; render(); });
   document.getElementById('unrated').addEventListener('change', (e) => { state.unrated = e.target.checked; render(); });
   document.getElementById('platform').addEventListener('change', (e) => {
     state.playOn = [...e.currentTarget.querySelectorAll('input:checked')].map((i) => i.value);

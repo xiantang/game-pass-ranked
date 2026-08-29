@@ -12,7 +12,7 @@ npm run serve    # http://localhost:5173
 | Step | Script | Output |
 | --- | --- | --- |
 | Pull the Game Pass console + PC lists, then product details | `scripts/fetch-xgp.mjs` | `data/xgp.json` |
-| Match each title on Metacritic and attach the critic score | `scripts/fetch-metacritic.mjs` | `data/games.json` (+ `data/mc-cache.json`) |
+| Match each title on Metacritic, attach critic + user scores | `scripts/fetch-metacritic.mjs` | `data/games.json` (+ `data/mc-cache.json`, `data/mc-user-cache.json`) |
 | Render, filter and sort in the browser | `index.html` | — |
 
 Both APIs are the public JSON endpoints that xbox.com and metacritic.com call from their
@@ -21,6 +21,19 @@ own front ends. No key of your own is needed.
 - `MARKET=US npm run build` fetches another store region (default `SG`).
 - `data/mc-cache.json` is the lookup cache — keep it, and a re-run only queries
   Metacritic for titles it has not seen. Delete it to force a full refresh.
+
+## Scores
+
+Two scores per game, both from Metacritic:
+
+- **Critic score** (0-100) comes from the search endpoint, alongside the match itself.
+- **User score** (0-10) is not in search results — it needs the game page's own
+  `user-score-summary` payload, one request per matched game. Those are cached
+  separately in `data/mc-user-cache.json` and keyed by slug, so the console and PC
+  SKUs of one game share a single lookup.
+
+Both use Metacritic's own thresholds for colour: 75/50 for critics, 7.5/5.0 for users.
+Sort by either, and filter on a minimum of either.
 
 ## Matching
 

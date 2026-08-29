@@ -5,6 +5,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const API_KEY = process.env.MC_API_KEY || '1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u';
 const CACHE_PATH = new URL('../data/mc-cache.json', import.meta.url);
+const USER_CACHE_PATH = new URL('../data/mc-user-cache.json', import.meta.url);
 const CONCURRENCY = 6;
 
 // Store titles carry a lot of noise Metacritic never has: platform tags, edition
@@ -113,6 +114,25 @@ function bestMatch(queries, items, storeYear) {
   return best;
 }
 
+// The search endpoint carries only the critic score; the user score lives on the
+// game page's own component payload, one request per matched slug.
+async function userScore(slug, tries = 3) {
+  const url = `https://backend.metacritic.com/composer/metacritic/pages/games/${encodeURIComponent(slug)}/web?apiKey=${API_KEY}`;
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0', accept: 'application/json' } });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+      const item = json?.components?.find((c) => c.meta?.componentName === 'user-score-summary')?.data?.item;
+      if (!item?.score) return null;
+      return { score: item.score, reviewCount: item.reviewCount ?? 0, sentiment: item.sentiment || null };
+    } catch (err) {
+      if (i === tries - 1) { console.warn(`\n  ! user score ${slug}: ${err.message}`); return null; }
+      await new Promise((r) => setTimeout(r, 800 * 2 ** i));
+    }
+  }
+}
+
 const catalog = JSON.parse(await readFile(new URL('../data/xgp.json', import.meta.url), 'utf8'));
 let cache = {};
 try { cache = JSON.parse(await readFile(CACHE_PATH, 'utf8')); } catch {}
@@ -174,6 +194,27 @@ process.stdout.write(`\r  ${done}/${catalog.games.length} matched=${hits} unmatc
 
 await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2));
 
+// --- phase 2: user scores, keyed by slug so console/PC SKUs share one lookup ---
+let userCache = {};
+try { userCache = JSON.parse(await readFile(USER_CACHE_PATH, 'utf8')); } catch {}
+
+const slugs = [...new Set(Object.values(cache).filter(Boolean).map((m) => m.slug))]
+  .filter((slug) => !(slug in userCache));
+if (slugs.length) {
+  console.log(`Fetching user scores for ${slugs.length} games...`);
+  let n = 0;
+  await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
+    while (slugs.length) {
+      const slug = slugs.shift();
+      userCache[slug] = await userScore(slug);
+      if (++n % 10 === 0) process.stdout.write(`\r  ${n} fetched`);
+      await new Promise((r) => setTimeout(r, 120));
+    }
+  }));
+  process.stdout.write(`\r  ${n} fetched\n`);
+  await writeFile(USER_CACHE_PATH, JSON.stringify(userCache, null, 2));
+}
+
 const games = catalog.games.map((g) => {
   const mc = cache[normalize(g.title)] || null;
   return {
@@ -185,6 +226,9 @@ const games = catalog.games.map((g) => {
           // Original release, which is what "how old is this game" should mean —
           // the store date is often a re-release or the Game Pass listing date.
           releaseDate: mc.releaseDate,
+          // 0-10 scale, unlike the critic score — the page renders it as such.
+          userScore: userCache[mc.slug]?.score ?? null,
+          userReviewCount: userCache[mc.slug]?.reviewCount ?? null,
         }
       : null,
   };
@@ -202,4 +246,5 @@ await writeFile(
     games,
   }, null, 2),
 );
-console.log(`Wrote data/games.json — ${scored.length}/${games.length} titles carry a Metacritic score`);
+const withUser = scored.filter((g) => g.metacritic.userScore != null).length;
+console.log(`Wrote data/games.json — ${scored.length}/${games.length} with a critic score, ${withUser} with a user score`);

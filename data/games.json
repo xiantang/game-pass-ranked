@@ -1,7 +1,7 @@
 {
   "market": "SG",
   "fetchedAt": "2026-08-29T15:38:55.199Z",
-  "scoredAt": "2026-08-29T15:38:55.259Z",
+  "scoredAt": "2026-08-29T15:49:13.635Z",
   "total": 821,
   "scored": 693,
   "games": [
@@ -35,7 +35,9 @@
           "Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-09"
+        "releaseDate": "2024-05-09",
+        "userScore": 8,
+        "userReviewCount": 131
       }
     },
     {
@@ -68,7 +70,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2026-06-10"
+        "releaseDate": "2026-06-10",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -125,7 +129,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2025-02-07"
+        "releaseDate": "2025-02-07",
+        "userScore": 5.8,
+        "userReviewCount": 82
       }
     },
     {
@@ -158,7 +164,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2022-10-18"
+        "releaseDate": "2022-10-18",
+        "userScore": 8.3,
+        "userReviewCount": 1916
       }
     },
     {
@@ -191,7 +199,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 0.97,
-        "releaseDate": "2022-10-18"
+        "releaseDate": "2022-10-18",
+        "userScore": 8.3,
+        "userReviewCount": 1916
       }
     },
     {
@@ -223,7 +233,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-03-23"
+        "releaseDate": "2018-03-23",
+        "userScore": 7.9,
+        "userReviewCount": 2142
       }
     },
     {
@@ -256,7 +268,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-22"
+        "releaseDate": "2025-07-22",
+        "userScore": 8.3,
+        "userReviewCount": 112
       }
     },
     {
@@ -290,7 +304,9 @@
           "2D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-09"
+        "releaseDate": "2025-10-09",
+        "userScore": 8.3,
+        "userReviewCount": 258
       }
     },
     {
@@ -323,7 +339,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-12"
+        "releaseDate": "2025-08-12",
+        "userScore": 6.6,
+        "userReviewCount": 18
       }
     },
     {
@@ -380,7 +398,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2018-02-20"
+        "releaseDate": "2018-02-20",
+        "userScore": 6.9,
+        "userReviewCount": 263
       }
     },
     {
@@ -411,7 +431,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-11-14"
+        "releaseDate": "2019-11-14",
+        "userScore": 8.8,
+        "userReviewCount": 592
       }
     },
     {
@@ -441,7 +463,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-15"
+        "releaseDate": "2020-10-15",
+        "userScore": 6.7,
+        "userReviewCount": 193
       }
     },
     {
@@ -473,7 +497,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-28"
+        "releaseDate": "2021-10-28",
+        "userScore": 7.7,
+        "userReviewCount": 582
       }
     },
     {
@@ -505,7 +531,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-28"
+        "releaseDate": "2021-10-28",
+        "userScore": 7.7,
+        "userReviewCount": 582
       }
     },
     {
@@ -538,7 +566,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-04"
+        "releaseDate": "2024-09-04",
+        "userScore": 7.8,
+        "userReviewCount": 179
       }
     },
     {
@@ -572,7 +602,9 @@
           "MMORPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-05-16"
+        "releaseDate": "2018-05-16",
+        "userScore": 5.2,
+        "userReviewCount": 319
       }
     },
     {
@@ -604,7 +636,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2011-06-14"
+        "releaseDate": "2011-06-14",
+        "userScore": 8.2,
+        "userReviewCount": 430
       }
     },
     {
@@ -636,7 +670,9 @@
           "Real-Time Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-20"
+        "releaseDate": "2023-06-20",
+        "userScore": 7.6,
+        "userReviewCount": 236
       }
     },
     {
@@ -668,7 +704,9 @@
           "Real-Time Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-20"
+        "releaseDate": "2023-06-20",
+        "userScore": 7.6,
+        "userReviewCount": 236
       }
     },
     {
@@ -701,7 +739,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-16"
+        "releaseDate": "2018-11-16",
+        "userScore": 7,
+        "userReviewCount": 1111
       }
     },
     {
@@ -756,7 +796,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2022-03-17"
+        "releaseDate": "2022-03-17",
+        "userScore": 6.7,
+        "userReviewCount": 91
       }
     },
     {
@@ -786,7 +828,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2019-04-16"
+        "releaseDate": "2019-04-16",
+        "userScore": 8,
+        "userReviewCount": 616
       }
     },
     {
@@ -816,7 +860,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2023-03-16"
+        "releaseDate": "2023-03-16",
+        "userScore": 7.2,
+        "userReviewCount": 88
       }
     },
     {
@@ -850,7 +896,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-04-25"
+        "releaseDate": "2024-04-25",
+        "userScore": 7.5,
+        "userReviewCount": 349
       }
     },
     {
@@ -884,7 +932,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-28"
+        "releaseDate": "2026-04-28",
+        "userScore": 4.5,
+        "userReviewCount": 160
       }
     },
     {
@@ -916,7 +966,9 @@
           "4X Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-24"
+        "releaseDate": "2024-09-24",
+        "userScore": 6.4,
+        "userReviewCount": 59
       }
     },
     {
@@ -971,7 +1023,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-01"
+        "releaseDate": "2022-11-01",
+        "userScore": 7.3,
+        "userReviewCount": 44
       }
     },
     {
@@ -1001,7 +1055,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-01"
+        "releaseDate": "2022-11-01",
+        "userScore": 7.3,
+        "userReviewCount": 44
       }
     },
     {
@@ -1033,7 +1089,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2008-03-06"
+        "releaseDate": "2008-03-06",
+        "userScore": 6.8,
+        "userReviewCount": 173
       }
     },
     {
@@ -1065,7 +1123,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2003-12-23"
+        "releaseDate": "2003-12-23",
+        "userScore": 7.2,
+        "userReviewCount": 24
       }
     },
     {
@@ -1099,7 +1159,9 @@
           "Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2022-07-19"
+        "releaseDate": "2022-07-19",
+        "userScore": 7.7,
+        "userReviewCount": 508
       }
     },
     {
@@ -1132,7 +1194,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-13"
+        "releaseDate": "2026-07-13",
+        "userScore": 7.5,
+        "userReviewCount": 4
       }
     },
     {
@@ -1190,7 +1254,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2009-11-17"
+        "releaseDate": "2009-11-17",
+        "userScore": 8.7,
+        "userReviewCount": 4008
       }
     },
     {
@@ -1223,7 +1289,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2010-11-16"
+        "releaseDate": "2010-11-16",
+        "userScore": 8.3,
+        "userReviewCount": 2403
       }
     },
     {
@@ -1255,7 +1323,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-09"
+        "releaseDate": "2016-02-09",
+        "userScore": 4.8,
+        "userReviewCount": 76
       }
     },
     {
@@ -1285,7 +1355,9 @@
           "Compilation"
         ],
         "confidence": 0.97,
-        "releaseDate": "2016-04-05"
+        "releaseDate": "2016-04-05",
+        "userScore": 6.3,
+        "userReviewCount": 76
       }
     },
     {
@@ -1317,7 +1389,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2015-04-21"
+        "releaseDate": "2015-04-21",
+        "userScore": 6,
+        "userReviewCount": 183
       }
     },
     {
@@ -1349,7 +1423,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-01-13"
+        "releaseDate": "2016-01-13",
+        "userScore": 4.4,
+        "userReviewCount": 113
       }
     },
     {
@@ -1403,7 +1479,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2013-10-29"
+        "releaseDate": "2013-10-29",
+        "userScore": 8.4,
+        "userReviewCount": 3383
       }
     },
     {
@@ -1433,7 +1511,9 @@
           "Open-World Action"
         ],
         "confidence": 0.97,
-        "releaseDate": "2013-10-29"
+        "releaseDate": "2013-10-29",
+        "userScore": 8.4,
+        "userReviewCount": 3383
       }
     },
     {
@@ -1465,7 +1545,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2018-10-02"
+        "releaseDate": "2018-10-02",
+        "userScore": 6.9,
+        "userReviewCount": 6045
       }
     },
     {
@@ -1497,7 +1579,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-27"
+        "releaseDate": "2017-10-27",
+        "userScore": 7.3,
+        "userReviewCount": 5150
       }
     },
     {
@@ -1527,7 +1611,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-27"
+        "releaseDate": "2017-10-27",
+        "userScore": 7.3,
+        "userReviewCount": 5150
       }
     },
     {
@@ -1561,7 +1647,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2011-11-15"
+        "releaseDate": "2011-11-15",
+        "userScore": 7.6,
+        "userReviewCount": 1684
       }
     },
     {
@@ -1593,7 +1681,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 7.2,
+        "userReviewCount": 1016
       }
     },
     {
@@ -1625,7 +1715,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2015-10-23"
+        "releaseDate": "2015-10-23",
+        "userScore": 6.8,
+        "userReviewCount": 3204
       }
     },
     {
@@ -1657,7 +1749,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2015-10-23"
+        "releaseDate": "2015-10-23",
+        "userScore": 6.8,
+        "userReviewCount": 3204
       }
     },
     {
@@ -1689,7 +1783,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 6.1,
+        "userReviewCount": 2509
       }
     },
     {
@@ -1721,7 +1817,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 6.1,
+        "userReviewCount": 2509
       }
     },
     {
@@ -1753,7 +1851,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-11-10"
+        "releaseDate": "2020-11-10",
+        "userScore": 6.1,
+        "userReviewCount": 4187
       }
     },
     {
@@ -1785,7 +1885,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2015-04-21"
+        "releaseDate": "2015-04-21",
+        "userScore": 6,
+        "userReviewCount": 183
       }
     },
     {
@@ -1817,7 +1919,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-01-13"
+        "releaseDate": "2016-01-13",
+        "userScore": 4.4,
+        "userReviewCount": 113
       }
     },
     {
@@ -1849,7 +1953,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-09"
+        "releaseDate": "2016-02-09",
+        "userScore": 4.8,
+        "userReviewCount": 76
       }
     },
     {
@@ -1881,7 +1987,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-03-29"
+        "releaseDate": "2019-03-29",
+        "userScore": 5.8,
+        "userReviewCount": 474
       }
     },
     {
@@ -1913,7 +2021,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-03-29"
+        "releaseDate": "2019-03-29",
+        "userScore": 5.8,
+        "userReviewCount": 474
       }
     },
     {
@@ -1943,7 +2053,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-10-05"
+        "releaseDate": "2023-10-05",
+        "userScore": 7,
+        "userReviewCount": 2827
       }
     },
     {
@@ -1973,7 +2085,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-10-05"
+        "releaseDate": "2023-10-05",
+        "userScore": 7,
+        "userReviewCount": 2827
       }
     },
     {
@@ -2003,7 +2117,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2018-10-02"
+        "releaseDate": "2018-10-02",
+        "userScore": 6.9,
+        "userReviewCount": 6045
       }
     },
     {
@@ -2035,7 +2151,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 7.2,
+        "userReviewCount": 1016
       }
     },
     {
@@ -2067,7 +2185,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-15"
+        "releaseDate": "2016-11-15",
+        "userScore": 8.2,
+        "userReviewCount": 625
       }
     },
     {
@@ -2097,7 +2217,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-11-10"
+        "releaseDate": "2020-11-10",
+        "userScore": 6.1,
+        "userReviewCount": 4187
       }
     },
     {
@@ -2131,7 +2253,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-06"
+        "releaseDate": "2019-02-06",
+        "userScore": 7.2,
+        "userReviewCount": 366
       }
     },
     {
@@ -2165,7 +2289,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2025-03-27"
+        "releaseDate": "2025-03-27",
+        "userScore": 6.6,
+        "userReviewCount": 325
       }
     },
     {
@@ -2195,7 +2321,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-07"
+        "releaseDate": "2023-12-07",
+        "userScore": 7,
+        "userReviewCount": 1158
       }
     },
     {
@@ -2227,7 +2355,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-07"
+        "releaseDate": "2023-12-07",
+        "userScore": 7,
+        "userReviewCount": 1158
       }
     },
     {
@@ -2258,7 +2388,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-02-18"
+        "releaseDate": "2025-02-18",
+        "userScore": 6.8,
+        "userReviewCount": 2245
       }
     },
     {
@@ -2292,7 +2424,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2024-02-20"
+        "releaseDate": "2024-02-20",
+        "userScore": 8.4,
+        "userReviewCount": 2024
       }
     },
     {
@@ -2325,7 +2459,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-15"
+        "releaseDate": "2019-10-15",
+        "userScore": 6.8,
+        "userReviewCount": 73
       }
     },
     {
@@ -2359,7 +2495,9 @@
           "Vertical Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-15"
+        "releaseDate": "2025-10-15",
+        "userScore": 8.1,
+        "userReviewCount": 265
       }
     },
     {
@@ -2394,7 +2532,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-02-13"
+        "releaseDate": "2024-02-13",
+        "userScore": 7.6,
+        "userReviewCount": 796
       }
     },
     {
@@ -2428,7 +2568,9 @@
           "3D Platformer"
         ],
         "confidence": 0.97,
-        "releaseDate": "1998-06-29"
+        "releaseDate": "1998-06-29",
+        "userScore": 9,
+        "userReviewCount": 855
       }
     },
     {
@@ -2461,7 +2603,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "1998-06-29"
+        "releaseDate": "1998-06-29",
+        "userScore": 9,
+        "userReviewCount": 855
       }
     },
     {
@@ -2494,7 +2638,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2009-04-29"
+        "releaseDate": "2009-04-29",
+        "userScore": 8.1,
+        "userReviewCount": 121
       }
     },
     {
@@ -2551,7 +2697,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2015-06-23"
+        "releaseDate": "2015-06-23",
+        "userScore": 8.2,
+        "userReviewCount": 6995
       }
     },
     {
@@ -2583,7 +2731,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2011-10-25"
+        "releaseDate": "2011-10-25",
+        "userScore": 7.7,
+        "userReviewCount": 6393
       }
     },
     {
@@ -2615,7 +2765,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2013-10-19"
+        "releaseDate": "2013-10-19",
+        "userScore": 6.5,
+        "userReviewCount": 4922
       }
     },
     {
@@ -2667,7 +2819,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-19"
+        "releaseDate": "2021-11-19",
+        "userScore": 2.4,
+        "userReviewCount": 5564
       }
     },
     {
@@ -2699,7 +2853,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-19"
+        "releaseDate": "2021-11-19",
+        "userScore": 2.4,
+        "userReviewCount": 5564
       }
     },
     {
@@ -2731,7 +2887,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2015-03-17"
+        "releaseDate": "2015-03-17",
+        "userScore": 5.5,
+        "userReviewCount": 1301
       }
     },
     {
@@ -2763,7 +2921,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-20"
+        "releaseDate": "2018-11-20",
+        "userScore": 3.7,
+        "userReviewCount": 3954
       }
     },
     {
@@ -2796,7 +2956,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2018-04-24"
+        "releaseDate": "2018-04-24",
+        "userScore": 6.9,
+        "userReviewCount": 415
       }
     },
     {
@@ -2831,7 +2993,9 @@
           "Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-08-20"
+        "releaseDate": "2020-08-20",
+        "userScore": 6.5,
+        "userReviewCount": 758
       }
     },
     {
@@ -2865,7 +3029,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2026-08-04"
+        "releaseDate": "2026-08-04",
+        "userScore": 6.1,
+        "userReviewCount": 353
       }
     },
     {
@@ -2945,7 +3111,9 @@
           "Matching Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2005-11-22"
+        "releaseDate": "2005-11-22",
+        "userScore": 5.9,
+        "userReviewCount": 7
       }
     },
     {
@@ -2978,7 +3146,9 @@
           "Matching Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2010-12-07"
+        "releaseDate": "2010-12-07",
+        "userScore": 7.9,
+        "userReviewCount": 129
       }
     },
     {
@@ -3037,7 +3207,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-12"
+        "releaseDate": "2026-05-12",
+        "userScore": 8.1,
+        "userReviewCount": 24
       }
     },
     {
@@ -3069,7 +3241,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2006-02-28"
+        "releaseDate": "2006-02-28",
+        "userScore": 8.2,
+        "userReviewCount": 160
       }
     },
     {
@@ -3105,7 +3279,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-02-12"
+        "releaseDate": "2026-02-12",
+        "userScore": 6.4,
+        "userReviewCount": 21
       }
     },
     {
@@ -3139,7 +3315,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-24"
+        "releaseDate": "2020-03-24",
+        "userScore": 6.3,
+        "userReviewCount": 593
       }
     },
     {
@@ -3172,7 +3350,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2002-10-07"
+        "releaseDate": "2002-10-07",
+        "userScore": 7.9,
+        "userReviewCount": 66
       }
     },
     {
@@ -3209,7 +3389,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2021-02-19"
+        "releaseDate": "2021-02-19",
+        "userScore": 3.8,
+        "userReviewCount": 21
       }
     },
     {
@@ -3245,7 +3427,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2021-02-19"
+        "releaseDate": "2021-02-19",
+        "userScore": 3.8,
+        "userReviewCount": 21
       }
     },
     {
@@ -3280,7 +3464,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-08-25"
+        "releaseDate": "2026-08-25",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -3314,7 +3500,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-10"
+        "releaseDate": "2025-04-10",
+        "userScore": 7.8,
+        "userReviewCount": 1016
       }
     },
     {
@@ -3348,7 +3536,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-17"
+        "releaseDate": "2023-11-17",
+        "userScore": 4.8,
+        "userReviewCount": 51
       }
     },
     {
@@ -3381,7 +3571,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-23"
+        "releaseDate": "2025-10-23",
+        "userScore": 3.3,
+        "userReviewCount": 7
       }
     },
     {
@@ -3482,7 +3674,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2015-04-28"
+        "releaseDate": "2015-04-28",
+        "userScore": 7.1,
+        "userReviewCount": 229
       }
     },
     {
@@ -3514,7 +3708,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2015-04-28"
+        "releaseDate": "2015-04-28",
+        "userScore": 7.1,
+        "userReviewCount": 229
       }
     },
     {
@@ -3550,7 +3746,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-23"
+        "releaseDate": "2023-06-23",
+        "userScore": 7.8,
+        "userReviewCount": 236
       }
     },
     {
@@ -3584,7 +3782,9 @@
           "Open-World Action"
         ],
         "confidence": 0.833,
-        "releaseDate": "2009-10-13"
+        "releaseDate": "2009-10-13",
+        "userScore": 7.6,
+        "userReviewCount": 247
       }
     },
     {
@@ -3617,7 +3817,9 @@
           "Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-28"
+        "releaseDate": "2023-12-28",
+        "userScore": 7.6,
+        "userReviewCount": 289
       }
     },
     {
@@ -3649,7 +3851,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2018-03-16"
+        "releaseDate": "2018-03-16",
+        "userScore": 7.1,
+        "userReviewCount": 280
       }
     },
     {
@@ -3679,7 +3883,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-25"
+        "releaseDate": "2024-10-25",
+        "userScore": 6.2,
+        "userReviewCount": 2266
       }
     },
     {
@@ -3709,7 +3915,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-25"
+        "releaseDate": "2024-10-25",
+        "userScore": 6.2,
+        "userReviewCount": 2266
       }
     },
     {
@@ -3740,7 +3948,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-14"
+        "releaseDate": "2025-11-14",
+        "userScore": 1.7,
+        "userReviewCount": 3562
       }
     },
     {
@@ -3770,7 +3980,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-25"
+        "releaseDate": "2019-10-25",
+        "userScore": 3.8,
+        "userReviewCount": 10740
       }
     },
     {
@@ -3802,7 +4014,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-25"
+        "releaseDate": "2019-10-25",
+        "userScore": 3.8,
+        "userReviewCount": 10740
       }
     },
     {
@@ -3832,7 +4046,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-10-28"
+        "releaseDate": "2022-10-28",
+        "userScore": 5.4,
+        "userReviewCount": 1644
       }
     },
     {
@@ -3862,7 +4078,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-10-28"
+        "releaseDate": "2022-10-28",
+        "userScore": 5.4,
+        "userReviewCount": 1644
       }
     },
     {
@@ -3892,7 +4110,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-10"
+        "releaseDate": "2023-11-10",
+        "userScore": 2.5,
+        "userReviewCount": 2549
       }
     },
     {
@@ -3922,7 +4142,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-10"
+        "releaseDate": "2023-11-10",
+        "userScore": 2.5,
+        "userReviewCount": 2549
       }
     },
     {
@@ -3952,7 +4174,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-04"
+        "releaseDate": "2021-11-04",
+        "userScore": 3.8,
+        "userReviewCount": 1859
       }
     },
     {
@@ -3982,7 +4206,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-04"
+        "releaseDate": "2021-11-04",
+        "userScore": 3.8,
+        "userReviewCount": 1859
       }
     },
     {
@@ -4014,7 +4240,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-04"
+        "releaseDate": "2021-11-04",
+        "userScore": 3.8,
+        "userReviewCount": 1859
       }
     },
     {
@@ -4045,7 +4273,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-14"
+        "releaseDate": "2022-11-14",
+        "userScore": 4.2,
+        "userReviewCount": 528
       }
     },
     {
@@ -4077,7 +4307,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-03"
+        "releaseDate": "2017-11-03",
+        "userScore": 5.6,
+        "userReviewCount": 2748
       }
     },
     {
@@ -4109,7 +4341,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-03"
+        "releaseDate": "2017-11-03",
+        "userScore": 5.6,
+        "userReviewCount": 2748
       }
     },
     {
@@ -4144,7 +4378,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-12"
+        "releaseDate": "2026-05-12",
+        "userScore": 5.5,
+        "userReviewCount": 25
       }
     },
     {
@@ -4178,7 +4414,9 @@
           "Fishing"
         ],
         "confidence": 1,
-        "releaseDate": "2022-08-31"
+        "releaseDate": "2022-08-31",
+        "userScore": 3.8,
+        "userReviewCount": 27
       }
     },
     {
@@ -4212,7 +4450,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2021-08-11"
+        "releaseDate": "2021-08-11",
+        "userScore": 7.2,
+        "userReviewCount": 64
       }
     },
     {
@@ -4246,7 +4486,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-04-29"
+        "releaseDate": "2014-04-29",
+        "userScore": 8,
+        "userReviewCount": 765
       }
     },
     {
@@ -4280,7 +4522,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-04-29"
+        "releaseDate": "2014-04-29",
+        "userScore": 8,
+        "userReviewCount": 765
       }
     },
     {
@@ -4315,7 +4559,9 @@
           "3D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2021-06-08"
+        "releaseDate": "2021-06-08",
+        "userScore": 5.8,
+        "userReviewCount": 401
       }
     },
     {
@@ -4347,7 +4593,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2015-03-10"
+        "releaseDate": "2015-03-10",
+        "userScore": 8.6,
+        "userReviewCount": 2693
       }
     },
     {
@@ -4379,7 +4627,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2015-03-10"
+        "releaseDate": "2015-03-10",
+        "userScore": 8.6,
+        "userReviewCount": 2693
       }
     },
     {
@@ -4411,7 +4661,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2023-10-24"
+        "releaseDate": "2023-10-24",
+        "userScore": 4.4,
+        "userReviewCount": 436
       }
     },
     {
@@ -4445,7 +4697,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-24"
+        "releaseDate": "2025-04-24",
+        "userScore": 9.5,
+        "userReviewCount": 26859
       }
     },
     {
@@ -4479,7 +4733,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-03-16"
+        "releaseDate": "2017-03-16",
+        "userScore": 7.7,
+        "userReviewCount": 78
       }
     },
     {
@@ -4514,7 +4770,9 @@
           "Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-26"
+        "releaseDate": "2025-09-26",
+        "userScore": 6.8,
+        "userReviewCount": 73
       }
     },
     {
@@ -4546,7 +4804,9 @@
           "Real-Time Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-09"
+        "releaseDate": "2025-04-09",
+        "userScore": 6.9,
+        "userReviewCount": 60
       }
     },
     {
@@ -4578,7 +4838,9 @@
           "Real-Time Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-09"
+        "releaseDate": "2025-04-09",
+        "userScore": 6.9,
+        "userReviewCount": 60
       }
     },
     {
@@ -4611,7 +4873,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2005-06-21"
+        "releaseDate": "2005-06-21",
+        "userScore": 8.5,
+        "userReviewCount": 97
       }
     },
     {
@@ -4666,7 +4930,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2013-11-15"
+        "releaseDate": "2013-11-15",
+        "userScore": 6.4,
+        "userReviewCount": 403
       }
     },
     {
@@ -4699,7 +4965,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-08-27"
+        "releaseDate": "2019-08-27",
+        "userScore": 7.4,
+        "userReviewCount": 3338
       }
     },
     {
@@ -4729,7 +4997,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-08-27"
+        "releaseDate": "2019-08-27",
+        "userScore": 7.4,
+        "userReviewCount": 3338
       }
     },
     {
@@ -4762,7 +5032,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-08-27"
+        "releaseDate": "2019-08-27",
+        "userScore": 7.4,
+        "userReviewCount": 3338
       }
     },
     {
@@ -4794,7 +5066,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2019-06-06"
+        "releaseDate": "2019-06-06",
+        "userScore": 5.9,
+        "userReviewCount": 65
       }
     },
     {
@@ -4849,7 +5123,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-31"
+        "releaseDate": "2026-07-31",
+        "userScore": 8.2,
+        "userReviewCount": 17
       }
     },
     {
@@ -4882,7 +5158,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2010-10-19"
+        "releaseDate": "2010-10-19",
+        "userScore": 7.8,
+        "userReviewCount": 86
       }
     },
     {
@@ -4913,7 +5191,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-15"
+        "releaseDate": "2019-02-15",
+        "userScore": 4.3,
+        "userReviewCount": 1062
       }
     },
     {
@@ -4943,7 +5223,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-02"
+        "releaseDate": "2020-10-02",
+        "userScore": 7.9,
+        "userReviewCount": 1372
       }
     },
     {
@@ -4975,7 +5257,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-02"
+        "releaseDate": "2020-10-02",
+        "userScore": 7.9,
+        "userReviewCount": 1372
       }
     },
     {
@@ -5007,7 +5291,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2017-06-30"
+        "releaseDate": "2017-06-30",
+        "userScore": 8.3,
+        "userReviewCount": 1919
       }
     },
     {
@@ -5039,7 +5325,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2017-06-30"
+        "releaseDate": "2017-06-30",
+        "userScore": 8.3,
+        "userReviewCount": 1919
       }
     },
     {
@@ -5096,7 +5384,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2019-06-21"
+        "releaseDate": "2019-06-21",
+        "userScore": 7.2,
+        "userReviewCount": 1043
       }
     },
     {
@@ -5128,7 +5418,9 @@
           "Cricket"
         ],
         "confidence": 1,
-        "releaseDate": "2023-10-05"
+        "releaseDate": "2023-10-05",
+        "userScore": 6.3,
+        "userReviewCount": 35
       }
     },
     {
@@ -5160,7 +5452,9 @@
           "Cricket"
         ],
         "confidence": 0.97,
-        "releaseDate": "2023-10-05"
+        "releaseDate": "2023-10-05",
+        "userScore": 6.3,
+        "userReviewCount": 35
       }
     },
     {
@@ -5239,7 +5533,9 @@
           "Aircraft Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2003-10-21"
+        "releaseDate": "2003-10-21",
+        "userScore": 8.7,
+        "userReviewCount": 41
       }
     },
     {
@@ -5271,7 +5567,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2007-11-13"
+        "releaseDate": "2007-11-13",
+        "userScore": 8,
+        "userReviewCount": 2965
       }
     },
     {
@@ -5303,7 +5601,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2011-03-22"
+        "releaseDate": "2011-03-22",
+        "userScore": 7.6,
+        "userReviewCount": 955
       }
     },
     {
@@ -5335,7 +5635,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2013-02-19"
+        "releaseDate": "2013-02-19",
+        "userScore": 6.8,
+        "userReviewCount": 1838
       }
     },
     {
@@ -5367,7 +5669,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-10"
+        "releaseDate": "2020-12-10",
+        "userScore": 7.3,
+        "userReviewCount": 40104
       }
     },
     {
@@ -5399,7 +5703,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2010-02-09"
+        "releaseDate": "2010-02-09",
+        "userScore": 7.8,
+        "userReviewCount": 401
       }
     },
     {
@@ -5432,7 +5738,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-06-17"
+        "releaseDate": "2025-06-17",
+        "userScore": 6.6,
+        "userReviewCount": 58
       }
     },
     {
@@ -5465,7 +5773,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-21"
+        "releaseDate": "2016-03-21",
+        "userScore": 8,
+        "userReviewCount": 201
       }
     },
     {
@@ -5500,7 +5810,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2019-05-30"
+        "releaseDate": "2019-05-30",
+        "userScore": 4.5,
+        "userReviewCount": 407
       }
     },
     {
@@ -5533,7 +5845,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-06-20"
+        "releaseDate": "2017-06-20",
+        "userScore": 5.5,
+        "userReviewCount": 946
       }
     },
     {
@@ -5589,7 +5903,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-07"
+        "releaseDate": "2018-08-07",
+        "userScore": 8.3,
+        "userReviewCount": 1428
       }
     },
     {
@@ -5622,7 +5938,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-07"
+        "releaseDate": "2018-08-07",
+        "userScore": 8.3,
+        "userReviewCount": 1428
       }
     },
     {
@@ -5655,7 +5973,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-21"
+        "releaseDate": "2023-04-21",
+        "userScore": 7.2,
+        "userReviewCount": 1239
       }
     },
     {
@@ -5688,7 +6008,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-21"
+        "releaseDate": "2023-04-21",
+        "userScore": 7.2,
+        "userReviewCount": 1239
       }
     },
     {
@@ -5722,7 +6044,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2011-01-25"
+        "releaseDate": "2011-01-25",
+        "userScore": 7.6,
+        "userReviewCount": 79
       }
     },
     {
@@ -5754,7 +6078,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2011-01-25"
+        "releaseDate": "2011-01-25",
+        "userScore": 7.6,
+        "userReviewCount": 79
       }
     },
     {
@@ -5786,7 +6112,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2011-01-25"
+        "releaseDate": "2011-01-25",
+        "userScore": 8.7,
+        "userReviewCount": 1491
       }
     },
     {
@@ -5818,7 +6146,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2013-02-05"
+        "releaseDate": "2013-02-05",
+        "userScore": 6.5,
+        "userReviewCount": 1044
       }
     },
     {
@@ -5851,7 +6181,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2010-10-13"
+        "releaseDate": "2010-10-13",
+        "userScore": 4.3,
+        "userReviewCount": 44
       }
     },
     {
@@ -5909,7 +6241,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2025-12-09"
+        "releaseDate": "2025-12-09",
+        "userScore": 8.3,
+        "userReviewCount": 37
       }
     },
     {
@@ -5945,7 +6279,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-24"
+        "releaseDate": "2021-09-24",
+        "userScore": 8.1,
+        "userReviewCount": 2653
       }
     },
     {
@@ -5979,7 +6315,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-14"
+        "releaseDate": "2021-09-14",
+        "userScore": 6.8,
+        "userReviewCount": 2143
       }
     },
     {
@@ -6012,7 +6350,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-05-13"
+        "releaseDate": "2020-05-13",
+        "userScore": 8.3,
+        "userReviewCount": 812
       }
     },
     {
@@ -6046,7 +6386,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-17"
+        "releaseDate": "2025-09-17",
+        "userScore": 7.3,
+        "userReviewCount": 59
       }
     },
     {
@@ -6081,7 +6423,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-15"
+        "releaseDate": "2026-07-15",
+        "userScore": 8.7,
+        "userReviewCount": 141
       }
     },
     {
@@ -6115,7 +6459,9 @@
           "Biking"
         ],
         "confidence": 1,
-        "releaseDate": "2020-08-25"
+        "releaseDate": "2020-08-25",
+        "userScore": 6.4,
+        "userReviewCount": 76
       }
     },
     {
@@ -6172,7 +6518,9 @@
           "Action RPG"
         ],
         "confidence": 0.97,
-        "releaseDate": "2014-03-25"
+        "releaseDate": "2014-03-25",
+        "userScore": 6.7,
+        "userReviewCount": 1889
       }
     },
     {
@@ -6205,7 +6553,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "1996-12-31"
+        "releaseDate": "1996-12-31",
+        "userScore": 8.6,
+        "userReviewCount": 1745
       }
     },
     {
@@ -6237,7 +6587,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-23"
+        "releaseDate": "2021-09-23",
+        "userScore": 3.8,
+        "userReviewCount": 2577
       }
     },
     {
@@ -6269,7 +6621,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-23"
+        "releaseDate": "2021-09-23",
+        "userScore": 3.8,
+        "userReviewCount": 2577
       }
     },
     {
@@ -6302,7 +6656,9 @@
           "Action RPG"
         ],
         "confidence": 0.97,
-        "releaseDate": "2014-03-25"
+        "releaseDate": "2014-03-25",
+        "userScore": 6.7,
+        "userReviewCount": 1889
       }
     },
     {
@@ -6332,7 +6688,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-06"
+        "releaseDate": "2023-06-06",
+        "userScore": 2.7,
+        "userReviewCount": 10732
       }
     },
     {
@@ -6365,7 +6723,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-06"
+        "releaseDate": "2023-06-06",
+        "userScore": 2.7,
+        "userReviewCount": 10732
       }
     },
     {
@@ -6423,7 +6783,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2020-11-03"
+        "releaseDate": "2020-11-03",
+        "userScore": 5.5,
+        "userReviewCount": 248
       }
     },
     {
@@ -6458,7 +6820,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-26"
+        "releaseDate": "2019-02-26",
+        "userScore": 6.7,
+        "userReviewCount": 312
       }
     },
     {
@@ -6491,7 +6855,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2021-03-30"
+        "releaseDate": "2021-03-30",
+        "userScore": 8.3,
+        "userReviewCount": 2034
       }
     },
     {
@@ -6523,7 +6889,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-10"
+        "releaseDate": "2016-11-10",
+        "userScore": 8.1,
+        "userReviewCount": 2261
       }
     },
     {
@@ -6555,7 +6923,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-10"
+        "releaseDate": "2016-11-10",
+        "userScore": 8.1,
+        "userReviewCount": 2261
       }
     },
     {
@@ -6587,7 +6957,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2015-08-25"
+        "releaseDate": "2015-08-25",
+        "userScore": 7.9,
+        "userReviewCount": 523
       }
     },
     {
@@ -6619,7 +6991,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2015-08-25"
+        "releaseDate": "2015-08-25",
+        "userScore": 7.9,
+        "userReviewCount": 523
       }
     },
     {
@@ -6651,7 +7025,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-09-15"
+        "releaseDate": "2017-09-15",
+        "userScore": 7.2,
+        "userReviewCount": 470
       }
     },
     {
@@ -6683,7 +7059,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-09-15"
+        "releaseDate": "2017-09-15",
+        "userScore": 7.2,
+        "userReviewCount": 470
       }
     },
     {
@@ -6718,7 +7096,9 @@
           "Virtual Life"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-05"
+        "releaseDate": "2023-12-05",
+        "userScore": 6.2,
+        "userReviewCount": 64
       }
     },
     {
@@ -6751,7 +7131,9 @@
           "Action Adventure"
         ],
         "confidence": 0.864,
-        "releaseDate": "2011-11-15"
+        "releaseDate": "2011-11-15",
+        "userScore": 4.1,
+        "userReviewCount": 60
       }
     },
     {
@@ -6784,7 +7166,9 @@
           "Defense"
         ],
         "confidence": 1,
-        "releaseDate": "2022-09-27"
+        "releaseDate": "2022-09-27",
+        "userScore": 7.5,
+        "userReviewCount": 80
       }
     },
     {
@@ -6819,7 +7203,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-28"
+        "releaseDate": "2018-08-28",
+        "userScore": 7,
+        "userReviewCount": 169
       }
     },
     {
@@ -6851,7 +7237,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-10"
+        "releaseDate": "2017-11-10",
+        "userScore": 8.2,
+        "userReviewCount": 1690
       }
     },
     {
@@ -6907,7 +7295,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2004-08-03"
+        "releaseDate": "2004-08-03",
+        "userScore": 7.7,
+        "userReviewCount": 1309
       }
     },
     {
@@ -6941,7 +7331,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-20"
+        "releaseDate": "2020-03-20",
+        "userScore": 7.7,
+        "userReviewCount": 175
       }
     },
     {
@@ -6971,7 +7363,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-20"
+        "releaseDate": "2020-03-20",
+        "userScore": 8.5,
+        "userReviewCount": 6558
       }
     },
     {
@@ -7001,7 +7395,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-20"
+        "releaseDate": "2020-03-20",
+        "userScore": 8.5,
+        "userReviewCount": 6558
       }
     },
     {
@@ -7034,7 +7430,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-05-15"
+        "releaseDate": "2025-05-15",
+        "userScore": 7.9,
+        "userReviewCount": 868
       }
     },
     {
@@ -7066,7 +7464,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2009-11-03"
+        "releaseDate": "2009-11-03",
+        "userScore": 8.6,
+        "userReviewCount": 1427
       }
     },
     {
@@ -7099,7 +7499,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2011-03-08"
+        "releaseDate": "2011-03-08",
+        "userScore": 5,
+        "userReviewCount": 2879
       }
     },
     {
@@ -7131,7 +7533,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-18"
+        "releaseDate": "2014-11-18",
+        "userScore": 6.2,
+        "userReviewCount": 5628
       }
     },
     {
@@ -7164,7 +7568,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-31"
+        "releaseDate": "2024-10-31",
+        "userScore": 4,
+        "userReviewCount": 8833
       }
     },
     {
@@ -7197,7 +7603,9 @@
           "3D Fighting"
         ],
         "confidence": 1,
-        "releaseDate": "2016-10-25"
+        "releaseDate": "2016-10-25",
+        "userScore": 7.5,
+        "userReviewCount": 545
       }
     },
     {
@@ -7255,7 +7663,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2023-03-30"
+        "releaseDate": "2023-03-30",
+        "userScore": 7.9,
+        "userReviewCount": 738
       }
     },
     {
@@ -7291,7 +7701,9 @@
           "Turn-Based Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2026-01-28"
+        "releaseDate": "2026-01-28",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -7324,7 +7736,9 @@
           "Soccer Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-27"
+        "releaseDate": "2024-09-27",
+        "userScore": 2.9,
+        "userReviewCount": 1246
       }
     },
     {
@@ -7357,7 +7771,9 @@
           "Soccer Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-27"
+        "releaseDate": "2024-09-27",
+        "userScore": 2.9,
+        "userReviewCount": 1246
       }
     },
     {
@@ -7390,7 +7806,9 @@
           "Soccer Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-26"
+        "releaseDate": "2025-09-26",
+        "userScore": 2.9,
+        "userReviewCount": 1145
       }
     },
     {
@@ -7423,7 +7841,9 @@
           "Soccer Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-26"
+        "releaseDate": "2025-09-26",
+        "userScore": 2.9,
+        "userReviewCount": 1145
       }
     },
     {
@@ -7455,7 +7875,9 @@
           "Football Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-07-19"
+        "releaseDate": "2024-07-19",
+        "userScore": 5.6,
+        "userReviewCount": 356
       }
     },
     {
@@ -7487,7 +7909,9 @@
           "Football Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-10"
+        "releaseDate": "2025-07-10",
+        "userScore": 4.7,
+        "userReviewCount": 115
       }
     },
     {
@@ -7545,7 +7969,9 @@
           "Golf Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-04"
+        "releaseDate": "2023-04-04",
+        "userScore": 6.1,
+        "userReviewCount": 90
       }
     },
     {
@@ -7580,7 +8006,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-03"
+        "releaseDate": "2023-11-03",
+        "userScore": 6.3,
+        "userReviewCount": 158
       }
     },
     {
@@ -7615,7 +8043,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2026-03-26"
+        "releaseDate": "2026-03-26",
+        "userScore": 8.3,
+        "userReviewCount": 9
       }
     },
     {
@@ -7650,7 +8080,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-27"
+        "releaseDate": "2026-05-27",
+        "userScore": 6.3,
+        "userReviewCount": 6
       }
     },
     {
@@ -7759,7 +8191,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-19"
+        "releaseDate": "2021-10-19",
+        "userScore": 7.3,
+        "userReviewCount": 54
       }
     },
     {
@@ -7815,7 +8249,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-01-28"
+        "releaseDate": "2025-01-28",
+        "userScore": 6.7,
+        "userReviewCount": 120
       }
     },
     {
@@ -7848,7 +8284,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-22"
+        "releaseDate": "2022-11-22",
+        "userScore": 6.9,
+        "userReviewCount": 579
       }
     },
     {
@@ -7881,7 +8319,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-22"
+        "releaseDate": "2022-11-22",
+        "userScore": 6.9,
+        "userReviewCount": 579
       }
     },
     {
@@ -7916,7 +8356,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-31"
+        "releaseDate": "2024-05-31",
+        "userScore": 5,
+        "userReviewCount": 159
       }
     },
     {
@@ -7951,7 +8393,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-05-30"
+        "releaseDate": "2025-05-30",
+        "userScore": 7.3,
+        "userReviewCount": 135
       }
     },
     {
@@ -7983,7 +8427,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-02-04"
+        "releaseDate": "2014-02-04",
+        "userScore": 7.3,
+        "userReviewCount": 339
       }
     },
     {
@@ -8015,7 +8461,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2008-10-21"
+        "releaseDate": "2008-10-21",
+        "userScore": 7.9,
+        "userReviewCount": 1020
       }
     },
     {
@@ -8049,7 +8497,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2010-10-26"
+        "releaseDate": "2010-10-26",
+        "userScore": 6.7,
+        "userReviewCount": 884
       }
     },
     {
@@ -8081,7 +8531,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "1997-10-09"
+        "releaseDate": "1997-10-09",
+        "userScore": 8.7,
+        "userReviewCount": 1788
       }
     },
     {
@@ -8113,7 +8565,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "1998-10-29"
+        "releaseDate": "1998-10-29",
+        "userScore": 9.1,
+        "userReviewCount": 1870
       }
     },
     {
@@ -8145,7 +8599,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2008-10-28"
+        "releaseDate": "2008-10-28",
+        "userScore": 8.2,
+        "userReviewCount": 2948
       }
     },
     {
@@ -8177,7 +8633,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2008-10-28"
+        "releaseDate": "2008-10-28",
+        "userScore": 8.2,
+        "userReviewCount": 2948
       }
     },
     {
@@ -8210,7 +8668,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2015-11-10"
+        "releaseDate": "2015-11-10",
+        "userScore": 7.1,
+        "userReviewCount": 8031
       }
     },
     {
@@ -8242,7 +8702,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-14"
+        "releaseDate": "2018-11-14",
+        "userScore": 2.9,
+        "userReviewCount": 7201
       }
     },
     {
@@ -8274,7 +8736,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-14"
+        "releaseDate": "2018-11-14",
+        "userScore": 2.9,
+        "userReviewCount": 7201
       }
     },
     {
@@ -8330,7 +8794,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2010-10-19"
+        "releaseDate": "2010-10-19",
+        "userScore": 8.7,
+        "userReviewCount": 2686
       }
     },
     {
@@ -8362,7 +8828,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2010-10-19"
+        "releaseDate": "2010-10-19",
+        "userScore": 8.7,
+        "userReviewCount": 2686
       }
     },
     {
@@ -8392,7 +8860,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2012-12-04"
+        "releaseDate": "2012-12-04",
+        "userScore": 8.4,
+        "userReviewCount": 7199
       }
     },
     {
@@ -8422,7 +8892,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2013-05-01"
+        "releaseDate": "2013-05-01",
+        "userScore": 8.1,
+        "userReviewCount": 587
       }
     },
     {
@@ -8455,7 +8927,9 @@
           "FPS"
         ],
         "confidence": 0.84,
-        "releaseDate": "2013-05-01"
+        "releaseDate": "2013-05-01",
+        "userScore": 8.1,
+        "userReviewCount": 587
       }
     },
     {
@@ -8508,7 +8982,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-18"
+        "releaseDate": "2014-11-18",
+        "userScore": 7.7,
+        "userReviewCount": 3703
       }
     },
     {
@@ -8538,7 +9014,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-15"
+        "releaseDate": "2019-02-15",
+        "userScore": 4.9,
+        "userReviewCount": 1081
       }
     },
     {
@@ -8571,7 +9049,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-23"
+        "releaseDate": "2016-02-23",
+        "userScore": 6.8,
+        "userReviewCount": 1632
       }
     },
     {
@@ -8601,7 +9081,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-23"
+        "releaseDate": "2016-02-23",
+        "userScore": 6.8,
+        "userReviewCount": 1632
       }
     },
     {
@@ -8634,7 +9116,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-18"
+        "releaseDate": "2014-11-18",
+        "userScore": 7.7,
+        "userReviewCount": 3703
       }
     },
     {
@@ -8667,7 +9151,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2018-03-27"
+        "releaseDate": "2018-03-27",
+        "userScore": 7,
+        "userReviewCount": 3792
       }
     },
     {
@@ -8697,7 +9183,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2018-03-27"
+        "releaseDate": "2018-03-27",
+        "userScore": 7,
+        "userReviewCount": 3792
       }
     },
     {
@@ -8727,7 +9215,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-07"
+        "releaseDate": "2021-10-07",
+        "userScore": 5.5,
+        "userReviewCount": 2391
       }
     },
     {
@@ -8760,7 +9250,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-15"
+        "releaseDate": "2019-02-15",
+        "userScore": 4.9,
+        "userReviewCount": 1081
       }
     },
     {
@@ -8793,7 +9285,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-07"
+        "releaseDate": "2021-10-07",
+        "userScore": 5.5,
+        "userReviewCount": 2391
       }
     },
     {
@@ -8825,7 +9319,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2024-11-12"
+        "releaseDate": "2024-11-12",
+        "userScore": 5.5,
+        "userReviewCount": 94
       }
     },
     {
@@ -8857,7 +9353,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2024-11-12"
+        "releaseDate": "2024-11-12",
+        "userScore": 5.5,
+        "userReviewCount": 94
       }
     },
     {
@@ -8891,7 +9389,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-06-17"
+        "releaseDate": "2025-06-17",
+        "userScore": 5.2,
+        "userReviewCount": 120
       }
     },
     {
@@ -8923,7 +9423,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2018-02-16"
+        "releaseDate": "2018-02-16",
+        "userScore": 6.2,
+        "userReviewCount": 99
       }
     },
     {
@@ -8956,7 +9458,9 @@
           "Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2006-03-10"
+        "releaseDate": "2006-03-10",
+        "userScore": 6.6,
+        "userReviewCount": 27
       }
     },
     {
@@ -8989,7 +9493,9 @@
           "Combat Sport"
         ],
         "confidence": 1,
-        "releaseDate": "2011-03-01"
+        "releaseDate": "2011-03-01",
+        "userScore": 7.7,
+        "userReviewCount": 206
       }
     },
     {
@@ -9022,7 +9528,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2007-06-26"
+        "releaseDate": "2007-06-26",
+        "userScore": 7,
+        "userReviewCount": 153
       }
     },
     {
@@ -9078,7 +9586,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2006-11-14"
+        "releaseDate": "2006-11-14",
+        "userScore": 7.5,
+        "userReviewCount": 176
       }
     },
     {
@@ -9182,7 +9692,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2022-12-06"
+        "releaseDate": "2022-12-06",
+        "userScore": 3.1,
+        "userReviewCount": 14
       }
     },
     {
@@ -9240,7 +9752,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-17"
+        "releaseDate": "2026-07-17",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -9273,7 +9787,9 @@
           "Soccer Management"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-04"
+        "releaseDate": "2025-11-04",
+        "userScore": 2.9,
+        "userReviewCount": 205
       }
     },
     {
@@ -9307,7 +9823,9 @@
           "Soccer Management"
         ],
         "confidence": 0.821,
-        "releaseDate": "2025-11-04"
+        "releaseDate": "2025-11-04",
+        "userScore": 2.9,
+        "userReviewCount": 205
       }
     },
     {
@@ -9337,7 +9855,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-14"
+        "releaseDate": "2017-02-14",
+        "userScore": 6.1,
+        "userReviewCount": 1428
       }
     },
     {
@@ -9367,7 +9887,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-14"
+        "releaseDate": "2017-02-14",
+        "userScore": 6.1,
+        "userReviewCount": 1428
       }
     },
     {
@@ -9397,7 +9919,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-10-16"
+        "releaseDate": "2018-10-16",
+        "userScore": 4,
+        "userReviewCount": 16
       }
     },
     {
@@ -9434,7 +9958,9 @@
           "Roguelike"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-02"
+        "releaseDate": "2023-11-02",
+        "userScore": 7.4,
+        "userReviewCount": 56
       }
     },
     {
@@ -9471,7 +9997,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2017-07-21"
+        "releaseDate": "2017-07-21",
+        "userScore": 5.2,
+        "userReviewCount": 3551
       }
     },
     {
@@ -9502,7 +10030,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-05"
+        "releaseDate": "2021-11-05",
+        "userScore": 8.1,
+        "userReviewCount": 6031
       }
     },
     {
@@ -9533,7 +10063,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-19"
+        "releaseDate": "2026-05-19",
+        "userScore": 8.3,
+        "userReviewCount": 927
       }
     },
     {
@@ -9564,7 +10096,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2023-10-10"
+        "releaseDate": "2023-10-10",
+        "userScore": 6.9,
+        "userReviewCount": 1170
       }
     },
     {
@@ -9597,7 +10131,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-03-06"
+        "releaseDate": "2025-03-06",
+        "userScore": 5.7,
+        "userReviewCount": 107
       }
     },
     {
@@ -9656,7 +10192,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-17"
+        "releaseDate": "2024-09-17",
+        "userScore": 7.4,
+        "userReviewCount": 407
       }
     },
     {
@@ -9689,7 +10227,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2017-04-18"
+        "releaseDate": "2017-04-18",
+        "userScore": 7.4,
+        "userReviewCount": 123
       }
     },
     {
@@ -9723,7 +10263,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2017-12-12"
+        "releaseDate": "2017-12-12",
+        "userScore": 6.9,
+        "userReviewCount": 256
       }
     },
     {
@@ -9754,7 +10296,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2019-09-06"
+        "releaseDate": "2019-09-06",
+        "userScore": 8.1,
+        "userReviewCount": 3689
       }
     },
     {
@@ -9786,7 +10330,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2006-11-07"
+        "releaseDate": "2006-11-07",
+        "userScore": 8.2,
+        "userReviewCount": 2306
       }
     },
     {
@@ -9818,7 +10364,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2008-11-07"
+        "releaseDate": "2008-11-07",
+        "userScore": 8.4,
+        "userReviewCount": 1929
       }
     },
     {
@@ -9850,7 +10398,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2011-09-20"
+        "releaseDate": "2011-09-20",
+        "userScore": 8.2,
+        "userReviewCount": 2352
       }
     },
     {
@@ -9883,7 +10433,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2016-10-11"
+        "releaseDate": "2016-10-11",
+        "userScore": 7.1,
+        "userReviewCount": 1946
       }
     },
     {
@@ -9915,7 +10467,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2013-03-19"
+        "releaseDate": "2013-03-19",
+        "userScore": 5.9,
+        "userReviewCount": 1077
       }
     },
     {
@@ -9949,7 +10503,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-26"
+        "releaseDate": "2025-08-26",
+        "userScore": 6.9,
+        "userReviewCount": 295
       }
     },
     {
@@ -9981,7 +10537,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2006-11-07"
+        "releaseDate": "2006-11-07",
+        "userScore": 8.2,
+        "userReviewCount": 2306
       }
     },
     {
@@ -10013,7 +10571,9 @@
           "Third Person Shooter"
         ],
         "confidence": 0.97,
-        "releaseDate": "2015-08-25"
+        "releaseDate": "2015-08-25",
+        "userScore": 7.8,
+        "userReviewCount": 944
       }
     },
     {
@@ -10044,7 +10604,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2020-04-28"
+        "releaseDate": "2020-04-28",
+        "userScore": 7.8,
+        "userReviewCount": 565
       }
     },
     {
@@ -10078,7 +10640,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-03-26"
+        "releaseDate": "2019-03-26",
+        "userScore": 5.9,
+        "userReviewCount": 207
       }
     },
     {
@@ -10112,7 +10676,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2021-03-26"
+        "releaseDate": "2021-03-26",
+        "userScore": 6.3,
+        "userReviewCount": 61
       }
     },
     {
@@ -10146,7 +10712,9 @@
           "Point-and-Click"
         ],
         "confidence": 1,
-        "releaseDate": "2021-03-26"
+        "releaseDate": "2021-03-26",
+        "userScore": 6.3,
+        "userReviewCount": 61
       }
     },
     {
@@ -10180,7 +10748,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-09-28"
+        "releaseDate": "2020-09-28",
+        "userScore": 5.1,
+        "userReviewCount": 2484
       }
     },
     {
@@ -10213,7 +10783,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2022-03-22"
+        "releaseDate": "2022-03-22",
+        "userScore": 7.2,
+        "userReviewCount": 1013
       }
     },
     {
@@ -10270,7 +10842,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-17"
+        "releaseDate": "2022-11-17",
+        "userScore": 7.6,
+        "userReviewCount": 235
       }
     },
     {
@@ -10304,7 +10878,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-17"
+        "releaseDate": "2022-11-17",
+        "userScore": 7.6,
+        "userReviewCount": 235
       }
     },
     {
@@ -10338,7 +10914,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-17"
+        "releaseDate": "2022-11-17",
+        "userScore": 7.6,
+        "userReviewCount": 235
       }
     },
     {
@@ -10372,7 +10950,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "1997-08-25"
+        "releaseDate": "1997-08-25",
+        "userScore": 8.8,
+        "userReviewCount": 1219
       }
     },
     {
@@ -10406,7 +10986,9 @@
           "Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-11-15"
+        "releaseDate": "2024-11-15",
+        "userScore": 7.4,
+        "userReviewCount": 14
       }
     },
     {
@@ -10438,7 +11020,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2022-02-25"
+        "releaseDate": "2022-02-25",
+        "userScore": 6.4,
+        "userReviewCount": 176
       }
     },
     {
@@ -10471,7 +11055,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2015-01-27"
+        "releaseDate": "2015-01-27",
+        "userScore": 7.9,
+        "userReviewCount": 357
       }
     },
     {
@@ -10505,7 +11091,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2022-09-27"
+        "releaseDate": "2022-09-27",
+        "userScore": 7.8,
+        "userReviewCount": 490
       }
     },
     {
@@ -10562,7 +11150,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-09-17"
+        "releaseDate": "2020-09-17",
+        "userScore": 8.5,
+        "userReviewCount": 5253
       }
     },
     {
@@ -10596,7 +11186,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-25"
+        "releaseDate": "2025-09-25",
+        "userScore": 8.5,
+        "userReviewCount": 1746
       }
     },
     {
@@ -10630,7 +11222,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-24"
+        "releaseDate": "2024-09-24",
+        "userScore": 7.6,
+        "userReviewCount": 90
       }
     },
     {
@@ -10662,7 +11256,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2015-10-27"
+        "releaseDate": "2015-10-27",
+        "userScore": 6.4,
+        "userReviewCount": 4036
       }
     },
     {
@@ -10693,7 +11289,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-11-15"
+        "releaseDate": "2021-11-15",
+        "userScore": 7.9,
+        "userReviewCount": 6447
       }
     },
     {
@@ -10723,7 +11321,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-17"
+        "releaseDate": "2017-02-17",
+        "userScore": 6.6,
+        "userReviewCount": 678
       }
     },
     {
@@ -10753,7 +11353,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-17"
+        "releaseDate": "2017-02-17",
+        "userScore": 6.6,
+        "userReviewCount": 678
       }
     },
     {
@@ -10786,7 +11388,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-21"
+        "releaseDate": "2017-02-21",
+        "userScore": 7.9,
+        "userReviewCount": 181
       }
     },
     {
@@ -10818,7 +11422,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-21"
+        "releaseDate": "2017-02-21",
+        "userScore": 7.9,
+        "userReviewCount": 181
       }
     },
     {
@@ -10849,7 +11455,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-28"
+        "releaseDate": "2026-07-28",
+        "userScore": 5.8,
+        "userReviewCount": 668
       }
     },
     {
@@ -10883,7 +11491,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2013-12-23"
+        "releaseDate": "2013-12-23",
+        "userScore": 4.5,
+        "userReviewCount": 310
       }
     },
     {
@@ -10915,7 +11525,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2013-12-23"
+        "releaseDate": "2013-12-23",
+        "userScore": 4.5,
+        "userReviewCount": 310
       }
     },
     {
@@ -10947,7 +11559,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2015-04-16"
+        "releaseDate": "2015-04-16",
+        "userScore": 6.3,
+        "userReviewCount": 64
       }
     },
     {
@@ -10977,7 +11591,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 7.8,
+        "userReviewCount": 2049
       }
     },
     {
@@ -11007,7 +11623,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2014-11-11"
+        "releaseDate": "2014-11-11",
+        "userScore": 7.8,
+        "userReviewCount": 2049
       }
     },
     {
@@ -11062,7 +11680,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-04"
+        "releaseDate": "2025-09-04",
+        "userScore": 7.7,
+        "userReviewCount": 480
       }
     },
     {
@@ -11095,7 +11715,9 @@
           "Action Adventure"
         ],
         "confidence": 0.947,
-        "releaseDate": "2024-05-21"
+        "releaseDate": "2024-05-21",
+        "userScore": 7.4,
+        "userReviewCount": 2863
       }
     },
     {
@@ -11127,7 +11749,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-08"
+        "releaseDate": "2017-08-08",
+        "userScore": 7.7,
+        "userReviewCount": 2472
       }
     },
     {
@@ -11159,7 +11783,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-08"
+        "releaseDate": "2017-08-08",
+        "userScore": 7.7,
+        "userReviewCount": 2472
       }
     },
     {
@@ -11193,7 +11819,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-21"
+        "releaseDate": "2025-08-21",
+        "userScore": 6.7,
+        "userReviewCount": 46
       }
     },
     {
@@ -11228,7 +11856,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-07"
+        "releaseDate": "2025-08-07",
+        "userScore": 8.2,
+        "userReviewCount": 11
       }
     },
     {
@@ -11323,7 +11953,9 @@
           "MOBA"
         ],
         "confidence": 1,
-        "releaseDate": "2015-06-02"
+        "releaseDate": "2015-06-02",
+        "userScore": 6.3,
+        "userReviewCount": 1722
       }
     },
     {
@@ -11356,7 +11988,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2023-01-25"
+        "releaseDate": "2023-01-25",
+        "userScore": 8.8,
+        "userReviewCount": 3582
       }
     },
     {
@@ -11391,7 +12025,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-12-13"
+        "releaseDate": "2022-12-13",
+        "userScore": 7.6,
+        "userReviewCount": 1277
       }
     },
     {
@@ -11426,7 +12062,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2026-02-13"
+        "releaseDate": "2026-02-13",
+        "userScore": 6.2,
+        "userReviewCount": 180
       }
     },
     {
@@ -11460,7 +12098,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-02-07"
+        "releaseDate": "2023-02-07",
+        "userScore": 8,
+        "userReviewCount": 6886
       }
     },
     {
@@ -11493,7 +12133,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-02-07"
+        "releaseDate": "2023-02-07",
+        "userScore": 8,
+        "userReviewCount": 6886
       }
     },
     {
@@ -11527,7 +12169,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-04"
+        "releaseDate": "2025-09-04",
+        "userScore": 8.9,
+        "userReviewCount": 7379
       }
     },
     {
@@ -11561,7 +12205,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2018-09-25"
+        "releaseDate": "2018-09-25",
+        "userScore": 9,
+        "userReviewCount": 770
       }
     },
     {
@@ -11594,7 +12240,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2018-05-17"
+        "releaseDate": "2018-05-17",
+        "userScore": 7.2,
+        "userReviewCount": 346
       }
     },
     {
@@ -11629,7 +12277,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2016-07-22"
+        "releaseDate": "2016-07-22",
+        "userScore": 7.2,
+        "userReviewCount": 359
       }
     },
     {
@@ -11661,7 +12311,9 @@
           "Action"
         ],
         "confidence": 1,
-        "releaseDate": "2018-07-17"
+        "releaseDate": "2018-07-17",
+        "userScore": 7.1,
+        "userReviewCount": 14
       }
     },
     {
@@ -11693,7 +12345,9 @@
           "Action"
         ],
         "confidence": 1,
-        "releaseDate": "2018-07-17"
+        "releaseDate": "2018-07-17",
+        "userScore": 7.1,
+        "userReviewCount": 14
       }
     },
     {
@@ -11727,7 +12381,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-10"
+        "releaseDate": "2024-09-10",
+        "userScore": 7.2,
+        "userReviewCount": 44
       }
     },
     {
@@ -11759,7 +12415,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-03"
+        "releaseDate": "2020-12-03",
+        "userScore": 7.6,
+        "userReviewCount": 687
       }
     },
     {
@@ -11789,7 +12447,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-03"
+        "releaseDate": "2020-12-03",
+        "userScore": 7.6,
+        "userReviewCount": 687
       }
     },
     {
@@ -11822,7 +12482,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-08-22"
+        "releaseDate": "2023-08-22",
+        "userScore": 6.1,
+        "userReviewCount": 407
       }
     },
     {
@@ -11855,7 +12517,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-12-09"
+        "releaseDate": "2024-12-09",
+        "userScore": 8.1,
+        "userReviewCount": 2507
       }
     },
     {
@@ -11888,7 +12552,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-02"
+        "releaseDate": "2024-05-02",
+        "userScore": 7,
+        "userReviewCount": 430
       }
     },
     {
@@ -11922,7 +12588,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-30"
+        "releaseDate": "2026-04-30",
+        "userScore": 7,
+        "userReviewCount": 29
       }
     },
     {
@@ -11957,7 +12625,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-19"
+        "releaseDate": "2021-10-19",
+        "userScore": 8.5,
+        "userReviewCount": 1090
       }
     },
     {
@@ -11991,7 +12661,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2016-06-29"
+        "releaseDate": "2016-06-29",
+        "userScore": 8.3,
+        "userReviewCount": 2111
       }
     },
     {
@@ -12024,7 +12696,9 @@
           "Defense"
         ],
         "confidence": 1,
-        "releaseDate": "2011-06-22"
+        "releaseDate": "2011-06-22",
+        "userScore": 8.1,
+        "userReviewCount": 82
       }
     },
     {
@@ -12054,7 +12728,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2021-03-26"
+        "releaseDate": "2021-03-26",
+        "userScore": 8.8,
+        "userReviewCount": 3332
       }
     },
     {
@@ -12087,7 +12763,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2006-10-24"
+        "releaseDate": "2006-10-24",
+        "userScore": 6.7,
+        "userReviewCount": 11
       }
     },
     {
@@ -12121,7 +12799,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2012-05-23"
+        "releaseDate": "2012-05-23",
+        "userScore": 7.6,
+        "userReviewCount": 30
       }
     },
     {
@@ -12156,7 +12836,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-06-16"
+        "releaseDate": "2026-06-16",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -12190,7 +12872,9 @@
           "Tycoon"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-21"
+        "releaseDate": "2025-10-21",
+        "userScore": 8.5,
+        "userReviewCount": 89
       }
     },
     {
@@ -12272,7 +12956,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-17"
+        "releaseDate": "2025-10-17",
+        "userScore": 7.5,
+        "userReviewCount": 229
       }
     },
     {
@@ -12412,7 +13098,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-23"
+        "releaseDate": "2026-04-23",
+        "userScore": 6.7,
+        "userReviewCount": 49
       }
     },
     {
@@ -12444,7 +13132,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-02-13"
+        "releaseDate": "2018-02-13",
+        "userScore": 8,
+        "userReviewCount": 4349
       }
     },
     {
@@ -12476,7 +13166,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-02-13"
+        "releaseDate": "2018-02-13",
+        "userScore": 8,
+        "userReviewCount": 4349
       }
     },
     {
@@ -12511,7 +13203,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-02-04"
+        "releaseDate": "2025-02-04",
+        "userScore": 8.7,
+        "userReviewCount": 5122
       }
     },
     {
@@ -12546,7 +13240,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-12-11"
+        "releaseDate": "2018-12-11",
+        "userScore": 7.4,
+        "userReviewCount": 127
       }
     },
     {
@@ -12578,7 +13274,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2010-08-18"
+        "releaseDate": "2010-08-18",
+        "userScore": 8.1,
+        "userReviewCount": 149
       }
     },
     {
@@ -12610,7 +13308,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2010-08-18"
+        "releaseDate": "2010-08-18",
+        "userScore": 8.1,
+        "userReviewCount": 149
       }
     },
     {
@@ -12643,7 +13343,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2014-12-09"
+        "releaseDate": "2014-12-09",
+        "userScore": 6.6,
+        "userReviewCount": 198
       }
     },
     {
@@ -12675,7 +13377,9 @@
           "MOBA"
         ],
         "confidence": 1,
-        "releaseDate": "2009-10-27"
+        "releaseDate": "2009-10-27",
+        "userScore": 4.7,
+        "userReviewCount": 5961
       }
     },
     {
@@ -12710,7 +13414,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2021-06-24"
+        "releaseDate": "2021-06-24",
+        "userScore": 6.8,
+        "userReviewCount": 34
       }
     },
     {
@@ -12743,7 +13449,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2020-04-29"
+        "releaseDate": "2020-04-29",
+        "userScore": 6.5,
+        "userReviewCount": 272
       }
     },
     {
@@ -12776,7 +13484,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2022-04-05"
+        "releaseDate": "2022-04-05",
+        "userScore": 7.6,
+        "userReviewCount": 964
       }
     },
     {
@@ -12809,7 +13519,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-01-26"
+        "releaseDate": "2024-01-26",
+        "userScore": 8.5,
+        "userReviewCount": 1003
       }
     },
     {
@@ -12842,7 +13554,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-02-21"
+        "releaseDate": "2025-02-21",
+        "userScore": 7.8,
+        "userReviewCount": 311
       }
     },
     {
@@ -12874,7 +13588,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2010-07-21"
+        "releaseDate": "2010-07-21",
+        "userScore": 7.9,
+        "userReviewCount": 1309
       }
     },
     {
@@ -12907,7 +13623,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2010-07-21"
+        "releaseDate": "2010-07-21",
+        "userScore": 7.9,
+        "userReviewCount": 1309
       }
     },
     {
@@ -12942,7 +13660,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-09"
+        "releaseDate": "2024-05-09",
+        "userScore": 7.5,
+        "userReviewCount": 158
       }
     },
     {
@@ -12999,7 +13719,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2021-02-11"
+        "releaseDate": "2021-02-11",
+        "userScore": 8.3,
+        "userReviewCount": 1203
       }
     },
     {
@@ -13032,7 +13754,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 0.97,
-        "releaseDate": "2026-05-29"
+        "releaseDate": "2026-05-29",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -13069,7 +13793,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-07"
+        "releaseDate": "2025-10-07",
+        "userScore": 6.5,
+        "userReviewCount": 10
       }
     },
     {
@@ -13103,7 +13829,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-10"
+        "releaseDate": "2021-09-10",
+        "userScore": 7.5,
+        "userReviewCount": 154
       }
     },
     {
@@ -13136,7 +13864,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-02-18"
+        "releaseDate": "2025-02-18",
+        "userScore": 6.8,
+        "userReviewCount": 179
       }
     },
     {
@@ -13171,7 +13901,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-21"
+        "releaseDate": "2026-05-21",
+        "userScore": 5.2,
+        "userReviewCount": 24
       }
     },
     {
@@ -13203,7 +13935,9 @@
           "Football Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2013-08-27"
+        "releaseDate": "2013-08-27",
+        "userScore": 5.7,
+        "userReviewCount": 159
       }
     },
     {
@@ -13235,7 +13969,9 @@
           "Football Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2013-08-27"
+        "releaseDate": "2013-08-27",
+        "userScore": 5.7,
+        "userReviewCount": 159
       }
     },
     {
@@ -13291,7 +14027,9 @@
           "2D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2025-12-01"
+        "releaseDate": "2025-12-01",
+        "userScore": 7.6,
+        "userReviewCount": 105
       }
     },
     {
@@ -13323,7 +14061,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2007-11-20"
+        "releaseDate": "2007-11-20",
+        "userScore": 8.5,
+        "userReviewCount": 2449
       }
     },
     {
@@ -13355,7 +14095,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2010-01-26"
+        "releaseDate": "2010-01-26",
+        "userScore": 8.9,
+        "userReviewCount": 3807
       }
     },
     {
@@ -13388,7 +14130,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2012-03-06"
+        "releaseDate": "2012-03-06",
+        "userScore": 6.5,
+        "userReviewCount": 4806
       }
     },
     {
@@ -13424,7 +14168,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2021-05-14"
+        "releaseDate": "2021-05-14",
+        "userScore": 7.8,
+        "userReviewCount": 1701
       }
     },
     {
@@ -13456,7 +14202,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-03-21"
+        "releaseDate": "2017-03-21",
+        "userScore": 5.1,
+        "userReviewCount": 4476
       }
     },
     {
@@ -13489,7 +14237,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2015-06-01"
+        "releaseDate": "2015-06-01",
+        "userScore": 6,
+        "userReviewCount": 92
       }
     },
     {
@@ -13544,7 +14294,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2013-12-20"
+        "releaseDate": "2013-12-20",
+        "userScore": 7.4,
+        "userReviewCount": 321
       }
     },
     {
@@ -13578,7 +14330,9 @@
           "Vehicle Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-16"
+        "releaseDate": "2024-10-16",
+        "userScore": 6.6,
+        "userReviewCount": 58
       }
     },
     {
@@ -13612,7 +14366,9 @@
           "Vehicle Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2019-12-10"
+        "releaseDate": "2019-12-10",
+        "userScore": 5.5,
+        "userReviewCount": 308
       }
     },
     {
@@ -13645,7 +14401,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2007-09-04"
+        "releaseDate": "2007-09-04",
+        "userScore": 7,
+        "userReviewCount": 149
       }
     },
     {
@@ -13680,7 +14438,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-17"
+        "releaseDate": "2020-12-17",
+        "userScore": 6.6,
+        "userReviewCount": 157
       }
     },
     {
@@ -13714,7 +14474,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-17"
+        "releaseDate": "2020-12-17",
+        "userScore": 6.6,
+        "userReviewCount": 157
       }
     },
     {
@@ -13789,7 +14551,9 @@
           "Aircraft Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-11-19"
+        "releaseDate": "2024-11-19",
+        "userScore": 5,
+        "userReviewCount": 203
       }
     },
     {
@@ -13892,7 +14656,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2011-11-18"
+        "releaseDate": "2011-11-18",
+        "userScore": 8.4,
+        "userReviewCount": 11698
       }
     },
     {
@@ -13925,7 +14691,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-05-26"
+        "releaseDate": "2020-05-26",
+        "userScore": 6.8,
+        "userReviewCount": 757
       }
     },
     {
@@ -13978,7 +14746,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-18"
+        "releaseDate": "2023-04-18",
+        "userScore": 5.7,
+        "userReviewCount": 246
       }
     },
     {
@@ -14076,7 +14846,9 @@
           "Sandbox"
         ],
         "confidence": 0.97,
-        "releaseDate": "2011-11-18"
+        "releaseDate": "2011-11-18",
+        "userScore": 8.4,
+        "userReviewCount": 11698
       }
     },
     {
@@ -14112,7 +14884,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2024-04-02"
+        "releaseDate": "2024-04-02",
+        "userScore": 8.4,
+        "userReviewCount": 109
       }
     },
     {
@@ -14146,7 +14920,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2026-01-20"
+        "releaseDate": "2026-01-20",
+        "userScore": 7.8,
+        "userReviewCount": 190
       }
     },
     {
@@ -14178,7 +14954,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2010-04-01"
+        "releaseDate": "2010-04-01",
+        "userScore": 7.4,
+        "userReviewCount": 26
       }
     },
     {
@@ -14210,7 +14988,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-06-07"
+        "releaseDate": "2016-06-07",
+        "userScore": 6,
+        "userReviewCount": 924
       }
     },
     {
@@ -14246,7 +15026,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-29"
+        "releaseDate": "2026-07-29",
+        "userScore": 6,
+        "userReviewCount": 58
       }
     },
     {
@@ -14281,7 +15063,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-07"
+        "releaseDate": "2026-05-07",
+        "userScore": 5.9,
+        "userReviewCount": 1103
       }
     },
     {
@@ -14380,7 +15164,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-08"
+        "releaseDate": "2020-12-08",
+        "userScore": 7.8,
+        "userReviewCount": 76
       }
     },
     {
@@ -14413,7 +15199,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2020-12-08"
+        "releaseDate": "2020-12-08",
+        "userScore": 7.8,
+        "userReviewCount": 76
       }
     },
     {
@@ -14447,7 +15235,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2025-05-21"
+        "releaseDate": "2025-05-21",
+        "userScore": 7.8,
+        "userReviewCount": 76
       }
     },
     {
@@ -14504,7 +15294,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2018-05-29"
+        "releaseDate": "2018-05-29",
+        "userScore": 7,
+        "userReviewCount": 264
       }
     },
     {
@@ -14560,7 +15352,9 @@
           "2D Fighting"
         ],
         "confidence": 1,
-        "releaseDate": "2023-09-19"
+        "releaseDate": "2023-09-19",
+        "userScore": 6.6,
+        "userReviewCount": 1645
       }
     },
     {
@@ -14594,7 +15388,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-05"
+        "releaseDate": "2026-05-05",
+        "userScore": 7.2,
+        "userReviewCount": 60
       }
     },
     {
@@ -14628,7 +15424,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2023-08-15"
+        "releaseDate": "2023-08-15",
+        "userScore": 7,
+        "userReviewCount": 41
       }
     },
     {
@@ -14662,7 +15460,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-15"
+        "releaseDate": "2024-05-15",
+        "userScore": 8.2,
+        "userReviewCount": 190
       }
     },
     {
@@ -14721,7 +15521,9 @@
           "3D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2021-08-12"
+        "releaseDate": "2021-08-12",
+        "userScore": 5.9,
+        "userReviewCount": 117
       }
     },
     {
@@ -14797,7 +15599,9 @@
           "Basketball Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-05"
+        "releaseDate": "2025-09-05",
+        "userScore": 4.6,
+        "userReviewCount": 182
       }
     },
     {
@@ -14829,7 +15633,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2013-11-15"
+        "releaseDate": "2013-11-15",
+        "userScore": 6.3,
+        "userReviewCount": 1108
       }
     },
     {
@@ -14861,7 +15667,9 @@
           "Auto Racing Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2015-11-03"
+        "releaseDate": "2015-11-03",
+        "userScore": 6.1,
+        "userReviewCount": 1280
       }
     },
     {
@@ -14893,7 +15701,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2019-11-08"
+        "releaseDate": "2019-11-08",
+        "userScore": 6.4,
+        "userReviewCount": 1648
       }
     },
     {
@@ -14926,7 +15736,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2020-11-06"
+        "releaseDate": "2020-11-06",
+        "userScore": 6.3,
+        "userReviewCount": 276
       }
     },
     {
@@ -14958,7 +15770,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-07"
+        "releaseDate": "2017-11-07",
+        "userScore": 3.9,
+        "userReviewCount": 1476
       }
     },
     {
@@ -14991,7 +15805,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-29"
+        "releaseDate": "2022-11-29",
+        "userScore": 5.9,
+        "userReviewCount": 1231
       }
     },
     {
@@ -15024,7 +15840,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2020-07-14"
+        "releaseDate": "2020-07-14",
+        "userScore": 6.5,
+        "userReviewCount": 97
       }
     },
     {
@@ -15057,7 +15875,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2020-07-14"
+        "releaseDate": "2020-07-14",
+        "userScore": 6.5,
+        "userReviewCount": 97
       }
     },
     {
@@ -15115,7 +15935,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2019-11-08"
+        "releaseDate": "2019-11-08",
+        "userScore": 7.8,
+        "userReviewCount": 164
       }
     },
     {
@@ -15147,7 +15969,9 @@
           "Hockey Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-04"
+        "releaseDate": "2024-10-04",
+        "userScore": 3,
+        "userReviewCount": 77
       }
     },
     {
@@ -15179,7 +16003,9 @@
           "Hockey Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-09-12"
+        "releaseDate": "2025-09-12",
+        "userScore": 3,
+        "userReviewCount": 88
       }
     },
     {
@@ -15234,7 +16060,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2019-09-20"
+        "releaseDate": "2019-09-20",
+        "userScore": 8,
+        "userReviewCount": 321
       }
     },
     {
@@ -15267,7 +16095,9 @@
           "JRPG"
         ],
         "confidence": 0.97,
-        "releaseDate": "2018-03-23"
+        "releaseDate": "2018-03-23",
+        "userScore": 7.8,
+        "userReviewCount": 910
       }
     },
     {
@@ -15301,7 +16131,9 @@
           "2D Fighting"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-07"
+        "releaseDate": "2023-11-07",
+        "userScore": 6.3,
+        "userReviewCount": 56
       }
     },
     {
@@ -15335,7 +16167,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-28"
+        "releaseDate": "2024-05-28",
+        "userScore": 8.3,
+        "userReviewCount": 678
       }
     },
     {
@@ -15368,7 +16202,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-01-23"
+        "releaseDate": "2025-01-23",
+        "userScore": 7.9,
+        "userReviewCount": 344
       }
     },
     {
@@ -15399,7 +16235,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-21"
+        "releaseDate": "2025-10-21",
+        "userScore": 8.1,
+        "userReviewCount": 558
       }
     },
     {
@@ -15434,7 +16272,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-31"
+        "releaseDate": "2025-07-31",
+        "userScore": 7.9,
+        "userReviewCount": 246
       }
     },
     {
@@ -15469,7 +16309,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2016-08-09"
+        "releaseDate": "2016-08-09",
+        "userScore": 5.6,
+        "userReviewCount": 5654
       }
     },
     {
@@ -15526,7 +16368,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2023-01-26"
+        "releaseDate": "2023-01-26",
+        "userScore": 6.5,
+        "userReviewCount": 6
       }
     },
     {
@@ -15559,7 +16403,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2023-01-26"
+        "releaseDate": "2023-01-26",
+        "userScore": 6.5,
+        "userReviewCount": 6
       }
     },
     {
@@ -15595,7 +16441,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2024-07-09"
+        "releaseDate": "2024-07-09",
+        "userScore": 6.1,
+        "userReviewCount": 121
       }
     },
     {
@@ -15652,7 +16500,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-11"
+        "releaseDate": "2016-03-11",
+        "userScore": 8.3,
+        "userReviewCount": 977
       }
     },
     {
@@ -15684,7 +16534,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-11"
+        "releaseDate": "2016-03-11",
+        "userScore": 8.3,
+        "userReviewCount": 977
       }
     },
     {
@@ -15718,7 +16570,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-11"
+        "releaseDate": "2020-03-11",
+        "userScore": 8.9,
+        "userReviewCount": 2914
       }
     },
     {
@@ -15752,7 +16606,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-11"
+        "releaseDate": "2026-05-11",
+        "userScore": 5.4,
+        "userReviewCount": 28
       }
     },
     {
@@ -15784,7 +16640,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-07"
+        "releaseDate": "2018-08-07",
+        "userScore": 7.8,
+        "userReviewCount": 409
       }
     },
     {
@@ -15816,7 +16674,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-07"
+        "releaseDate": "2018-08-07",
+        "userScore": 7.8,
+        "userReviewCount": 409
       }
     },
     {
@@ -15874,7 +16734,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-08-10"
+        "releaseDate": "2023-08-10",
+        "userScore": 2,
+        "userReviewCount": 5134
       }
     },
     {
@@ -15906,7 +16768,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-08-10"
+        "releaseDate": "2023-08-10",
+        "userScore": 2,
+        "userReviewCount": 5134
       }
     },
     {
@@ -15941,7 +16805,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2024-02-21"
+        "releaseDate": "2024-02-21",
+        "userScore": 6.3,
+        "userReviewCount": 328
       }
     },
     {
@@ -15975,7 +16841,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2026-07-10"
+        "releaseDate": "2026-07-10",
+        "userScore": 7.3,
+        "userReviewCount": 235
       }
     },
     {
@@ -16056,7 +16924,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2009-03-11"
+        "releaseDate": "2009-03-11",
+        "userScore": 7.8,
+        "userReviewCount": 172
       }
     },
     {
@@ -16088,7 +16958,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2013-12-09"
+        "releaseDate": "2013-12-09",
+        "userScore": 7.1,
+        "userReviewCount": 243
       }
     },
     {
@@ -16121,7 +16993,9 @@
           "Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-15"
+        "releaseDate": "2022-11-15",
+        "userScore": 7.7,
+        "userReviewCount": 688
       }
     },
     {
@@ -16154,7 +17028,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2000-05-22"
+        "releaseDate": "2000-05-22",
+        "userScore": 8.3,
+        "userReviewCount": 724
       }
     },
     {
@@ -16187,7 +17063,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2005-11-17"
+        "releaseDate": "2005-11-17",
+        "userScore": 6.4,
+        "userReviewCount": 157
       }
     },
     {
@@ -16220,7 +17098,9 @@
           "JRPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-31"
+        "releaseDate": "2020-03-31",
+        "userScore": 8.8,
+        "userReviewCount": 6929
       }
     },
     {
@@ -16256,7 +17136,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2019-12-03"
+        "releaseDate": "2019-12-03",
+        "userScore": 5.8,
+        "userReviewCount": 408
       }
     },
     {
@@ -16291,7 +17173,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-11"
+        "releaseDate": "2025-11-11",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -16324,7 +17208,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-01-28"
+        "releaseDate": "2020-01-28",
+        "userScore": 5.2,
+        "userReviewCount": 24
       }
     },
     {
@@ -16357,7 +17243,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-01-28"
+        "releaseDate": "2020-01-28",
+        "userScore": 5.2,
+        "userReviewCount": 24
       }
     },
     {
@@ -16387,7 +17275,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-29"
+        "releaseDate": "2017-08-29",
+        "userScore": 7.2,
+        "userReviewCount": 156
       }
     },
     {
@@ -16421,7 +17311,9 @@
           "Tycoon"
         ],
         "confidence": 1,
-        "releaseDate": "2024-11-06"
+        "releaseDate": "2024-11-06",
+        "userScore": 5.9,
+        "userReviewCount": 84
       }
     },
     {
@@ -16455,7 +17347,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-03-05"
+        "releaseDate": "2026-03-05",
+        "userScore": 7.8,
+        "userReviewCount": 36
       }
     },
     {
@@ -16489,7 +17383,9 @@
           "Defense"
         ],
         "confidence": 1,
-        "releaseDate": "2009-05-05"
+        "releaseDate": "2009-05-05",
+        "userScore": 8.7,
+        "userReviewCount": 1961
       }
     },
     {
@@ -16521,7 +17417,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2014-02-25"
+        "releaseDate": "2014-02-25",
+        "userScore": 7.7,
+        "userReviewCount": 621
       }
     },
     {
@@ -16553,7 +17451,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2019-09-04"
+        "releaseDate": "2019-09-04",
+        "userScore": 5.9,
+        "userReviewCount": 333
       }
     },
     {
@@ -16585,7 +17485,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-23"
+        "releaseDate": "2016-02-23",
+        "userScore": 8.4,
+        "userReviewCount": 452
       }
     },
     {
@@ -16641,7 +17543,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-10"
+        "releaseDate": "2022-11-10",
+        "userScore": 5.1,
+        "userReviewCount": 79
       }
     },
     {
@@ -16674,7 +17578,9 @@
           "Virtual Career"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-23"
+        "releaseDate": "2025-10-23",
+        "userScore": 7.3,
+        "userReviewCount": 60
       }
     },
     {
@@ -16706,7 +17612,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-05-05"
+        "releaseDate": "2017-05-05",
+        "userScore": 8,
+        "userReviewCount": 1634
       }
     },
     {
@@ -16739,7 +17647,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-05-05"
+        "releaseDate": "2017-05-05",
+        "userScore": 8,
+        "userReviewCount": 1634
       }
     },
     {
@@ -16769,7 +17679,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2024-01-18"
+        "releaseDate": "2024-01-18",
+        "userScore": 8.3,
+        "userReviewCount": 1662
       }
     },
     {
@@ -16799,7 +17711,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2024-01-18"
+        "releaseDate": "2024-01-18",
+        "userScore": 8.3,
+        "userReviewCount": 1662
       }
     },
     {
@@ -16833,7 +17747,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2005-04-20"
+        "releaseDate": "2005-04-20",
+        "userScore": 8.1,
+        "userReviewCount": 258
       }
     },
     {
@@ -16866,7 +17782,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2005-04-20"
+        "releaseDate": "2005-04-20",
+        "userScore": 8.1,
+        "userReviewCount": 258
       }
     },
     {
@@ -16900,7 +17818,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2021-08-25"
+        "releaseDate": "2021-08-25",
+        "userScore": 8.1,
+        "userReviewCount": 1983
       }
     },
     {
@@ -16933,7 +17853,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2021-08-19"
+        "releaseDate": "2021-08-19",
+        "userScore": 8.2,
+        "userReviewCount": 77
       }
     },
     {
@@ -16965,7 +17887,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2005-10-11"
+        "releaseDate": "2005-10-11",
+        "userScore": 7.6,
+        "userReviewCount": 411
       }
     },
     {
@@ -16998,7 +17922,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-08-10"
+        "releaseDate": "2023-08-10",
+        "userScore": 8.2,
+        "userReviewCount": 238
       }
     },
     {
@@ -17030,7 +17956,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2000-10-22"
+        "releaseDate": "2000-10-22",
+        "userScore": 8.4,
+        "userReviewCount": 273
       }
     },
     {
@@ -17062,7 +17990,9 @@
           "Action"
         ],
         "confidence": 1,
-        "releaseDate": "2016-04-05"
+        "releaseDate": "2016-04-05",
+        "userScore": 7.4,
+        "userReviewCount": 2544
       }
     },
     {
@@ -17095,7 +18025,9 @@
           "Action"
         ],
         "confidence": 1,
-        "releaseDate": "2016-04-05"
+        "releaseDate": "2016-04-05",
+        "userScore": 7.4,
+        "userReviewCount": 2544
       }
     },
     {
@@ -17128,7 +18060,9 @@
           "Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2026-01-12"
+        "releaseDate": "2026-01-12",
+        "userScore": 5.8,
+        "userReviewCount": 63
       }
     },
     {
@@ -17160,7 +18094,9 @@
           "Party"
         ],
         "confidence": 0.97,
-        "releaseDate": "2014-11-18"
+        "releaseDate": "2014-11-18",
+        "userScore": 6.6,
+        "userReviewCount": 14
       }
     },
     {
@@ -17194,7 +18130,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2022-06-30"
+        "releaseDate": "2022-06-30",
+        "userScore": 6.8,
+        "userReviewCount": 30
       }
     },
     {
@@ -17226,7 +18164,9 @@
           "Party"
         ],
         "confidence": 1,
-        "releaseDate": "2022-06-30"
+        "releaseDate": "2022-06-30",
+        "userScore": 6.8,
+        "userReviewCount": 30
       }
     },
     {
@@ -17259,7 +18199,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2011-10-04"
+        "releaseDate": "2011-10-04",
+        "userScore": 6.8,
+        "userReviewCount": 718
       }
     },
     {
@@ -17292,7 +18234,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-05-13"
+        "releaseDate": "2019-05-13",
+        "userScore": 5.7,
+        "userReviewCount": 988
       }
     },
     {
@@ -17325,7 +18269,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-05-13"
+        "releaseDate": "2019-05-13",
+        "userScore": 5.7,
+        "userReviewCount": 988
       }
     },
     {
@@ -17355,7 +18301,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2015-08-04"
+        "releaseDate": "2015-08-04",
+        "userScore": 8,
+        "userReviewCount": 394
       }
     },
     {
@@ -17388,7 +18336,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2013-09-03"
+        "releaseDate": "2013-09-03",
+        "userScore": 8.7,
+        "userReviewCount": 1323
       }
     },
     {
@@ -17421,7 +18371,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2013-09-03"
+        "releaseDate": "2013-09-03",
+        "userScore": 8.7,
+        "userReviewCount": 1323
       }
     },
     {
@@ -17454,7 +18406,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2016-09-13"
+        "releaseDate": "2016-09-13",
+        "userScore": 6.8,
+        "userReviewCount": 674
       }
     },
     {
@@ -17488,7 +18442,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-05-02"
+        "releaseDate": "2023-05-02",
+        "userScore": 3.6,
+        "userReviewCount": 1333
       }
     },
     {
@@ -17548,7 +18504,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-02-10"
+        "releaseDate": "2026-02-10",
+        "userScore": 1.7,
+        "userReviewCount": 83
       }
     },
     {
@@ -17583,7 +18541,9 @@
           "Soccer"
         ],
         "confidence": 1,
-        "releaseDate": "2025-06-19"
+        "releaseDate": "2025-06-19",
+        "userScore": 6.2,
+        "userReviewCount": 282
       }
     },
     {
@@ -17617,7 +18577,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2023-07-25"
+        "releaseDate": "2023-07-25",
+        "userScore": 7.2,
+        "userReviewCount": 651
       }
     },
     {
@@ -17652,7 +18614,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-14"
+        "releaseDate": "2026-04-14",
+        "userScore": 7.2,
+        "userReviewCount": 280
       }
     },
     {
@@ -17685,7 +18649,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2019-01-25"
+        "releaseDate": "2019-01-25",
+        "userScore": 8.9,
+        "userReviewCount": 8896
       }
     },
     {
@@ -17717,7 +18683,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2020-04-03"
+        "releaseDate": "2020-04-03",
+        "userScore": 6.8,
+        "userReviewCount": 5309
       }
     },
     {
@@ -17771,7 +18739,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-01-24"
+        "releaseDate": "2017-01-24",
+        "userScore": 8.2,
+        "userReviewCount": 6425
       }
     },
     {
@@ -17803,7 +18773,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-01-24"
+        "releaseDate": "2017-01-24",
+        "userScore": 8.2,
+        "userReviewCount": 6425
       }
     },
     {
@@ -17834,7 +18806,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2021-05-07"
+        "releaseDate": "2021-05-07",
+        "userScore": 8.4,
+        "userReviewCount": 5193
       }
     },
     {
@@ -17869,7 +18843,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2026-08-27"
+        "releaseDate": "2026-08-27",
+        "userScore": 8.2,
+        "userReviewCount": 80
       }
     },
     {
@@ -17932,7 +18908,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2003-05-06"
+        "releaseDate": "2003-05-06",
+        "userScore": 7.9,
+        "userReviewCount": 118
       }
     },
     {
@@ -17962,7 +18940,9 @@
           "Individual Sports"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-28"
+        "releaseDate": "2021-10-28",
+        "userScore": 6.8,
+        "userReviewCount": 257
       }
     },
     {
@@ -17992,7 +18972,9 @@
           "Individual Sports"
         ],
         "confidence": 1,
-        "releaseDate": "2021-10-28"
+        "releaseDate": "2021-10-28",
+        "userScore": 6.8,
+        "userReviewCount": 257
       }
     },
     {
@@ -18047,7 +19029,9 @@
           "Board"
         ],
         "confidence": 1,
-        "releaseDate": "2016-08-02"
+        "releaseDate": "2016-08-02",
+        "userScore": 4.6,
+        "userReviewCount": 14
       }
     },
     {
@@ -18081,7 +19065,9 @@
           "Vehicle Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2025-05-20"
+        "releaseDate": "2025-05-20",
+        "userScore": 7.8,
+        "userReviewCount": 45
       }
     },
     {
@@ -18139,7 +19125,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-02"
+        "releaseDate": "2023-11-02",
+        "userScore": 7.7,
+        "userReviewCount": 890
       }
     },
     {
@@ -18172,7 +19160,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-07"
+        "releaseDate": "2023-11-07",
+        "userScore": 8.5,
+        "userReviewCount": 97
       }
     },
     {
@@ -18205,7 +19195,9 @@
           "Soccer"
         ],
         "confidence": 1,
-        "releaseDate": "2015-07-07"
+        "releaseDate": "2015-07-07",
+        "userScore": 7.9,
+        "userReviewCount": 3104
       }
     },
     {
@@ -18238,7 +19230,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2025-12-04"
+        "releaseDate": "2025-12-04",
+        "userScore": 7.8,
+        "userReviewCount": 129
       }
     },
     {
@@ -18294,7 +19288,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-21"
+        "releaseDate": "2025-10-21",
+        "userScore": 6.2,
+        "userReviewCount": 61
       }
     },
     {
@@ -18371,7 +19367,9 @@
           "Simulation"
         ],
         "confidence": 1,
-        "releaseDate": "2015-03-03"
+        "releaseDate": "2015-03-03",
+        "userScore": 6.9,
+        "userReviewCount": 165
       }
     },
     {
@@ -18403,7 +19401,9 @@
           "Linear Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-07-05"
+        "releaseDate": "2019-07-05",
+        "userScore": 6.2,
+        "userReviewCount": 123
       }
     },
     {
@@ -18436,7 +19436,9 @@
           "Open-World Action"
         ],
         "confidence": 0.97,
-        "releaseDate": "2018-03-20"
+        "releaseDate": "2018-03-20",
+        "userScore": 5.7,
+        "userReviewCount": 2814
       }
     },
     {
@@ -18469,7 +19471,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2013-07-25"
+        "releaseDate": "2013-07-25",
+        "userScore": 7.4,
+        "userReviewCount": 1074
       }
     },
     {
@@ -18502,7 +19506,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2013-07-25"
+        "releaseDate": "2013-07-25",
+        "userScore": 7.4,
+        "userReviewCount": 1074
       }
     },
     {
@@ -18535,7 +19541,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2014-09-18"
+        "releaseDate": "2014-09-18",
+        "userScore": 8.2,
+        "userReviewCount": 348
       }
     },
     {
@@ -18568,7 +19576,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2014-09-18"
+        "releaseDate": "2014-09-18",
+        "userScore": 8.2,
+        "userReviewCount": 348
       }
     },
     {
@@ -18671,7 +19681,9 @@
           "3D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2022-02-08"
+        "releaseDate": "2022-02-08",
+        "userScore": 7.9,
+        "userReviewCount": 1422
       }
     },
     {
@@ -18703,7 +19715,9 @@
           "Skating"
         ],
         "confidence": 1,
-        "releaseDate": "2010-05-11"
+        "releaseDate": "2010-05-11",
+        "userScore": 8.6,
+        "userReviewCount": 383
       }
     },
     {
@@ -18735,7 +19749,9 @@
           "Skating"
         ],
         "confidence": 1,
-        "releaseDate": "2007-09-14"
+        "releaseDate": "2007-09-14",
+        "userScore": 8,
+        "userReviewCount": 104
       }
     },
     {
@@ -18767,7 +19783,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-02-16"
+        "releaseDate": "2024-02-16",
+        "userScore": 3.3,
+        "userReviewCount": 778
       }
     },
     {
@@ -18797,7 +19815,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-02-16"
+        "releaseDate": "2024-02-16",
+        "userScore": 3.3,
+        "userReviewCount": 778
       }
     },
     {
@@ -18875,7 +19895,9 @@
           "Vehicle Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2020-04-28"
+        "releaseDate": "2020-04-28",
+        "userScore": 7.2,
+        "userReviewCount": 393
       }
     },
     {
@@ -18907,7 +19929,9 @@
           "Vehicle Sim"
         ],
         "confidence": 0.97,
-        "releaseDate": "2020-04-28"
+        "releaseDate": "2020-04-28",
+        "userScore": 7.2,
+        "userReviewCount": 393
       }
     },
     {
@@ -18943,7 +19967,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2026-06-08"
+        "releaseDate": "2026-06-08",
+        "userScore": 5.2,
+        "userReviewCount": 9
       }
     },
     {
@@ -18978,7 +20004,9 @@
           "Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-07"
+        "releaseDate": "2025-10-07",
+        "userScore": 6.4,
+        "userReviewCount": 5
       }
     },
     {
@@ -19011,7 +20039,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-08"
+        "releaseDate": "2025-04-08",
+        "userScore": 6.8,
+        "userReviewCount": 876
       }
     },
     {
@@ -19043,7 +20073,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-03-04"
+        "releaseDate": "2014-03-04",
+        "userScore": 8.5,
+        "userReviewCount": 2979
       }
     },
     {
@@ -19076,7 +20108,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-17"
+        "releaseDate": "2017-10-17",
+        "userScore": 7.8,
+        "userReviewCount": 934
       }
     },
     {
@@ -19106,7 +20140,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-17"
+        "releaseDate": "2017-10-17",
+        "userScore": 7.8,
+        "userReviewCount": 934
       }
     },
     {
@@ -19139,7 +20175,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-03-04"
+        "releaseDate": "2014-03-04",
+        "userScore": 8.5,
+        "userReviewCount": 2979
       }
     },
     {
@@ -19174,7 +20212,9 @@
           "Sandbox"
         ],
         "confidence": 0.97,
-        "releaseDate": "2020-08-18"
+        "releaseDate": "2020-08-18",
+        "userScore": 8.2,
+        "userReviewCount": 388
       }
     },
     {
@@ -19209,7 +20249,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-04"
+        "releaseDate": "2024-10-04",
+        "userScore": 6.3,
+        "userReviewCount": 48
       }
     },
     {
@@ -19241,7 +20283,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-13"
+        "releaseDate": "2018-11-13",
+        "userScore": 8.3,
+        "userReviewCount": 1138
       }
     },
     {
@@ -19273,7 +20317,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2018-11-13"
+        "releaseDate": "2018-11-13",
+        "userScore": 8.3,
+        "userReviewCount": 1138
       }
     },
     {
@@ -19305,7 +20351,9 @@
           "Skiing"
         ],
         "confidence": 1,
-        "releaseDate": "2012-02-28"
+        "releaseDate": "2012-02-28",
+        "userScore": 6.5,
+        "userReviewCount": 219
       }
     },
     {
@@ -19338,7 +20386,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2011-02-09"
+        "releaseDate": "2011-02-09",
+        "userScore": 8,
+        "userReviewCount": 55
       }
     },
     {
@@ -19372,7 +20422,9 @@
           "Space Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-03"
+        "releaseDate": "2024-09-03",
+        "userScore": 6.5,
+        "userReviewCount": 35
       }
     },
     {
@@ -19404,7 +20456,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-11-15"
+        "releaseDate": "2019-11-15",
+        "userScore": 7.6,
+        "userReviewCount": 6229
       }
     },
     {
@@ -19436,7 +20490,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-28"
+        "releaseDate": "2023-04-28",
+        "userScore": 7.1,
+        "userReviewCount": 3499
       }
     },
     {
@@ -19468,7 +20524,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-28"
+        "releaseDate": "2023-04-28",
+        "userScore": 7.1,
+        "userReviewCount": 3499
       }
     },
     {
@@ -19498,7 +20556,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2024-08-27"
+        "releaseDate": "2024-08-27",
+        "userScore": 5.6,
+        "userReviewCount": 3494
       }
     },
     {
@@ -19528,7 +20588,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2024-08-27"
+        "releaseDate": "2024-08-27",
+        "userScore": 5.6,
+        "userReviewCount": 3494
       }
     },
     {
@@ -19560,7 +20622,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2015-11-17"
+        "releaseDate": "2015-11-17",
+        "userScore": 5.2,
+        "userReviewCount": 2890
       }
     },
     {
@@ -19592,7 +20656,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-14"
+        "releaseDate": "2017-11-14",
+        "userScore": 2,
+        "userReviewCount": 9491
       }
     },
     {
@@ -19628,7 +20694,9 @@
           "Space Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-02"
+        "releaseDate": "2020-10-02",
+        "userScore": 5.7,
+        "userReviewCount": 542
       }
     },
     {
@@ -19682,7 +20750,9 @@
           "Command RTS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-14"
+        "releaseDate": "2017-08-14",
+        "userScore": 8,
+        "userReviewCount": 331
       }
     },
     {
@@ -19716,7 +20786,9 @@
           "Virtual Life"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-26"
+        "releaseDate": "2016-02-26",
+        "userScore": 8.8,
+        "userReviewCount": 3402
       }
     },
     {
@@ -19750,7 +20822,9 @@
           "Virtual Life"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-26"
+        "releaseDate": "2016-02-26",
+        "userScore": 8.8,
+        "userReviewCount": 3402
       }
     },
     {
@@ -19783,7 +20857,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-09-06"
+        "releaseDate": "2023-09-06",
+        "userScore": 6.8,
+        "userReviewCount": 13625
       }
     },
     {
@@ -19813,7 +20889,9 @@
           "Space Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2018-10-16"
+        "releaseDate": "2018-10-16",
+        "userScore": 7.7,
+        "userReviewCount": 263
       }
     },
     {
@@ -19845,7 +20923,9 @@
           "Space Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2018-10-16"
+        "releaseDate": "2018-10-16",
+        "userScore": 7.7,
+        "userReviewCount": 263
       }
     },
     {
@@ -19883,7 +20963,9 @@
           "Virtual Life"
         ],
         "confidence": 1,
-        "releaseDate": "2026-08-18"
+        "releaseDate": "2026-08-18",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -19964,7 +21046,9 @@
           "Survival"
         ],
         "confidence": 0.97,
-        "releaseDate": "2013-06-05"
+        "releaseDate": "2013-06-05",
+        "userScore": 7.8,
+        "userReviewCount": 640
       }
     },
     {
@@ -19996,7 +21080,9 @@
           "Skiing"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-29"
+        "releaseDate": "2016-11-29",
+        "userScore": 6.5,
+        "userReviewCount": 389
       }
     },
     {
@@ -20026,7 +21112,9 @@
           "Skiing"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-29"
+        "releaseDate": "2016-11-29",
+        "userScore": 6.5,
+        "userReviewCount": 389
       }
     },
     {
@@ -20083,7 +21171,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2014-10-28"
+        "releaseDate": "2014-10-28",
+        "userScore": 7.9,
+        "userReviewCount": 1650
       }
     },
     {
@@ -20116,7 +21206,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2014-10-28"
+        "releaseDate": "2014-10-28",
+        "userScore": 7.9,
+        "userReviewCount": 1650
       }
     },
     {
@@ -20149,7 +21241,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-07"
+        "releaseDate": "2017-11-07",
+        "userScore": 7,
+        "userReviewCount": 204
       }
     },
     {
@@ -20183,7 +21277,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2026-03-31"
+        "releaseDate": "2026-03-31",
+        "userScore": 7,
+        "userReviewCount": 81
       }
     },
     {
@@ -20218,7 +21314,9 @@
           "Baseball"
         ],
         "confidence": 1,
-        "releaseDate": "2020-05-13"
+        "releaseDate": "2020-05-13",
+        "userScore": 6.9,
+        "userReviewCount": 18
       }
     },
     {
@@ -20252,7 +21350,9 @@
           "Baseball"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-02"
+        "releaseDate": "2023-06-02",
+        "userScore": 7.7,
+        "userReviewCount": 28
       }
     },
     {
@@ -20312,7 +21412,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-07-16"
+        "releaseDate": "2020-07-16",
+        "userScore": 6.8,
+        "userReviewCount": 244
       }
     },
     {
@@ -20347,7 +21449,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2019-11-12"
+        "releaseDate": "2019-11-12",
+        "userScore": 7.7,
+        "userReviewCount": 551
       }
     },
     {
@@ -20427,7 +21531,9 @@
           "2D Platformer"
         ],
         "confidence": 0.889,
-        "releaseDate": "2024-12-05"
+        "releaseDate": "2024-12-05",
+        "userScore": 6.7,
+        "userReviewCount": 19
       }
     },
     {
@@ -20461,7 +21567,9 @@
           "Metroidvania"
         ],
         "confidence": 1,
-        "releaseDate": "2024-04-23"
+        "releaseDate": "2024-04-23",
+        "userScore": 4.9,
+        "userReviewCount": 346
       }
     },
     {
@@ -20494,7 +21602,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-10"
+        "releaseDate": "2026-04-10",
+        "userScore": 8.3,
+        "userReviewCount": 6
       }
     },
     {
@@ -20549,7 +21659,9 @@
           "Turn-Based Tactics"
         ],
         "confidence": 1,
-        "releaseDate": "2020-03-18"
+        "releaseDate": "2020-03-18",
+        "userScore": 3.8,
+        "userReviewCount": 156
       }
     },
     {
@@ -20602,7 +21714,9 @@
           "Adventure"
         ],
         "confidence": 0.97,
-        "releaseDate": "2020-08-27"
+        "releaseDate": "2020-08-27",
+        "userScore": 5.7,
+        "userReviewCount": 450
       }
     },
     {
@@ -20637,7 +21751,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2025-04-17"
+        "releaseDate": "2025-04-17",
+        "userScore": null,
+        "userReviewCount": null
       }
     },
     {
@@ -20697,7 +21813,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2013-03-27"
+        "releaseDate": "2013-03-27",
+        "userScore": 8.4,
+        "userReviewCount": 1367
       }
     },
     {
@@ -20730,7 +21848,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-30"
+        "releaseDate": "2026-04-30",
+        "userScore": 6,
+        "userReviewCount": 5
       }
     },
     {
@@ -20763,7 +21883,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2025-06-13"
+        "releaseDate": "2025-06-13",
+        "userScore": 8.2,
+        "userReviewCount": 664
       }
     },
     {
@@ -20822,7 +21944,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2019-08-27"
+        "releaseDate": "2019-08-27",
+        "userScore": 7.1,
+        "userReviewCount": 66
       }
     },
     {
@@ -20880,7 +22004,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-03"
+        "releaseDate": "2024-09-03",
+        "userScore": 5.7,
+        "userReviewCount": 249
       }
     },
     {
@@ -20912,7 +22038,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2013-01-23"
+        "releaseDate": "2013-01-23",
+        "userScore": 7.7,
+        "userReviewCount": 107
       }
     },
     {
@@ -20942,7 +22070,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2023-09-14"
+        "releaseDate": "2023-09-14",
+        "userScore": 7.1,
+        "userReviewCount": 742
       }
     },
     {
@@ -20974,7 +22104,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2023-09-14"
+        "releaseDate": "2023-09-14",
+        "userScore": 7.1,
+        "userReviewCount": 742
       }
     },
     {
@@ -21006,7 +22138,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2023-09-14"
+        "releaseDate": "2023-09-14",
+        "userScore": 7.1,
+        "userReviewCount": 742
       }
     },
     {
@@ -21038,7 +22172,9 @@
           "Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2018-06-26"
+        "releaseDate": "2018-06-26",
+        "userScore": 5.8,
+        "userReviewCount": 674
       }
     },
     {
@@ -21068,7 +22204,9 @@
           "Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2018-06-26"
+        "releaseDate": "2018-06-26",
+        "userScore": 5.8,
+        "userReviewCount": 674
       }
     },
     {
@@ -21122,7 +22260,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2002-06-06"
+        "releaseDate": "2002-06-06",
+        "userScore": 8.4,
+        "userReviewCount": 354
       }
     },
     {
@@ -21154,7 +22294,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2006-03-20"
+        "releaseDate": "2006-03-20",
+        "userScore": 8.5,
+        "userReviewCount": 1853
       }
     },
     {
@@ -21186,7 +22328,9 @@
           "Western RPG"
         ],
         "confidence": 0.97,
-        "releaseDate": "2025-04-22"
+        "releaseDate": "2025-04-22",
+        "userScore": 7.4,
+        "userReviewCount": 987
       }
     },
     {
@@ -21219,7 +22363,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2006-03-20"
+        "releaseDate": "2006-03-20",
+        "userScore": 8.5,
+        "userReviewCount": 1853
       }
     },
     {
@@ -21250,7 +22396,9 @@
           "MMORPG"
         ],
         "confidence": 1,
-        "releaseDate": "2014-04-04"
+        "releaseDate": "2014-04-04",
+        "userScore": 5.7,
+        "userReviewCount": 2853
       }
     },
     {
@@ -21282,7 +22430,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-17"
+        "releaseDate": "2017-11-17",
+        "userScore": 8.3,
+        "userReviewCount": 1170
       }
     },
     {
@@ -21314,7 +22464,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2017-11-17"
+        "releaseDate": "2017-11-17",
+        "userScore": 8.3,
+        "userReviewCount": 1170
       }
     },
     {
@@ -21346,7 +22498,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2014-10-14"
+        "releaseDate": "2014-10-14",
+        "userScore": 7.7,
+        "userReviewCount": 2407
       }
     },
     {
@@ -21378,7 +22532,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2014-10-14"
+        "releaseDate": "2014-10-14",
+        "userScore": 7.7,
+        "userReviewCount": 2407
       }
     },
     {
@@ -21410,7 +22566,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-13"
+        "releaseDate": "2017-10-13",
+        "userScore": 7.8,
+        "userReviewCount": 1713
       }
     },
     {
@@ -21442,7 +22600,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-13"
+        "releaseDate": "2017-10-13",
+        "userScore": 7.8,
+        "userReviewCount": 1713
       }
     },
     {
@@ -21475,7 +22635,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-07"
+        "releaseDate": "2023-12-07",
+        "userScore": 6.8,
+        "userReviewCount": 586
       }
     },
     {
@@ -21510,7 +22672,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2024-06-30"
+        "releaseDate": "2024-06-30",
+        "userScore": 6.2,
+        "userReviewCount": 382
       }
     },
     {
@@ -21544,7 +22708,9 @@
           "3D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2021-12-16"
+        "releaseDate": "2021-12-16",
+        "userScore": 6.7,
+        "userReviewCount": 246
       }
     },
     {
@@ -21578,7 +22744,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-01"
+        "releaseDate": "2017-08-01",
+        "userScore": 6.9,
+        "userReviewCount": 708
       }
     },
     {
@@ -21612,7 +22780,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2017-08-01"
+        "releaseDate": "2017-08-01",
+        "userScore": 6.9,
+        "userReviewCount": 708
       }
     },
     {
@@ -21645,7 +22815,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-25"
+        "releaseDate": "2019-10-25",
+        "userScore": 7.7,
+        "userReviewCount": 2120
       }
     },
     {
@@ -21678,7 +22850,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-10-29"
+        "releaseDate": "2025-10-29",
+        "userScore": 6.8,
+        "userReviewCount": 680
       }
     },
     {
@@ -21711,7 +22885,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-03-07"
+        "releaseDate": "2023-03-07",
+        "userScore": 6.6,
+        "userReviewCount": 154
       }
     },
     {
@@ -21744,7 +22920,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-03-07"
+        "releaseDate": "2023-03-07",
+        "userScore": 6.6,
+        "userReviewCount": 154
       }
     },
     {
@@ -21777,7 +22955,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2022-03-24"
+        "releaseDate": "2022-03-24",
+        "userScore": 5.9,
+        "userReviewCount": 129
       }
     },
     {
@@ -21810,7 +22990,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-20"
+        "releaseDate": "2025-08-20",
+        "userScore": 7.5,
+        "userReviewCount": 146
       }
     },
     {
@@ -21842,7 +23024,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-20"
+        "releaseDate": "2025-08-20",
+        "userScore": 7.5,
+        "userReviewCount": 146
       }
     },
     {
@@ -21874,7 +23058,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2023-02-17"
+        "releaseDate": "2023-02-17",
+        "userScore": 3.6,
+        "userReviewCount": 125
       }
     },
     {
@@ -21904,7 +23090,9 @@
           "Management"
         ],
         "confidence": 1,
-        "releaseDate": "2023-02-17"
+        "releaseDate": "2023-02-17",
+        "userScore": 3.6,
+        "userReviewCount": 125
       }
     },
     {
@@ -21958,7 +23146,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2023-11-02"
+        "releaseDate": "2023-11-02",
+        "userScore": 8.4,
+        "userReviewCount": 254
       }
     },
     {
@@ -21991,7 +23181,9 @@
           "RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-03-04"
+        "releaseDate": "2024-03-04",
+        "userScore": 7.1,
+        "userReviewCount": 182
       }
     },
     {
@@ -22127,7 +23319,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2015-05-19"
+        "releaseDate": "2015-05-19",
+        "userScore": 9.1,
+        "userReviewCount": 19955
       }
     },
     {
@@ -22163,7 +23357,9 @@
           "Hunting"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-16"
+        "releaseDate": "2017-02-16",
+        "userScore": 6.4,
+        "userReviewCount": 226
       }
     },
     {
@@ -22199,7 +23395,9 @@
           "Hunting"
         ],
         "confidence": 1,
-        "releaseDate": "2017-02-16"
+        "releaseDate": "2017-02-16",
+        "userScore": 6.4,
+        "userReviewCount": 226
       }
     },
     {
@@ -22233,7 +23431,9 @@
           "Tycoon"
         ],
         "confidence": 1,
-        "releaseDate": "2025-08-07"
+        "releaseDate": "2025-08-07",
+        "userScore": 6.6,
+        "userReviewCount": 18
       }
     },
     {
@@ -22265,7 +23465,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2016-10-28"
+        "releaseDate": "2016-10-28",
+        "userScore": 8.6,
+        "userReviewCount": 3360
       }
     },
     {
@@ -22298,7 +23500,9 @@
           "Third-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-05-28"
+        "releaseDate": "2025-05-28",
+        "userScore": 4.4,
+        "userReviewCount": 12
       }
     },
     {
@@ -22330,7 +23534,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-01"
+        "releaseDate": "2019-10-01",
+        "userScore": 3.6,
+        "userReviewCount": 1314
       }
     },
     {
@@ -22362,7 +23568,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2017-03-07"
+        "releaseDate": "2017-03-07",
+        "userScore": 6.6,
+        "userReviewCount": 1320
       }
     },
     {
@@ -22392,7 +23600,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2017-03-07"
+        "releaseDate": "2017-03-07",
+        "userScore": 6.6,
+        "userReviewCount": 1320
       }
     },
     {
@@ -22422,7 +23632,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2019-10-01"
+        "releaseDate": "2019-10-01",
+        "userScore": 3.6,
+        "userReviewCount": 1314
       }
     },
     {
@@ -22452,7 +23664,9 @@
           "Tactical FPS"
         ],
         "confidence": 0.97,
-        "releaseDate": "2015-12-01"
+        "releaseDate": "2015-12-01",
+        "userScore": 7,
+        "userReviewCount": 1720
       }
     },
     {
@@ -22485,7 +23699,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-01-20"
+        "releaseDate": "2022-01-20",
+        "userScore": 5.2,
+        "userReviewCount": 217
       }
     },
     {
@@ -22515,7 +23731,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-01-20"
+        "releaseDate": "2022-01-20",
+        "userScore": 5.2,
+        "userReviewCount": 217
       }
     },
     {
@@ -22545,7 +23763,9 @@
           "Tactical FPS"
         ],
         "confidence": 0.97,
-        "releaseDate": "2015-12-01"
+        "releaseDate": "2015-12-01",
+        "userScore": 7,
+        "userReviewCount": 1720
       }
     },
     {
@@ -22577,7 +23797,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-08"
+        "releaseDate": "2016-03-08",
+        "userScore": 7,
+        "userReviewCount": 2804
       }
     },
     {
@@ -22611,7 +23833,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-08"
+        "releaseDate": "2016-03-08",
+        "userScore": 7,
+        "userReviewCount": 2804
       }
     },
     {
@@ -22645,7 +23869,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2019-03-12"
+        "releaseDate": "2019-03-12",
+        "userScore": 6.3,
+        "userReviewCount": 1839
       }
     },
     {
@@ -22675,7 +23901,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2019-03-12"
+        "releaseDate": "2019-03-12",
+        "userScore": 6.3,
+        "userReviewCount": 1839
       }
     },
     {
@@ -22706,7 +23934,9 @@
           "Compilation"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-11"
+        "releaseDate": "2025-07-11",
+        "userScore": 6.8,
+        "userReviewCount": 155
       }
     },
     {
@@ -22739,7 +23969,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2016-01-26"
+        "releaseDate": "2016-01-26",
+        "userScore": 6.9,
+        "userReviewCount": 463
       }
     },
     {
@@ -22771,7 +24003,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2016-01-26"
+        "releaseDate": "2016-01-26",
+        "userScore": 6.9,
+        "userReviewCount": 463
       }
     },
     {
@@ -22805,7 +24039,9 @@
           "Survival"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-20"
+        "releaseDate": "2025-11-20",
+        "userScore": 6.7,
+        "userReviewCount": 82
       }
     },
     {
@@ -22865,7 +24101,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2021-04-01"
+        "releaseDate": "2021-04-01",
+        "userScore": 5.1,
+        "userReviewCount": 49
       }
     },
     {
@@ -22898,7 +24136,9 @@
           "2D Beat-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2026-02-26"
+        "releaseDate": "2026-02-26",
+        "userScore": 7.4,
+        "userReviewCount": 8
       }
     },
     {
@@ -22930,7 +24170,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-22"
+        "releaseDate": "2016-03-22",
+        "userScore": 7.5,
+        "userReviewCount": 261
       }
     },
     {
@@ -22962,7 +24204,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2016-03-22"
+        "releaseDate": "2016-03-22",
+        "userScore": 7.5,
+        "userReviewCount": 261
       }
     },
     {
@@ -23040,7 +24284,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-09-18"
+        "releaseDate": "2018-09-18",
+        "userScore": 6.1,
+        "userReviewCount": 40
       }
     },
     {
@@ -23072,7 +24318,9 @@
           "First-Person Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-09-18"
+        "releaseDate": "2018-09-18",
+        "userScore": 6.1,
+        "userReviewCount": 40
       }
     },
     {
@@ -23106,7 +24354,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2023-06-21"
+        "releaseDate": "2023-06-21",
+        "userScore": 7.4,
+        "userReviewCount": 154
       }
     },
     {
@@ -23138,7 +24388,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2014-04-15"
+        "releaseDate": "2014-04-15",
+        "userScore": 7,
+        "userReviewCount": 343
       }
     },
     {
@@ -23170,7 +24422,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2014-04-15"
+        "releaseDate": "2014-04-15",
+        "userScore": 7,
+        "userReviewCount": 343
       }
     },
     {
@@ -23204,7 +24458,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-04-24"
+        "releaseDate": "2020-04-24",
+        "userScore": 7.6,
+        "userReviewCount": 220
       }
     },
     {
@@ -23236,7 +24492,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2016-06-13"
+        "releaseDate": "2016-06-13",
+        "userScore": 5.7,
+        "userReviewCount": 38
       }
     },
     {
@@ -23268,7 +24526,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2016-06-13"
+        "releaseDate": "2016-06-13",
+        "userScore": 5.7,
+        "userReviewCount": 38
       }
     },
     {
@@ -23300,7 +24560,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-26"
+        "releaseDate": "2019-02-26",
+        "userScore": 6.3,
+        "userReviewCount": 109
       }
     },
     {
@@ -23332,7 +24594,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2019-02-26"
+        "releaseDate": "2019-02-26",
+        "userScore": 6.3,
+        "userReviewCount": 109
       }
     },
     {
@@ -23365,7 +24629,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2022-03-16"
+        "releaseDate": "2022-03-16",
+        "userScore": 7.9,
+        "userReviewCount": 952
       }
     },
     {
@@ -23473,7 +24739,9 @@
           "Combat Sport"
         ],
         "confidence": 1,
-        "releaseDate": "2024-10-11"
+        "releaseDate": "2024-10-11",
+        "userScore": 4.4,
+        "userReviewCount": 164
       }
     },
     {
@@ -23509,7 +24777,9 @@
           "Board"
         ],
         "confidence": 1,
-        "releaseDate": "2016-08-16"
+        "releaseDate": "2016-08-16",
+        "userScore": 6.5,
+        "userReviewCount": 66
       }
     },
     {
@@ -23545,7 +24815,9 @@
           "Board"
         ],
         "confidence": 1,
-        "releaseDate": "2016-08-16"
+        "releaseDate": "2016-08-16",
+        "userScore": 6.5,
+        "userReviewCount": 66
       }
     },
     {
@@ -23577,7 +24849,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2016-02-09"
+        "releaseDate": "2016-02-09",
+        "userScore": 8,
+        "userReviewCount": 653
       }
     },
     {
@@ -23609,7 +24883,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2018-06-09"
+        "releaseDate": "2018-06-09",
+        "userScore": 7.6,
+        "userReviewCount": 436
       }
     },
     {
@@ -23642,7 +24918,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2014-06-24"
+        "releaseDate": "2014-06-24",
+        "userScore": 8.3,
+        "userReviewCount": 913
       }
     },
     {
@@ -23674,7 +24952,9 @@
           "2D Platformer"
         ],
         "confidence": 1,
-        "releaseDate": "2014-06-24"
+        "releaseDate": "2014-06-24",
+        "userScore": 8.3,
+        "userReviewCount": 913
       }
     },
     {
@@ -23707,7 +24987,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2020-06-02"
+        "releaseDate": "2020-06-02",
+        "userScore": 4.7,
+        "userReviewCount": 5069
       }
     },
     {
@@ -23742,7 +25024,9 @@
           "Card Battle"
         ],
         "confidence": 1,
-        "releaseDate": "2026-04-21"
+        "releaseDate": "2026-04-21",
+        "userScore": 7.8,
+        "userReviewCount": 119
       }
     },
     {
@@ -23775,7 +25059,9 @@
           "Top-Down Shoot-'Em-Up"
         ],
         "confidence": 1,
-        "releaseDate": "2022-10-20"
+        "releaseDate": "2022-10-20",
+        "userScore": 8.1,
+        "userReviewCount": 1007
       }
     },
     {
@@ -23833,7 +25119,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-08-29"
+        "releaseDate": "2024-08-29",
+        "userScore": 8.1,
+        "userReviewCount": 319
       }
     },
     {
@@ -23935,7 +25223,9 @@
           "Sandbox"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-07"
+        "releaseDate": "2025-11-07",
+        "userScore": 6,
+        "userReviewCount": 22
       }
     },
     {
@@ -23970,7 +25260,9 @@
           "Vehicle Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2014-06-03"
+        "releaseDate": "2014-06-03",
+        "userScore": 4.1,
+        "userReviewCount": 1001
       }
     },
     {
@@ -24046,7 +25338,9 @@
           "Real-Time Strategy"
         ],
         "confidence": 1,
-        "releaseDate": "2020-01-28"
+        "releaseDate": "2020-01-28",
+        "userScore": 0.6,
+        "userReviewCount": 31274
       }
     },
     {
@@ -24081,7 +25375,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2022-11-30"
+        "releaseDate": "2022-11-30",
+        "userScore": 5.5,
+        "userReviewCount": 279
       }
     },
     {
@@ -24117,7 +25413,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-12-07"
+        "releaseDate": "2023-12-07",
+        "userScore": 7.8,
+        "userReviewCount": 293
       }
     },
     {
@@ -24151,7 +25449,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2024-09-05"
+        "releaseDate": "2024-09-05",
+        "userScore": 7.9,
+        "userReviewCount": 1640
       }
     },
     {
@@ -24185,7 +25485,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2018-03-08"
+        "releaseDate": "2018-03-08",
+        "userScore": 7.3,
+        "userReviewCount": 472
       }
     },
     {
@@ -24219,7 +25521,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-04-12"
+        "releaseDate": "2023-04-12",
+        "userScore": 7.6,
+        "userReviewCount": 140
       }
     },
     {
@@ -24251,7 +25555,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-08-28"
+        "releaseDate": "2020-08-28",
+        "userScore": 7.7,
+        "userReviewCount": 669
       }
     },
     {
@@ -24283,7 +25589,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-08-28"
+        "releaseDate": "2020-08-28",
+        "userScore": 7.7,
+        "userReviewCount": 669
       }
     },
     {
@@ -24318,7 +25626,9 @@
           "Western RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2020-02-25"
+        "releaseDate": "2020-02-25",
+        "userScore": 6.7,
+        "userReviewCount": 19
       }
     },
     {
@@ -24350,7 +25660,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-29"
+        "releaseDate": "2020-10-29",
+        "userScore": 5.8,
+        "userReviewCount": 1033
       }
     },
     {
@@ -24380,7 +25692,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2020-10-29"
+        "releaseDate": "2020-10-29",
+        "userScore": 5.8,
+        "userReviewCount": 1033
       }
     },
     {
@@ -24412,7 +25726,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-15"
+        "releaseDate": "2016-11-15",
+        "userScore": 7.5,
+        "userReviewCount": 2827
       }
     },
     {
@@ -24442,7 +25758,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2016-11-15"
+        "releaseDate": "2016-11-15",
+        "userScore": 7.5,
+        "userReviewCount": 2827
       }
     },
     {
@@ -24474,7 +25792,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-05-27"
+        "releaseDate": "2014-05-27",
+        "userScore": 6.8,
+        "userReviewCount": 4590
       }
     },
     {
@@ -24506,7 +25826,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2014-05-27"
+        "releaseDate": "2014-05-27",
+        "userScore": 6.8,
+        "userReviewCount": 4590
       }
     },
     {
@@ -24538,7 +25860,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2018-08-10"
+        "releaseDate": "2018-08-10",
+        "userScore": 6,
+        "userReviewCount": 312
       }
     },
     {
@@ -24572,7 +25896,9 @@
           "Open-World Action"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-23"
+        "releaseDate": "2025-07-23",
+        "userScore": 6.4,
+        "userReviewCount": 34
       }
     },
     {
@@ -24607,7 +25933,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-14"
+        "releaseDate": "2025-11-14",
+        "userScore": 7,
+        "userReviewCount": 464
       }
     },
     {
@@ -24639,7 +25967,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-02-17"
+        "releaseDate": "2023-02-17",
+        "userScore": 6.5,
+        "userReviewCount": 206
       }
     },
     {
@@ -24672,7 +26002,9 @@
           "Tactical FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-22"
+        "releaseDate": "2025-07-22",
+        "userScore": 7,
+        "userReviewCount": 13
       }
     },
     {
@@ -24731,7 +26063,9 @@
           "Action Adventure"
         ],
         "confidence": 1,
-        "releaseDate": "2025-11-12"
+        "releaseDate": "2025-11-12",
+        "userScore": 6.4,
+        "userReviewCount": 29
       }
     },
     {
@@ -24766,7 +26100,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2023-03-03"
+        "releaseDate": "2023-03-03",
+        "userScore": 6.7,
+        "userReviewCount": 701
       }
     },
     {
@@ -24825,7 +26161,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2009-06-03"
+        "releaseDate": "2009-06-03",
+        "userScore": 7.2,
+        "userReviewCount": 63
       }
     },
     {
@@ -24857,7 +26195,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2009-06-03"
+        "releaseDate": "2009-06-03",
+        "userScore": 7.2,
+        "userReviewCount": 63
       }
     },
     {
@@ -24910,7 +26250,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2014-05-20"
+        "releaseDate": "2014-05-20",
+        "userScore": 8,
+        "userReviewCount": 2444
       }
     },
     {
@@ -24942,7 +26284,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2014-05-20"
+        "releaseDate": "2014-05-20",
+        "userScore": 8,
+        "userReviewCount": 2444
       }
     },
     {
@@ -24974,7 +26318,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2015-05-05"
+        "releaseDate": "2015-05-05",
+        "userScore": 7.6,
+        "userReviewCount": 829
       }
     },
     {
@@ -25006,7 +26352,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2015-05-05"
+        "releaseDate": "2015-05-05",
+        "userScore": 7.6,
+        "userReviewCount": 829
       }
     },
     {
@@ -25039,7 +26387,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-07-26"
+        "releaseDate": "2019-07-26",
+        "userScore": 2.6,
+        "userReviewCount": 1122
       }
     },
     {
@@ -25072,7 +26422,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2019-07-26"
+        "releaseDate": "2019-07-26",
+        "userScore": 2.6,
+        "userReviewCount": 1122
       }
     },
     {
@@ -25105,7 +26457,9 @@
           "FPS"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-27"
+        "releaseDate": "2017-10-27",
+        "userScore": 7.4,
+        "userReviewCount": 2129
       }
     },
     {
@@ -25163,7 +26517,9 @@
           "Vehicle Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2026-05-26"
+        "releaseDate": "2026-05-26",
+        "userScore": 7.3,
+        "userReviewCount": 4
       }
     },
     {
@@ -25197,7 +26553,9 @@
           "Marine Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2015-09-17"
+        "releaseDate": "2015-09-17",
+        "userScore": 5.5,
+        "userReviewCount": 482
       }
     },
     {
@@ -25233,7 +26591,9 @@
           "Marine Combat Sim"
         ],
         "confidence": 1,
-        "releaseDate": "2019-04-16"
+        "releaseDate": "2019-04-16",
+        "userScore": 6.4,
+        "userReviewCount": 96
       }
     },
     {
@@ -25264,7 +26624,9 @@
           "Tactical Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2021-09-21"
+        "releaseDate": "2021-09-21",
+        "userScore": 6.6,
+        "userReviewCount": 115
       }
     },
     {
@@ -25297,7 +26659,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2018-06-14"
+        "releaseDate": "2018-06-14",
+        "userScore": 7.4,
+        "userReviewCount": 391
       }
     },
     {
@@ -25330,7 +26694,9 @@
           "Auto Racing"
         ],
         "confidence": 1,
-        "releaseDate": "2018-06-14"
+        "releaseDate": "2018-06-14",
+        "userScore": 7.4,
+        "userReviewCount": 391
       }
     },
     {
@@ -25363,7 +26729,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-24"
+        "releaseDate": "2025-07-24",
+        "userScore": 6.8,
+        "userReviewCount": 967
       }
     },
     {
@@ -25396,7 +26764,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2025-07-24"
+        "releaseDate": "2025-07-24",
+        "userScore": 6.8,
+        "userReviewCount": 967
       }
     },
     {
@@ -25430,7 +26800,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-05-23"
+        "releaseDate": "2024-05-23",
+        "userScore": 7.1,
+        "userReviewCount": 605
       }
     },
     {
@@ -25490,7 +26862,9 @@
           "Action RPG"
         ],
         "confidence": 1,
-        "releaseDate": "2024-07-02"
+        "releaseDate": "2024-07-02",
+        "userScore": 7,
+        "userReviewCount": 787
       }
     },
     {
@@ -25522,7 +26896,9 @@
           "Survival"
         ],
         "confidence": 0.889,
-        "releaseDate": "2012-11-18"
+        "releaseDate": "2012-11-18",
+        "userScore": 7.7,
+        "userReviewCount": 808
       }
     },
     {
@@ -25554,7 +26930,9 @@
           "Survival"
         ],
         "confidence": 0.889,
-        "releaseDate": "2012-11-18"
+        "releaseDate": "2012-11-18",
+        "userScore": 7.7,
+        "userReviewCount": 808
       }
     },
     {
@@ -25588,7 +26966,9 @@
           "Third Person Shooter"
         ],
         "confidence": 1,
-        "releaseDate": "2020-02-04"
+        "releaseDate": "2020-02-04",
+        "userScore": 6.4,
+        "userReviewCount": 212
       }
     },
     {
@@ -25621,7 +27001,9 @@
           "Tycoon"
         ],
         "confidence": 1,
-        "releaseDate": "2017-10-31"
+        "releaseDate": "2017-10-31",
+        "userScore": 5.8,
+        "userReviewCount": 31
       }
     },
     {
@@ -25653,7 +27035,9 @@
           "Matching Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2005-11-22"
+        "releaseDate": "2005-11-22",
+        "userScore": 6.9,
+        "userReviewCount": 42
       }
     },
     {
@@ -25686,7 +27070,9 @@
           "Action Puzzle"
         ],
         "confidence": 1,
-        "releaseDate": "2009-09-15"
+        "releaseDate": "2009-09-15",
+        "userScore": 7.6,
+        "userReviewCount": 75
       }
     }
   ]
