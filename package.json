@@ -1,0 +1,13 @@
+{
+  "name": "xgp-metacritic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Xbox Game Pass catalog ranked by Metacritic critic score",
+  "scripts": {
+    "fetch:xgp": "node scripts/fetch-xgp.mjs",
+    "fetch:mc": "node scripts/fetch-metacritic.mjs",
+    "build": "node scripts/fetch-xgp.mjs && node scripts/fetch-metacritic.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
