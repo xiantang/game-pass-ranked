@@ -131,6 +131,14 @@
         <option value="75">75+ · Generally favorable</option>
         <option value="60">60+</option>
       </select>
+      <select id="since">
+        <option value="0">Any year</option>
+        <option value="2025">2025 or newer</option>
+        <option value="2023">2023 or newer</option>
+        <option value="2020">2020 or newer</option>
+        <option value="2015">2015 or newer</option>
+        <option value="2010">2010 or newer</option>
+      </select>
       <label class="toggle"><input type="checkbox" id="unrated"> Include unrated</label>
       <div class="seg" id="view">
         <button data-v="grid" aria-pressed="true">Grid</button>
@@ -152,7 +160,7 @@
 </footer>
 
 <script>
-const state = { q: '', sort: 'score-desc', playOn: [], min: 0, unrated: false, view: 'grid' };
+const state = { q: '', sort: 'score-desc', playOn: [], min: 0, since: 0, unrated: false, view: 'grid' };
 
 // xbox.com's own facets. "handheld" is not a distinct catalog flag there — the
 // site filters it against the PC list, so it resolves to the same predicate.
@@ -167,6 +175,11 @@ let games = [];
 
 const band = (s) => s == null ? 'none' : s >= 75 ? 'good' : s >= 50 ? 'mixed' : 'bad';
 const year = (d) => (d ? String(d).slice(0, 4) : '');
+
+// The store date is often a re-release or the Game Pass listing date — GoldenEye 007
+// is listed as 2023 but is a 1997 game. Metacritic's date is the original release,
+// which is what "too old" actually means.
+const gameYear = (g) => Number(year(g.metacritic?.releaseDate) || year(g.releaseDate)) || null;
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
 function visible() {
@@ -178,6 +191,7 @@ function visible() {
     if (score == null && state.min > 0) return false;
     // Checking several devices widens the result set, matching the store's behaviour.
     if (state.playOn.length && !state.playOn.some((k) => PLAY_ON[k](g))) return false;
+    if (state.since && !(g.year >= state.since)) return false;
     if (!q) return true;
     return g.searchText.includes(q);
   }).sort(cmp);
@@ -188,8 +202,8 @@ function cmp(a, b) {
   switch (state.sort) {
     case 'score-desc': return (sb ?? -1) - (sa ?? -1) || a.title.localeCompare(b.title);
     case 'score-asc': return (sa ?? 1e3) - (sb ?? 1e3) || a.title.localeCompare(b.title);
-    case 'date-desc': return (b.releaseDate || '').localeCompare(a.releaseDate || '');
-    case 'date-asc': return (a.releaseDate || '').localeCompare(b.releaseDate || '');
+    case 'date-desc': return (b.year ?? -1) - (a.year ?? -1) || a.title.localeCompare(b.title);
+    case 'date-asc': return (a.year ?? 1e4) - (b.year ?? 1e4) || a.title.localeCompare(b.title);
     default: return a.title.localeCompare(b.title);
   }
 }
@@ -216,7 +230,7 @@ function renderGrid(list) {
         <div class="name">${esc(g.title)}</div>
         <div class="sub">
           ${g.developer ? esc(g.developer) : ''}
-          ${year(g.releaseDate) ? `<span class="tag">${year(g.releaseDate)}</span>` : ''}
+          ${g.year ? `<span class="tag">${g.year}</span>` : ''}
           ${deviceTags(g).map((t) => `<span class="tag">${t}</span>`).join('')}
         </div>
       </div>
@@ -238,7 +252,7 @@ function renderList(list) {
       <td class="mc"><span class="pill ${band(s)}">${s ?? '–'}</span></td>
       <td>${esc(g.title)}</td>
       <td style="color:var(--muted)">${esc(g.developer || '')}</td>
-      <td style="color:var(--muted)">${year(g.releaseDate)}</td>
+      <td style="color:var(--muted)">${g.year ?? ''}</td>
       <td style="color:var(--muted)">${deviceTags(g).join(' · ')}</td>
       <td><span class="links" style="padding:0">
         <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">Store</a>
@@ -251,7 +265,9 @@ function renderList(list) {
 function render() {
   const list = visible();
   document.getElementById('count').textContent =
-    `${list.length} of ${games.length} titles` + (state.unrated ? '' : ' with a Metacritic score');
+    `${list.length} of ${games.length} titles`
+    + (state.unrated ? '' : ' with a Metacritic score')
+    + (state.since ? ` · released ${state.since} or later` : '');
   document.getElementById('out').innerHTML = list.length
     ? (state.view === 'grid' ? renderGrid(list) : renderList(list))
     : '<div class="empty">Nothing matches those filters.</div>';
@@ -285,6 +301,7 @@ function bindSeg(id, key) {
   }
   games = [...merged.values()].map((g) => ({
     ...g,
+    year: gameYear(g),
     searchText: [g.title, g.developer, g.publisher, ...(g.metacritic?.genres || []), ...g.categories]
       .filter(Boolean).join(' ').toLowerCase(),
   }));
@@ -296,6 +313,7 @@ function bindSeg(id, key) {
   document.getElementById('q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
   document.getElementById('sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
   document.getElementById('min').addEventListener('change', (e) => { state.min = +e.target.value; render(); });
+  document.getElementById('since').addEventListener('change', (e) => { state.since = +e.target.value; render(); });
   document.getElementById('unrated').addEventListener('change', (e) => { state.unrated = e.target.checked; render(); });
   document.getElementById('platform').addEventListener('change', (e) => {
     state.playOn = [...e.currentTarget.querySelectorAll('input:checked')].map((i) => i.value);

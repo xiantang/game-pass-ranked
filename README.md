@@ -46,6 +46,14 @@ script (`xgpcatPopulate-2025.js`):
 
 Checking several devices widens the results (union), as on the store.
 
+## Release year
+
+The year shown, sorted on, and filtered by is Metacritic's **original** release date,
+not the store's. The store date is frequently the re-release or Game Pass listing date —
+101 titles differ by more than four years (GoldenEye 007 is listed as 2023 but is a
+1997 game), which would make an age filter useless. The store date is the fallback for
+titles with no Metacritic match.
+
 Unmatched or unscored titles still appear in the page under **Include unrated**.
 Roughly 85% of SKUs resolve to a score; the rest are mostly Game Preview titles and
 brand-new releases Metacritic has not reviewed.

@@ -179,7 +179,13 @@ const games = catalog.games.map((g) => {
   return {
     ...g,
     metacritic: mc && mc.score != null
-      ? { score: mc.score, title: mc.title, url: mc.url, mustPlay: mc.mustPlay, genres: mc.genres, confidence: mc.confidence }
+      ? {
+          score: mc.score, title: mc.title, url: mc.url, mustPlay: mc.mustPlay,
+          genres: mc.genres, confidence: mc.confidence,
+          // Original release, which is what "how old is this game" should mean —
+          // the store date is often a re-release or the Game Pass listing date.
+          releaseDate: mc.releaseDate,
+        }
       : null,
   };
 });
