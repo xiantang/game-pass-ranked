@@ -35,6 +35,23 @@ Two scores per game, both from Metacritic:
 Both use Metacritic's own thresholds for colour: 75/50 for critics, 7.5/5.0 for users.
 Sort by either, and filter on a minimum of either.
 
+## Recommendations
+
+`node scripts/recommend.mjs` ranks the catalog against a play history hard-coded at
+the top of that script. Taste is modelled as clusters weighted by hours actually
+played; each catalog game is scored on how strongly its title, description and
+genres match a cluster, times a quality term built from both Metacritic scores.
+
+Two details that matter more than the scoring itself:
+
+- **Exclusion is exact.** Matching a played game is by title equality (or a long
+  history name the store title starts with), so "Hades" cannot swallow "Hades II".
+- **Named games match on the title only.** A pirate blurb mentioning "flintlock
+  pistols" is not the game *Flintlock*.
+
+Affinity saturates (`raw / (raw + 3)`) and quality is squared, so a 95-rated game
+with one clear signal outranks a mediocre game that trips six keywords.
+
 ## Matching
 
 Store titles carry noise Metacritic never has (`®`, `Cross-Gen Bundle`, `Standard Edition`,
