@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-09-16T14:18:16.642Z",
+  "fetchedAt": "2026-09-16T14:20:01.890Z",
   "games": [
     {
       "productId": "10007645",
@@ -6886,7 +6886,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null
+      "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野"
     },
     {
       "productId": "235029",
@@ -10120,7 +10120,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null
+      "titleZh": "《WWE 2K26》标准版"
     },
     {
       "productId": "216773",

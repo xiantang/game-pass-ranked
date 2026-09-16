@@ -1,8 +1,8 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-09-16T14:18:16.642Z",
-  "scoredAt": "2026-09-16T14:19:18.963Z",
+  "fetchedAt": "2026-09-16T14:20:01.890Z",
+  "scoredAt": "2026-09-16T14:20:01.932Z",
   "total": 519,
   "scored": 440,
   "games": [
@@ -11115,9 +11115,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "卢恩传奇：龙荒秘境",
+      "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "store"
     },
     {
       "productId": "235029",
@@ -16357,7 +16357,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "WWE 2K26标准版",
       "metacritic": {
         "score": 78,
         "title": "WWE 2K26",
@@ -16371,7 +16371,7 @@
         "userScore": 3.6,
         "userReviewCount": 183
       },
-      "titleZhSource": null
+      "titleZhSource": "store"
     },
     {
       "productId": "216773",
