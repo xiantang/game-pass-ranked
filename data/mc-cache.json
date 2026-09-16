@@ -12123,5 +12123,149 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "shelldiver": {
+    "title": "Shelldiver",
+    "slug": "shelldiver",
+    "score": null,
+    "url": "https://www.metacritic.com/game/shelldiver/",
+    "releaseDate": "2025-11-16",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "speedrunners 2 king of speed": {
+    "title": "SpeedRunners 2: King of Speed",
+    "slug": "speedrunners-2-king-of-speed",
+    "score": null,
+    "url": "https://www.metacritic.com/game/speedrunners-2-king-of-speed/",
+    "releaseDate": "2026-09-03",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "runescape dragonwilds": {
+    "title": "RuneScape: Dragonwilds",
+    "slug": "runescape-dragonwilds",
+    "score": null,
+    "url": "https://www.metacritic.com/game/runescape-dragonwilds/",
+    "releaseDate": "2026-09-15",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "aniimo": {
+    "title": "Aniimo",
+    "slug": "aniimo",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/aniimo/",
+    "releaseDate": "2026-09-16",
+    "genres": [
+      "Trainer RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "call of duty black ops cold war": {
+    "title": "Call of Duty: Black Ops Cold War",
+    "slug": "call-of-duty-black-ops-cold-war",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/call-of-duty-black-ops-cold-war/",
+    "releaseDate": "2020-11-13",
+    "genres": [
+      "Tactical FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the royal writ": {
+    "title": "The Royal Writ",
+    "slug": "the-royal-writ",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/the-royal-writ/",
+    "releaseDate": "2025-08-07",
+    "genres": [
+      "Card Battle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "virtua fighter 5 r e 5 o world stage": {
+    "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+    "slug": "virtua-fighter-5-revo-world-stage",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/virtua-fighter-5-revo-world-stage/",
+    "releaseDate": "2025-10-30",
+    "genres": [
+      "3D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "slitterhead": {
+    "title": "Slitterhead",
+    "slug": "slitterhead",
+    "score": 62,
+    "url": "https://www.metacritic.com/game/slitterhead/",
+    "releaseDate": "2024-11-08",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wwe 2k26": {
+    "title": "WWE 2K26",
+    "slug": "wwe-2k26",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/wwe-2k26/",
+    "releaseDate": "2026-03-13",
+    "genres": [
+      "Wrestling"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dungeons of hinterberg": {
+    "title": "Dungeons of Hinterberg",
+    "slug": "dungeons-of-hinterberg",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/dungeons-of-hinterberg/",
+    "releaseDate": "2024-07-18",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "metro redux": {
+    "title": "Metro Redux",
+    "slug": "metro-redux",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/metro-redux/",
+    "releaseDate": "2014-08-26",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mega man 10 command mission": {
+    "title": "Mega Man X: Command Mission",
+    "slug": "mega-man-x-command-mission",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/mega-man-x-command-mission/",
+    "releaseDate": "2004-09-21",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

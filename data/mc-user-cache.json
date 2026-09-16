@@ -4705,5 +4705,53 @@
     "score": 7.1,
     "reviewCount": 65,
     "sentiment": "Mixed or average"
+  },
+  "shelldiver": {
+    "score": 7.5,
+    "reviewCount": 18,
+    "sentiment": "Generally favorable"
+  },
+  "aniimo": null,
+  "speedrunners-2-king-of-speed": {
+    "score": 4.6,
+    "reviewCount": 5,
+    "sentiment": "Generally unfavorable"
+  },
+  "runescape-dragonwilds": null,
+  "the-royal-writ": null,
+  "call-of-duty-black-ops-cold-war": {
+    "score": 5.9,
+    "reviewCount": 1508,
+    "sentiment": "Mixed or average"
+  },
+  "virtua-fighter-5-revo-world-stage": {
+    "score": 6.9,
+    "reviewCount": 11,
+    "sentiment": "Mixed or average"
+  },
+  "mega-man-x-command-mission": {
+    "score": 7.3,
+    "reviewCount": 34,
+    "sentiment": "Mixed or average"
+  },
+  "metro-redux": {
+    "score": 8.1,
+    "reviewCount": 1097,
+    "sentiment": "Generally favorable"
+  },
+  "dungeons-of-hinterberg": {
+    "score": 7.7,
+    "reviewCount": 124,
+    "sentiment": "Generally favorable"
+  },
+  "slitterhead": {
+    "score": 7.5,
+    "reviewCount": 102,
+    "sentiment": "Generally favorable"
+  },
+  "wwe-2k26": {
+    "score": 3.6,
+    "reviewCount": 183,
+    "sentiment": "Generally unfavorable"
   }
 }

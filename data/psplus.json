@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-09-16T13:08:24.980Z",
+  "fetchedAt": "2026-09-16T13:14:31.245Z",
   "games": [
     {
       "productId": "10007645",
@@ -883,6 +883,26 @@
         "catalog"
       ],
       "titleZh": "喋血复仇：标准版"
+    },
+    {
+      "productId": "10016190",
+      "title": "BALL x PIT",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ARCADE",
+        "ACTION"
+      ],
+      "releaseDate": "2025-10-15T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0616/83415751927d95046612da39ab5f997a0416087b402220fc.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10016190",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
     },
     {
       "productId": "10006478",
@@ -1792,6 +1812,25 @@
       "titleZh": null
     },
     {
+      "productId": "10010892",
+      "title": "Date Everything!",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SIMULATION"
+      ],
+      "releaseDate": "2025-06-16T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1715/3441b62cd05c46b21dab1daa92e99cb44df3883fa01c84c2.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10010892",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "10005947",
       "title": "Daxter",
       "developer": null,
@@ -2186,44 +2225,6 @@
       "titleZh": null
     },
     {
-      "productId": "10004933",
-      "title": "Disney•Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ADVENTURE"
-      ],
-      "releaseDate": "2025-03-14T00:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0416/YpPh5Nt0hfFsgJGsIW7oOcPn.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10004933",
-      "ps4": true,
-      "ps5": true,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": null
-    },
-    {
-      "productId": "10004937",
-      "title": "Disney•Pixar Toy Story 3",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2025-03-14T00:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0322/kmpzvkulop0RWjOf5yHyG8yd.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10004937",
-      "ps4": true,
-      "ps5": true,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": null
-    },
-    {
       "productId": "10007630",
       "title": "Disney•Pixar Up",
       "developer": null,
@@ -2442,6 +2443,26 @@
       "titleZh": null
     },
     {
+      "productId": "10007196",
+      "title": "Dungeons of Hinterberg",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ADVENTURE",
+        "ROLE_PLAYING_GAMES"
+      ],
+      "releaseDate": "2025-03-14T03:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0410/8894997dc458874120ac0980acb192485e9f2400004475ea.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10007196",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "201129",
       "title": "Dying Light",
       "developer": null,
@@ -2488,8 +2509,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2015-02-24T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP4108/CUSA01632_00/aYzsdKhQDOGr1T6wwKpbtvB9kAEC9SR0CV5OkJqk7f44jRHhNeGNXGImHagGwz8F.png",
+      "releaseDate": "2014-11-19T17:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/JP0106/CUSA00964_00/DvVSqugRqPyl3bXrHZyclXpPNltHZEp2pSp63SklkCjgFb608mAWkR2unOlkTgPG.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/221097",
       "ps4": true,
       "ps5": false,
@@ -2519,25 +2540,6 @@
         "catalog"
       ],
       "titleZh": "真・三国无双８"
-    },
-    {
-      "productId": "10012604",
-      "title": "EA SPORTS™ Madden NFL 26",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "SPORTS"
-      ],
-      "releaseDate": "2025-08-07T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2813/91b39d9b05c4a3284df3a6ef5b34768e3bd4301d354e1a85.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10012604",
-      "ps4": false,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": null
     },
     {
       "productId": "216171",
@@ -2883,6 +2885,25 @@
       "releaseDate": "2024-04-25T14:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/201511",
+      "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "232248",
+      "title": "Fallout 76",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ROLE_PLAYING_GAMES"
+      ],
+      "releaseDate": "2026-09-15T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1214/4240708e955c460e92bcaa1f453f1e50567f29fce6636431.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/232248",
       "ps4": true,
       "ps5": true,
       "tier": 2,
@@ -5055,6 +5076,25 @@
       "titleZh": "Megadimension Neptunia™ VII"
     },
     {
+      "productId": "10019857",
+      "title": "Mega Man X: Command Mission",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ROLE_PLAYING_GAMES"
+      ],
+      "releaseDate": "2026-09-15T00:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2705/80b571b0c68ba3840f22cc1ea374a2a9a60883e78c6ccf68.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10019857",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "ROCKMAN X Command Mission"
+    },
+    {
       "productId": "10000480",
       "title": "MELTY BLOOD: TYPE LUMINA",
       "developer": null,
@@ -5114,6 +5154,25 @@
         "catalog"
       ],
       "titleZh": null
+    },
+    {
+      "productId": "202806",
+      "title": "Metro Redux full game",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2014-08-27T00:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/UP2047/CUSA00683_00/bVYSYLavzhXqvByWDXtPgKJNpIsFZXVs.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202806",
+      "ps4": true,
+      "ps5": false,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "Metro Redux 制品版"
     },
     {
       "productId": "10009198",
@@ -5425,6 +5484,25 @@
       "lists": [
         "catalog",
         "ubisoft"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10013857",
+      "title": "NINJA GAIDEN: Ragebound",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2025-07-30T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1616/b1a631440844715c22c91b314777a0ecacfe24f2a5e1ade3.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10013857",
+      "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
       ],
       "titleZh": null
     },
@@ -5893,25 +5971,6 @@
         "catalog"
       ],
       "titleZh": "女神异闻录５ 皇家版"
-    },
-    {
-      "productId": "10005896",
-      "title": "Persona 5 Tactica",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "STRATEGY"
-      ],
-      "releaseDate": "2023-11-16T15:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0507/52a65c4ca0d286eef70428a651409e7bce6e30907ca25126.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10005896",
-      "ps4": true,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": null
     },
     {
       "productId": "234529",
@@ -6811,6 +6870,25 @@
       "titleZh": "符文工廠4豪華版"
     },
     {
+      "productId": "10017405",
+      "title": "RuneScape: Dragonwilds",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ADVENTURE"
+      ],
+      "releaseDate": "2026-09-15T09:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1117/252b7056c5ed89c910b3182d8ca3bc60e21ffa136fb8d96f.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10017405",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "235029",
       "title": "Ryu Ga Gotoku 7: Hikari To Yami No Yukue",
       "developer": null,
@@ -7068,25 +7146,6 @@
       "titleZh": null
     },
     {
-      "productId": "10002084",
-      "title": "Shadowrun Returns",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "STRATEGY"
-      ],
-      "releaseDate": "2022-06-21T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1708/knBij8Oq7vTNesu6u5uHGrOg.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10002084",
-      "ps4": true,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": null
-    },
-    {
       "productId": "10005529",
       "title": "SILENT HILL 2",
       "developer": null,
@@ -7161,6 +7220,25 @@
       "tier": 3,
       "lists": [
         "classics"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10009203",
+      "title": "Slitterhead",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2024-11-07T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0109/143fd61d6f0e3cc3f6bdabe287158eb3fb04851077ef7f4b.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10009203",
+      "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
       ],
       "titleZh": null
     },
@@ -9994,7 +10072,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2025-07-24T09:00:00Z",
+      "releaseDate": "2022-05-22T18:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004900",
       "ps4": true,
@@ -10018,6 +10096,25 @@
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1214/jrPHWEkxs0V0P19tJjgu2Li8.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004982",
       "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10015300",
+      "title": "WWE 2K26 Standard Edition",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SPORTS"
+      ],
+      "releaseDate": "2026-03-12T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2716/a1a698c1912cbafeaec1744f804491492af00a1c359d5806.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10015300",
+      "ps4": false,
       "ps5": true,
       "tier": 2,
       "lists": [

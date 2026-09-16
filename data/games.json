@@ -1,10 +1,10 @@
 {
   "service": "xgp",
   "market": "SG",
-  "fetchedAt": "2026-08-29T15:38:55.199Z",
-  "scoredAt": "2026-09-16T13:07:36.366Z",
-  "total": 821,
-  "scored": 693,
+  "fetchedAt": "2026-09-16T13:14:24.276Z",
+  "scoredAt": "2026-09-16T13:14:26.328Z",
+  "total": 807,
+  "scored": 680,
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -584,7 +584,7 @@
         "Other"
       ],
       "releaseDate": "2026-04-22T13:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23152.14157015172806022.f8f04f91-6e90-4f62-b45a-4fa839c73465.6d4a6004-44a3-4e31-a8b1-4d60d8542b3b",
+      "image": "https://store-images.s-microsoft.com/image/apps.31519.14157015172806022.a55b35f1-6078-4896-8521-0d5455682f95.88d920a5-f57b-43aa-9dcc-cd4a8ddcb5ef",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PDC9X7BKZR3",
       "titleZh": "阿尔比恩Online",
       "shortDescriptionZh": "《阿尔比恩Online》是一款沙盒MMORPG，您可以在其中书写自己的故事。探索一个广阔的开放世界，累积财富，建立联盟，并在阿尔比恩的世界上留下您的印记！",
@@ -768,6 +768,42 @@
       "metacritic": null
     },
     {
+      "productId": "9PK8PHLCQDF6",
+      "playAnywhere": true,
+      "title": "Aniimo",
+      "developer": "Pawprint Studio",
+      "publisher": "Pawprint Studio",
+      "shortDescription": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. On the vast continent of Idyll, you'll encounter countless unique creatures known as Aniimo. Twine with them and experience the beauty of this world from a completely new perspective and with new abilities.\nYou can also travel to a metropolis floating in the sky, where you'll meet other Pathfinders, share stories, and engage in t",
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PK8PHLCQDF6",
+      "titleZh": "伊莫",
+      "shortDescriptionZh": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！\n\n这莫多！形态分支进化，填满你的图鉴！\n\n每只伊莫都会因区域、天气、养成方式和成长线的不同，进化出多样分支形态。从沙滩形态到潮湿形态，从晒日光浴的海湾红，到分支进化为女巫草或“家里蹲”埋埋，生态千差万别。丰富的形态图鉴等待你捕捉收集、培养与研究，构筑独属于你的莫百科！\n\n这莫变！联结变身冒险，探索世界奇妙\n\n在冒险的旅途中，你将与伊莫联结合体，并利用伊莫的各种能力：完成世界上的谜题，赢得每场战斗的胜利，解决遇到的一切问题！不再局限于人类的速度、视野和能力，亲自体验理性与野性共存的蓬勃。与伊莫“联结”合体，用全新",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 78,
+        "title": "Aniimo",
+        "url": "https://www.metacritic.com/game/aniimo/",
+        "mustPlay": false,
+        "genres": [
+          "Trainer RPG"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-09-16",
+        "userScore": null,
+        "userReviewCount": null
+      }
+    },
+    {
       "productId": "9PMHGHXLGLJM",
       "playAnywhere": true,
       "title": "ANNO : Mutationem",
@@ -864,42 +900,6 @@
         "releaseDate": "2023-03-16",
         "userScore": 7.2,
         "userReviewCount": 88
-      }
-    },
-    {
-      "productId": "9P97ZTRTH25W",
-      "playAnywhere": true,
-      "title": "Another Crab's Treasure",
-      "developer": "Aggro Crab",
-      "publisher": "Aggro Crab",
-      "shortDescription": "A soulslike adventure set in a crumbling underwater world.",
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "releaseDate": "2024-04-25T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.38043.14077481160620630.1db41d01-0b54-4154-a1e1-f00cf31fab40.24f86361-82bb-4a28-89ae-12b9e3d32c1d",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P97ZTRTH25W",
-      "titleZh": null,
-      "shortDescriptionZh": "一款在摇摇欲坠的世界里的类魂冒险游戏。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 78,
-        "title": "Another Crab's Treasure",
-        "url": "https://www.metacritic.com/game/another-crabs-treasure/",
-        "mustPlay": false,
-        "genres": [
-          "Action Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-04-25",
-        "userScore": 7.5,
-        "userReviewCount": 349
       }
     },
     {
@@ -3955,6 +3955,72 @@
       }
     },
     {
+      "productId": "9N863WLSHZGV",
+      "playAnywhere": false,
+      "title": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle",
+      "developer": null,
+      "publisher": "Activision Publishing Inc.",
+      "shortDescription": "Buy this digital Xbox One version of Call of Duty®: Black Ops Cold War from the Microsoft Store and download the Xbox Series X|S version at no extra cost.\r\n\r\nThe Cross-Gen Bundle includes:\r\n\r\n- Cross-Gen Bundle of Call of Duty®: Black Ops Cold War game\r\n-- Includes Xbox One and Xbox Series X|S version\r\n- Confrontation Weapons Pack\r\n- Legendary Captain Price Operator Skin*",
+      "categories": [],
+      "releaseDate": "2020-12-16T18:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.32755.14055557765519709.a446e4ab-5a5d-459e-854a-d4a158048dd0.f7ef5c8e-04fd-4c07-bf19-c536eaa6f2fe",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N863WLSHZGV",
+      "titleZh": "《使命召唤®：黑色行动冷战》跨越世代版",
+      "shortDescriptionZh": "现在进入微软官方商城购买这个数字版Xbox One版《使命召唤®：黑色行动冷战》，即可免费下载 Xbox Series X|S版。\r\n\r\n跨越世代版内有：\r\n\r\n- 《使命召唤®：黑色行动冷战》跨越世代版\r\n-- 包括Xbox One版和 Xbox Series X|S版\r\n- 对抗武器包\r\n- 传奇特遣队员外观“普莱斯上尉”*",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 76,
+        "title": "Call of Duty: Black Ops Cold War",
+        "url": "https://www.metacritic.com/game/call-of-duty-black-ops-cold-war/",
+        "mustPlay": false,
+        "genres": [
+          "Tactical FPS"
+        ],
+        "confidence": 1,
+        "releaseDate": "2020-11-13",
+        "userScore": 5.9,
+        "userReviewCount": 1508
+      }
+    },
+    {
+      "productId": "9N72SFQ24KW8",
+      "playAnywhere": false,
+      "title": "Call of Duty®: Black Ops Cold War (Windows)",
+      "developer": null,
+      "publisher": "Activision Publishing Inc.",
+      "shortDescription": "Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, drops fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s.",
+      "categories": [
+        "Shooter"
+      ],
+      "releaseDate": "2026-06-30T16:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.25992.14006772409173009.275a9108-bec7-47d8-b889-1be3519a0aa3.3640f220-1ab0-4402-a31b-6d474b51f810",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N72SFQ24KW8",
+      "titleZh": "《使命召唤®：黑色行动冷战》 (Windows)",
+      "shortDescriptionZh": "《使命召唤®：黑色行动》的直接续作《黑色行动冷战》把时间倒回至上世纪80年代初，让粉丝们亲身体验冷战时期无比激烈的地缘政治对抗。",
+      "platforms": [
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": false,
+      "metacritic": {
+        "score": 76,
+        "title": "Call of Duty: Black Ops Cold War",
+        "url": "https://www.metacritic.com/game/call-of-duty-black-ops-cold-war/",
+        "mustPlay": false,
+        "genres": [
+          "Tactical FPS"
+        ],
+        "confidence": 1,
+        "releaseDate": "2020-11-13",
+        "userScore": 5.9,
+        "userReviewCount": 1508
+      }
+    },
+    {
       "productId": "9NVQBQ3F6W9W",
       "playAnywhere": false,
       "title": "Call of Duty®: Modern Warfare® - Digital Standard Edition",
@@ -4777,74 +4843,6 @@
       }
     },
     {
-      "productId": "9NNRCR6MBNDR",
-      "playAnywhere": false,
-      "title": "Commandos: Origins",
-      "developer": "Claymore Game Studios",
-      "publisher": "Kalypso Media",
-      "shortDescription": "ALARM! You have been selected for a mission which will shape the fate of the entire world. Witness the very beginning of the legendary elite WWII force in Commandos: Origins. The long-awaited sequel to the Commandos series brings you right back to the foundation of the real-time tactics genre.",
-      "categories": [
-        "Strategy"
-      ],
-      "releaseDate": "2025-04-09T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNRCR6MBNDR",
-      "titleZh": null,
-      "shortDescriptionZh": "警告！你已受选参加将会改变全世界面貌的任务。来《Commandos: Origins》见证二战精英部队的最初起源。《Commandos》系列备受期待的这款续作将会引领你回到即时战术类游戏的原点。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 71,
-        "title": "Commandos: Origins",
-        "url": "https://www.metacritic.com/game/commandos-origins/",
-        "mustPlay": false,
-        "genres": [
-          "Real-Time Tactics"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-04-09",
-        "userScore": 6.9,
-        "userReviewCount": 60
-      }
-    },
-    {
-      "productId": "9PDH7X3J5CZT",
-      "playAnywhere": false,
-      "title": "Commandos: Origins (Win)",
-      "developer": "Claymore Game Studios",
-      "publisher": "Kalypso Media",
-      "shortDescription": "ALARM! You have been selected for a mission which will shape the fate of the entire world. Witness the very beginning of the legendary elite WWII force in Commandos: Origins. The long-awaited sequel to the Commandos series brings you right back to the foundation of the real-time tactics genre.",
-      "categories": [
-        "Strategy"
-      ],
-      "releaseDate": "2025-04-09T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PDH7X3J5CZT",
-      "titleZh": null,
-      "shortDescriptionZh": "警告！你已受选参加将会改变全世界面貌的任务。来《Commandos: Origins》见证二战精英部队的最初起源。《Commandos》系列备受期待的这款续作将会引领你回到即时战术类游戏的原点。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 71,
-        "title": "Commandos: Origins",
-        "url": "https://www.metacritic.com/game/commandos-origins/",
-        "mustPlay": false,
-        "genres": [
-          "Real-Time Tactics"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-04-09",
-        "userScore": 6.9,
-        "userReviewCount": 60
-      }
-    },
-    {
       "productId": "BVFB8CBS75R6",
       "playAnywhere": true,
       "title": "Conker: Live and Reloaded",
@@ -5391,74 +5389,6 @@
       }
     },
     {
-      "productId": "9PPN49GPNH5M",
-      "playAnywhere": false,
-      "title": "Cricket 24",
-      "developer": "Big Ant Studios",
-      "publisher": "Nacon",
-      "shortDescription": "Cricket 24 is the culmination of a decade of Cricket video game development and includes teams from every corner of the globe.",
-      "categories": [
-        "Sports"
-      ],
-      "releaseDate": "2023-10-05T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.50552.14321256981626354.2afb74cd-a673-4baa-9f08-c8891ca682c4.c2ac524b-965e-4117-9888-6b651b057007",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PPN49GPNH5M",
-      "titleZh": null,
-      "shortDescriptionZh": "《Cricket 24》是由长达十年的板球游戏开发经验汇聚而成的巅峰之作，世界各地的球队都被纳入其中。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 57,
-        "title": "Cricket 24",
-        "url": "https://www.metacritic.com/game/cricket-24/",
-        "mustPlay": false,
-        "genres": [
-          "Cricket"
-        ],
-        "confidence": 1,
-        "releaseDate": "2023-10-05",
-        "userScore": 6.3,
-        "userReviewCount": 35
-      }
-    },
-    {
-      "productId": "9NKF2SZ630ZH",
-      "playAnywhere": false,
-      "title": "Cricket 24: The Official Game Of The Ashes",
-      "developer": "Big Ant Studios",
-      "publisher": "Nacon",
-      "shortDescription": "Cricket 24 is the culmination of a decade of Cricket video game development and includes teams from every corner of the globe.",
-      "categories": [
-        "Sports"
-      ],
-      "releaseDate": "2024-06-26T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.22369.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.d43b3619-c31e-41f2-9f53-e8b110203433",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKF2SZ630ZH",
-      "titleZh": null,
-      "shortDescriptionZh": "《Cricket 24》是由长达十年的板球游戏开发经验汇聚而成的巅峰之作，世界各地的球队都被纳入其中。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 57,
-        "title": "Cricket 24",
-        "url": "https://www.metacritic.com/game/cricket-24/",
-        "mustPlay": false,
-        "genres": [
-          "Cricket"
-        ],
-        "confidence": 0.97,
-        "releaseDate": "2023-10-05",
-        "userScore": 6.3,
-        "userReviewCount": 35
-      }
-    },
-    {
       "productId": "9N6JF50HZFW9",
       "playAnywhere": true,
       "title": "Cricket 26 - The Official Game of the Ashes",
@@ -5639,40 +5569,6 @@
         "releaseDate": "2013-02-19",
         "userScore": 6.8,
         "userReviewCount": 1838
-      }
-    },
-    {
-      "productId": "BX3M8L83BBRW",
-      "playAnywhere": false,
-      "title": "Cyberpunk 2077",
-      "developer": "CD PROJEKT RED",
-      "publisher": "CD PROJEKT RED",
-      "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
-      "categories": [
-        "Role playing"
-      ],
-      "releaseDate": "2020-12-10T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BX3M8L83BBRW",
-      "titleZh": "《赛博朋克 2077》",
-      "shortDescriptionZh": "《赛博朋克 2077》的舞台位于大都会夜之城，是一款在开放世界动作冒险角色扮演游戏。您扮演一位赛博朋克雇佣兵, 身陷绝地求生、不成功便成仁的险境。经过改进的同时更有全新免费额外内容加入。接受任务、累积声望、解锁升级，自定义您的人物和玩法。玩家经营的人际关系和做出的选择将会改变剧情的走向和身边的世界。这里是传奇诞生的地方。您的传奇又在哪里？",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 86,
-        "title": "Cyberpunk 2077",
-        "url": "https://www.metacritic.com/game/cyberpunk-2077/",
-        "mustPlay": false,
-        "genres": [
-          "Action RPG"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-12-10",
-        "userScore": 7.3,
-        "userReviewCount": 40104
       }
     },
     {
@@ -5873,76 +5769,6 @@
       "xboxOne": false,
       "xboxSeries": false,
       "metacritic": null
-    },
-    {
-      "productId": "BQSCNS1T8PHQ",
-      "playAnywhere": false,
-      "title": "Dead Cells",
-      "developer": "Motion Twin",
-      "publisher": "Motion Twin",
-      "shortDescription": "Dead Cells puts you in control of a failed alchemic experiment trying to figure out what's happening on a sprawling, ever-changing and seemingly cursed Island. Tough but fair combat, responsive controls, challenging foes, permadeath and of course, the emergency panic roll to get you out of trouble, make for a demanding, visceral and cathartic action game.",
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "releaseDate": "2018-08-07T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.33704.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.c6483868-0337-4d5f-bc1f-36132804e3d7",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BQSCNS1T8PHQ",
-      "titleZh": null,
-      "shortDescriptionZh": "《死亡细胞》是一款融合了Roguelite和银河恶魔城元素的平台动作游戏。你将在游戏中探索一个庞大而不断变化的城堡……当然，前提是你能在这款2D轻度魂系游戏中战胜那些拦路的强敌们。别想着存档了——杀戮、死亡、反省，周而复始。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 89,
-        "title": "Dead Cells",
-        "url": "https://www.metacritic.com/game/dead-cells/",
-        "mustPlay": false,
-        "genres": [
-          "Metroidvania"
-        ],
-        "confidence": 1,
-        "releaseDate": "2018-08-07",
-        "userScore": 8.3,
-        "userReviewCount": 1428
-      }
-    },
-    {
-      "productId": "9NKVX66J0ZSK",
-      "playAnywhere": false,
-      "title": "Dead Cells",
-      "developer": "Motion Twin",
-      "publisher": "Motion Twin",
-      "shortDescription": "Dead Cells puts you in control of a failed alchemic experiment trying to figure out what's happening on a sprawling, ever-changing and seemingly cursed Island. Tough but fair combat, responsive controls, challenging foes, permadeath and of course, the emergency panic roll to get you out of trouble, make for a demanding, visceral and cathartic action game.\r\n",
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "releaseDate": "2019-09-05T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.33704.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.c6483868-0337-4d5f-bc1f-36132804e3d7",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKVX66J0ZSK",
-      "titleZh": null,
-      "shortDescriptionZh": "《死亡细胞》是一款融合了Roguelite和银河恶魔城元素的平台动作游戏。你将在游戏中探索一个庞大而不断变化的城堡……当然，前提是你能在这款2D轻度魂系游戏中战胜那些拦路的强敌们。别想着存档了——杀戮、死亡、反省，周而复始。\r\n",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 89,
-        "title": "Dead Cells",
-        "url": "https://www.metacritic.com/game/dead-cells/",
-        "mustPlay": false,
-        "genres": [
-          "Metroidvania"
-        ],
-        "confidence": 1,
-        "releaseDate": "2018-08-07",
-        "userScore": 8.3,
-        "userReviewCount": 1428
-      }
     },
     {
       "productId": "C3L4J3H7H12R",
@@ -6357,42 +6183,6 @@
       }
     },
     {
-      "productId": "9PHGQPRBBSXK",
-      "playAnywhere": true,
-      "title": "Deep Rock Galactic: Survivor",
-      "developer": "Funday Games",
-      "publisher": "Ghost Ship Publishing",
-      "shortDescription": "DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of Deep Rock Galactic. It's one dwarf against all of Planet Hoxxes!",
-      "categories": [
-        "Action & adventure",
-        "Shooter"
-      ],
-      "releaseDate": "2025-09-17T11:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.1572.14236455618786574.5b48af66-d01f-435c-addc-832c8e12d278.d0715fbf-2db2-4abc-a902-7f10122efa52",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PHGQPRBBSXK",
-      "titleZh": "深岩银河：幸存者",
-      "shortDescriptionZh": "《深岩银河：幸存者》是一款单人类幸存者游戏。利用深岩银河集团的各式武器，在成群的致命异虫的攻势下，不断挖掘财宝、解锁强力升级，并活着逃出生天。以一矮人之力，对抗整个霍克斯星球！",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 86,
-        "title": "Deep Rock Galactic: Survivor",
-        "url": "https://www.metacritic.com/game/deep-rock-galactic-survivor/",
-        "mustPlay": false,
-        "genres": [
-          "Top-Down Shoot-'Em-Up"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-09-17",
-        "userScore": 7.3,
-        "userReviewCount": 59
-      }
-    },
-    {
       "productId": "9N18L56XHK8Z",
       "playAnywhere": true,
       "title": "Denshattack!",
@@ -6731,7 +6521,7 @@
     },
     {
       "productId": "9N3NTDPJCD9Z",
-      "playAnywhere": false,
+      "playAnywhere": true,
       "title": "Dice A Million",
       "developer": "countlessnights",
       "publisher": "2 Left Thumbs",
@@ -6746,10 +6536,11 @@
       "titleZh": null,
       "shortDescriptionZh": "喜欢大数字吗？当然，这儿应有尽有。\n\n《一掷百万》是一款roguelike构筑类游戏，目标是通过摇骰子的方式达成一百万点。巧妙搭配超过100种不同的骰子并发掘它们之间的强力组合吧。用你手中精心搭配的骰子组合去冲破不断上升的目标，并击败令人生畏的boss吧。\n\n你有能力让运气站在你这一边吗？\n\n光靠搭配骰子还不足以让你激发它们全部的潜能。用超过80枚具有被动效果的独特戒指来装点你的手吧！它们永远处于生效状态，还能对你的骰子施加超强的效果。戴上几个拉风的戒指去秀一手操作吧！\n\n最重要的是…\n把这游戏玩坏吧 （是的我们就是那种游戏）",
       "platforms": [
+        "console",
         "pc"
       ],
-      "xboxOne": false,
-      "xboxSeries": false,
+      "xboxOne": true,
+      "xboxSeries": true,
       "metacritic": null
     },
     {
@@ -7780,10 +7571,10 @@
     {
       "productId": "9NK13T4QFPQW",
       "playAnywhere": false,
-      "title": "EA SPORTS FC™ 26 Xbox One",
+      "title": "EA SPORTS FC™ 26 XBOX One",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
-      "shortDescription": "The Club is Yours in EA SPORTS FC™ 26.\nPlay your way with an overhauled gameplay experience powered by Community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
+      "shortDescription": "Log in to EA SPORTS FC™ 26 by 16 September to get a 99 OVR Player Pick! Choose three 99 OVR Player Items from a pool of 20.",
       "categories": [
         "Sports",
         "Simulation"
@@ -7791,8 +7582,8 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10782.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.31935413-8ff9-41fa-a5e8-b8a6eb8775c9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK13T4QFPQW",
-      "titleZh": "《EA SPORTS FC™ 26》Xbox One 版",
-      "shortDescriptionZh": "在《EA SPORTS FC™ 26》中，俱乐部由你主宰。\n随心畅玩，享受采纳社区反馈后焕然一新的游戏体验、为新赛季带来全新剧情的经理实时挑战，以及灵感源自足坛传奇的原型系统。",
+      "titleZh": "《EA SPORTS FC™ 26》XBOX One 版",
+      "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
       "platforms": [
         "console"
       ],
@@ -7815,10 +7606,10 @@
     {
       "productId": "9P9FTXPKQ35P",
       "playAnywhere": false,
-      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+      "title": "EA SPORTS FC™ 26 XBOX Series X|S",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
-      "shortDescription": "The Club is Yours in EA SPORTS FC™ 26.\nPlay your way with an overhauled gameplay experience powered by Community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
+      "shortDescription": "Log in to EA SPORTS FC™ 26 by 16 September to get a 99 OVR Player Pick! Choose three 99 OVR Player Items from a pool of 20.",
       "categories": [
         "Sports",
         "Simulation"
@@ -7826,8 +7617,8 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10782.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.12c48214-554d-4f98-a995-c19b9101d1aa",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9FTXPKQ35P",
-      "titleZh": "《EA SPORTS FC™ 26》Xbox Series X|S 版",
-      "shortDescriptionZh": "在《EA SPORTS FC™ 26》中，俱乐部由你主宰。\n随心畅玩，享受采纳社区反馈后焕然一新的游戏体验、为新赛季带来全新剧情的经理实时挑战，以及灵感源自足坛传奇的原型系统。",
+      "titleZh": "《EA SPORTS FC™ 26》XBOX Series X|S 版",
+      "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
       "platforms": [
         "console"
       ],
@@ -8680,15 +8471,15 @@
       "title": "Fallout 76",
       "developer": "Bethesda Game Studios",
       "publisher": "Bethesda Softworks",
-      "shortDescription": "Bethesda Game Studios, the award-winning creators of Skyrim and Fallout 4, welcome you to Fallout 76. Twenty-five years after the bombs fell, you and your fellow Vault Dwellers—chosen from the nation’s best and brightest – emerge into post-nuclear America on Reclamation Day, 2102. Explore a vast wasteland, devastated by nuclear war, in this open-world multiplayer addition to the Fallout story.",
+      "shortDescription": "Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Join millions of players as you explore, build, quest, and triumph in a massive open-world multiplayer adventure.  ",
       "categories": [
         "Role playing"
       ],
       "releaseDate": "2018-11-15T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.27487.70143269474194625.c68f14d3-e520-43ff-a1bc-8de449b5cf7c.20ccb406-af50-4f68-96fa-58255675459c",
+      "image": "https://store-images.s-microsoft.com/image/apps.32675.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.8f726167-1f33-4d48-910a-2b00822b4ecc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BS6WJ2L56B10",
       "titleZh": null,
-      "shortDescriptionZh": "《Skyrim》和《Fallout 4》的获奖开发商Bethesda Game Studios欢迎你进入《Fallout 76》的世界。在核弹爆炸的25年后，你和其他避难所居民——全国最优秀聪明的佼佼者——在2102年收复日进入了核爆之后的美国。加入《Fallout》系列故事选新推出的开放世界多人游戏，探索核战争留下的广阔废土。",
+      "shortDescriptionZh": "在核弹爆炸的25年后，你和其他避难所居民进入了核爆之后的美国。加入数百万玩家的行列，在这款规模庞大的开放世界多人冒险游戏中探索、追寻、建设并战胜强敌。  ",
       "platforms": [
         "console"
       ],
@@ -8714,15 +8505,15 @@
       "title": "Fallout 76 (PC)",
       "developer": "Bethesda Game Studios",
       "publisher": "Bethesda Softworks",
-      "shortDescription": "Bethesda Game Studios, the award-winning creators of Skyrim and Fallout 4, welcome you to Fallout 76. Twenty-five years after the bombs fell, you and your fellow Vault Dwellers—chosen from the nation’s best and brightest – emerge into post-nuclear America on Reclamation Day, 2102. Explore a vast wasteland, devastated by nuclear war, in this open-world multiplayer addition to the Fallout story.",
+      "shortDescription": "Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Join millions of players as you explore, build, quest, and triumph in a massive open-world multiplayer adventure.  ",
       "categories": [
         "Role playing"
       ],
       "releaseDate": "2020-07-09T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.27487.13657086471689364.e50bcd74-5ff2-4070-837d-ba5caf050abc.e408f800-1db7-4f25-b978-25724f367e91",
+      "image": "https://store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKGNMNK3K3Z",
       "titleZh": null,
-      "shortDescriptionZh": "《Skyrim》和《Fallout 4》的获奖开发商Bethesda Game Studios欢迎你进入《Fallout 76》的世界。在核弹爆炸的25年后，你和其他避难所居民——全国最优秀聪明的佼佼者——在2102年收复日进入了核爆之后的美国。加入《Fallout》系列故事选新推出的开放世界多人游戏，探索核战争留下的广阔废土。",
+      "shortDescriptionZh": "在核弹爆炸的25年后，你和其他避难所居民进入了核爆之后的美国。加入数百万玩家的行列，在这款规模庞大的开放世界多人冒险游戏中探索、追寻、建设并战胜强敌。  ",
       "platforms": [
         "pc"
       ],
@@ -9830,38 +9621,6 @@
       }
     },
     {
-      "productId": "9P82LXD5RH31",
-      "playAnywhere": false,
-      "title": "FOR HONOR",
-      "developer": null,
-      "publisher": "Ubisoft",
-      "shortDescription": "Fight alone or with friends in For Honor, a third-person hero-based melee fighting game. Enter the chaos of war as a Knight, a Viking, a Samurai, a Wu Lin, or an Outlander. Fight in brutal PvP and team-oriented modes, or play the thrilling story campaign.",
-      "categories": [],
-      "releaseDate": "2026-07-21T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.25646.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.6d276a88-3831-4398-aefe-e6bcac845ddf",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P82LXD5RH31",
-      "titleZh": "《荣耀战魂》",
-      "shortDescriptionZh": "在这个第三人称英雄近战格斗游戏《荣耀战魂》中，你可以单挑，也可以与好友并肩作战。你将化身为维京人、武士、武林人士或异乡人，进入战乱世界。你可以在残酷的 PvP 中战斗，畅玩团队导向的游戏模式，或者体验刺激的故事战役。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 78,
-        "title": "For Honor",
-        "url": "https://www.metacritic.com/game/for-honor/",
-        "mustPlay": false,
-        "genres": [
-          "Action Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2017-02-14",
-        "userScore": 6.1,
-        "userReviewCount": 1428
-      }
-    },
-    {
       "productId": "9N3DWR830CVN",
       "playAnywhere": false,
       "title": "FOR HONOR - Standard Edition",
@@ -9923,6 +9682,38 @@
         "releaseDate": "2018-10-16",
         "userScore": 4,
         "userReviewCount": 16
+      }
+    },
+    {
+      "productId": "9P82LXD5RH31",
+      "playAnywhere": false,
+      "title": "For Honor Standard",
+      "developer": null,
+      "publisher": "Ubisoft",
+      "shortDescription": "For Honor is a groundbreaking team-based PvP melee fighting game where Knights, Samurai, Vikings, Wu Lin, and more clash in endless battles. Pick unique heroes and master intense 4v4, 2v2, or 1v1 battles.",
+      "categories": [],
+      "releaseDate": "2026-07-21T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.25646.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.6d276a88-3831-4398-aefe-e6bcac845ddf",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P82LXD5RH31",
+      "titleZh": "《荣耀战魂》标准版",
+      "shortDescriptionZh": "《荣耀战魂》是一款开创性的多人团队近战 PVP 游戏。骑士、武士、维京人、武林以及更多阵营将在永无止境的沙场中厮杀。挑选独具特色的英雄，征服紧张刺激的 4v4、2v2 与 1v1 对战。",
+      "platforms": [
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": false,
+      "metacritic": {
+        "score": 78,
+        "title": "For Honor",
+        "url": "https://www.metacritic.com/game/for-honor/",
+        "mustPlay": false,
+        "genres": [
+          "Action Adventure"
+        ],
+        "confidence": 1,
+        "releaseDate": "2017-02-14",
+        "userScore": 6.1,
+        "userReviewCount": 1428
       }
     },
     {
@@ -10162,41 +9953,6 @@
       "xboxOne": false,
       "xboxSeries": true,
       "metacritic": null
-    },
-    {
-      "productId": "9N0KN24FWP6B",
-      "playAnywhere": true,
-      "title": "Frostpunk 2",
-      "developer": "11 bit studios",
-      "publisher": "11 bit studios",
-      "shortDescription": "Develop, expand, and advance your city in a society survival game set 30 years after an apocalyptic blizzard ravaged Earth. In Frostpunk 2, you face not only the perils of never-ending winter, but also the powerful factions that watch your every step inside the Council Hall.",
-      "categories": [
-        "Strategy"
-      ],
-      "releaseDate": "2024-09-20T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N0KN24FWP6B",
-      "titleZh": null,
-      "shortDescriptionZh": "《冰汽时代2》设定于末日暴风雪肆虐地球 30 年后的社会。你要在这款社会生存游戏中，发展、扩张并推进你的城市。在游戏中，你不仅要面对来自寒冬永无止境的威胁，还要与议会厅中的不同派系斗智斗勇，他们会时刻监视着你的每一步行动。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 85,
-        "title": "Frostpunk 2",
-        "url": "https://www.metacritic.com/game/frostpunk-2/",
-        "mustPlay": false,
-        "genres": [
-          "Management"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-09-17",
-        "userScore": 7.4,
-        "userReviewCount": 407
-      }
     },
     {
       "productId": "9P3ZRGNQVC7D",
@@ -10800,7 +10556,7 @@
         "Sports"
       ],
       "releaseDate": "2026-06-04T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.44880.14212860962709000.df32da00-c18c-45f6-a4b4-4e82dfd43691.073a50f4-6e48-4577-b1f2-e91e46c968ee",
+      "image": "https://store-images.s-microsoft.com/image/apps.10349.14212860962709000.7d0349ee-2f9e-4a67-90da-e62696fef7df.b8302153-0bf0-458e-a4ae-4ccfdc0a5213",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PF2ZS4XB4JH",
       "titleZh": null,
       "shortDescriptionZh": "GOALS是一款快节奏、反应灵敏的足球游戏，为纯粹技术、真实竞技和全球玩家社区而生。玩法至上，免费畅玩，跨平台联机，每位球员都独一无二。没有借口——只有足球！",
@@ -12352,42 +12108,6 @@
       }
     },
     {
-      "productId": "9PF9FQGH89WM",
-      "playAnywhere": true,
-      "title": "I Am Your Beast",
-      "developer": "Strange Scaffold",
-      "publisher": "Strange Scaffold",
-      "shortDescription": "Hunt the military-industrial complex across stylish comic book micro-sandboxes in this fast-paced covert revenge thriller FPS from the developers of El Paso, Elsewhere.",
-      "categories": [
-        "Shooter",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-06-25T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.60991.14208859939056310.d1ec68da-591a-444e-932d-068d9ca0f8b5.250ec9fc-dd03-4467-a400-791de82907a3",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PF9FQGH89WM",
-      "titleZh": null,
-      "shortDescriptionZh": "在风格鲜明的漫画微缩沙盒世界中猎杀军工复合体，一切尽在这款由《El Paso, Elsewhere》开发者打造的快节奏秘密复仇惊悚FPS游戏中。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 79,
-        "title": "I Am Your Beast",
-        "url": "https://www.metacritic.com/game/i-am-your-beast/",
-        "mustPlay": false,
-        "genres": [
-          "FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-09-10",
-        "userScore": 7.2,
-        "userReviewCount": 44
-      }
-    },
-    {
       "productId": "C07KJZRH0L7S",
       "playAnywhere": false,
       "title": "Immortals Fenyx Rising™",
@@ -12938,7 +12658,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2025-10-17T15:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.14247.13566978592979529.8c034f7f-7f73-4897-9410-31e1512536ea.6b82459c-abd9-4712-b097-0d1164781ebe",
+      "image": "https://store-images.s-microsoft.com/image/apps.44400.13566978592979529.a309a78d-6446-4646-b4cf-5f86cff39735.4294039d-21f3-4d7d-9443-6cda909325bb",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NCJWHHMVHR0",
       "titleZh": null,
       "shortDescriptionZh": "《Keeper》是一部无言的故事，一座被遗忘已久的灯塔悄然苏醒，踏上了一段通往未知世界的奇异旅程。",
@@ -15302,25 +15022,26 @@
     },
     {
       "productId": "9NDJX252Q5BW",
-      "playAnywhere": false,
-      "title": "Moonlighter 2: The Endless Vault (Game Preview)",
+      "playAnywhere": true,
+      "title": "Moonlighter 2: The Endless Vault",
       "developer": " Digital Sun",
       "publisher": "11 bit studios",
-      "shortDescription": "Live the double life of a fearless adventurer and a crafty merchant! Dive into vibrant dimensions brimming with shiny loot and pesky enemies. Grow your shop, tinker with weapons and gadgets, as well as make your mark among a ragtag community of castaways.",
+      "shortDescription": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
       "categories": [
         "Action & adventure",
         "Role playing"
       ],
-      "releaseDate": "2025-11-19T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.58095.13613495733795404.f608471a-3b5d-40c6-8d16-e83de47f4af8.84aec49a-0733-4264-a14d-9f4f735539b1",
+      "releaseDate": "2026-09-02T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.46867.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.1166dd10-7833-4820-898b-e9e9e8ad81dc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NDJX252Q5BW",
       "titleZh": null,
-      "shortDescriptionZh": "体验无畏冒险家和精明商人的双重人生！沉浸进一个生机勃勃的鲜活世界，那里既有闪亮耀眼的战利品，也有令人厌恶的敌人。把你的商店做大做强，修理武器和各种工具，在流亡者中打响自己的名声。",
+      "shortDescriptionZh": "体验这款融合 Roguelike 元素的动作角色扮演游戏，同时扮演冒险家与商人，尽享双重人生。踏入异彩纷呈的多维世界，迎战敌人、搜刮战利品、打理行囊，重振你的店铺，把利润化为装备，奔赴下一场冒险！",
       "platforms": [
+        "console",
         "pc"
       ],
       "xboxOne": false,
-      "xboxSeries": false,
+      "xboxSeries": true,
       "metacritic": null
     },
     {
@@ -15431,42 +15152,6 @@
       }
     },
     {
-      "productId": "9PG8TV30NN9H",
-      "playAnywhere": true,
-      "title": "MULLET MADJACK",
-      "developer": "HAMMER95",
-      "publisher": "Epopeia Games",
-      "shortDescription": "MULLET MADJACK is a HIGH-OCTANE-ACTION SHOOTER that put you directly inside a CLASSIC ANIME. Pick your favorite weapon and reach the last floor; Beat your best time or try again. Haste makes waste… OF YOUR ENEMIES!",
-      "categories": [
-        "Shooter",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-03-13T09:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.25799.14185273107843338.c1763a2c-a5bb-46ee-ade7-841a3c40c249.4a1f92fc-067e-4ebd-b515-736f59cfcd7a",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PG8TV30NN9H",
-      "titleZh": null,
-      "shortDescriptionZh": "MULLET MADJACK is a HIGH-OCTANE-ACTION SHOOTER that put you directly inside a CLASSIC ANIME. Pick your favorite weapon and reach the last floor; Beat your best time or try again. Haste makes waste… OF YOUR ENEMIES!",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 88,
-        "title": "Mullet MadJack",
-        "url": "https://www.metacritic.com/game/mullet-madjack/",
-        "mustPlay": false,
-        "genres": [
-          "FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-05-15",
-        "userScore": 8.2,
-        "userReviewCount": 190
-      }
-    },
-    {
       "productId": "9NDJLXD2X2DM",
       "playAnywhere": true,
       "title": "My Friend Peppa Pig",
@@ -15525,84 +15210,6 @@
         "releaseDate": "2021-08-12",
         "userScore": 5.9,
         "userReviewCount": 117
-      }
-    },
-    {
-      "productId": "9PP9PFSCJTWR",
-      "playAnywhere": false,
-      "title": "NBA 2K26 for Xbox One",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "shortDescription": "Bragging rights are on the line in NBA 2K26. Build your legend in MyCAREER, collect and compete with stars in MyTEAM, and make executive decisions in MyNBA on Xbox Series X|S or MyLEAGUE on Xbox One.",
-      "categories": [
-        "Sports"
-      ],
-      "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23652.14332530460749170.64ca41ff-99bb-414a-b819-ac6c0303cecb.2ff46473-a6f8-49eb-ab03-fbd7fedf4393",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PP9PFSCJTWR",
-      "titleZh": "Xbox One版《NBA 2K26》",
-      "shortDescriptionZh": "在《NBA 2K26》中荣耀之争一触即发。打造你的辉煌生涯传奇，在梦幻球队收集明星并展开对决，在Xbox Series X|S篮球联盟或Xbox One终极联盟中执掌球队运筹帷幄。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": null
-    },
-    {
-      "productId": "9NFKCJNBR34N",
-      "playAnywhere": false,
-      "title": "NBA 2K26 for Xbox Series X|S",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "shortDescription": "Bragging rights are on the line in NBA 2K26. Build your legend in MyCAREER, collect and compete with stars in MyTEAM, and make executive decisions in MyNBA on Xbox Series X|S or MyLEAGUE on Xbox One.",
-      "categories": [
-        "Sports"
-      ],
-      "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23652.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.69561e2d-167c-4608-b5f0-287c10e2e5d5",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NFKCJNBR34N",
-      "titleZh": "Xbox Series X|S版《NBA 2K26》",
-      "shortDescriptionZh": "在《NBA 2K26》中荣耀之争一触即发。打造你的辉煌生涯传奇，在梦幻球队收集明星并展开对决，在Xbox Series X|S篮球联盟或Xbox One终极联盟中执掌球队运筹帷幄。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true,
-      "metacritic": null
-    },
-    {
-      "productId": "9N2FJQC9NTX6",
-      "playAnywhere": false,
-      "title": "NBA 2K26 Standard Edition (Windows PC)",
-      "developer": "Visual Concepts",
-      "publisher": "2K",
-      "shortDescription": "Bragging rights are on the line in NBA 2K26. \n\nBuild your legend in MyCAREER, collect and compete with stars in MyTEAM, and make executive decisions in MyNBA on Windows PC.",
-      "categories": [
-        "Sports"
-      ],
-      "releaseDate": "2026-04-03T15:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23652.13957745975285029.52df9602-ccd8-4a0d-873f-5731652c7052.96b7a071-ff3c-4629-9cf6-9b37098e28fa",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N2FJQC9NTX6",
-      "titleZh": "《NBA 2K26》标准版 (Windows PC)",
-      "shortDescriptionZh": "在《NBA 2K26》中荣耀之争一触即发。\n\n打造你的辉煌生涯传奇，在梦幻球队收集明星并展开对决，在Windows PC终极联盟中执掌球队运筹帷幄。\n",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 82,
-        "title": "NBA 2K26",
-        "url": "https://www.metacritic.com/game/nba-2k26/",
-        "mustPlay": false,
-        "genres": [
-          "Basketball Sim"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-09-05",
-        "userScore": 4.6,
-        "userReviewCount": 182
       }
     },
     {
@@ -15809,76 +15416,6 @@
         "releaseDate": "2022-11-29",
         "userScore": 5.9,
         "userReviewCount": 1231
-      }
-    },
-    {
-      "productId": "9NC781DK18GN",
-      "playAnywhere": false,
-      "title": "Neon Abyss",
-      "developer": "Veewo Games",
-      "publisher": "Team17",
-      "shortDescription": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system ensures each run will present a new challenge. Get ready to unleash hell!",
-      "categories": [
-        "Platformer",
-        "Shooter"
-      ],
-      "releaseDate": "2020-07-14T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.19066.13568911399767367.40f48bf2-3e0d-4d5e-82ae-91d8c14bd585.765f2152-e955-4466-9a50-86202059f6cf",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NC781DK18GN",
-      "titleZh": null,
-      "shortDescriptionZh": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system ensures each run will present a new challenge. Get ready to unleash hell!",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 74,
-        "title": "Neon Abyss",
-        "url": "https://www.metacritic.com/game/neon-abyss/",
-        "mustPlay": false,
-        "genres": [
-          "2D Platformer"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-07-14",
-        "userScore": 6.5,
-        "userReviewCount": 97
-      }
-    },
-    {
-      "productId": "9PLWSGHFQ4PS",
-      "playAnywhere": false,
-      "title": "Neon Abyss",
-      "developer": "Veewo Games",
-      "publisher": "Team17",
-      "shortDescription": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system ensures each run will present a new challenge. Get ready to unleash hell!",
-      "categories": [
-        "Platformer",
-        "Shooter"
-      ],
-      "releaseDate": "2020-07-14T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.19066.14309576365758777.173ab21c-81bd-4a31-b5cc-0d6495ab6a15.3d8b62bb-f4d2-49b4-a1c2-4812e7199420",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLWSGHFQ4PS",
-      "titleZh": null,
-      "shortDescriptionZh": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system ensures each run will present a new challenge. Get ready to unleash hell!",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false,
-      "metacritic": {
-        "score": 74,
-        "title": "Neon Abyss",
-        "url": "https://www.metacritic.com/game/neon-abyss/",
-        "mustPlay": false,
-        "genres": [
-          "2D Platformer"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-07-14",
-        "userScore": 6.5,
-        "userReviewCount": 97
       }
     },
     {
@@ -16446,30 +15983,6 @@
         "userScore": 6.1,
         "userReviewCount": 121
       }
-    },
-    {
-      "productId": "9NRCM30L6GRQ",
-      "playAnywhere": true,
-      "title": "One Lonely Outpost",
-      "developer": "indie.io",
-      "publisher": "indie.io",
-      "shortDescription": "An alien world sometimes needs a farmer’s touch to bring it to life. In this sci-fi, colonization-life sim, terraform a barren world: turn wastelands into verdant landscapes while exploring, farming, building, and unlocking all the mysteries of this strange new planet.",
-      "categories": [
-        "Simulation",
-        "Role playing"
-      ],
-      "releaseDate": "2025-03-06T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.59811.14390018847119191.29453666-331b-4d4a-872c-2620e4ba4254.4851c57f-3371-453c-9f11-0b263ea097f5",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NRCM30L6GRQ",
-      "titleZh": null,
-      "shortDescriptionZh": "外星世界有时需要农民来赋予生机。在这款科幻移民模拟游戏中，你要探索、耕种、建设，并解开这个陌生新星球的秘密，将荒原变成沃土，把贫瘠世界改造成适宜地球人生存的环境。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": null
     },
     {
       "productId": "BW85KQB8Q31M",
@@ -19237,6 +18750,31 @@
       }
     },
     {
+      "productId": "9P402RWR63H4",
+      "playAnywhere": true,
+      "title": "RuneScape: Dragonwilds",
+      "developer": "Jagex: The RuneScape Company",
+      "publisher": "Jagex: The RuneScape Company",
+      "shortDescription": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
+      "categories": [
+        "Action & adventure",
+        "Role playing",
+        "Other"
+      ],
+      "releaseDate": "2026-09-15T09:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.19279.14598963835318421.d3340a04-fc78-4b06-9abb-2849494504b3.db648883-647c-4b89-9427-69507858a55f",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P402RWR63H4",
+      "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野",
+      "shortDescriptionZh": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": null
+    },
+    {
       "productId": "9P3PL76N0KWZ",
       "playAnywhere": true,
       "title": "Rush: A DisneyPixar Adventure",
@@ -19629,6 +19167,34 @@
       "metacritic": null
     },
     {
+      "productId": "9N51NR4GX891",
+      "playAnywhere": true,
+      "title": "Shelldiver",
+      "developer": "Gagonfe",
+      "publisher": "Gagonfe",
+      "shortDescription": "Take a deep breath and dive right into this cozy incremental game about a senior turtle trying to start a business selling jellyfish. Upgrade your equipment, explore biomes, and help your turtly village!",
+      "categories": [
+        "Shooter",
+        "Action & adventure",
+        "Family & kids",
+        "Platformer",
+        "Simulation",
+        "Other"
+      ],
+      "releaseDate": "2026-09-01T13:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.1292.13976576036437000.15d2217e-0f3f-430d-bd96-a7159bbf5985.21ad7a97-9737-45b2-915b-0cf6a29694b2",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N51NR4GX891",
+      "titleZh": null,
+      "shortDescriptionZh": "深吸一口气……欢迎潜入这款温馨的增量游戏！你将扮演一只准备经营水母小店的老龟，升级装备、探索各类生物群落，并为你的龟龟村出一份力！",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true,
+      "metacritic": null
+    },
+    {
       "productId": "9N0WDPMXNHWN",
       "playAnywhere": true,
       "title": "Shift At Midnight",
@@ -19857,7 +19423,7 @@
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.49965.14402893629943553.362bf74c-1912-4b56-af34-2a4f02642352.bf763d73-d99b-48f4-8e65-fab6e6ecb0b0",
+      "image": "https://store-images.s-microsoft.com/image/apps.7730.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.f6ba881d-045a-41c8-96e6-8a4cbecd1e30",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NV8W1KJSQLL",
       "titleZh": "《神之浩劫2》",
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。 \n\n《神之浩劫2》由Unreal Engine 5打造，在这款传奇第三人称动作MOBA续作中，玩家将化身为神，并掀起战争的狂澜。如果你热衷于激烈的竞争、火爆的动作、技能驱动的战斗、回报满满的团队合作，或者热爱神话传说，那么你就能明白为什么超过4千万玩家都喜爱《神之浩劫》",
@@ -20182,41 +19748,28 @@
       }
     },
     {
-      "productId": "9NG5L58FD3X5",
+      "productId": "9PPKR9N31BW6",
       "playAnywhere": true,
-      "title": "Spiritfarer®: Farewell Edition",
-      "developer": "Thunder Lotus",
-      "publisher": "Thunder Lotus",
-      "shortDescription": "Spiritfarer is a cozy management game about dying. As ferrymaster to the deceased, build a boat to explore the world, care for your spirit friends, and guide them across mystical seas to finally release them into the afterlife.",
+      "title": "SpeedRunners 2: King of Speed",
+      "developer": "tinyBuild Games",
+      "publisher": "tinyBuild",
+      "shortDescription": "The ultimate competitive platformer is back!",
       "categories": [
-        "Action & adventure",
         "Platformer",
-        "Simulation"
+        "Racing & flying"
       ],
-      "releaseDate": "2020-08-18T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.25623.13581632098060782.9aea914f-fc5f-474f-a052-eac22427e863.e0e90c3e-1d1b-42e8-8b26-feef9d36a235",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NG5L58FD3X5",
-      "titleZh": "《Spiritfarer》Farewell版",
-      "shortDescriptionZh": "《Spiritfarer》是一款关于死亡的休闲管理游戏。作为逝者的船主，建造一艘船去探索世界，关爱你的幽灵朋友，引导他们穿越神秘的海洋，最终将他们送到来世。",
+      "releaseDate": "2026-09-03T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.34223.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.ba1ba654-43f4-494c-af69-2f04015448e2",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PPKR9N31BW6",
+      "titleZh": null,
+      "shortDescriptionZh": "终极版竞技性平台游戏回来了！激烈到令人窒息的线上及本地竞速",
       "platforms": [
         "console",
         "pc"
       ],
-      "xboxOne": true,
+      "xboxOne": false,
       "xboxSeries": true,
-      "metacritic": {
-        "score": 84,
-        "title": "Spiritfarer",
-        "url": "https://www.metacritic.com/game/spiritfarer/",
-        "mustPlay": false,
-        "genres": [
-          "Sandbox"
-        ],
-        "confidence": 0.97,
-        "releaseDate": "2020-08-18",
-        "userScore": 8.2,
-        "userReviewCount": 388
-      }
+      "metacritic": null
     },
     {
       "productId": "9NMF3KXT4P4G",
@@ -21419,43 +20972,6 @@
       }
     },
     {
-      "productId": "9NVR4ZQKNBSB",
-      "playAnywhere": true,
-      "title": "Superliminal",
-      "developer": "Pillow Castle",
-      "publisher": "Pillow Castle",
-      "shortDescription": "Perception is reality. Escape a mind-bending dream by solving impossible puzzles using your perspective.",
-      "categories": [
-        "Action & adventure",
-        "Puzzle & trivia",
-        "Shooter"
-      ],
-      "releaseDate": "2020-07-06T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.31620.14393569011623061.24d2b16b-20df-48f4-b265-623d2c0e948a.c3577c03-647c-443c-94bc-fa43a7f08bba",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVR4ZQKNBSB",
-      "titleZh": null,
-      "shortDescriptionZh": "视角即现实。用视角的力量去解开不可思议的谜题，逃离光怪陆离的梦境。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 74,
-        "title": "Superliminal",
-        "url": "https://www.metacritic.com/game/superliminal/",
-        "mustPlay": false,
-        "genres": [
-          "First-Person Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2019-11-12",
-        "userScore": 7.7,
-        "userReviewCount": 551
-      }
-    },
-    {
       "productId": "9NR0GCBSLDW4",
       "playAnywhere": true,
       "title": "Supermarket Simulator",
@@ -21611,18 +21127,18 @@
     {
       "productId": "9P9GX5D8H9DW",
       "playAnywhere": true,
-      "title": "TCG Card Shop Simulator (Game Preview)",
+      "title": "TCG Card Shop Simulator",
       "developer": "OPNeon Games Sdn Bhd",
       "publisher": "OPNeon Games Sdn Bhd",
-      "shortDescription": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nOpen your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
+      "shortDescription": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
       "categories": [
         "Simulation"
       ],
       "releaseDate": "2026-09-15T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64640.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.531a6e82-4e61-4f27-9dbb-46c1d6f94f7c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9GX5D8H9DW",
-      "titleZh": "TCG卡牌店模拟器 (游戏预览版)",
-      "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。\n\n开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+      "titleZh": "TCG卡牌店模拟器",
+      "shortDescriptionZh": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
       "platforms": [
         "console",
         "pc"
@@ -23031,6 +22547,43 @@
       }
     },
     {
+      "productId": "9N034X5G08B7",
+      "playAnywhere": true,
+      "title": "The Royal Writ",
+      "developer": "Save Sloth Studios",
+      "publisher": "Yogscast Games",
+      "shortDescription": "Sacrifice creates stories in this medieval roguelike deckbuilder. Watch your cards march to glory or permanent death as they battle toward the enemy. Each fallen hero becomes part of your kingdom's legend. Command wisely... some sacrifices are necessary.",
+      "categories": [
+        "Strategy",
+        "Card & board",
+        "Simulation"
+      ],
+      "releaseDate": "2026-09-10T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.20206.13929128993190644.5fdad478-5d9a-4e47-b2a4-acc499d07c78.87b72de9-0d97-4e33-9dd0-d85784eb761c",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N034X5G08B7",
+      "titleZh": "国王的新牌",
+      "shortDescriptionZh": "听着！朕乃这四海之内的无上霸主，特此颁布此诏令，召集天下前来体验朕的伟大统治！这不仅是一款游戏，更是朕展示王权与战争艺术的绝佳舞台，战场既是吾辈之牌局，朕才是永远的赢家！尔等若不速速加入，便是对朕威严的公然挑衅，后果自负——朕可不介意派出一支“小型围攻队”拜访尔等陋室！",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 80,
+        "title": "The Royal Writ",
+        "url": "https://www.metacritic.com/game/the-royal-writ/",
+        "mustPlay": false,
+        "genres": [
+          "Card Battle"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-08-07",
+        "userScore": null,
+        "userReviewCount": null
+      }
+    },
+    {
       "productId": "9N10HHMXFFC5",
       "playAnywhere": false,
       "title": "The Settlers: New Allies",
@@ -23290,40 +22843,6 @@
       "xboxOne": true,
       "xboxSeries": true,
       "metacritic": null
-    },
-    {
-      "productId": "C261457LCNMJ",
-      "playAnywhere": false,
-      "title": "The Witcher 3: Wild Hunt – Complete Edition",
-      "developer": "CD PROJEKT RED",
-      "publisher": "CD PROJEKT S.A.",
-      "shortDescription": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
-      "categories": [
-        "Role playing"
-      ],
-      "releaseDate": "2016-08-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.53717.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.80ba72da-abfb-4af6-81f2-a443d12fb870",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/C261457LCNMJ",
-      "titleZh": "《巫师 3：狂猎 - 完全版》",
-      "shortDescriptionZh": "您是利维亚的杰洛特，收钱办事的怪物杀手。您可以在眼前这片怪物横行、饱受战火摧残的土地上尽情探索。您手上的委托？追踪预言之子——希里，一件足以改变世界面貌的活生生的武器。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 92,
-        "title": "The Witcher 3: Wild Hunt",
-        "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt/",
-        "mustPlay": true,
-        "genres": [
-          "Action RPG"
-        ],
-        "confidence": 1,
-        "releaseDate": "2015-05-19",
-        "userScore": 9.1,
-        "userReviewCount": 19955
-      }
     },
     {
       "productId": "BXBJQ1932138",
@@ -24235,27 +23754,6 @@
       "metacritic": null
     },
     {
-      "productId": "9N9FR8CSZP56",
-      "playAnywhere": true,
-      "title": "Train Sim World® 5: Standard Edition",
-      "developer": "Dovetail Games",
-      "publisher": "Dovetail Games",
-      "shortDescription": "The Rails are Yours in Train Sim World 5! Take on new challenges and new roles as you master the tracks and trains of iconic cities across 3 new routes. Immerse yourself in the ultimate rail hobby and embark on your next journey.",
-      "categories": [],
-      "releaseDate": "2024-09-17T15:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9FR8CSZP56",
-      "titleZh": null,
-      "shortDescriptionZh": "来《模拟火车世界5》里，全世界的铁路尽属于你！在标志性的特色城市中，驾驶列车穿越铁轨，飞驰在 3 条全新线路上，用新的角色迎接新的挑战。你将沉醉于终极的铁路爱好中，开启你的下一段旅程。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": null
-    },
-    {
       "productId": "9NKDZ44LZR2R",
       "playAnywhere": false,
       "title": "Transference",
@@ -25091,6 +24589,41 @@
       "metacritic": null
     },
     {
+      "productId": "9NSM674QVLBS",
+      "playAnywhere": true,
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "developer": "SEGA",
+      "publisher": "SEGA",
+      "shortDescription": "The pioneer 3D fighting series continues to evolve as Virtua Fighter 5 R.E.V.O. World Stage arrives on Xbox Series X|S.",
+      "categories": [
+        "Fighting"
+      ],
+      "releaseDate": "2025-10-29T16:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.4785.14360936962313275.d2dd0342-a5b1-4e46-bd2a-9de7360ee291.605b9a5b-6b36-460e-9675-d7e9ad499773",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NSM674QVLBS",
+      "titleZh": null,
+      "shortDescriptionZh": "不断追求真实感的3D格斗游戏始祖“Virtua Fighter”，终于登陆Xbox Series X|S。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 78,
+        "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+        "url": "https://www.metacritic.com/game/virtua-fighter-5-revo-world-stage/",
+        "mustPlay": false,
+        "genres": [
+          "3D Fighting"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-10-30",
+        "userScore": 6.9,
+        "userReviewCount": 11
+      }
+    },
+    {
       "productId": "9NJ5WV40PD08",
       "playAnywhere": true,
       "title": "Visions of Mana",
@@ -25242,7 +24775,7 @@
         "Simulation"
       ],
       "releaseDate": "2018-10-23T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4307.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.ad06d202-b4d4-452e-abca-bebb22a08dbb",
+      "image": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BX1DTCBD1HXJ",
       "titleZh": null,
       "shortDescriptionZh": "War Thunder is the most comprehensive free-to-play MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.",
@@ -26499,7 +26032,7 @@
         "Shooter"
       ],
       "releaseDate": "2026-05-26T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.17977.13914660851585642.f8c5ba4d-158e-487c-852f-a22c6ed534bc.0872fce5-18aa-4604-9b99-2eee413fe40b",
+      "image": "https://store-images.s-microsoft.com/image/apps.14297.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.a1a8176a-7527-4528-9e63-74328094a01c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N11JM7F5CXK",
       "titleZh": null,
       "shortDescriptionZh": "World of Tanks: HEAT是一款免费的PvP坦克射击游戏，融合了强大的英雄能力和火爆的团队战斗。驾驶可自定义坦克，施展特工技能，在兼具战术博弈与第一人称射击游戏风格激情的线上战斗中主宰战局。",
@@ -26573,7 +26106,7 @@
         "Strategy"
       ],
       "releaseDate": "2019-08-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.37618.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.ca73cfb6-0e4e-486f-a966-73508483b417",
+      "image": "https://store-images.s-microsoft.com/image/apps.15161.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.a900d566-737d-4c84-a3f2-16916236f4e8",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1ZT6N30L1WH",
       "titleZh": null,
       "shortDescriptionZh": "在《战舰世界：传奇》中体验史诗海军行动，这是一款免费的全球多人在线游戏，指挥历史上最伟大的军舰征服大海！招募传奇指挥官，升级您的战舰，和来自全球的玩家合作或对战，争夺海上霸权。",
@@ -26809,10 +26342,10 @@
     {
       "productId": "9N3KQH8183GD",
       "playAnywhere": true,
-      "title": "Young Suns (Game Preview)",
+      "title": "Young Suns",
       "developer": "KO_OP",
       "publisher": "KO_OP",
-      "shortDescription": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nYoung Suns is a 1-4 player narrative life sim set on Jupiter, in an optimistic alternative future. Visit planetoids, ruins, and stations. Decorate and customize your own spaceship. Help the citizens of Jupiter make society better!",
+      "shortDescription": "Young Suns is a narrative life sim set after a successful revolution on Jupiter. Explore fantastical planetoids, derelict ruins, and converted stations with a crew of up to three friends or on your own. Help the friendly citizens of Jupiter rebuild!",
       "categories": [
         "Action & adventure",
         "Family & kids",
@@ -26821,10 +26354,10 @@
         "Simulation"
       ],
       "releaseDate": "2025-11-25T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.41484.14000938598007723.1c20633c-9e09-40dc-b4c0-9b7443ea3118.639959d7-9aef-463e-b4c8-cc9a6fdb4c6b",
+      "image": "https://store-images.s-microsoft.com/image/apps.57792.14000938598007723.bdd09231-8f55-4ab1-9908-7d3679c5e743.e5a0689c-427c-4d07-8779-8b077b23e70f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N3KQH8183GD",
-      "titleZh": "Young Suns (游戏预览版游戏预览版)",
-      "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。\n\n《Young Suns》是一款以木星为背景的1-4人叙事生活模拟游戏，故事发生在一个充满希望的架空未来世界。玩家可以探索小行星、遗迹和空间站，装饰并定制自己的飞船，帮助木星居民建设更美好的社会！",
+      "titleZh": null,
+      "shortDescriptionZh": "《未来的太阳》是一款叙事性生活模拟游戏，故事发生在木星，时间设定在一次革命之后。探索奇妙的小卫星、破败的遗迹和经过改造的空间站，最多可以带三个朋友，也可以独自行动。帮助木星友善的居民重建家园吧！",
       "platforms": [
         "console",
         "pc"
@@ -26844,7 +26377,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2025-06-05T22:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64374.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.1a231651-8df6-4613-8c7e-8a455b0c81fc",
+      "image": "https://store-images.s-microsoft.com/image/apps.22806.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.681170dd-5c61-42ed-b68e-f25aa46d0e5c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4X0WFZ2STM",
       "titleZh": "绝区零",
       "shortDescriptionZh": "踏上一段后末世冒险，探索危机四伏的空洞及文明最后一座灯塔背后的谜团。",
