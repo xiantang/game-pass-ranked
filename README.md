@@ -1,11 +1,28 @@
 # XGP × Metacritic
 
-A local page listing the whole Xbox Game Pass catalog, sortable by Metacritic critic score.
+A local page listing the whole Xbox Game Pass and PlayStation Plus catalogs, sortable by
+Metacritic score. Switch between the two at the top right.
 
 ```bash
 npm run build    # refresh the catalog + scores (a few minutes)
 npm run serve    # http://localhost:5173
 ```
+
+Live at **https://games.vim0.com**.
+
+## Deploy
+
+The page is fully static, so it is served for free straight from the `main` branch by
+GitHub Pages, on a custom domain whose DNS lives in Cloudflare.
+
+- **Data refresh:** `.github/workflows/refresh-data.yml` runs `npm run build` every Monday
+  at 02:00 UTC and commits `data/` when anything changed; the commit republishes the site.
+  Trigger it by hand with `gh workflow run refresh-data.yml`. A failed fetch fails the job
+  before the commit, so the live site keeps the previous data.
+- **Domain:** the `CNAME` file holds `games.vim0.com`. In Cloudflare, `games` is a CNAME
+  to `xiantang.github.io`. It must stay **DNS only** (grey cloud) until GitHub has issued
+  the certificate. If you later turn on the proxy (orange cloud), set SSL/TLS to
+  **Full (strict)**, because Flexible causes a redirect loop.
 
 ## How it works
 
@@ -13,6 +30,8 @@ npm run serve    # http://localhost:5173
 | --- | --- | --- |
 | Pull the Game Pass console + PC lists, then product details | `scripts/fetch-xgp.mjs` | `data/xgp.json` |
 | Match each title on Metacritic, attach critic + user scores | `scripts/fetch-metacritic.mjs` | `data/games.json` (+ `data/mc-cache.json`, `data/mc-user-cache.json`) |
+| Pull the PS Plus lists | `scripts/fetch-psplus.mjs` | `data/psplus.json` |
+| Same Metacritic pass for PS Plus | `scripts/fetch-metacritic.mjs psplus` | `data/psplus-games.json` |
 | Render, filter and sort in the browser | `index.html` | — |
 
 Both APIs are the public JSON endpoints that xbox.com and metacritic.com call from their
@@ -75,6 +94,32 @@ script (`xgpcatPopulate-2025.js`):
 | Play Anywhere | any SKU has `XboxXPA === true` |
 
 Checking several devices widens the results (union), as on the store.
+
+## PS Plus
+
+The PS Plus catalog comes from the endpoint playstation.com's own PS Plus game finder
+calls, `https://www.playstation.com/bin/imagic/gameslist?locale=en-sg&categoryList=<list>`.
+Refresh just this side with `npm run fetch:ps`.
+
+| List | Contents | Lowest plan |
+| --- | --- | --- |
+| `plus-monthly-games-list` | Monthly games | Essential |
+| `plus-games-list` | Game Catalog | Extra |
+| `ubisoft-classics-list` | Ubisoft Classics | Extra |
+| `plus-classics-list` | Classics Catalog | Premium |
+
+Plans are cumulative, as in the game finder's own ribbons: picking **Extra** shows
+everything Essential and Extra members can play. Each card is tagged with the lowest plan
+that includes the game. A game in several lists (the Ubisoft Classics are all in the Game
+Catalog too) keeps its lowest tier. Monthly games rotate, so Essential is only ever a
+handful of titles.
+
+Store titles add PlayStation noise (`PS4 & PS5`, `PlayStation®Hits`, `[PS4 & PS5]`), which
+the matcher strips as well. Both services share the Metacritic caches, so a game on both
+is only looked up once.
+
+Chinese titles come from the `zh-hans-hk` locale (`zh-hans-cn` has no PS Plus page); the
+HK catalog is not identical to SG, so a few titles stay English. Override with `ZH_LOCALE`.
 
 ## 中文 / language
 

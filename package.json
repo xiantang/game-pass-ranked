@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Xbox Game Pass catalog ranked by Metacritic critic score",
+  "description": "Xbox Game Pass and PlayStation Plus catalogs ranked by Metacritic score",
   "scripts": {
     "fetch:xgp": "node scripts/fetch-xgp.mjs",
     "fetch:mc": "node scripts/fetch-metacritic.mjs",
-    "build": "node scripts/fetch-xgp.mjs && node scripts/fetch-metacritic.mjs",
+    "fetch:ps": "node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus",
+    "build": "node scripts/fetch-xgp.mjs && node scripts/fetch-metacritic.mjs && node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus",
     "serve": "node scripts/serve.mjs"
   }
 }

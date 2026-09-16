@@ -2042,18 +2042,6 @@
     "mustPlay": false,
     "confidence": 1
   },
-  "disneyland adventures": {
-    "title": "Kinect: Disneyland Adventures",
-    "slug": "kinect-disneyland-adventures",
-    "score": 73,
-    "url": "https://www.metacritic.com/game/kinect-disneyland-adventures/",
-    "releaseDate": "2011-11-15",
-    "genres": [
-      "Action Adventure"
-    ],
-    "mustPlay": false,
-    "confidence": 0.864
-  },
   "doom doom 2": {
     "title": "DOOM + DOOM II",
     "slug": "doom-plus-doom-ii",
@@ -3333,18 +3321,6 @@
     "mustPlay": false,
     "confidence": 1
   },
-  "hellblade 2 senua s saga": {
-    "title": "Senua's Saga: Hellblade II",
-    "slug": "senuas-saga-hellblade-ii",
-    "score": 81,
-    "url": "https://www.metacritic.com/game/senuas-saga-hellblade-ii/",
-    "releaseDate": "2024-05-21",
-    "genres": [
-      "Action Adventure"
-    ],
-    "mustPlay": false,
-    "confidence": 0.947
-  },
   "halo the master chief collection": {
     "title": "Halo: The Master Chief Collection",
     "slug": "the-master-chief-collection",
@@ -4226,18 +4202,6 @@
     "mustPlay": false,
     "confidence": 1
   },
-  "microsoft mahjong": {
-    "title": "Mahjong by Microsoft",
-    "slug": "mahjong-by-microsoft",
-    "score": null,
-    "url": "https://www.metacritic.com/game/mahjong-by-microsoft/",
-    "releaseDate": "2021-01-12",
-    "genres": [
-      "Board"
-    ],
-    "mustPlay": false,
-    "confidence": 0.875
-  },
   "minecraft dungeons launcher": {
     "title": "Minecraft Dungeons: Hero Edition",
     "slug": "minecraft-dungeons-hero-edition",
@@ -4612,18 +4576,6 @@
     ],
     "mustPlay": false,
     "confidence": 1
-  },
-  "new monopoly": {
-    "title": "Monopoly New Edition",
-    "slug": "monopoly-new-edition",
-    "score": null,
-    "url": "https://www.metacritic.com/game/monopoly-new-edition/",
-    "releaseDate": "2005-07-15",
-    "genres": [
-      "Board"
-    ],
-    "mustPlay": false,
-    "confidence": 0.9
   },
   "new super lucky s tale": {
     "title": "New Super Lucky's Tale",
@@ -5705,18 +5657,6 @@
     ],
     "mustPlay": false,
     "confidence": 1
-  },
-  "ryse legendary": {
-    "title": "Rysen",
-    "slug": "rysen",
-    "score": null,
-    "url": "https://www.metacritic.com/game/rysen/",
-    "releaseDate": "2018-02-08",
-    "genres": [
-      "Vertical Shoot-'Em-Up"
-    ],
-    "mustPlay": false,
-    "confidence": 0.831
   },
   "sea of thieves 2026": {
     "title": "Sea of Thieves",
@@ -7689,18 +7629,6 @@
     "mustPlay": false,
     "confidence": 1
   },
-  "zombi": {
-    "title": "ZombiU",
-    "slug": "zombiu",
-    "score": 77,
-    "url": "https://www.metacritic.com/game/zombiu/",
-    "releaseDate": "2012-11-18",
-    "genres": [
-      "Survival"
-    ],
-    "mustPlay": false,
-    "confidence": 0.889
-  },
   "zombie army 4 dead war": {
     "title": "Zombie Army 4: Dead War",
     "slug": "zombie-army-4-dead-war",
@@ -7757,6 +7685,4441 @@
     "releaseDate": "2009-09-15",
     "genres": [
       "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "2xtreme": null,
+  "a quiet place the road ahead": {
+    "title": "A Quiet Place: The Road Ahead",
+    "slug": "a-quiet-place-the-road-ahead",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/a-quiet-place-the-road-ahead/",
+    "releaseDate": "2024-10-17",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "a space for the unbound": {
+    "title": "A Space For The Unbound",
+    "slug": "a-space-for-the-unbound",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/a-space-for-the-unbound/",
+    "releaseDate": "2023-01-19",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "a train express plus": {
+    "title": "A-Train Express",
+    "slug": "a-train-express",
+    "score": null,
+    "url": "https://www.metacritic.com/game/a-train-express/",
+    "releaseDate": "2019-05-22",
+    "genres": [
+      "Train Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 0.857
+  },
+  "a little to the left": {
+    "title": "A Little To The Left",
+    "slug": "a-little-to-the-left",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/a-little-to-the-left/",
+    "releaseDate": "2022-11-08",
+    "genres": [
+      "Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "age of wonders planetfall": {
+    "title": "Age of Wonders: Planetfall",
+    "slug": "age-of-wonders-planetfall",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/age-of-wonders-planetfall/",
+    "releaseDate": "2019-08-06",
+    "genres": [
+      "4X Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "alienation": {
+    "title": "Alienation",
+    "slug": "alienation",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/alienation/",
+    "releaseDate": "2016-04-26",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "alone in the dark 2": {
+    "title": "Alone in the Dark 2",
+    "slug": "alone-in-the-dark-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/alone-in-the-dark-2/",
+    "releaseDate": "1994-09-25",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "adventure time pirates of the enchiridion": {
+    "title": "Adventure Time: Pirates of the Enchiridion",
+    "slug": "adventure-time-pirates-of-the-enchiridion",
+    "score": 62,
+    "url": "https://www.metacritic.com/game/adventure-time-pirates-of-the-enchiridion/",
+    "releaseDate": "2018-07-17",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "alone in the dark the new nightmare": {
+    "title": "Alone in the Dark: The New Nightmare",
+    "slug": "alone-in-the-dark-the-new-nightmare",
+    "score": 66,
+    "url": "https://www.metacritic.com/game/alone-in-the-dark-the-new-nightmare/",
+    "releaseDate": "2001-06-25",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ape academy 2": {
+    "title": "Ape Academy 2",
+    "slug": "ape-academy-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/ape-academy-2/",
+    "releaseDate": "2005-12-15",
+    "genres": [
+      "Party"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ao tennis 2": {
+    "title": "AO Tennis 2",
+    "slug": "ao-tennis-2",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/ao-tennis-2/",
+    "releaseDate": "2020-02-11",
+    "genres": [
+      "Tennis"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ape escape": {
+    "title": "Ape Escape",
+    "slug": "ape-escape",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/ape-escape/",
+    "releaseDate": "1999-06-23",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "arcade paradise": {
+    "title": "Arcade Paradise",
+    "slug": "arcade-paradise",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/arcade-paradise/",
+    "releaseDate": "2022-08-11",
+    "genres": [
+      "Virtual Career"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ape escape p": {
+    "title": "Ape Escape",
+    "slug": "ape-escape",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/ape-escape/",
+    "releaseDate": "1999-06-23",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": true,
+    "confidence": 0.941
+  },
+  "armored core": {
+    "title": "Armored Core",
+    "slug": "armored-core",
+    "score": null,
+    "url": "https://www.metacritic.com/game/armored-core/",
+    "releaseDate": "1997-10-31",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "armored core master of arena": {
+    "title": "Armored Core: Master of Arena",
+    "slug": "armored-core-master-of-arena",
+    "score": null,
+    "url": "https://www.metacritic.com/game/armored-core-master-of-arena/",
+    "releaseDate": "2000-02-29",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "armored core project phantasma": {
+    "title": "Armored Core: Project Phantasma",
+    "slug": "armored-core-project-phantasma",
+    "score": null,
+    "url": "https://www.metacritic.com/game/armored-core-project-phantasma/",
+    "releaseDate": "1998-09-30",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "assetto corsa competizione": {
+    "title": "Assetto Corsa Competizione",
+    "slug": "assetto-corsa-competizione",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/assetto-corsa-competizione/",
+    "releaseDate": "TBA - Early Access",
+    "genres": [
+      "Auto Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "atlas fallen reign of sand": {
+    "title": "Atlas Fallen: Reign Of Sand",
+    "slug": "atlas-fallen-reign-of-sand",
+    "score": null,
+    "url": "https://www.metacritic.com/game/atlas-fallen-reign-of-sand/",
+    "releaseDate": "2024-08-06",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "atelier ryza 3 alchemist of the end and the secret key": {
+    "title": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "slug": "atelier-ryza-3-alchemist-of-the-end-and-the-secret",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/atelier-ryza-3-alchemist-of-the-end-and-the-secret/",
+    "releaseDate": "2023-03-24",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "back 4 blood": {
+    "title": "Back 4 Blood",
+    "slug": "back-4-blood",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/back-4-blood/",
+    "releaseDate": "2021-10-12",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bang on balls chronicles": {
+    "title": "Bang-On Balls: Chronicles",
+    "slug": "bang-on-balls-chronicles",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/bang-on-balls-chronicles/",
+    "releaseDate": "2023-10-05",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "battle chasers nightwar": {
+    "title": "Battle Chasers: Nightwar",
+    "slug": "battle-chasers-nightwar",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/battle-chasers-nightwar/",
+    "releaseDate": "2017-10-03",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "battle engine aquila": {
+    "title": "Battle Engine Aquila",
+    "slug": "battle-engine-aquila",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/battle-engine-aquila/",
+    "releaseDate": "2003-01-20",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bee simulator": {
+    "title": "Bee Simulator",
+    "slug": "bee-simulator",
+    "score": 58,
+    "url": "https://www.metacritic.com/game/bee-simulator/",
+    "releaseDate": "2019-11-14",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "biped": {
+    "title": "Biped",
+    "slug": "biped",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/biped/",
+    "releaseDate": "2020-04-08",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "beyond two souls": {
+    "title": "Beyond: Two Souls",
+    "slug": "beyond-two-souls",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/beyond-two-souls/",
+    "releaseDate": "2013-10-08",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "blades of fire": {
+    "title": "Blades of Fire",
+    "slug": "blades-of-fire",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/blades-of-fire/",
+    "releaseDate": "2025-05-22",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "blasphemous 2": {
+    "title": "Blasphemous 2",
+    "slug": "blasphemous-2",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/blasphemous-2/",
+    "releaseDate": "2023-08-24",
+    "genres": [
+      "Metroidvania"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "black desert": {
+    "title": "Black Desert",
+    "slug": "black-desert",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/black-desert/",
+    "releaseDate": "2019-03-04",
+    "genres": [
+      "MMORPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "blade dancer lineage of light": {
+    "title": "Blade Dancer: Lineage of Light",
+    "slug": "blade-dancer-lineage-of-light",
+    "score": 60,
+    "url": "https://www.metacritic.com/game/blade-dancer-lineage-of-light/",
+    "releaseDate": "2006-07-18",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bloodborne": {
+    "title": "Bloodborne",
+    "slug": "bloodborne",
+    "score": 92,
+    "url": "https://www.metacritic.com/game/bloodborne/",
+    "releaseDate": "2015-03-24",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "blood omen 2 legacy of kain": {
+    "title": "Blood Omen 2",
+    "slug": "blood-omen-2",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/blood-omen-2/",
+    "releaseDate": "2002-03-21",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "blood omen legacy of kain": {
+    "title": "Blood Omen: Legacy of Kain",
+    "slug": "blood-omen-legacy-of-kain",
+    "score": null,
+    "url": "https://www.metacritic.com/game/blood-omen-legacy-of-kain/",
+    "releaseDate": "1997-08-31",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bus simulator 21 next stop": {
+    "title": "Bus Simulator 21: Next Stop",
+    "slug": "bus-simulator-21-next-stop",
+    "score": null,
+    "url": "https://www.metacritic.com/game/bus-simulator-21-next-stop/",
+    "releaseDate": "2023-05-16",
+    "genres": [
+      "Vehicle Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bound shattered kingdom": {
+    "title": "Bound (2016)",
+    "slug": "bound-2016",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/bound-2016/",
+    "releaseDate": "2016-08-16",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "bramble the mountain king": {
+    "title": "Bramble: The Mountain King",
+    "slug": "bramble-the-mountain-king",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/bramble-the-mountain-king/",
+    "releaseDate": "2023-04-27",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "call of cthulhu": null,
+  "call of the sea": {
+    "title": "Call of the Sea",
+    "slug": "call-of-the-sea",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/call-of-the-sea/",
+    "releaseDate": "2020-12-08",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "captain tsubasa rise of new champions": {
+    "title": "Captain Tsubasa: Rise of New Champions",
+    "slug": "captain-tsubasa-rise-of-new-champions",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/captain-tsubasa-rise-of-new-champions/",
+    "releaseDate": "2020-08-28",
+    "genres": [
+      "Soccer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "cat quest": {
+    "title": "Cat Quest",
+    "slug": "cat-quest",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/cat-quest/",
+    "releaseDate": "2017-11-10",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "cat quest 2": null,
+  "cat quest 3": {
+    "title": "Cat Quest III",
+    "slug": "cat-quest-iii",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/cat-quest-iii/",
+    "releaseDate": "2024-08-08",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "chained echoes": {
+    "title": "Chained Echoes",
+    "slug": "chained-echoes",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/chained-echoes/",
+    "releaseDate": "2022-12-08",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "citizen sleeper 2 starward vector": {
+    "title": "Citizen Sleeper 2: Starward Vector",
+    "slug": "citizen-sleeper-2-starward-vector",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/citizen-sleeper-2-starward-vector/",
+    "releaseDate": "2025-01-31",
+    "genres": [
+      "Western RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "coded soul": null,
+  "coffee talk episode 2 hibiscus and butterfly": {
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "slug": "coffee-talk-episode-2-hibiscus-and-butterfly",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/coffee-talk-episode-2-hibiscus-and-butterfly/",
+    "releaseDate": "2023-04-20",
+    "genres": [
+      "Visual Novel"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "conan exiles": {
+    "title": "Conan Exiles",
+    "slug": "conan-exiles",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/conan-exiles/",
+    "releaseDate": "2018-05-08",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "coffee talk": {
+    "title": "Coffee Talk",
+    "slug": "coffee-talk",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/coffee-talk/",
+    "releaseDate": "2020-01-29",
+    "genres": [
+      "Visual Novel"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "concrete genie": {
+    "title": "Concrete Genie",
+    "slug": "concrete-genie",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/concrete-genie/",
+    "releaseDate": "2019-10-08",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "conscript": {
+    "title": "CONSCRIPT",
+    "slug": "conscript",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/conscript/",
+    "releaseDate": "2024-07-23",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "coral island": {
+    "title": "Coral Island",
+    "slug": "coral-island",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/coral-island/",
+    "releaseDate": "2023-11-14",
+    "genres": [
+      "Virtual Life"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "crime boss rockay city": {
+    "title": "Crime Boss: Rockay City",
+    "slug": "crime-boss-rockay-city",
+    "score": 52,
+    "url": "https://www.metacritic.com/game/crime-boss-rockay-city/",
+    "releaseDate": "2023-03-28",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "contra rogue corps": {
+    "title": "Contra: Rogue Corps",
+    "slug": "contra-rogue-corps",
+    "score": 52,
+    "url": "https://www.metacritic.com/game/contra-rogue-corps/",
+    "releaseDate": "2019-09-24",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "cool boarders": {
+    "title": "Cool Boarders",
+    "slug": "cool-boarders",
+    "score": 62,
+    "url": "https://www.metacritic.com/game/cool-boarders/",
+    "releaseDate": "2026-02-05",
+    "genres": [
+      "Skiing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "crow country": {
+    "title": "Crow Country",
+    "slug": "crow-country",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/crow-country/",
+    "releaseDate": "2024-05-09",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "crusader kings 3": {
+    "title": "Crusader Kings III",
+    "slug": "crusader-kings-iii",
+    "score": 91,
+    "url": "https://www.metacritic.com/game/crusader-kings-iii/",
+    "releaseDate": "2020-09-01",
+    "genres": [
+      "Real-Time Strategy"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "daxter": {
+    "title": "Daxter",
+    "slug": "daxter",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/daxter/",
+    "releaseDate": "2006-03-14",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "darkest dungeon 2": {
+    "title": "Darkest Dungeon II",
+    "slug": "darkest-dungeon-ii",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/darkest-dungeon-ii/",
+    "releaseDate": "2023-05-08",
+    "genres": [
+      "Roguelike"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "deadcraft": {
+    "title": "DEADCRAFT",
+    "slug": "deadcraft",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/deadcraft/",
+    "releaseDate": "2022-05-19",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "days gone": {
+    "title": "Days Gone",
+    "slug": "days-gone",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/days-gone/",
+    "releaseDate": "2019-04-26",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "death end re;quest": {
+    "title": "Death end re;Quest",
+    "slug": "death-end-request",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/death-end-request/",
+    "releaseDate": "2019-02-19",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "desperados 3": {
+    "title": "Desperados III",
+    "slug": "desperados-iii",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/desperados-iii/",
+    "releaseDate": "2020-06-16",
+    "genres": [
+      "Real-Time Tactics"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "detroit become human": {
+    "title": "Detroit: Become Human",
+    "slug": "detroit-become-human",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/detroit-become-human/",
+    "releaseDate": "2018-05-25",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "deliver us the moon": {
+    "title": "Deliver Us The Moon",
+    "slug": "deliver-us-the-moon",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/deliver-us-the-moon/",
+    "releaseDate": "2020-04-24",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "destiny 2 legacy collection": {
+    "title": "Destiny 2",
+    "slug": "destiny-2",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/destiny-2/",
+    "releaseDate": "2017-09-06",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "demon s souls": {
+    "title": "Demon's Souls",
+    "slug": "demons-souls",
+    "score": 92,
+    "url": "https://www.metacritic.com/game/demons-souls/",
+    "releaseDate": "2020-11-11",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "deus ex mankind divided": {
+    "title": "Deus Ex: Mankind Divided",
+    "slug": "deus-ex-mankind-divided",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/deus-ex-mankind-divided/",
+    "releaseDate": "2016-08-23",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dino crisis": {
+    "title": "Dino Crisis",
+    "slug": "dino-crisis",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/dino-crisis/",
+    "releaseDate": "2000-11-14",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "disney•pixar toy story 3": {
+    "title": "Disney/Pixar Toy Story 3 Complete Edition",
+    "slug": "disney-pixar-toy-story-3-complete-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/disney-pixar-toy-story-3-complete-edition/",
+    "releaseDate": "2026-10-15",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.923
+  },
+  "deus ex the conspiracy": {
+    "title": "Deus Ex Remastered",
+    "slug": "deus-ex-remastered",
+    "score": null,
+    "url": "https://www.metacritic.com/game/deus-ex-remastered/",
+    "releaseDate": "TBA",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "disney•pixar buzz lightyear of star command": {
+    "title": "Disney/Pixar Buzz Lightyear of Star Command",
+    "slug": "disney-pixar-buzz-lightyear-of-star-command",
+    "score": 55,
+    "url": "https://www.metacritic.com/game/disney-pixar-buzz-lightyear-of-star-command/",
+    "releaseDate": "2000-09-26",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.959
+  },
+  "disney•pixar up": {
+    "title": "Disney/Pixar Up",
+    "slug": "disney-pixar-up-2009",
+    "score": 61,
+    "url": "https://www.metacritic.com/game/disney-pixar-up-2009/",
+    "releaseDate": "2009-05-26",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.88
+  },
+  "disney s atlantis the lost empire": {
+    "title": "Disney's Atlantis: The Lost Empire (2001)",
+    "slug": "disneys-atlantis-the-lost-empire-2001",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/disneys-atlantis-the-lost-empire-2001/",
+    "releaseDate": "2001-06-14",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "disney•pixar toy story 2 buzz lightyear to the rescue": {
+    "title": "Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
+    "slug": "disney-pixar-toy-story-2-buzz-lightyear-to-the",
+    "score": 57,
+    "url": "https://www.metacritic.com/game/disney-pixar-toy-story-2-buzz-lightyear-to-the/",
+    "releaseDate": "2000-06-30",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.966
+  },
+  "dragon star varnir": {
+    "title": "Dragon Star Varnir",
+    "slug": "dragon-star-varnir",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/dragon-star-varnir/",
+    "releaseDate": "2019-06-11",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "doom 2": {
+    "title": "DOOM II",
+    "slug": "doom-ii",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/doom-ii/",
+    "releaseDate": "2010-05-26",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "disney•pixar wall e": {
+    "title": "Disney*Pixar WALL-E (2008)",
+    "slug": "disneypixar-wall-e-2008",
+    "score": 54,
+    "url": "https://www.metacritic.com/game/disneypixar-wall-e-2008/",
+    "releaseDate": "2008-06-24",
+    "genres": [
+      "Party"
+    ],
+    "mustPlay": false,
+    "confidence": 0.903
+  },
+  "dreams universe": null,
+  "dropship united peace force": {
+    "title": "Dropship: United Peace Force",
+    "slug": "dropship-united-peace-force",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/dropship-united-peace-force/",
+    "releaseDate": "2002-05-29",
+    "genres": [
+      "Aircraft Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dynasty warriors 8 empires": {
+    "title": "Dynasty Warriors 8 Empires",
+    "slug": "dynasty-warriors-8-empires",
+    "score": 63,
+    "url": "https://www.metacritic.com/game/dynasty-warriors-8-empires/",
+    "releaseDate": "2015-02-24",
+    "genres": [
+      "3D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dying light": {
+    "title": "Dying Light",
+    "slug": "dying-light",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/dying-light/",
+    "releaseDate": "2015-01-27",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dying light 2 stay human": {
+    "title": "Dying Light 2 Stay Human",
+    "slug": "dying-light-2-stay-human",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/dying-light-2-stay-human/",
+    "releaseDate": "2022-02-04",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "eagle flight": {
+    "title": "Eagle Flight",
+    "slug": "eagle-flight",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/eagle-flight/",
+    "releaseDate": "2016-11-08",
+    "genres": [
+      "Aircraft Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "echochrome": {
+    "title": "echochrome",
+    "slug": "echochrome",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/echochrome/",
+    "releaseDate": "2008-05-01",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dynasty warriors 9": {
+    "title": "Dynasty Warriors 9",
+    "slug": "dynasty-warriors-9",
+    "score": 65,
+    "url": "https://www.metacritic.com/game/dynasty-warriors-9/",
+    "releaseDate": "2018-02-13",
+    "genres": [
+      "3D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "earth defense force 5": {
+    "title": "Earth Defense Force 5",
+    "slug": "earth-defense-force-5",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/earth-defense-force-5/",
+    "releaseDate": "2018-12-11",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "earth defense force iron rain": {
+    "title": "Earth Defense Force: Iron Rain",
+    "slug": "earth-defense-force-iron-rain",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/earth-defense-force-iron-rain/",
+    "releaseDate": "2019-04-11",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "echoshift": {
+    "title": "echoshift",
+    "slug": "echoshift",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/echoshift/",
+    "releaseDate": "2010-02-24",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "echoes of the end": {
+    "title": "Echoes of the End",
+    "slug": "echoes-of-the-end",
+    "score": 66,
+    "url": "https://www.metacritic.com/game/echoes-of-the-end/",
+    "releaseDate": "2025-08-12",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "eldest souls": {
+    "title": "Eldest Souls",
+    "slug": "eldest-souls",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/eldest-souls/",
+    "releaseDate": "2021-07-29",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "eiyuden chronicle hundred heroes": {
+    "title": "Eiyuden Chronicle: Hundred Heroes",
+    "slug": "eiyuden-chronicle-hundred-heroes",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/eiyuden-chronicle-hundred-heroes/",
+    "releaseDate": "2024-04-23",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "embr": {
+    "title": "Embr",
+    "slug": "embr",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/embr/",
+    "releaseDate": "2021-09-23",
+    "genres": [
+      "Virtual Career"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "enotria the last song": {
+    "title": "Enotria: The Last Song",
+    "slug": "enotria-the-last-song",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/enotria-the-last-song/",
+    "releaseDate": "2024-09-16",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "entwined": {
+    "title": "Entwined",
+    "slug": "entwined",
+    "score": 59,
+    "url": "https://www.metacritic.com/game/entwined/",
+    "releaseDate": "2014-06-09",
+    "genres": [
+      "Arcade"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "erica": {
+    "title": "Erica",
+    "slug": "erica",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/erica/",
+    "releaseDate": "2019-08-19",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "everybody s golf": {
+    "title": "Everybody's Golf",
+    "slug": "everybodys-golf",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/everybodys-golf/",
+    "releaseDate": "2017-08-29",
+    "genres": [
+      "Golf"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "fade to silence": {
+    "title": "Fade to Silence",
+    "slug": "fade-to-silence",
+    "score": 55,
+    "url": "https://www.metacritic.com/game/fade-to-silence/",
+    "releaseDate": "2019-04-30",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "far changing tides": {
+    "title": "FAR: Changing Tides",
+    "slug": "far-changing-tides",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/far-changing-tides/",
+    "releaseDate": "2022-03-01",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "everybody s golf 2": null,
+  "expeditions a mudrunner game": {
+    "title": "Expeditions: A MudRunner Game",
+    "slug": "expeditions-a-mudrunner-game",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/expeditions-a-mudrunner-game/",
+    "releaseDate": "2024-03-05",
+    "genres": [
+      "Vehicle Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "final fantasy xvi": {
+    "title": "Final Fantasy XVI",
+    "slug": "final-fantasy-xvi",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/final-fantasy-xvi/",
+    "releaseDate": "2023-06-22",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "fate samurai remnant": {
+    "title": "Fate/Samurai Remnant",
+    "slug": "fate-samurai-remnant",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/fate-samurai-remnant/",
+    "releaseDate": "2023-09-29",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "final fantasy 7 remake": {
+    "title": "Final Fantasy VII Remake",
+    "slug": "final-fantasy-vii-remake",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/final-fantasy-vii-remake/",
+    "releaseDate": "2020-04-10",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "firefighting simulator ignite": {
+    "title": "Firefighting Simulator: Ignite",
+    "slug": "firefighting-simulator-ignite",
+    "score": null,
+    "url": "https://www.metacritic.com/game/firefighting-simulator-ignite/",
+    "releaseDate": "2025-09-09",
+    "genres": [
+      "Virtual Career"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "flintlock the siege of dawn": {
+    "title": "Flintlock: The Siege of Dawn",
+    "slug": "flintlock-the-siege-of-dawn",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/flintlock-the-siege-of-dawn/",
+    "releaseDate": "2024-07-17",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "five nights at freddy s help wanted 2": {
+    "title": "Five Nights at Freddy's: Help Wanted 2",
+    "slug": "five-nights-at-freddys-help-wanted-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/five-nights-at-freddys-help-wanted-2/",
+    "releaseDate": "2024-05-09",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "forbidden siren": null,
+  "for the king": {
+    "title": "For the King",
+    "slug": "for-the-king",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/for-the-king/",
+    "releaseDate": "2018-04-19",
+    "genres": [
+      "Roguelike"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ghosthunter": {
+    "title": "GhostHunter",
+    "slug": "ghosthunter",
+    "score": null,
+    "url": "https://www.metacritic.com/game/ghosthunter/",
+    "releaseDate": "TBA - Early Access",
+    "genres": [
+      "Party"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "g police": null,
+  "gitaroo man": {
+    "title": "Gitaroo Man",
+    "slug": "gitaroo-man",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/gitaroo-man/",
+    "releaseDate": "2002-02-19",
+    "genres": [
+      "Rhythm"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "god of war ragnarök": {
+    "title": "God of War: Ragnarok",
+    "slug": "god-of-war-ragnarok",
+    "score": 94,
+    "url": "https://www.metacritic.com/game/god-of-war-ragnarok/",
+    "releaseDate": "2022-11-09",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": true,
+    "confidence": 0.889
+  },
+  "gods eater burst": {
+    "title": "Gods Eater Burst",
+    "slug": "gods-eater-burst",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/gods-eater-burst/",
+    "releaseDate": "2011-03-15",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "god of war 3": {
+    "title": "God of War III Remastered",
+    "slug": "god-of-war-iii-remastered",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/god-of-war-iii-remastered/",
+    "releaseDate": "2015-07-14",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "god of war": {
+    "title": "God of War",
+    "slug": "god-of-war",
+    "score": 94,
+    "url": "https://www.metacritic.com/game/god-of-war/",
+    "releaseDate": "2018-04-20",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "granblue fantasy versus rising": {
+    "title": "Granblue Fantasy Versus: Rising",
+    "slug": "granblue-fantasy-versus-rising",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/granblue-fantasy-versus-rising/",
+    "releaseDate": "2023-12-14",
+    "genres": [
+      "2D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "granblue fantasy relink": {
+    "title": "Granblue Fantasy: Relink",
+    "slug": "granblue-fantasy-relink",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/granblue-fantasy-relink/",
+    "releaseDate": "2024-02-01",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "golf with your friends": {
+    "title": "Golf With Your Friends",
+    "slug": "golf-with-your-friends",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/golf-with-your-friends/",
+    "releaseDate": "2020-05-19",
+    "genres": [
+      "Golf"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ghost of tsushima director s cut": {
+    "title": "Ghost of Tsushima: Director's Cut",
+    "slug": "ghost-of-tsushima-directors-cut",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/ghost-of-tsushima-directors-cut/",
+    "releaseDate": "2021-08-20",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "grandia": {
+    "title": "Grandia",
+    "slug": "grandia",
+    "score": 89,
+    "url": "https://www.metacritic.com/game/grandia/",
+    "releaseDate": "1999-09-30",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "grand theft auto 5": {
+    "title": "Grand Theft Auto V",
+    "slug": "grand-theft-auto-v",
+    "score": 97,
+    "url": "https://www.metacritic.com/game/grand-theft-auto-v/",
+    "releaseDate": "2014-11-18",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "gravity crash portable": null,
+  "gravity rush 2": {
+    "title": "Gravity Rush 2",
+    "slug": "gravity-rush-2",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/gravity-rush-2/",
+    "releaseDate": "2017-01-20",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "gravity rush": {
+    "title": "Gravity Rush Remastered",
+    "slug": "gravity-rush-remastered",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/gravity-rush-remastered/",
+    "releaseDate": "2016-02-02",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "gris": {
+    "title": "GRIS",
+    "slug": "gris",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/gris/",
+    "releaseDate": "2018-12-13",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "green hell": {
+    "title": "Green Hell",
+    "slug": "green-hell",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/green-hell/",
+    "releaseDate": "2019-09-05",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "harvest moon light of hope special": {
+    "title": "Harvest Moon: Light of Hope Special Edition Complete",
+    "slug": "harvest-moon-light-of-hope-special-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/harvest-moon-light-of-hope-special-edition/",
+    "releaseDate": "2019-07-30",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "heavy rain": {
+    "title": "Heavy Rain",
+    "slug": "heavy-rain",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/heavy-rain/",
+    "releaseDate": "2010-02-23",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "helldivers 2": {
+    "title": "Helldivers 2",
+    "slug": "helldivers-2",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/helldivers-2/",
+    "releaseDate": "2024-02-08",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "hello neighbor": {
+    "title": "Hello Neighbor",
+    "slug": "hello-neighbor",
+    "score": 38,
+    "url": "https://www.metacritic.com/game/hello-neighbor/",
+    "releaseDate": "2017-12-08",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "harvest moon back to nature": {
+    "title": "Harvest Moon: Back to Nature",
+    "slug": "harvest-moon-back-to-nature",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/harvest-moon-back-to-nature/",
+    "releaseDate": "2000-11-22",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "hollow knight": {
+    "title": "Hollow Knight",
+    "slug": "hollow-knight",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/hollow-knight/",
+    "releaseDate": "2018-06-12",
+    "genres": [
+      "Metroidvania"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "hotline miami": {
+    "title": "Hotline Miami",
+    "slug": "hotline-miami",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/hotline-miami/",
+    "releaseDate": "2012-10-23",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "horizon zero dawn": {
+    "title": "Horizon Zero Dawn Remastered",
+    "slug": "horizon-zero-dawn-remastered",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/horizon-zero-dawn-remastered/",
+    "releaseDate": "2024-10-31",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "herc s adventures": {
+    "title": "Herc's Adventures",
+    "slug": "hercs-adventures",
+    "score": null,
+    "url": "https://www.metacritic.com/game/hercs-adventures/",
+    "releaseDate": "1997-07-15",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "hotline miami 2 wrong number": {
+    "title": "Hotline Miami 2: Wrong Number",
+    "slug": "hotline-miami-2-wrong-number",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/hotline-miami-2-wrong-number/",
+    "releaseDate": "2015-03-10",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "humanity": {
+    "title": "Humanity",
+    "slug": "humanity",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/humanity/",
+    "releaseDate": "2023-05-16",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "infamous first light": {
+    "title": "inFamous: First Light",
+    "slug": "infamous-first-light",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/infamous-first-light/",
+    "releaseDate": "2014-08-26",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jak 3": {
+    "title": "Jak 3",
+    "slug": "jak-3",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/jak-3/",
+    "releaseDate": "2004-11-09",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "insurgency sandstorm": {
+    "title": "Insurgency: Sandstorm",
+    "slug": "insurgency-sandstorm",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/insurgency-sandstorm/",
+    "releaseDate": "2018-12-12",
+    "genres": [
+      "Tactical FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jak 2": {
+    "title": "Jak II",
+    "slug": "jak-ii",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/jak-ii/",
+    "releaseDate": "2003-10-14",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "indiana jones and the staff of kings": {
+    "title": "Indiana Jones and the Staff of Kings",
+    "slug": "indiana-jones-and-the-staff-of-kings",
+    "score": 55,
+    "url": "https://www.metacritic.com/game/indiana-jones-and-the-staff-of-kings/",
+    "releaseDate": "2009-06-09",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jak and daxter the precursor legacy": {
+    "title": "Jak and Daxter: The Precursor Legacy",
+    "slug": "jak-and-daxter-the-precursor-legacy",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/jak-and-daxter-the-precursor-legacy/",
+    "releaseDate": "2001-12-04",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "jak and daxter the lost frontier": {
+    "title": "Jak and Daxter: The Lost Frontier",
+    "slug": "jak-and-daxter-the-lost-frontier",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/jak-and-daxter-the-lost-frontier/",
+    "releaseDate": "2009-11-03",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jet rider": null,
+  "jeanne d arc": {
+    "title": "Jeanne d'Arc",
+    "slug": "jeanne-darc",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/jeanne-darc/",
+    "releaseDate": "2007-08-21",
+    "genres": [
+      "Turn-Based Tactics"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jet rider 2": null,
+  "jak 10 combat racing": {
+    "title": "Jak X: Combat Racing",
+    "slug": "jak-x-combat-racing",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/jak-x-combat-racing/",
+    "releaseDate": "2005-10-18",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jumping flash": {
+    "title": "Jumping Flash!",
+    "slug": "jumping-flash",
+    "score": null,
+    "url": "https://www.metacritic.com/game/jumping-flash/",
+    "releaseDate": "1995-11-02",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "jurassic world evolution 2": {
+    "title": "Jurassic World Evolution 2",
+    "slug": "jurassic-world-evolution-2",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/jurassic-world-evolution-2/",
+    "releaseDate": "2021-11-09",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "key of heaven": null,
+  "killing floor 2": {
+    "title": "Killing Floor 2",
+    "slug": "killing-floor-2",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/killing-floor-2/",
+    "releaseDate": "2016-11-16",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "killer frequency": {
+    "title": "Killer Frequency",
+    "slug": "killer-frequency",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/killer-frequency/",
+    "releaseDate": "2023-06-01",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "killzone shadow fall": {
+    "title": "Killzone: Shadow Fall",
+    "slug": "killzone-shadow-fall",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/killzone-shadow-fall/",
+    "releaseDate": "2013-11-15",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "knack": {
+    "title": "Knack",
+    "slug": "knack",
+    "score": 54,
+    "url": "https://www.metacritic.com/game/knack/",
+    "releaseDate": "2013-11-15",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "kurushi": null,
+  "killzone liberation": {
+    "title": "Killzone: Liberation",
+    "slug": "killzone-liberation",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/killzone-liberation/",
+    "releaseDate": "2006-10-31",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego city undercover": {
+    "title": "LEGO City Undercover",
+    "slug": "lego-city-undercover",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/lego-city-undercover/",
+    "releaseDate": "2013-03-18",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "legacy of kain defiance": {
+    "title": "Legacy of Kain: Defiance Remastered",
+    "slug": "legacy-of-kain-defiance-remastered",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/legacy-of-kain-defiance-remastered/",
+    "releaseDate": "2026-03-03",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "legendary fishing": {
+    "title": "Legendary Fishing",
+    "slug": "legendary-fishing",
+    "score": null,
+    "url": "https://www.metacritic.com/game/legendary-fishing/",
+    "releaseDate": "2018-09-18",
+    "genres": [
+      "Fishing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "kurushi final mental blocks": {
+    "title": "Kurushi Final: Mental Blocks",
+    "slug": "kurushi-final-mental-blocks",
+    "score": null,
+    "url": "https://www.metacritic.com/game/kurushi-final-mental-blocks/",
+    "releaseDate": "1998-12-23",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego batman 3 beyond gotham": {
+    "title": "LEGO Batman 3: Beyond Gotham",
+    "slug": "lego-batman-3-beyond-gotham",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/lego-batman-3-beyond-gotham/",
+    "releaseDate": "2014-11-11",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego dc super villains": {
+    "title": "LEGO DC Super-Villains",
+    "slug": "lego-dc-super-villains",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/lego-dc-super-villains/",
+    "releaseDate": "2018-10-16",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego horizon adventures": {
+    "title": "LEGO Horizon Adventures",
+    "slug": "lego-horizon-adventures",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/lego-horizon-adventures/",
+    "releaseDate": "2024-11-14",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego jurassic world": {
+    "title": "LEGO Jurassic World",
+    "slug": "lego-jurassic-world",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/lego-jurassic-world/",
+    "releaseDate": "2015-06-09",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego star wars 2 the original trilogy": {
+    "title": "Lego Star Wars II: The Original Trilogy",
+    "slug": "lego-star-wars-ii-the-original-trilogy",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/lego-star-wars-ii-the-original-trilogy/",
+    "releaseDate": "2006-09-12",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego marvel s avengers": {
+    "title": "LEGO Marvel's Avengers",
+    "slug": "lego-marvels-avengers",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/lego-marvels-avengers/",
+    "releaseDate": "2016-01-26",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "life is strange double exposure": {
+    "title": "Life is Strange: Double Exposure",
+    "slug": "life-is-strange-double-exposure",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/life-is-strange-double-exposure/",
+    "releaseDate": "2024-10-29",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego worlds": {
+    "title": "LEGO Worlds",
+    "slug": "lego-worlds",
+    "score": 66,
+    "url": "https://www.metacritic.com/game/lego-worlds/",
+    "releaseDate": "2017-03-07",
+    "genres": [
+      "Sandbox"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lego the hobbit": {
+    "title": "LEGO The Hobbit",
+    "slug": "lego-the-hobbit",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/lego-the-hobbit/",
+    "releaseDate": "2014-04-08",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "locoroco": {
+    "title": "LocoRoco",
+    "slug": "locoroco",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/locoroco/",
+    "releaseDate": "2006-09-05",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "locoroco midnight carnival": {
+    "title": "LocoRoco Midnight Carnival",
+    "slug": "locoroco-midnight-carnival",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/locoroco-midnight-carnival/",
+    "releaseDate": "2009-10-29",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "locoroco 2": {
+    "title": "LocoRoco 2",
+    "slug": "locoroco-2",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/locoroco-2/",
+    "releaseDate": "2009-02-10",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lumines": {
+    "title": "Lumines Remastered",
+    "slug": "lumines-remastered",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/lumines-remastered/",
+    "releaseDate": "2018-06-26",
+    "genres": [
+      "Matching Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "lonely mountains downhill": {
+    "title": "Lonely Mountains: Downhill",
+    "slug": "lonely-mountains-downhill",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/lonely-mountains-downhill/",
+    "releaseDate": "2020-05-07",
+    "genres": [
+      "Biking"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mahjong": {
+    "title": "Mahjong",
+    "slug": "mahjong",
+    "score": null,
+    "url": "https://www.metacritic.com/game/mahjong/",
+    "releaseDate": "2024-06-04",
+    "genres": [
+      "Board"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "maneater": {
+    "title": "Maneater",
+    "slug": "maneater",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/maneater/",
+    "releaseDate": "2020-05-22",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "magicka 2 base": {
+    "title": "Magicka 2",
+    "slug": "magicka-2",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/magicka-2/",
+    "releaseDate": "2015-05-26",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "marvel s guardians of the galaxy": {
+    "title": "Marvel's Guardians of the Galaxy",
+    "slug": "marvels-guardians-of-the-galaxy",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy/",
+    "releaseDate": "2021-10-26",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "matterfall": {
+    "title": "Matterfall",
+    "slug": "matterfall",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/matterfall/",
+    "releaseDate": "2017-08-15",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "marvel s spider man 2": {
+    "title": "Marvel's Spider-Man 2",
+    "slug": "marvels-spider-man-2",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/marvels-spider-man-2/",
+    "releaseDate": "2023-10-20",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "marvel s spider man": {
+    "title": "Marvel's Spider-Man",
+    "slug": "marvels-spider-man",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/marvels-spider-man/",
+    "releaseDate": "2018-09-07",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "marvel s spider man miles morales": {
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "slug": "marvels-spider-man-miles-morales",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/marvels-spider-man-miles-morales/",
+    "releaseDate": "2020-11-12",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "medievil": {
+    "title": "MediEvil",
+    "slug": "medievil",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/medievil/",
+    "releaseDate": "2019-10-25",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "medievil resurrection": {
+    "title": "MediEvil: Resurrection",
+    "slug": "medievil-resurrection",
+    "score": 66,
+    "url": "https://www.metacritic.com/game/medievil-resurrection/",
+    "releaseDate": "2005-09-13",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mega dimension neptune 7": null,
+  "metal eden": {
+    "title": "Metal Eden",
+    "slug": "metal-eden",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/metal-eden/",
+    "releaseDate": "2025-09-02",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "melty blood type lumina": {
+    "title": "Melty Blood: Type Lumina",
+    "slug": "melty-blood-type-lumina",
+    "score": null,
+    "url": "https://www.metacritic.com/game/melty-blood-type-lumina/",
+    "releaseDate": "2021-09-30",
+    "genres": [
+      "2D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "metro exodus": {
+    "title": "Metro Exodus: Enhanced Edition",
+    "slug": "metro-exodus-enhanced-edition",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/metro-exodus-enhanced-edition/",
+    "releaseDate": "2021-06-18",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "medievil 2": null,
+  "mlb the show 26": {
+    "title": "MLB The Show 26",
+    "slug": "mlb-the-show-26",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/mlb-the-show-26/",
+    "releaseDate": "2026-03-17",
+    "genres": [
+      "Baseball Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mighty morphin power rangers rita s rewind": {
+    "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+    "slug": "mighty-morphin-power-rangers-ritas-rewind",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/mighty-morphin-power-rangers-ritas-rewind/",
+    "releaseDate": "2024-12-10",
+    "genres": [
+      "2D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster hunter stories": {
+    "title": "Monster Hunter Stories",
+    "slug": "monster-hunter-stories",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/monster-hunter-stories/",
+    "releaseDate": "2024-06-14",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster train": {
+    "title": "Monster Train",
+    "slug": "monster-train",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/monster-train/",
+    "releaseDate": "2020-05-21",
+    "genres": [
+      "Card Battle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster jam showdown": {
+    "title": "Monster Jam Showdown",
+    "slug": "monster-jam-showdown",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/monster-jam-showdown/",
+    "releaseDate": "2024-08-29",
+    "genres": [
+      "Auto Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster hunter stories 2 wings of ruin": {
+    "title": "Monster Hunter Stories 2: Wings of Ruin",
+    "slug": "monster-hunter-stories-2-wings-of-ruin",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/monster-hunter-stories-2-wings-of-ruin/",
+    "releaseDate": "2021-07-09",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster truck championship": {
+    "title": "Monster Truck Championship",
+    "slug": "monster-truck-championship",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/monster-truck-championship/",
+    "releaseDate": "2020-10-20",
+    "genres": [
+      "Vehicle Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mordhau": {
+    "title": "MORDHAU",
+    "slug": "mordhau",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/mordhau/",
+    "releaseDate": "2019-04-29",
+    "genres": [
+      "3D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mr moskeeto": null,
+  "mr driller": {
+    "title": "Mr. Driller",
+    "slug": "mr-driller",
+    "score": null,
+    "url": "https://www.metacritic.com/game/mr-driller/",
+    "releaseDate": "2000-06-25",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mystic pillars 10 kantara": null,
+  "myst": {
+    "title": "Myst",
+    "slug": "myst",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/myst/",
+    "releaseDate": "2021-08-26",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "neva": {
+    "title": "Neva",
+    "slug": "neva",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/neva/",
+    "releaseDate": "2024-10-15",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "no heroes allowed": {
+    "title": "No Heroes Allowed!",
+    "slug": "no-heroes-allowed",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/no-heroes-allowed/",
+    "releaseDate": "2010-11-01",
+    "genres": [
+      "Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "no more heroes 3": {
+    "title": "No More Heroes III",
+    "slug": "no-more-heroes-iii",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/no-more-heroes-iii/",
+    "releaseDate": "2021-08-27",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "observer system redux": {
+    "title": "Observer: System Redux",
+    "slug": "observer-system-redux",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/observer-system-redux/",
+    "releaseDate": "2020-11-10",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "nobunaga s ambition taishi": {
+    "title": "Nobunaga's Ambition: Taishi",
+    "slug": "nobunagas-ambition-taishi",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/nobunagas-ambition-taishi/",
+    "releaseDate": "2018-06-05",
+    "genres": [
+      "Turn-Based Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "oddworld soulstorm": {
+    "title": "Oddworld: Soulstorm",
+    "slug": "oddworld-soulstorm",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/oddworld-soulstorm/",
+    "releaseDate": "2021-04-06",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "oddworld abe s exoddus": {
+    "title": "Oddworld: Abe's Exoddus",
+    "slug": "oddworld-abes-exoddus",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/oddworld-abes-exoddus/",
+    "releaseDate": "1998-10-31",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "oddworld abe s oddysee": {
+    "title": "Oddworld: Abe's Oddysee",
+    "slug": "oddworld-abes-oddysee",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/oddworld-abes-oddysee/",
+    "releaseDate": "1997-09-18",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "oddworld new n tasty": null,
+  "orcs must die 3": {
+    "title": "Orcs Must Die! 3",
+    "slug": "orcs-must-die-3",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/orcs-must-die-3/",
+    "releaseDate": "2021-07-23",
+    "genres": [
+      "Defense"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "oreshika": null,
+  "onimusha dawn of dreams": {
+    "title": "Onimusha: Dawn of Dreams",
+    "slug": "onimusha-dawn-of-dreams",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/onimusha-dawn-of-dreams/",
+    "releaseDate": "2006-03-07",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "outlast 2": {
+    "title": "Outlast 2",
+    "slug": "outlast-2",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/outlast-2/",
+    "releaseDate": "2017-04-24",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "overpass": {
+    "title": "OVERPASS",
+    "slug": "overpass",
+    "score": 54,
+    "url": "https://www.metacritic.com/game/overpass/",
+    "releaseDate": "2020-03-17",
+    "genres": [
+      "Auto Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "overpass 2": {
+    "title": "OVERPASS 2",
+    "slug": "overpass-2",
+    "score": 60,
+    "url": "https://www.metacritic.com/game/overpass-2/",
+    "releaseDate": "2023-10-17",
+    "genres": [
+      "Auto Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "outcast second contact": {
+    "title": "Outcast: Second Contact",
+    "slug": "outcast-second-contact",
+    "score": 61,
+    "url": "https://www.metacritic.com/game/outcast-second-contact/",
+    "releaseDate": "2017-11-14",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "overcooked all you can eat": {
+    "title": "Overcooked! All You Can Eat",
+    "slug": "overcooked-all-you-can-eat",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/overcooked-all-you-can-eat/",
+    "releaseDate": "2020-11-12",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "patapon 3": {
+    "title": "Patapon 3",
+    "slug": "patapon-3",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/patapon-3/",
+    "releaseDate": "2011-04-12",
+    "genres": [
+      "Rhythm"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "patapon": {
+    "title": "Patapon",
+    "slug": "patapon",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/patapon/",
+    "releaseDate": "2008-02-26",
+    "genres": [
+      "Rhythm"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "pathfinder wrath of the righteous": {
+    "title": "Pathfinder: Wrath of the Righteous",
+    "slug": "pathfinder-wrath-of-the-righteous",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pathfinder-wrath-of-the-righteous/",
+    "releaseDate": "2021-09-02",
+    "genres": [
+      "Western RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "persona 5 tactica": {
+    "title": "Persona 5 Tactica",
+    "slug": "persona-5-tactica",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/persona-5-tactica/",
+    "releaseDate": "2023-11-17",
+    "genres": [
+      "Turn-Based Tactics"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "patapon 2": {
+    "title": "Patapon 2 Remastered",
+    "slug": "patapon-2-remastered",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/patapon-2-remastered/",
+    "releaseDate": "2020-01-30",
+    "genres": [
+      "Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "persona 5 the royal": {
+    "title": "Persona 5 Royal",
+    "slug": "persona-5-royal",
+    "score": 95,
+    "url": "https://www.metacritic.com/game/persona-5-royal/",
+    "releaseDate": "2020-03-31",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": true,
+    "confidence": 0.875
+  },
+  "phogs": {
+    "title": "PHOGS!",
+    "slug": "phogs",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/phogs/",
+    "releaseDate": "2020-12-03",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "paw patrol on a roll": {
+    "title": "PAW Patrol: On a Roll",
+    "slug": "paw-patrol-on-a-roll",
+    "score": null,
+    "url": "https://www.metacritic.com/game/paw-patrol-on-a-roll/",
+    "releaseDate": "2018-10-23",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "pinball heroes": {
+    "title": "Pinball Heroes",
+    "slug": "pinball-heroes",
+    "score": null,
+    "url": "https://www.metacritic.com/game/pinball-heroes/",
+    "releaseDate": "2022-12-20",
+    "genres": [
+      "Pinball"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "poppy playtime chapter 1": {
+    "title": "Poppy Playtime Chapter 1",
+    "slug": "poppy-playtime-chapter-1",
+    "score": null,
+    "url": "https://www.metacritic.com/game/poppy-playtime-chapter-1/",
+    "releaseDate": "2024-07-12",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "planet zoo": {
+    "title": "Planet Zoo",
+    "slug": "planet-zoo",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/planet-zoo/",
+    "releaseDate": "2019-11-05",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "prison architect": {
+    "title": "Prison Architect",
+    "slug": "prison-architect",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/prison-architect/",
+    "releaseDate": "2015-10-06",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "pursuit force": {
+    "title": "Pursuit Force",
+    "slug": "pursuit-force",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pursuit-force/",
+    "releaseDate": "2006-03-07",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "psi ops the mindgate conspiracy": {
+    "title": "Psi-Ops: The Mindgate Conspiracy",
+    "slug": "psi-ops-the-mindgate-conspiracy",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/psi-ops-the-mindgate-conspiracy/",
+    "releaseDate": "2004-06-14",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "r4 ridge racer type 4": {
+    "title": "R4: Ridge Racer Type 4",
+    "slug": "r4-ridge-racer-type-4",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/r4-ridge-racer-type-4/",
+    "releaseDate": "1999-05-01",
+    "genres": [
+      "Demo Disc"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rainbow moon": {
+    "title": "Rainbow Moon",
+    "slug": "rainbow-moon",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/rainbow-moon/",
+    "releaseDate": "2012-07-10",
+    "genres": [
+      "Turn-Based Tactics"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "pursuit force extreme justice": {
+    "title": "Pursuit Force: Extreme Justice",
+    "slug": "pursuit-force-extreme-justice",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/pursuit-force-extreme-justice/",
+    "releaseDate": "2008-01-29",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "r type dimensions ex": {
+    "title": "R-Type Dimensions",
+    "slug": "r-type-dimensions",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/r-type-dimensions/",
+    "releaseDate": "2009-02-04",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 0.933
+  },
+  "rally cross": {
+    "title": "Rally Cross",
+    "slug": "rally-cross",
+    "score": null,
+    "url": "https://www.metacritic.com/game/rally-cross/",
+    "releaseDate": "1997-01-31",
+    "genres": [
+      "Auto Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ratchet and clank rift apart": {
+    "title": "Ratchet & Clank: Rift Apart",
+    "slug": "ratchet-and-clank-rift-apart",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/ratchet-and-clank-rift-apart/",
+    "releaseDate": "2021-06-11",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "raji an ancient epic": {
+    "title": "Raji: An Ancient Epic",
+    "slug": "raji-an-ancient-epic",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/raji-an-ancient-epic/",
+    "releaseDate": "2020-08-18",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "readyset heroes": {
+    "title": "ReadySet Heroes",
+    "slug": "readyset-heroes",
+    "score": 57,
+    "url": "https://www.metacritic.com/game/readyset-heroes/",
+    "releaseDate": "2019-10-01",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rebel galaxy": {
+    "title": "Rebel Galaxy",
+    "slug": "rebel-galaxy",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/rebel-galaxy/",
+    "releaseDate": "2015-10-20",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "red dead redemption 2": {
+    "title": "Red Dead Redemption 2",
+    "slug": "red-dead-redemption-2",
+    "score": 97,
+    "url": "https://www.metacritic.com/game/red-dead-redemption-2/",
+    "releaseDate": "2018-10-26",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "resogun": {
+    "title": "Resogun",
+    "slug": "resogun",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/resogun/",
+    "releaseDate": "2013-11-15",
+    "genres": [
+      "Horizontal Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ratchet and clank size matters": {
+    "title": "Ratchet & Clank: Size Matters",
+    "slug": "ratchet-and-clank-size-matters",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/ratchet-and-clank-size-matters/",
+    "releaseDate": "2007-02-13",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "resident evil 3 nemesis": {
+    "title": "Resident Evil 3: Nemesis",
+    "slug": "resident-evil-3-nemesis",
+    "score": 91,
+    "url": "https://www.metacritic.com/game/resident-evil-3-nemesis/",
+    "releaseDate": "1999-11-11",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "resident evil director s cut": {
+    "title": "Resident Evil: Director's Cut",
+    "slug": "resident-evil-directors-cut",
+    "score": null,
+    "url": "https://www.metacritic.com/game/resident-evil-directors-cut/",
+    "releaseDate": "1997-09-30",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "returnal": {
+    "title": "Returnal",
+    "slug": "returnal",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/returnal/",
+    "releaseDate": "2021-04-30",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "resistance retribution": {
+    "title": "Resistance: Retribution",
+    "slug": "resistance-retribution",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/resistance-retribution/",
+    "releaseDate": "2009-03-17",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "return to monkey island": {
+    "title": "Return to Monkey Island",
+    "slug": "return-to-monkey-island",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/return-to-monkey-island/",
+    "releaseDate": "2022-09-19",
+    "genres": [
+      "Point-and-Click"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ridge racer": {
+    "title": "Ridge Racer (1995)",
+    "slug": "ridge-racer-1995",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/ridge-racer-1995/",
+    "releaseDate": "2025-06-05",
+    "genres": [
+      "Auto Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ridge racer 2": {
+    "title": "Ridge Racer 2",
+    "slug": "ridge-racer-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/ridge-racer-2/",
+    "releaseDate": "2006-09-14",
+    "genres": [
+      "Auto Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rise of the tomb raider 20 year celebration": {
+    "title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "slug": "rise-of-the-tomb-raider-20-year-celebration",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/rise-of-the-tomb-raider-20-year-celebration/",
+    "releaseDate": "2016-10-11",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "roguebook": {
+    "title": "Roguebook",
+    "slug": "roguebook",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/roguebook/",
+    "releaseDate": "2021-06-17",
+    "genres": [
+      "Card Battle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rise of the ronin": {
+    "title": "Rise of the Ronin",
+    "slug": "rise-of-the-ronin",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/rise-of-the-ronin/",
+    "releaseDate": "2024-03-22",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "riven": {
+    "title": "Riven",
+    "slug": "riven",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/riven/",
+    "releaseDate": "2024-06-25",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rugby 25": {
+    "title": "Rugby 25",
+    "slug": "rugby-25",
+    "score": null,
+    "url": "https://www.metacritic.com/game/rugby-25/",
+    "releaseDate": "2025-02-13",
+    "genres": [
+      "Rugby"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rogue lords": {
+    "title": "Rogue Lords",
+    "slug": "rogue-lords",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/rogue-lords/",
+    "releaseDate": "2021-09-30",
+    "genres": [
+      "Roguelike"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "salt and sacrifice": {
+    "title": "Salt and Sacrifice",
+    "slug": "salt-and-sacrifice",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/salt-and-sacrifice/",
+    "releaseDate": "2022-05-10",
+    "genres": [
+      "Metroidvania"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sakuna of rice and ruin": {
+    "title": "Sakuna: Of Rice and Ruin",
+    "slug": "sakuna-of-rice-and-ruin",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/sakuna-of-rice-and-ruin/",
+    "releaseDate": "2020-11-10",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rune factory 4 special": {
+    "title": "Rune Factory 4 Special",
+    "slug": "rune-factory-4-special",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/rune-factory-4-special/",
+    "releaseDate": "2020-02-25",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sackboy a big adventure": {
+    "title": "Sackboy: A Big Adventure",
+    "slug": "sackboy-a-big-adventure",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/sackboy-a-big-adventure/",
+    "releaseDate": "2020-11-12",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ryu ga gotoku 7 hikari to yami no yukue": null,
+  "secret neighbor": {
+    "title": "Secret Neighbor",
+    "slug": "secret-neighbor",
+    "score": null,
+    "url": "https://www.metacritic.com/game/secret-neighbor/",
+    "releaseDate": "2021-08-26",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "secret agent clank": {
+    "title": "Secret Agent Clank",
+    "slug": "secret-agent-clank",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/secret-agent-clank/",
+    "releaseDate": "2008-06-17",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "samurai warriors 5": {
+    "title": "Samurai Warriors 5",
+    "slug": "samurai-warriors-5",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/samurai-warriors-5/",
+    "releaseDate": "2021-07-27",
+    "genres": [
+      "3D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "season a letter to the future": {
+    "title": "SEASON: A letter to the future",
+    "slug": "season-a-letter-to-the-future",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/season-a-letter-to-the-future/",
+    "releaseDate": "2023-01-31",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "session skate sim": {
+    "title": "Session: Skate Sim",
+    "slug": "session-skate-sim",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/session-skate-sim/",
+    "releaseDate": "2022-09-22",
+    "genres": [
+      "Skating"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "s t a l k e r legends of the zone trilogy": {
+    "title": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy - Enhanced Edition",
+    "slug": "stalker-legends-of-the-zone-trilogy-enhanced",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/stalker-legends-of-the-zone-trilogy-enhanced/",
+    "releaseDate": "2025-05-20",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "shadow of the beast": {
+    "title": "Shadow of the Beast",
+    "slug": "shadow-of-the-beast",
+    "score": 64,
+    "url": "https://www.metacritic.com/game/shadow-of-the-beast/",
+    "releaseDate": "2016-05-17",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "shadow of the colossus": {
+    "title": "Shadow of the Colossus",
+    "slug": "shadow-of-the-colossus",
+    "score": 91,
+    "url": "https://www.metacritic.com/game/shadow-of-the-colossus/",
+    "releaseDate": "2018-02-06",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "shadow of the tomb raider": {
+    "title": "Shadow of the Tomb Raider",
+    "slug": "shadow-of-the-tomb-raider",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/shadow-of-the-tomb-raider/",
+    "releaseDate": "2018-09-12",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "silent hill 2": {
+    "title": "Silent Hill 2",
+    "slug": "silent-hill-2",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/silent-hill-2/",
+    "releaseDate": "2024-10-08",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "skate story": {
+    "title": "Skate Story",
+    "slug": "skate-story",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/skate-story/",
+    "releaseDate": "2025-12-08",
+    "genres": [
+      "Skating"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "skygunner": {
+    "title": "SkyGunner",
+    "slug": "skygunner",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/skygunner/",
+    "releaseDate": "2002-06-24",
+    "genres": [
+      "Aircraft Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sniper elite 5": {
+    "title": "Sniper Elite 5",
+    "slug": "sniper-elite-5",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/sniper-elite-5/",
+    "releaseDate": "2022-05-26",
+    "genres": [
+      "Tactical Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sly raccoon": null,
+  "sly 3 honour among thieves": {
+    "title": "Sly 3: Honor Among Thieves",
+    "slug": "sly-3-honor-among-thieves",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/sly-3-honor-among-thieves/",
+    "releaseDate": "2005-09-26",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.939
+  },
+  "sniper elite resistance": {
+    "title": "Sniper Elite: Resistance",
+    "slug": "sniper-elite-resistance",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/sniper-elite-resistance/",
+    "releaseDate": "2025-01-30",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sly 2 band of thieves": {
+    "title": "Sly 2: Band of Thieves",
+    "slug": "sly-2-band-of-thieves",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/sly-2-band-of-thieves/",
+    "releaseDate": "2004-09-14",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "snow bros wonderland": {
+    "title": "Snow Bros. Wonderland",
+    "slug": "snow-bros-wonderland",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/snow-bros-wonderland/",
+    "releaseDate": "2024-11-28",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "somerville": {
+    "title": "Somerville",
+    "slug": "somerville",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/somerville/",
+    "releaseDate": "2022-11-15",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sonic 10 shadow generations": {
+    "title": "Sonic x Shadow Generations",
+    "slug": "sonic-x-shadow-generations",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/sonic-x-shadow-generations/",
+    "releaseDate": "2024-10-25",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "space engineers": {
+    "title": "Space Engineers",
+    "slug": "space-engineers",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/space-engineers/",
+    "releaseDate": "2020-04-15",
+    "genres": [
+      "Sandbox"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "space hulk deathwing": {
+    "title": "Space Hulk: Deathwing",
+    "slug": "space-hulk-deathwing",
+    "score": 58,
+    "url": "https://www.metacritic.com/game/space-hulk-deathwing/",
+    "releaseDate": "2016-12-14",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "space junkies": {
+    "title": "Space Junkies",
+    "slug": "space-junkies",
+    "score": 63,
+    "url": "https://www.metacritic.com/game/space-junkies/",
+    "releaseDate": "2019-03-26",
+    "genres": [
+      "Arcade"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "spelunker hd": {
+    "title": "Spelunker HD Deluxe",
+    "slug": "spelunker-hd-deluxe",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/spelunker-hd-deluxe/",
+    "releaseDate": "2021-08-06",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "soulcalibur broken destiny": {
+    "title": "SoulCalibur: Broken Destiny",
+    "slug": "soulcalibur-broken-destiny",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/soulcalibur-broken-destiny/",
+    "releaseDate": "2009-09-01",
+    "genres": [
+      "3D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars demolition": {
+    "title": "Star Wars: Demolition",
+    "slug": "star-wars-demolition",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/star-wars-demolition/",
+    "releaseDate": "2000-11-19",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars the clone wars": {
+    "title": "Star Wars: The Clone Wars",
+    "slug": "star-wars-the-clone-wars",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/star-wars-the-clone-wars/",
+    "releaseDate": "2002-10-28",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars rebel assault 2 the hidden empire": {
+    "title": "Star Wars Rebel Assault II: The Hidden Empire",
+    "slug": "star-wars-rebel-assault-ii-the-hidden-empire",
+    "score": null,
+    "url": "https://www.metacritic.com/game/star-wars-rebel-assault-ii-the-hidden-empire/",
+    "releaseDate": "1995-11-30",
+    "genres": [
+      "Rail Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars episode i the phantom menace": {
+    "title": "Star Wars: Episode I The Phantom Menace",
+    "slug": "star-wars-episode-i-the-phantom-menace",
+    "score": null,
+    "url": "https://www.metacritic.com/game/star-wars-episode-i-the-phantom-menace/",
+    "releaseDate": "1999-05-19",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "soulcalibur 3": null,
+  "star wars bounty hunter": {
+    "title": "Star Wars: Bounty Hunter",
+    "slug": "star-wars-bounty-hunter",
+    "score": 65,
+    "url": "https://www.metacritic.com/game/star-wars-bounty-hunter/",
+    "releaseDate": "2002-11-19",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars jedi starfighter": {
+    "title": "Star Wars: Jedi Starfighter",
+    "slug": "star-wars-jedi-starfighter",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/star-wars-jedi-starfighter/",
+    "releaseDate": "2002-03-10",
+    "genres": [
+      "Space Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "stellaris": {
+    "title": "Stellaris: Console Edition",
+    "slug": "stellaris-console-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/stellaris-console-edition/",
+    "releaseDate": "2025-11-06",
+    "genres": [
+      "Real-Time Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "star wars racer revenge": {
+    "title": "Star Wars: Racer Revenge",
+    "slug": "star-wars-racer-revenge",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/star-wars-racer-revenge/",
+    "releaseDate": "2002-02-11",
+    "genres": [
+      "Future Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "still wakes the deep": {
+    "title": "Still Wakes the Deep",
+    "slug": "still-wakes-the-deep",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/still-wakes-the-deep/",
+    "releaseDate": "2024-06-18",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "summoner ps2 emulation": null,
+  "story of seasons friends of mineral town": {
+    "title": "Story of Seasons: Friends of Mineral Town",
+    "slug": "story-of-seasons-friends-of-mineral-town",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/story-of-seasons-friends-of-mineral-town/",
+    "releaseDate": "2020-07-14",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "story of seasons pioneers of olive town": {
+    "title": "Story of Seasons: Pioneers of Olive Town",
+    "slug": "story-of-seasons-pioneers-of-olive-town",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/story-of-seasons-pioneers-of-olive-town/",
+    "releaseDate": "2021-03-23",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "story of seasons a wonderful life": {
+    "title": "Story of Seasons: A Wonderful Life",
+    "slug": "story-of-seasons-a-wonderful-life",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/story-of-seasons-a-wonderful-life/",
+    "releaseDate": "2023-06-27",
+    "genres": [
+      "Virtual Life"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "super stardust portable": {
+    "title": "Super Stardust Portable",
+    "slug": "super-stardust-portable",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/super-stardust-portable/",
+    "releaseDate": "2008-12-04",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "surviving the aftermath": {
+    "title": "Surviving the Aftermath",
+    "slug": "surviving-the-aftermath",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/surviving-the-aftermath/",
+    "releaseDate": "2021-11-16",
+    "genres": [
+      "Management"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "syphon filter": {
+    "title": "Syphon Filter",
+    "slug": "syphon-filter",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/syphon-filter/",
+    "releaseDate": "1999-02-17",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "syberia the world before": {
+    "title": "Syberia: The World Before",
+    "slug": "syberia-the-world-before",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/syberia-the-world-before/",
+    "releaseDate": "2022-03-18",
+    "genres": [
+      "Point-and-Click"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "sword of the sea": {
+    "title": "Sword of the Sea",
+    "slug": "sword-of-the-sea",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/sword-of-the-sea/",
+    "releaseDate": "2025-08-19",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "syphon filter 2": {
+    "title": "Syphon Filter 2",
+    "slug": "syphon-filter-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/syphon-filter-2/",
+    "releaseDate": "2000-03-14",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "syphon filter 3": {
+    "title": "Syphon Filter 3",
+    "slug": "syphon-filter-3",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/syphon-filter-3/",
+    "releaseDate": "2001-11-06",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tearaway unfolded": {
+    "title": "Tearaway Unfolded",
+    "slug": "tearaway-unfolded",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/tearaway-unfolded/",
+    "releaseDate": "2015-09-08",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tails noir": {
+    "title": "Tails Noir",
+    "slug": "tails-noir",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/tails-noir/",
+    "releaseDate": "2021-06-08",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tekken 3": {
+    "title": "Tekken 3",
+    "slug": "tekken-3",
+    "score": 96,
+    "url": "https://www.metacritic.com/game/tekken-3/",
+    "releaseDate": "1998-04-29",
+    "genres": [
+      "3D Fighting"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "syphon filter dark mirror": {
+    "title": "Syphon Filter: Dark Mirror",
+    "slug": "syphon-filter-dark-mirror",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/syphon-filter-dark-mirror/",
+    "releaseDate": "2006-03-14",
+    "genres": [
+      "Tactical Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "syphon filter logan s shadow": {
+    "title": "Syphon Filter: Logan's Shadow",
+    "slug": "syphon-filter-logans-shadow",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/syphon-filter-logans-shadow/",
+    "releaseDate": "2007-10-02",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tekken dark resurrection": null,
+  "tekken 6": {
+    "title": "Tekken 6",
+    "slug": "tekken-6",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/tekken-6/",
+    "releaseDate": "2009-10-27",
+    "genres": [
+      "3D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "test drive unlimited solar crown": {
+    "title": "Test Drive Unlimited Solar Crown",
+    "slug": "test-drive-unlimited-solar-crown",
+    "score": 53,
+    "url": "https://www.metacritic.com/game/test-drive-unlimited-solar-crown/",
+    "releaseDate": "2024-09-12",
+    "genres": [
+      "Auto Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tetris effect connected": {
+    "title": "Tetris Effect: Connected",
+    "slug": "tetris-effect-connected",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/tetris-effect-connected/",
+    "releaseDate": "2020-11-10",
+    "genres": [
+      "Stacking Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tennis world tour 2": {
+    "title": "Tennis World Tour 2",
+    "slug": "tennis-world-tour-2",
+    "score": 56,
+    "url": "https://www.metacritic.com/game/tennis-world-tour-2/",
+    "releaseDate": "2020-09-22",
+    "genres": [
+      "Tennis"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "thank goodness you re here": {
+    "title": "Thank Goodness You're Here!",
+    "slug": "thank-goodness-youre-here",
+    "score": 89,
+    "url": "https://www.metacritic.com/game/thank-goodness-youre-here/",
+    "releaseDate": "2024-08-01",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the exit 8": {
+    "title": "The Exit 8",
+    "slug": "the-exit-8",
+    "score": null,
+    "url": "https://www.metacritic.com/game/the-exit-8/",
+    "releaseDate": "2024-04-17",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the invincible": {
+    "title": "The Invincible",
+    "slug": "the-invincible",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/the-invincible/",
+    "releaseDate": "2023-11-06",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the gardens between": {
+    "title": "The Gardens Between",
+    "slug": "the-gardens-between",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/the-gardens-between/",
+    "releaseDate": "2018-09-20",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the last of us left behind stand alone": null,
+  "the last of us part 2": {
+    "title": "The Last of Us Part II Remastered",
+    "slug": "the-last-of-us-part-ii-remastered",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/the-last-of-us-part-ii-remastered/",
+    "releaseDate": "2024-01-19",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "the elder scrolls 5 skyrim special and": {
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "slug": "the-elder-scrolls-v-skyrim-special-edition",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/the-elder-scrolls-v-skyrim-special-edition/",
+    "releaseDate": "2017-11-17",
+    "genres": [
+      "Western RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "the last of us": {
+    "title": "The Last of Us Remastered",
+    "slug": "the-last-of-us-remastered",
+    "score": 95,
+    "url": "https://www.metacritic.com/game/the-last-of-us-remastered/",
+    "releaseDate": "2014-07-29",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "the last of us part i": {
+    "title": "The Last of Us Part I",
+    "slug": "the-last-of-us-part-i",
+    "score": 89,
+    "url": "https://www.metacritic.com/game/the-last-of-us-part-i/",
+    "releaseDate": "2022-09-02",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the last guardian": {
+    "title": "The Last Guardian",
+    "slug": "the-last-guardian",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/the-last-guardian/",
+    "releaseDate": "2016-12-06",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the legend of dragoon": {
+    "title": "The Legend of Dragoon",
+    "slug": "the-legend-of-dragoon",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/the-legend-of-dragoon/",
+    "releaseDate": "2000-06-13",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the lego movie videogame": {
+    "title": "The LEGO Movie Videogame",
+    "slug": "the-lego-movie-videogame",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/the-lego-movie-videogame/",
+    "releaseDate": "2014-02-07",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the surge": {
+    "title": "The Surge",
+    "slug": "the-surge",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/the-surge/",
+    "releaseDate": "2017-05-16",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the lord of the rings return to moria": {
+    "title": "The Lord of the Rings: Return to Moria",
+    "slug": "the-lord-of-the-rings-return-to-moria",
+    "score": 59,
+    "url": "https://www.metacritic.com/game/the-lord-of-the-rings-return-to-moria/",
+    "releaseDate": "2023-10-24",
+    "genres": [
+      "Sandbox"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the pedestrian": {
+    "title": "The Pedestrian",
+    "slug": "the-pedestrian",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/the-pedestrian/",
+    "releaseDate": "2020-01-29",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "this war of mine final cut": {
+    "title": "This War of Mine: Final Cut",
+    "slug": "this-war-of-mine-final-cut",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/this-war-of-mine-final-cut/",
+    "releaseDate": "2022-05-10",
+    "genres": [
+      "Board"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "thief": {
+    "title": "Thief",
+    "slug": "thief",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/thief/",
+    "releaseDate": "2014-02-25",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "thrillville": {
+    "title": "Thrillville",
+    "slug": "thrillville",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/thrillville/",
+    "releaseDate": "2006-11-21",
+    "genres": [
+      "Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the technomancer": {
+    "title": "The Technomancer",
+    "slug": "the-technomancer",
+    "score": 60,
+    "url": "https://www.metacritic.com/game/the-technomancer/",
+    "releaseDate": "2016-06-28",
+    "genres": [
+      "Western RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the surge 2": {
+    "title": "The Surge 2",
+    "slug": "the-surge-2",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/the-surge-2/",
+    "releaseDate": "2019-09-24",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "time crisis": {
+    "title": "Time Crisis",
+    "slug": "time-crisis",
+    "score": null,
+    "url": "https://www.metacritic.com/game/time-crisis/",
+    "releaseDate": "1997-10-31",
+    "genres": [
+      "Light Gun"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "thymesia": {
+    "title": "Thymesia",
+    "slug": "thymesia",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/thymesia/",
+    "releaseDate": "2022-08-18",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "timesplitters": {
+    "title": "TimeSplitters",
+    "slug": "timesplitters",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/timesplitters/",
+    "releaseDate": "2000-10-23",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "thrillville off the rails": {
+    "title": "Thrillville: Off the Rails",
+    "slug": "thrillville-off-the-rails",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/thrillville-off-the-rails/",
+    "releaseDate": "2007-10-09",
+    "genres": [
+      "Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tin hearts": {
+    "title": "Tin Hearts",
+    "slug": "tin-hearts",
+    "score": 66,
+    "url": "https://www.metacritic.com/game/tin-hearts/",
+    "releaseDate": "2023-05-16",
+    "genres": [
+      "Action Puzzle"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tomb raider": {
+    "title": "Tomb Raider",
+    "slug": "tomb-raider",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/tomb-raider/",
+    "releaseDate": "2013-03-05",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "twisted metal world tour": null,
+  "twisted metal": {
+    "title": "Twisted Metal (2012)",
+    "slug": "twisted-metal-2012",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/twisted-metal-2012/",
+    "releaseDate": "2012-02-14",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "trials of the blood dragon game": {
+    "title": "Trials of the Blood Dragon",
+    "slug": "trials-of-the-blood-dragon",
+    "score": 55,
+    "url": "https://www.metacritic.com/game/trials-of-the-blood-dragon/",
+    "releaseDate": "2016-06-13",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 0.913
+  },
+  "twisted metal 3": {
+    "title": "Twisted Metal III",
+    "slug": "twisted-metal-iii",
+    "score": null,
+    "url": "https://www.metacritic.com/game/twisted-metal-iii/",
+    "releaseDate": "1998-11-10",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tomb raider legend": {
+    "title": "Tomb Raider: Legend",
+    "slug": "tomb-raider-legend",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/tomb-raider-legend/",
+    "releaseDate": "2006-04-11",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "twisted metal 4": {
+    "title": "Twisted Metal 4",
+    "slug": "twisted-metal-4",
+    "score": null,
+    "url": "https://www.metacritic.com/game/twisted-metal-4/",
+    "releaseDate": "1999-11-15",
+    "genres": [
+      "Vehicle Combat Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "two point hospital jumbo": {
+    "title": "Two Point Hospital: JUMBO Edition",
+    "slug": "two-point-hospital-jumbo-edition",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/two-point-hospital-jumbo-edition/",
+    "releaseDate": "2021-07-29",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "two point museum": {
+    "title": "Two Point Museum",
+    "slug": "two-point-museum",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/two-point-museum/",
+    "releaseDate": "2025-03-04",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "umamusume pretty derby party dash": {
+    "title": "Umamusume: Pretty Derby - Party Dash",
+    "slug": "umamusume-pretty-derby-party-dash",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/umamusume-pretty-derby-party-dash/",
+    "releaseDate": "2024-08-30",
+    "genres": [
+      "Party"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "two point campus": {
+    "title": "Two Point Campus",
+    "slug": "two-point-campus",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/two-point-campus/",
+    "releaseDate": "2022-08-09",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "under the waves": {
+    "title": "Under The Waves",
+    "slug": "under-the-waves",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/under-the-waves/",
+    "releaseDate": "2023-08-29",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "uncharted the nathan drake collection": {
+    "title": "Uncharted: The Nathan Drake Collection",
+    "slug": "uncharted-the-nathan-drake-collection",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/uncharted-the-nathan-drake-collection/",
+    "releaseDate": "2015-10-09",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "until dawn": {
+    "title": "Until Dawn",
+    "slug": "until-dawn",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/until-dawn/",
+    "releaseDate": "2024-10-04",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "uncharted 4 a thief s end": {
+    "title": "Uncharted 4: A Thief's End",
+    "slug": "uncharted-4-a-thiefs-end",
+    "score": 93,
+    "url": "https://www.metacritic.com/game/uncharted-4-a-thiefs-end/",
+    "releaseDate": "2016-05-10",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": true,
+    "confidence": 1
+  },
+  "untitled goose game": {
+    "title": "Untitled Goose Game",
+    "slug": "untitled-goose-game",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/untitled-goose-game/",
+    "releaseDate": "2019-09-20",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "vampyr": {
+    "title": "Vampyr",
+    "slug": "vampyr",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/vampyr/",
+    "releaseDate": "2018-06-05",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "until dawn 2015": null,
+  "5 rising": {
+    "title": "V Rising",
+    "slug": "v-rising",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/v-rising/",
+    "releaseDate": "2024-05-08",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "venba": {
+    "title": "Venba",
+    "slug": "venba",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/venba/",
+    "releaseDate": "2023-07-31",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "war of the monsters": {
+    "title": "War of the Monsters",
+    "slug": "war-of-the-monsters",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/war-of-the-monsters/",
+    "releaseDate": "2003-01-14",
+    "genres": [
+      "3D Fighting"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "warhammer chaosbane": {
+    "title": "Warhammer: Chaosbane",
+    "slug": "warhammer-chaosbane",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/warhammer-chaosbane/",
+    "releaseDate": "2019-05-31",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "werewolf the apocalypse earthblood": {
+    "title": "Werewolf: The Apocalypse - Earthblood",
+    "slug": "werewolf-the-apocalypse-earthblood",
+    "score": 54,
+    "url": "https://www.metacritic.com/game/werewolf-the-apocalypse-earthblood/",
+    "releaseDate": "2021-02-04",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "warriors abyss": {
+    "title": "Warriors: Abyss",
+    "slug": "warriors-abyss",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/warriors-abyss/",
+    "releaseDate": "2025-02-12",
+    "genres": [
+      "3D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "werewolves within": {
+    "title": "Werewolves Within",
+    "slug": "werewolves-within",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/werewolves-within/",
+    "releaseDate": "2016-12-06",
+    "genres": [
+      "Party"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "west of dead": {
+    "title": "West of Dead",
+    "slug": "west-of-dead",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/west-of-dead/",
+    "releaseDate": "2020-06-18",
+    "genres": [
+      "Top-Down Shoot-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wild arms": {
+    "title": "Wild Arms",
+    "slug": "wild-arms",
+    "score": null,
+    "url": "https://www.metacritic.com/game/wild-arms/",
+    "releaseDate": "1997-04-30",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wipeout omega collection": {
+    "title": "Wipeout: Omega Collection",
+    "slug": "wipeout-omega-collection",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/wipeout-omega-collection/",
+    "releaseDate": "2017-06-06",
+    "genres": [
+      "Future Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wild arms 4": {
+    "title": "Wild Arms 4",
+    "slug": "wild-arms-4",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/wild-arms-4/",
+    "releaseDate": "2006-01-10",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wizard with a gun": {
+    "title": "Wizard with a Gun",
+    "slug": "wizard-with-a-gun",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/wizard-with-a-gun/",
+    "releaseDate": "2023-10-16",
+    "genres": [
+      "Sandbox"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "worms": {
+    "title": "Worms",
+    "slug": "worms",
+    "score": null,
+    "url": "https://www.metacritic.com/game/worms/",
+    "releaseDate": "1995-10-31",
+    "genres": [
+      "Artillery"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "world war z": {
+    "title": "World War Z",
+    "slug": "world-war-z",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/world-war-z/",
+    "releaseDate": "2019-04-16",
+    "genres": [
+      "Tactical Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "worms pinball": {
+    "title": "Worms Pinball",
+    "slug": "worms-pinball",
+    "score": null,
+    "url": "https://www.metacritic.com/game/worms-pinball/",
+    "releaseDate": "January 2000",
+    "genres": [
+      "Pinball"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wild arms 2": {
+    "title": "Wild ARMs 2",
+    "slug": "wild-arms-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/wild-arms-2/",
+    "releaseDate": "2023-02-21",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "worms armageddon": {
+    "title": "Worms Armageddon: Anniversary Edition",
+    "slug": "worms-armageddon-anniversary-edition",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/worms-armageddon-anniversary-edition/",
+    "releaseDate": "2024-09-26",
+    "genres": [
+      "Artillery"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "worms world party": {
+    "title": "Worms World Party",
+    "slug": "worms-world-party",
+    "score": 79,
+    "url": "https://www.metacritic.com/game/worms-world-party/",
+    "releaseDate": "2001-06-03",
+    "genres": [
+      "Artillery"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "xcom 2": {
+    "title": "XCOM 2",
+    "slug": "xcom-2",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/xcom-2/",
+    "releaseDate": "2016-02-04",
+    "genres": [
+      "Turn-Based Tactics"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "you suck at parking": {
+    "title": "You Suck at Parking",
+    "slug": "you-suck-at-parking",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/you-suck-at-parking/",
+    "releaseDate": "2022-09-14",
+    "genres": [
+      "Auto Racing"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "ys 8 lacrimosa of dana": {
+    "title": "Ys VIII: Lacrimosa of DANA",
+    "slug": "ys-viii-lacrimosa-of-dana",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/ys-viii-lacrimosa-of-dana/",
+    "releaseDate": "2017-09-12",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "yakuza like a dragon": {
+    "title": "Yakuza: Like a Dragon",
+    "slug": "yakuza-like-a-dragon",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/yakuza-like-a-dragon/",
+    "releaseDate": "2020-11-10",
+    "genres": [
+      "JRPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "wrc generations the fia wrc official game": {
+    "title": "WRC Generations",
+    "slug": "wrc-generations",
+    "score": 74,
+    "url": "https://www.metacritic.com/game/wrc-generations/",
+    "releaseDate": "2022-11-03",
+    "genres": [
+      "Auto Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 0.97
+  },
+  "disneyland adventures": {
+    "title": "Kinect: Disneyland Adventures",
+    "slug": "kinect-disneyland-adventures",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/kinect-disneyland-adventures/",
+    "releaseDate": "2011-11-15",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.864
+  },
+  "hellblade 2 senua s saga": {
+    "title": "Senua's Saga: Hellblade II",
+    "slug": "senuas-saga-hellblade-ii",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/senuas-saga-hellblade-ii/",
+    "releaseDate": "2024-05-21",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.947
+  },
+  "microsoft mahjong": {
+    "title": "Mahjong by Microsoft",
+    "slug": "mahjong-by-microsoft",
+    "score": null,
+    "url": "https://www.metacritic.com/game/mahjong-by-microsoft/",
+    "releaseDate": "2021-01-12",
+    "genres": [
+      "Board"
+    ],
+    "mustPlay": false,
+    "confidence": 0.875
+  },
+  "new monopoly": {
+    "title": "Monopoly New Edition",
+    "slug": "monopoly-new-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/monopoly-new-edition/",
+    "releaseDate": "2005-07-15",
+    "genres": [
+      "Board"
+    ],
+    "mustPlay": false,
+    "confidence": 0.9
+  },
+  "zombi": {
+    "title": "ZombiU",
+    "slug": "zombiu",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/zombiu/",
+    "releaseDate": "2012-11-18",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 0.889
+  },
+  "ryse legendary": null,
+  "ape academy": null,
+  "tekken2": null,
+  "lego ninjago movie video game": {
+    "title": "The LEGO NINJAGO Movie Video Game",
+    "slug": "the-lego-ninjago-movie-video-game",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/the-lego-ninjago-movie-video-game/",
+    "releaseDate": "2017-09-22",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.941
+  },
+  "anno mutationem collector s": null,
+  "stellaris console": {
+    "title": "Stellaris: Console Edition",
+    "slug": "stellaris-console-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/stellaris-console-edition/",
+    "releaseDate": "2025-11-06",
+    "genres": [
+      "Real-Time Strategy"
     ],
     "mustPlay": false,
     "confidence": 1

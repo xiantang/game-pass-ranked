@@ -1,5 +1,7 @@
-// Looks up each Game Pass title on Metacritic's public search backend and writes
-// data/games.json (catalog + critic score). Results are cached in data/mc-cache.json
+// Looks up each catalog title on Metacritic's public search backend and writes the
+// scored catalog: `node fetch-metacritic.mjs` reads data/xgp.json into data/games.json,
+// `node fetch-metacritic.mjs psplus` reads data/psplus.json into data/psplus-games.json.
+// Results are cached in data/mc-cache.json (shared by both services, keyed by title)
 // so re-runs only hit the network for titles that are new.
 import { readFile, writeFile } from 'node:fs/promises';
 
@@ -7,10 +9,16 @@ const API_KEY = process.env.MC_API_KEY || '1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u';
 const CACHE_PATH = new URL('../data/mc-cache.json', import.meta.url);
 const USER_CACHE_PATH = new URL('../data/mc-user-cache.json', import.meta.url);
 const CONCURRENCY = 6;
+const SERVICES = {
+  xgp: { input: 'xgp.json', output: 'games.json' },
+  psplus: { input: 'psplus.json', output: 'psplus-games.json' },
+};
+const SERVICE = process.argv[2] || 'xgp';
+if (!SERVICES[SERVICE]) throw new Error(`Unknown service "${SERVICE}" (expected ${Object.keys(SERVICES).join(' | ')})`);
 
 // Store titles carry a lot of noise Metacritic never has: platform tags, edition
 // suffixes, trademark symbols. Strip it before comparing.
-const NOISE = /\b(xbox (series x\|s|series x\/s|one|360)?|windows \d*|pc|for windows|game preview|cross[- ]?gen|standalone|digital version|console version|pc version|version|standard|deluxe|ultimate|complete|definitive|enhanced|remastered|anniversary|goty|game of the year|digital|bundle|edition|editions)\b/g;
+const NOISE = /\b(xbox (series x\|s|series x\/s|one|360)?|windows \d*|pc|for windows|game preview|cross[- ]?gen|standalone|digital version|console version|pc version|version|standard|deluxe|ultimate|complete|definitive|enhanced|remastered|anniversary|goty|game of the year|digital|bundle|edition|editions|ps4|ps5|playstation ?hits|playstation ?[45]|full game)\b/g;
 
 const ROMAN = { ii: 2, iii: 3, iv: 4, v: 5, vi: 6, vii: 7, viii: 8, ix: 9, x: 10, xi: 11, xii: 12, xiii: 13 };
 
@@ -19,6 +27,9 @@ function normalize(title) {
     .toLowerCase()
     .replace(/[®™©]/g, ' ')
     .replace(/\((?:[^)]*)\)/g, ' ')
+    .replace(/\[[^\]]*\]/g, ' ')
+    // PlayStation cross-gen suffix: "PS4 & PS5", "PS4&PS5", "PS4＆PS5".
+    .replace(/\bps4\s*[&＆]\s*ps5\b/g, ' ')
     .replace(/\b(\d{4})\b(?!\s*$)/g, ' $1 ')
     .replace(NOISE, ' ')
     .replace(/[:\-–—_'’`."!?,+*/\\|]/g, ' ')
@@ -41,6 +52,20 @@ function sameEntry(a, b) {
   if (A.size !== B.size) return false;
   for (const n of A) if (!B.has(n)) return false;
   return true;
+}
+
+// Bigram similarity alone lets "Ape Academy" match "Escape Academy" and "Ryse:
+// Legendary" match "Rysen". Require the store title's first word to be a word of
+// the candidate ("Hellblade 2" / "Senua's Saga: Hellblade II"), or both titles to
+// start the same once spaces, accents and punctuation are gone ("farcry 6" /
+// "Far Cry 6", "Disney•Pixar" / "Disney/Pixar").
+function sameStart(a, b) {
+  const flat = (s) => s.normalize('NFD').replace(/[^a-z0-9 ]/g, '');
+  const A = flat(a), B = flat(b);
+  const head = (s) => s.split(' ')[0];
+  const joined = (s) => s.replace(/ /g, '');
+  return B.split(' ').includes(head(A)) ||
+    (joined(B).startsWith(head(A)) && joined(A).startsWith(head(B)));
 }
 
 // Dice coefficient over character bigrams — cheap and forgiving of small
@@ -90,7 +115,7 @@ function bestMatch(queries, items, storeYear) {
     const other = normalize(it.title);
     let score = 0, matchedQuery = null;
     for (const { q, weight } of queries) {
-      if (!sameEntry(q, other)) continue;
+      if (!sameEntry(q, other) || !sameStart(q, other)) continue;
       // "FARCRY 6" vs "Far Cry 6": compare with spaces collapsed too.
       const s = weight * Math.max(
         similarity(q, other),
@@ -133,7 +158,7 @@ async function userScore(slug, tries = 3) {
   }
 }
 
-const catalog = JSON.parse(await readFile(new URL('../data/xgp.json', import.meta.url), 'utf8'));
+const catalog = JSON.parse(await readFile(new URL(`../data/${SERVICES[SERVICE].input}`, import.meta.url), 'utf8'));
 let cache = {};
 try { cache = JSON.parse(await readFile(CACHE_PATH, 'utf8')); } catch {}
 
@@ -236,8 +261,9 @@ const games = catalog.games.map((g) => {
 
 const scored = games.filter((g) => g.metacritic);
 await writeFile(
-  new URL('../data/games.json', import.meta.url),
+  new URL(`../data/${SERVICES[SERVICE].output}`, import.meta.url),
   JSON.stringify({
+    service: SERVICE,
     market: catalog.market,
     fetchedAt: catalog.fetchedAt,
     scoredAt: new Date().toISOString(),
@@ -247,4 +273,4 @@ await writeFile(
   }, null, 2),
 );
 const withUser = scored.filter((g) => g.metacritic.userScore != null).length;
-console.log(`Wrote data/games.json — ${scored.length}/${games.length} with a critic score, ${withUser} with a user score`);
+console.log(`Wrote data/${SERVICES[SERVICE].output} — ${scored.length}/${games.length} with a critic score, ${withUser} with a user score`);

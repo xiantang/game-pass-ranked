@@ -2981,5 +2981,1729 @@
     "score": 6.9,
     "reviewCount": 42,
     "sentiment": "Mixed or average"
+  },
+  "a-train-express": null,
+  "a-little-to-the-left": {
+    "score": 7,
+    "reviewCount": 109,
+    "sentiment": "Mixed or average"
+  },
+  "a-space-for-the-unbound": {
+    "score": 7.9,
+    "reviewCount": 114,
+    "sentiment": "Generally favorable"
+  },
+  "alienation": {
+    "score": 7.8,
+    "reviewCount": 250,
+    "sentiment": "Generally favorable"
+  },
+  "a-quiet-place-the-road-ahead": {
+    "score": 6.5,
+    "reviewCount": 223,
+    "sentiment": "Mixed or average"
+  },
+  "age-of-wonders-planetfall": {
+    "score": 7.4,
+    "reviewCount": 123,
+    "sentiment": "Mixed or average"
+  },
+  "alone-in-the-dark-2": {
+    "score": 6.2,
+    "reviewCount": 10,
+    "sentiment": "Mixed or average"
+  },
+  "escape-academy": {
+    "score": 7.9,
+    "reviewCount": 72,
+    "sentiment": "Generally favorable"
+  },
+  "adventure-time-pirates-of-the-enchiridion": {
+    "score": 6.2,
+    "reviewCount": 54,
+    "sentiment": "Mixed or average"
+  },
+  "alone-in-the-dark-the-new-nightmare": {
+    "score": 7.4,
+    "reviewCount": 79,
+    "sentiment": "Mixed or average"
+  },
+  "annor": null,
+  "ape-escape": {
+    "score": 8.2,
+    "reviewCount": 181,
+    "sentiment": "Generally favorable"
+  },
+  "ao-tennis-2": {
+    "score": 6.1,
+    "reviewCount": 60,
+    "sentiment": "Mixed or average"
+  },
+  "ape-academy-2": null,
+  "armored-core": {
+    "score": 6.2,
+    "reviewCount": 6,
+    "sentiment": "Mixed or average"
+  },
+  "atlas-fallen-reign-of-sand": {
+    "score": 6.8,
+    "reviewCount": 40,
+    "sentiment": "Mixed or average"
+  },
+  "arcade-paradise": {
+    "score": 6.6,
+    "reviewCount": 56,
+    "sentiment": "Mixed or average"
+  },
+  "armored-core-master-of-arena": null,
+  "assetto-corsa-competizione": {
+    "score": 7.4,
+    "reviewCount": 101,
+    "sentiment": "Mixed or average"
+  },
+  "armored-core-project-phantasma": null,
+  "battle-chasers-nightwar": {
+    "score": 7,
+    "reviewCount": 114,
+    "sentiment": "Mixed or average"
+  },
+  "bang-on-balls-chronicles": {
+    "score": 8,
+    "reviewCount": 31,
+    "sentiment": "Generally favorable"
+  },
+  "atelier-ryza-3-alchemist-of-the-end-and-the-secret": {
+    "score": 7.4,
+    "reviewCount": 110,
+    "sentiment": "Mixed or average"
+  },
+  "back-4-blood": {
+    "score": 5.3,
+    "reviewCount": 597,
+    "sentiment": "Mixed or average"
+  },
+  "bee-simulator": {
+    "score": 5.5,
+    "reviewCount": 46,
+    "sentiment": "Mixed or average"
+  },
+  "battle-engine-aquila": null,
+  "biped": {
+    "score": 7.2,
+    "reviewCount": 84,
+    "sentiment": "Mixed or average"
+  },
+  "beyond-two-souls": {
+    "score": 8,
+    "reviewCount": 3511,
+    "sentiment": "Generally favorable"
+  },
+  "black-desert": {
+    "score": 6.1,
+    "reviewCount": 139,
+    "sentiment": "Mixed or average"
+  },
+  "blades-of-fire": {
+    "score": 7.6,
+    "reviewCount": 196,
+    "sentiment": "Generally favorable"
+  },
+  "blasphemous-2": {
+    "score": 8.2,
+    "reviewCount": 549,
+    "sentiment": "Generally favorable"
+  },
+  "blade-dancer-lineage-of-light": {
+    "score": 5.1,
+    "reviewCount": 16,
+    "sentiment": "Mixed or average"
+  },
+  "bloodborne": {
+    "score": 8.9,
+    "reviewCount": 14898,
+    "sentiment": "Generally favorable"
+  },
+  "bus-simulator-21-next-stop": {
+    "score": 4,
+    "reviewCount": 9,
+    "sentiment": "Generally unfavorable"
+  },
+  "blood-omen-legacy-of-kain": {
+    "score": 8.4,
+    "reviewCount": 96,
+    "sentiment": "Generally favorable"
+  },
+  "bramble-the-mountain-king": {
+    "score": 7.8,
+    "reviewCount": 277,
+    "sentiment": "Generally favorable"
+  },
+  "call-of-the-sea": {
+    "score": 7,
+    "reviewCount": 231,
+    "sentiment": "Mixed or average"
+  },
+  "bound-2016": {
+    "score": 6.9,
+    "reviewCount": 153,
+    "sentiment": "Mixed or average"
+  },
+  "blood-omen-2": {
+    "score": 7.5,
+    "reviewCount": 29,
+    "sentiment": "Generally favorable"
+  },
+  "cat-quest": {
+    "score": 7.3,
+    "reviewCount": 229,
+    "sentiment": "Mixed or average"
+  },
+  "captain-tsubasa-rise-of-new-champions": {
+    "score": 7,
+    "reviewCount": 187,
+    "sentiment": "Mixed or average"
+  },
+  "cat-quest-iii": {
+    "score": 7.7,
+    "reviewCount": 119,
+    "sentiment": "Generally favorable"
+  },
+  "chained-echoes": {
+    "score": 8.3,
+    "reviewCount": 289,
+    "sentiment": "Generally favorable"
+  },
+  "citizen-sleeper-2-starward-vector": {
+    "score": 7.3,
+    "reviewCount": 94,
+    "sentiment": "Mixed or average"
+  },
+  "coffee-talk-episode-2-hibiscus-and-butterfly": {
+    "score": 7.3,
+    "reviewCount": 70,
+    "sentiment": "Mixed or average"
+  },
+  "conan-exiles": {
+    "score": 5.5,
+    "reviewCount": 293,
+    "sentiment": "Mixed or average"
+  },
+  "concrete-genie": {
+    "score": 7.9,
+    "reviewCount": 547,
+    "sentiment": "Generally favorable"
+  },
+  "coffee-talk": {
+    "score": 7.4,
+    "reviewCount": 206,
+    "sentiment": "Mixed or average"
+  },
+  "conscript": {
+    "score": 7.8,
+    "reviewCount": 63,
+    "sentiment": "Generally favorable"
+  },
+  "coral-island": {
+    "score": 7,
+    "reviewCount": 88,
+    "sentiment": "Mixed or average"
+  },
+  "cool-boarders": null,
+  "crime-boss-rockay-city": {
+    "score": 4.6,
+    "reviewCount": 163,
+    "sentiment": "Generally unfavorable"
+  },
+  "crow-country": {
+    "score": 7.9,
+    "reviewCount": 141,
+    "sentiment": "Generally favorable"
+  },
+  "contra-rogue-corps": {
+    "score": 3.8,
+    "reviewCount": 58,
+    "sentiment": "Generally unfavorable"
+  },
+  "crusader-kings-iii": {
+    "score": 8.3,
+    "reviewCount": 1239,
+    "sentiment": "Generally favorable"
+  },
+  "daxter": {
+    "score": 8.3,
+    "reviewCount": 244,
+    "sentiment": "Generally favorable"
+  },
+  "days-gone": {
+    "score": 8.5,
+    "reviewCount": 12997,
+    "sentiment": "Generally favorable"
+  },
+  "darkest-dungeon-ii": {
+    "score": 6.3,
+    "reviewCount": 271,
+    "sentiment": "Mixed or average"
+  },
+  "death-end-request": {
+    "score": 7.3,
+    "reviewCount": 77,
+    "sentiment": "Mixed or average"
+  },
+  "deliver-us-the-moon": {
+    "score": 6.7,
+    "reviewCount": 202,
+    "sentiment": "Mixed or average"
+  },
+  "desperados-iii": {
+    "score": 8.2,
+    "reviewCount": 839,
+    "sentiment": "Generally favorable"
+  },
+  "detroit-become-human": {
+    "score": 8.7,
+    "reviewCount": 9428,
+    "sentiment": "Generally favorable"
+  },
+  "deadcraft": {
+    "score": 7.3,
+    "reviewCount": 13,
+    "sentiment": "Mixed or average"
+  },
+  "destiny-2": {
+    "score": 5.2,
+    "reviewCount": 3114,
+    "sentiment": "Mixed or average"
+  },
+  "demons-souls": {
+    "score": 8.3,
+    "reviewCount": 5093,
+    "sentiment": "Generally favorable"
+  },
+  "dino-crisis": {
+    "score": 8.4,
+    "reviewCount": 145,
+    "sentiment": "Generally favorable"
+  },
+  "deus-ex-mankind-divided": {
+    "score": 7.7,
+    "reviewCount": 1374,
+    "sentiment": "Generally favorable"
+  },
+  "disney-pixar-toy-story-3-complete-edition": null,
+  "deus-ex-remastered": null,
+  "disney-pixar-buzz-lightyear-of-star-command": {
+    "score": 6.1,
+    "reviewCount": 15,
+    "sentiment": "Mixed or average"
+  },
+  "disney-pixar-up-2009": {
+    "score": 6.6,
+    "reviewCount": 17,
+    "sentiment": "Mixed or average"
+  },
+  "disney-pixar-toy-story-2-buzz-lightyear-to-the": {
+    "score": 7.2,
+    "reviewCount": 53,
+    "sentiment": "Mixed or average"
+  },
+  "disneys-atlantis-the-lost-empire-2001": {
+    "score": 7.3,
+    "reviewCount": 27,
+    "sentiment": "Mixed or average"
+  },
+  "dragon-star-varnir": {
+    "score": 6.9,
+    "reviewCount": 38,
+    "sentiment": "Mixed or average"
+  },
+  "doom-ii": {
+    "score": 7.9,
+    "reviewCount": 247,
+    "sentiment": "Generally favorable"
+  },
+  "disneypixar-wall-e-2008": {
+    "score": 6.3,
+    "reviewCount": 7,
+    "sentiment": "Mixed or average"
+  },
+  "dropship-united-peace-force": {
+    "score": 8.3,
+    "reviewCount": 7,
+    "sentiment": "Generally favorable"
+  },
+  "dying-light": {
+    "score": 8,
+    "reviewCount": 3048,
+    "sentiment": "Generally favorable"
+  },
+  "dynasty-warriors-8-empires": {
+    "score": 6.7,
+    "reviewCount": 70,
+    "sentiment": "Mixed or average"
+  },
+  "dying-light-2-stay-human": {
+    "score": 7.2,
+    "reviewCount": 3618,
+    "sentiment": "Mixed or average"
+  },
+  "eagle-flight": {
+    "score": 7,
+    "reviewCount": 51,
+    "sentiment": "Mixed or average"
+  },
+  "echochrome": {
+    "score": 5.8,
+    "reviewCount": 16,
+    "sentiment": "Mixed or average"
+  },
+  "dynasty-warriors-9": {
+    "score": 4.3,
+    "reviewCount": 196,
+    "sentiment": "Generally unfavorable"
+  },
+  "earth-defense-force-5": {
+    "score": 7.6,
+    "reviewCount": 59,
+    "sentiment": "Generally favorable"
+  },
+  "earth-defense-force-iron-rain": {
+    "score": 5.5,
+    "reviewCount": 46,
+    "sentiment": "Mixed or average"
+  },
+  "echoes-of-the-end": {
+    "score": 6.7,
+    "reviewCount": 243,
+    "sentiment": "Mixed or average"
+  },
+  "echoshift": {
+    "score": 7.5,
+    "reviewCount": 8,
+    "sentiment": "Generally favorable"
+  },
+  "eldest-souls": {
+    "score": 6.6,
+    "reviewCount": 64,
+    "sentiment": "Mixed or average"
+  },
+  "embr": {
+    "score": 7.6,
+    "reviewCount": 7,
+    "sentiment": "Generally favorable"
+  },
+  "eiyuden-chronicle-hundred-heroes": {
+    "score": 7.2,
+    "reviewCount": 310,
+    "sentiment": "Mixed or average"
+  },
+  "entwined": {
+    "score": 6.8,
+    "reviewCount": 186,
+    "sentiment": "Mixed or average"
+  },
+  "enotria-the-last-song": {
+    "score": 6,
+    "reviewCount": 308,
+    "sentiment": "Mixed or average"
+  },
+  "everybodys-golf": {
+    "score": 7.5,
+    "reviewCount": 183,
+    "sentiment": "Generally favorable"
+  },
+  "erica": {
+    "score": 6.6,
+    "reviewCount": 476,
+    "sentiment": "Mixed or average"
+  },
+  "fade-to-silence": {
+    "score": 4.5,
+    "reviewCount": 43,
+    "sentiment": "Generally unfavorable"
+  },
+  "far-changing-tides": {
+    "score": 6.9,
+    "reviewCount": 96,
+    "sentiment": "Mixed or average"
+  },
+  "final-fantasy-xvi": {
+    "score": 8.3,
+    "reviewCount": 10314,
+    "sentiment": "Generally favorable"
+  },
+  "expeditions-a-mudrunner-game": {
+    "score": 5.4,
+    "reviewCount": 88,
+    "sentiment": "Mixed or average"
+  },
+  "fate-samurai-remnant": {
+    "score": 8.1,
+    "reviewCount": 131,
+    "sentiment": "Generally favorable"
+  },
+  "for-the-king": {
+    "score": 6.9,
+    "reviewCount": 177,
+    "sentiment": "Mixed or average"
+  },
+  "firefighting-simulator-ignite": {
+    "score": 6.3,
+    "reviewCount": 12,
+    "sentiment": "Mixed or average"
+  },
+  "final-fantasy-vii-remake": {
+    "score": 8.2,
+    "reviewCount": 9444,
+    "sentiment": "Generally favorable"
+  },
+  "five-nights-at-freddys-help-wanted-2": {
+    "score": 8.1,
+    "reviewCount": 44,
+    "sentiment": "Generally favorable"
+  },
+  "flintlock-the-siege-of-dawn": {
+    "score": 5,
+    "reviewCount": 239,
+    "sentiment": "Mixed or average"
+  },
+  "ghosthunter": null,
+  "gitaroo-man": {
+    "score": 7.7,
+    "reviewCount": 18,
+    "sentiment": "Generally favorable"
+  },
+  "god-of-war-ragnarok": {
+    "score": 8.3,
+    "reviewCount": 17115,
+    "sentiment": "Generally favorable"
+  },
+  "gods-eater-burst": {
+    "score": 8,
+    "reviewCount": 43,
+    "sentiment": "Generally favorable"
+  },
+  "god-of-war-iii-remastered": {
+    "score": 8.4,
+    "reviewCount": 2004,
+    "sentiment": "Generally favorable"
+  },
+  "god-of-war": {
+    "score": 9,
+    "reviewCount": 31363,
+    "sentiment": "Universal acclaim"
+  },
+  "granblue-fantasy-versus-rising": {
+    "score": 7.3,
+    "reviewCount": 61,
+    "sentiment": "Mixed or average"
+  },
+  "ghost-of-tsushima-directors-cut": {
+    "score": 8.4,
+    "reviewCount": 6122,
+    "sentiment": "Generally favorable"
+  },
+  "granblue-fantasy-relink": {
+    "score": 8.1,
+    "reviewCount": 461,
+    "sentiment": "Generally favorable"
+  },
+  "grand-theft-auto-v": {
+    "score": 8.5,
+    "reviewCount": 17459,
+    "sentiment": "Generally favorable"
+  },
+  "golf-with-your-friends": {
+    "score": 5.9,
+    "reviewCount": 102,
+    "sentiment": "Mixed or average"
+  },
+  "grandia": {
+    "score": 7.7,
+    "reviewCount": 176,
+    "sentiment": "Generally favorable"
+  },
+  "gravity-rush-remastered": {
+    "score": 8.1,
+    "reviewCount": 547,
+    "sentiment": "Generally favorable"
+  },
+  "gravity-rush-2": {
+    "score": 8.1,
+    "reviewCount": 754,
+    "sentiment": "Generally favorable"
+  },
+  "gris": {
+    "score": 8,
+    "reviewCount": 1042,
+    "sentiment": "Generally favorable"
+  },
+  "green-hell": {
+    "score": 7.4,
+    "reviewCount": 299,
+    "sentiment": "Mixed or average"
+  },
+  "heavy-rain": {
+    "score": 8.4,
+    "reviewCount": 2996,
+    "sentiment": "Generally favorable"
+  },
+  "harvest-moon-light-of-hope-special-edition": null,
+  "hotline-miami": {
+    "score": 8.5,
+    "reviewCount": 2780,
+    "sentiment": "Generally favorable"
+  },
+  "helldivers-2": {
+    "score": 7.5,
+    "reviewCount": 3031,
+    "sentiment": "Generally favorable"
+  },
+  "hello-neighbor": {
+    "score": 5.4,
+    "reviewCount": 574,
+    "sentiment": "Mixed or average"
+  },
+  "hollow-knight": {
+    "score": 9,
+    "reviewCount": 6335,
+    "sentiment": "Universal acclaim"
+  },
+  "harvest-moon-back-to-nature": {
+    "score": 8.8,
+    "reviewCount": 93,
+    "sentiment": "Generally favorable"
+  },
+  "horizon-zero-dawn-remastered": {
+    "score": 7.2,
+    "reviewCount": 895,
+    "sentiment": "Mixed or average"
+  },
+  "hotline-miami-2-wrong-number": {
+    "score": 7.9,
+    "reviewCount": 1207,
+    "sentiment": "Generally favorable"
+  },
+  "insurgency-sandstorm": {
+    "score": 7.8,
+    "reviewCount": 328,
+    "sentiment": "Generally favorable"
+  },
+  "infamous-first-light": {
+    "score": 7.3,
+    "reviewCount": 1034,
+    "sentiment": "Mixed or average"
+  },
+  "hercs-adventures": null,
+  "indiana-jones-and-the-staff-of-kings": {
+    "score": 6.4,
+    "reviewCount": 38,
+    "sentiment": "Mixed or average"
+  },
+  "jak-ii": {
+    "score": 8.3,
+    "reviewCount": 580,
+    "sentiment": "Generally favorable"
+  },
+  "jak-3": {
+    "score": 8.8,
+    "reviewCount": 519,
+    "sentiment": "Generally favorable"
+  },
+  "humanity": {
+    "score": 7.9,
+    "reviewCount": 165,
+    "sentiment": "Generally favorable"
+  },
+  "jak-and-daxter-the-lost-frontier": {
+    "score": 6.8,
+    "reviewCount": 96,
+    "sentiment": "Mixed or average"
+  },
+  "jak-and-daxter-the-precursor-legacy": {
+    "score": 8.8,
+    "reviewCount": 835,
+    "sentiment": "Generally favorable"
+  },
+  "jumping-flash": {
+    "score": 8.3,
+    "reviewCount": 4,
+    "sentiment": "Generally favorable"
+  },
+  "jak-x-combat-racing": {
+    "score": 8,
+    "reviewCount": 145,
+    "sentiment": "Generally favorable"
+  },
+  "jeanne-darc": {
+    "score": 8.1,
+    "reviewCount": 118,
+    "sentiment": "Generally favorable"
+  },
+  "jurassic-world-evolution-2": {
+    "score": 7.3,
+    "reviewCount": 235,
+    "sentiment": "Mixed or average"
+  },
+  "killer-frequency": {
+    "score": 7.3,
+    "reviewCount": 72,
+    "sentiment": "Mixed or average"
+  },
+  "killing-floor-2": {
+    "score": 7,
+    "reviewCount": 307,
+    "sentiment": "Mixed or average"
+  },
+  "knack": {
+    "score": 6.5,
+    "reviewCount": 1427,
+    "sentiment": "Mixed or average"
+  },
+  "killzone-shadow-fall": {
+    "score": 6.8,
+    "reviewCount": 2599,
+    "sentiment": "Mixed or average"
+  },
+  "killzone-liberation": {
+    "score": 7.3,
+    "reviewCount": 113,
+    "sentiment": "Mixed or average"
+  },
+  "legacy-of-kain-defiance-remastered": {
+    "score": 7.6,
+    "reviewCount": 37,
+    "sentiment": "Generally favorable"
+  },
+  "lego-dc-super-villains": {
+    "score": 7.4,
+    "reviewCount": 270,
+    "sentiment": "Mixed or average"
+  },
+  "lego-batman-3-beyond-gotham": {
+    "score": 7,
+    "reviewCount": 362,
+    "sentiment": "Mixed or average"
+  },
+  "kurushi-final-mental-blocks": null,
+  "lego-city-undercover": {
+    "score": 8.4,
+    "reviewCount": 541,
+    "sentiment": "Generally favorable"
+  },
+  "legendary-fishing": {
+    "score": 6.1,
+    "reviewCount": 9,
+    "sentiment": "Mixed or average"
+  },
+  "the-lego-ninjago-movie-video-game": {
+    "score": 6.1,
+    "reviewCount": 157,
+    "sentiment": "Mixed or average"
+  },
+  "lego-horizon-adventures": {
+    "score": 5.8,
+    "reviewCount": 316,
+    "sentiment": "Mixed or average"
+  },
+  "life-is-strange-double-exposure": {
+    "score": 4.8,
+    "reviewCount": 944,
+    "sentiment": "Generally unfavorable"
+  },
+  "lego-worlds": {
+    "score": 6.1,
+    "reviewCount": 153,
+    "sentiment": "Mixed or average"
+  },
+  "lego-star-wars-ii-the-original-trilogy": {
+    "score": 8,
+    "reviewCount": 186,
+    "sentiment": "Generally favorable"
+  },
+  "lego-jurassic-world": {
+    "score": 7.3,
+    "reviewCount": 286,
+    "sentiment": "Mixed or average"
+  },
+  "lego-marvels-avengers": {
+    "score": 7.2,
+    "reviewCount": 355,
+    "sentiment": "Mixed or average"
+  },
+  "locoroco-2": {
+    "score": 8.3,
+    "reviewCount": 77,
+    "sentiment": "Generally favorable"
+  },
+  "locoroco-midnight-carnival": {
+    "score": 7.5,
+    "reviewCount": 22,
+    "sentiment": "Generally favorable"
+  },
+  "locoroco": {
+    "score": 8.1,
+    "reviewCount": 132,
+    "sentiment": "Generally favorable"
+  },
+  "lonely-mountains-downhill": {
+    "score": 7.2,
+    "reviewCount": 97,
+    "sentiment": "Mixed or average"
+  },
+  "lego-the-hobbit": {
+    "score": 6.9,
+    "reviewCount": 214,
+    "sentiment": "Mixed or average"
+  },
+  "mahjong": {
+    "score": 4.5,
+    "reviewCount": 4,
+    "sentiment": "Generally unfavorable"
+  },
+  "lumines-remastered": {
+    "score": 8,
+    "reviewCount": 42,
+    "sentiment": "Generally favorable"
+  },
+  "matterfall": {
+    "score": 7.4,
+    "reviewCount": 66,
+    "sentiment": "Mixed or average"
+  },
+  "maneater": {
+    "score": 6.6,
+    "reviewCount": 368,
+    "sentiment": "Mixed or average"
+  },
+  "marvels-spider-man-2": {
+    "score": 8.6,
+    "reviewCount": 11731,
+    "sentiment": "Generally favorable"
+  },
+  "marvels-guardians-of-the-galaxy": {
+    "score": 8.4,
+    "reviewCount": 2687,
+    "sentiment": "Generally favorable"
+  },
+  "magicka-2": {
+    "score": 6.4,
+    "reviewCount": 155,
+    "sentiment": "Mixed or average"
+  },
+  "marvels-spider-man": {
+    "score": 8.7,
+    "reviewCount": 12000,
+    "sentiment": "Generally favorable"
+  },
+  "marvels-spider-man-miles-morales": {
+    "score": 7.6,
+    "reviewCount": 6167,
+    "sentiment": "Generally favorable"
+  },
+  "metal-eden": {
+    "score": 7,
+    "reviewCount": 77,
+    "sentiment": "Mixed or average"
+  },
+  "medievil": {
+    "score": 8,
+    "reviewCount": 779,
+    "sentiment": "Generally favorable"
+  },
+  "medievil-resurrection": {
+    "score": 8.1,
+    "reviewCount": 110,
+    "sentiment": "Generally favorable"
+  },
+  "melty-blood-type-lumina": {
+    "score": 7.3,
+    "reviewCount": 29,
+    "sentiment": "Mixed or average"
+  },
+  "mlb-the-show-26": {
+    "score": 2.3,
+    "reviewCount": 103,
+    "sentiment": "Generally unfavorable"
+  },
+  "metro-exodus-enhanced-edition": {
+    "score": 8.2,
+    "reviewCount": 752,
+    "sentiment": "Generally favorable"
+  },
+  "monster-train": {
+    "score": 7.9,
+    "reviewCount": 147,
+    "sentiment": "Generally favorable"
+  },
+  "monster-jam-showdown": {
+    "score": 6.2,
+    "reviewCount": 12,
+    "sentiment": "Mixed or average"
+  },
+  "mighty-morphin-power-rangers-ritas-rewind": {
+    "score": 5.7,
+    "reviewCount": 36,
+    "sentiment": "Mixed or average"
+  },
+  "monster-truck-championship": {
+    "score": 3.8,
+    "reviewCount": 9,
+    "sentiment": "Generally unfavorable"
+  },
+  "monster-hunter-stories-2-wings-of-ruin": {
+    "score": 8.1,
+    "reviewCount": 244,
+    "sentiment": "Generally favorable"
+  },
+  "monster-hunter-stories": {
+    "score": 7.2,
+    "reviewCount": 50,
+    "sentiment": "Mixed or average"
+  },
+  "mr-driller": null,
+  "mordhau": {
+    "score": 7.3,
+    "reviewCount": 328,
+    "sentiment": "Mixed or average"
+  },
+  "no-heroes-allowed": {
+    "score": 6.6,
+    "reviewCount": 11,
+    "sentiment": "Mixed or average"
+  },
+  "myst": {
+    "score": 7,
+    "reviewCount": 41,
+    "sentiment": "Mixed or average"
+  },
+  "observer-system-redux": {
+    "score": 7.2,
+    "reviewCount": 108,
+    "sentiment": "Mixed or average"
+  },
+  "neva": {
+    "score": 8.2,
+    "reviewCount": 338,
+    "sentiment": "Generally favorable"
+  },
+  "no-more-heroes-iii": {
+    "score": 7.9,
+    "reviewCount": 257,
+    "sentiment": "Generally favorable"
+  },
+  "nobunagas-ambition-taishi": {
+    "score": 5.7,
+    "reviewCount": 19,
+    "sentiment": "Mixed or average"
+  },
+  "orcs-must-die-3": {
+    "score": 7,
+    "reviewCount": 88,
+    "sentiment": "Mixed or average"
+  },
+  "oddworld-soulstorm": {
+    "score": 6.3,
+    "reviewCount": 297,
+    "sentiment": "Mixed or average"
+  },
+  "oddworld-abes-oddysee": {
+    "score": 8.7,
+    "reviewCount": 242,
+    "sentiment": "Generally favorable"
+  },
+  "oddworld-abes-exoddus": {
+    "score": 8.4,
+    "reviewCount": 167,
+    "sentiment": "Generally favorable"
+  },
+  "onimusha-dawn-of-dreams": {
+    "score": 8.4,
+    "reviewCount": 115,
+    "sentiment": "Generally favorable"
+  },
+  "overcooked-all-you-can-eat": {
+    "score": 7.3,
+    "reviewCount": 194,
+    "sentiment": "Mixed or average"
+  },
+  "outlast-2": {
+    "score": 6.9,
+    "reviewCount": 1201,
+    "sentiment": "Mixed or average"
+  },
+  "overpass-2": {
+    "score": 5.8,
+    "reviewCount": 4,
+    "sentiment": "Mixed or average"
+  },
+  "overpass": {
+    "score": 3.2,
+    "reviewCount": 21,
+    "sentiment": "Generally unfavorable"
+  },
+  "outcast-second-contact": {
+    "score": 5.9,
+    "reviewCount": 47,
+    "sentiment": "Mixed or average"
+  },
+  "patapon-3": {
+    "score": 7.5,
+    "reviewCount": 76,
+    "sentiment": "Generally favorable"
+  },
+  "persona-5-tactica": {
+    "score": 7.1,
+    "reviewCount": 208,
+    "sentiment": "Mixed or average"
+  },
+  "patapon-2-remastered": {
+    "score": 7.2,
+    "reviewCount": 80,
+    "sentiment": "Mixed or average"
+  },
+  "patapon": {
+    "score": 8.4,
+    "reviewCount": 154,
+    "sentiment": "Generally favorable"
+  },
+  "phogs": {
+    "score": 7,
+    "reviewCount": 21,
+    "sentiment": "Mixed or average"
+  },
+  "pathfinder-wrath-of-the-righteous": {
+    "score": 7.7,
+    "reviewCount": 564,
+    "sentiment": "Generally favorable"
+  },
+  "paw-patrol-on-a-roll": {
+    "score": 5.9,
+    "reviewCount": 20,
+    "sentiment": "Mixed or average"
+  },
+  "pinball-heroes": {
+    "score": 5.7,
+    "reviewCount": 7,
+    "sentiment": "Mixed or average"
+  },
+  "poppy-playtime-chapter-1": {
+    "score": 6.5,
+    "reviewCount": 155,
+    "sentiment": "Mixed or average"
+  },
+  "planet-zoo": {
+    "score": 7.9,
+    "reviewCount": 262,
+    "sentiment": "Generally favorable"
+  },
+  "r4-ridge-racer-type-4": {
+    "score": 8.6,
+    "reviewCount": 102,
+    "sentiment": "Generally favorable"
+  },
+  "psi-ops-the-mindgate-conspiracy": {
+    "score": 7,
+    "reviewCount": 29,
+    "sentiment": "Mixed or average"
+  },
+  "pursuit-force": {
+    "score": 6.8,
+    "reviewCount": 36,
+    "sentiment": "Mixed or average"
+  },
+  "prison-architect": {
+    "score": 8,
+    "reviewCount": 412,
+    "sentiment": "Generally favorable"
+  },
+  "pursuit-force-extreme-justice": {
+    "score": 7.4,
+    "reviewCount": 33,
+    "sentiment": "Mixed or average"
+  },
+  "rainbow-moon": {
+    "score": 7,
+    "reviewCount": 73,
+    "sentiment": "Mixed or average"
+  },
+  "rally-cross": {
+    "score": 6.6,
+    "reviewCount": 5,
+    "sentiment": "Mixed or average"
+  },
+  "raji-an-ancient-epic": {
+    "score": 7.3,
+    "reviewCount": 119,
+    "sentiment": "Mixed or average"
+  },
+  "r-type-dimensions": {
+    "score": 6.4,
+    "reviewCount": 15,
+    "sentiment": "Mixed or average"
+  },
+  "ratchet-and-clank-rift-apart": {
+    "score": 8.5,
+    "reviewCount": 4286,
+    "sentiment": "Generally favorable"
+  },
+  "ratchet-and-clank-size-matters": {
+    "score": 7.6,
+    "reviewCount": 257,
+    "sentiment": "Generally favorable"
+  },
+  "resident-evil-3-nemesis": {
+    "score": 8.7,
+    "reviewCount": 719,
+    "sentiment": "Generally favorable"
+  },
+  "readyset-heroes": {
+    "score": 6.8,
+    "reviewCount": 32,
+    "sentiment": "Mixed or average"
+  },
+  "rebel-galaxy": {
+    "score": 7.5,
+    "reviewCount": 140,
+    "sentiment": "Generally favorable"
+  },
+  "resogun": {
+    "score": 7.8,
+    "reviewCount": 1046,
+    "sentiment": "Generally favorable"
+  },
+  "red-dead-redemption-2": {
+    "score": 9,
+    "reviewCount": 37168,
+    "sentiment": "Universal acclaim"
+  },
+  "resident-evil-directors-cut": {
+    "score": 8.1,
+    "reviewCount": 9,
+    "sentiment": "Generally favorable"
+  },
+  "resistance-retribution": {
+    "score": 7.9,
+    "reviewCount": 114,
+    "sentiment": "Generally favorable"
+  },
+  "return-to-monkey-island": {
+    "score": 7.5,
+    "reviewCount": 379,
+    "sentiment": "Generally favorable"
+  },
+  "returnal": {
+    "score": 7.4,
+    "reviewCount": 4748,
+    "sentiment": "Mixed or average"
+  },
+  "ridge-racer-1995": {
+    "score": 8.8,
+    "reviewCount": 5,
+    "sentiment": "Generally favorable"
+  },
+  "ridge-racer-2": {
+    "score": 8.3,
+    "reviewCount": 4,
+    "sentiment": "Generally favorable"
+  },
+  "roguebook": {
+    "score": 7,
+    "reviewCount": 42,
+    "sentiment": "Mixed or average"
+  },
+  "rise-of-the-tomb-raider-20-year-celebration": {
+    "score": 8,
+    "reviewCount": 2728,
+    "sentiment": "Generally favorable"
+  },
+  "rise-of-the-ronin": {
+    "score": 7.9,
+    "reviewCount": 1709,
+    "sentiment": "Generally favorable"
+  },
+  "riven": {
+    "score": 7.9,
+    "reviewCount": 74,
+    "sentiment": "Generally favorable"
+  },
+  "rugby-25": {
+    "score": 7.1,
+    "reviewCount": 32,
+    "sentiment": "Mixed or average"
+  },
+  "rogue-lords": {
+    "score": 4.8,
+    "reviewCount": 20,
+    "sentiment": "Generally unfavorable"
+  },
+  "sakuna-of-rice-and-ruin": {
+    "score": 8.3,
+    "reviewCount": 104,
+    "sentiment": "Generally favorable"
+  },
+  "secret-neighbor": {
+    "score": 6.6,
+    "reviewCount": 17,
+    "sentiment": "Mixed or average"
+  },
+  "sackboy-a-big-adventure": {
+    "score": 8.2,
+    "reviewCount": 872,
+    "sentiment": "Generally favorable"
+  },
+  "salt-and-sacrifice": {
+    "score": 4.7,
+    "reviewCount": 155,
+    "sentiment": "Generally unfavorable"
+  },
+  "rune-factory-4-special": {
+    "score": 8.3,
+    "reviewCount": 93,
+    "sentiment": "Generally favorable"
+  },
+  "secret-agent-clank": {
+    "score": 7,
+    "reviewCount": 90,
+    "sentiment": "Mixed or average"
+  },
+  "samurai-warriors-5": {
+    "score": 7.3,
+    "reviewCount": 70,
+    "sentiment": "Mixed or average"
+  },
+  "season-a-letter-to-the-future": {
+    "score": 7.4,
+    "reviewCount": 54,
+    "sentiment": "Mixed or average"
+  },
+  "stalker-legends-of-the-zone-trilogy-enhanced": {
+    "score": 5.5,
+    "reviewCount": 31,
+    "sentiment": "Mixed or average"
+  },
+  "session-skate-sim": {
+    "score": 6.1,
+    "reviewCount": 55,
+    "sentiment": "Mixed or average"
+  },
+  "shadow-of-the-beast": {
+    "score": 7.3,
+    "reviewCount": 175,
+    "sentiment": "Mixed or average"
+  },
+  "silent-hill-2": {
+    "score": 9,
+    "reviewCount": 5210,
+    "sentiment": "Universal acclaim"
+  },
+  "sniper-elite-5": {
+    "score": 6.6,
+    "reviewCount": 314,
+    "sentiment": "Mixed or average"
+  },
+  "skate-story": {
+    "score": 7,
+    "reviewCount": 61,
+    "sentiment": "Mixed or average"
+  },
+  "shadow-of-the-colossus": {
+    "score": 7.9,
+    "reviewCount": 3687,
+    "sentiment": "Generally favorable"
+  },
+  "shadow-of-the-tomb-raider": {
+    "score": 7.3,
+    "reviewCount": 2569,
+    "sentiment": "Mixed or average"
+  },
+  "sly-3-honor-among-thieves": {
+    "score": 8.8,
+    "reviewCount": 321,
+    "sentiment": "Generally favorable"
+  },
+  "skygunner": {
+    "score": 8.1,
+    "reviewCount": 7,
+    "sentiment": "Generally favorable"
+  },
+  "sly-2-band-of-thieves": {
+    "score": 8.9,
+    "reviewCount": 479,
+    "sentiment": "Generally favorable"
+  },
+  "snow-bros-wonderland": null,
+  "sniper-elite-resistance": {
+    "score": 5.8,
+    "reviewCount": 166,
+    "sentiment": "Mixed or average"
+  },
+  "somerville": {
+    "score": 5.9,
+    "reviewCount": 156,
+    "sentiment": "Mixed or average"
+  },
+  "space-junkies": {
+    "score": 4.1,
+    "reviewCount": 7,
+    "sentiment": "Generally unfavorable"
+  },
+  "space-engineers": {
+    "score": 6,
+    "reviewCount": 43,
+    "sentiment": "Mixed or average"
+  },
+  "spelunker-hd-deluxe": null,
+  "sonic-x-shadow-generations": {
+    "score": 8.8,
+    "reviewCount": 1203,
+    "sentiment": "Generally favorable"
+  },
+  "soulcalibur-broken-destiny": {
+    "score": 7.2,
+    "reviewCount": 63,
+    "sentiment": "Mixed or average"
+  },
+  "star-wars-episode-i-the-phantom-menace": {
+    "score": 7.3,
+    "reviewCount": 44,
+    "sentiment": "Mixed or average"
+  },
+  "star-wars-the-clone-wars": {
+    "score": 6.8,
+    "reviewCount": 30,
+    "sentiment": "Mixed or average"
+  },
+  "star-wars-demolition": {
+    "score": 6.1,
+    "reviewCount": 9,
+    "sentiment": "Mixed or average"
+  },
+  "star-wars-rebel-assault-ii-the-hidden-empire": null,
+  "star-wars-jedi-starfighter": {
+    "score": 6.9,
+    "reviewCount": 20,
+    "sentiment": "Mixed or average"
+  },
+  "star-wars-bounty-hunter": {
+    "score": 7.7,
+    "reviewCount": 62,
+    "sentiment": "Generally favorable"
+  },
+  "stellaris-console-edition": null,
+  "star-wars-racer-revenge": {
+    "score": 6.6,
+    "reviewCount": 28,
+    "sentiment": "Mixed or average"
+  },
+  "still-wakes-the-deep": {
+    "score": 7.5,
+    "reviewCount": 537,
+    "sentiment": "Generally favorable"
+  },
+  "story-of-seasons-friends-of-mineral-town": {
+    "score": 7.8,
+    "reviewCount": 91,
+    "sentiment": "Generally favorable"
+  },
+  "super-stardust-portable": {
+    "score": 5.6,
+    "reviewCount": 14,
+    "sentiment": "Mixed or average"
+  },
+  "story-of-seasons-pioneers-of-olive-town": {
+    "score": 6.9,
+    "reviewCount": 98,
+    "sentiment": "Mixed or average"
+  },
+  "story-of-seasons-a-wonderful-life": {
+    "score": 7,
+    "reviewCount": 45,
+    "sentiment": "Mixed or average"
+  },
+  "surviving-the-aftermath": {
+    "score": 6,
+    "reviewCount": 26,
+    "sentiment": "Mixed or average"
+  },
+  "space-hulk-deathwing": {
+    "score": 5.6,
+    "reviewCount": 139,
+    "sentiment": "Mixed or average"
+  },
+  "syberia-the-world-before": {
+    "score": 8.3,
+    "reviewCount": 216,
+    "sentiment": "Generally favorable"
+  },
+  "syphon-filter": {
+    "score": 8.4,
+    "reviewCount": 293,
+    "sentiment": "Generally favorable"
+  },
+  "tearaway-unfolded": {
+    "score": 7.9,
+    "reviewCount": 336,
+    "sentiment": "Generally favorable"
+  },
+  "tekken-3": {
+    "score": 8.8,
+    "reviewCount": 1402,
+    "sentiment": "Generally favorable"
+  },
+  "sword-of-the-sea": {
+    "score": 8.3,
+    "reviewCount": 370,
+    "sentiment": "Generally favorable"
+  },
+  "syphon-filter-2": {
+    "score": 8,
+    "reviewCount": 25,
+    "sentiment": "Generally favorable"
+  },
+  "tails-noir": {
+    "score": 6.7,
+    "reviewCount": 85,
+    "sentiment": "Mixed or average"
+  },
+  "syphon-filter-dark-mirror": {
+    "score": 7.6,
+    "reviewCount": 94,
+    "sentiment": "Generally favorable"
+  },
+  "syphon-filter-3": {
+    "score": 8.3,
+    "reviewCount": 109,
+    "sentiment": "Generally favorable"
+  },
+  "tekken": {
+    "score": 6,
+    "reviewCount": 4,
+    "sentiment": "Mixed or average"
+  },
+  "syphon-filter-logans-shadow": {
+    "score": 7.8,
+    "reviewCount": 81,
+    "sentiment": "Generally favorable"
+  },
+  "tekken-6": {
+    "score": 7.5,
+    "reviewCount": 362,
+    "sentiment": "Generally favorable"
+  },
+  "test-drive-unlimited-solar-crown": {
+    "score": 3.9,
+    "reviewCount": 162,
+    "sentiment": "Generally unfavorable"
+  },
+  "tetris-effect-connected": {
+    "score": 7.5,
+    "reviewCount": 392,
+    "sentiment": "Generally favorable"
+  },
+  "tennis-world-tour-2": {
+    "score": 5.7,
+    "reviewCount": 104,
+    "sentiment": "Mixed or average"
+  },
+  "the-exit-8": {
+    "score": 6.8,
+    "reviewCount": 75,
+    "sentiment": "Mixed or average"
+  },
+  "the-invincible": {
+    "score": 7.8,
+    "reviewCount": 284,
+    "sentiment": "Generally favorable"
+  },
+  "the-gardens-between": {
+    "score": 7.1,
+    "reviewCount": 77,
+    "sentiment": "Mixed or average"
+  },
+  "the-last-of-us-part-ii-remastered": {
+    "score": 7.6,
+    "reviewCount": 5030,
+    "sentiment": "Generally favorable"
+  },
+  "the-last-of-us-remastered": {
+    "score": 9.2,
+    "reviewCount": 22590,
+    "sentiment": "Universal acclaim"
+  },
+  "the-last-of-us-part-i": {
+    "score": 8.2,
+    "reviewCount": 6738,
+    "sentiment": "Generally favorable"
+  },
+  "the-last-guardian": {
+    "score": 7.8,
+    "reviewCount": 2486,
+    "sentiment": "Generally favorable"
+  },
+  "the-lego-movie-videogame": {
+    "score": 6.9,
+    "reviewCount": 240,
+    "sentiment": "Mixed or average"
+  },
+  "the-legend-of-dragoon": {
+    "score": 8.7,
+    "reviewCount": 427,
+    "sentiment": "Generally favorable"
+  },
+  "thank-goodness-youre-here": {
+    "score": 7.6,
+    "reviewCount": 266,
+    "sentiment": "Generally favorable"
+  },
+  "the-pedestrian": {
+    "score": 7.5,
+    "reviewCount": 134,
+    "sentiment": "Generally favorable"
+  },
+  "the-lord-of-the-rings-return-to-moria": {
+    "score": 6.8,
+    "reviewCount": 202,
+    "sentiment": "Mixed or average"
+  },
+  "the-surge": {
+    "score": 6.6,
+    "reviewCount": 448,
+    "sentiment": "Mixed or average"
+  },
+  "thrillville": {
+    "score": 5.4,
+    "reviewCount": 28,
+    "sentiment": "Mixed or average"
+  },
+  "this-war-of-mine-final-cut": {
+    "score": 7.5,
+    "reviewCount": 124,
+    "sentiment": "Generally favorable"
+  },
+  "thief": {
+    "score": 6.2,
+    "reviewCount": 930,
+    "sentiment": "Mixed or average"
+  },
+  "the-technomancer": {
+    "score": 6.4,
+    "reviewCount": 167,
+    "sentiment": "Mixed or average"
+  },
+  "the-surge-2": {
+    "score": 7,
+    "reviewCount": 255,
+    "sentiment": "Mixed or average"
+  },
+  "time-crisis": {
+    "score": 7.3,
+    "reviewCount": 10,
+    "sentiment": "Mixed or average"
+  },
+  "thymesia": {
+    "score": 6.4,
+    "reviewCount": 193,
+    "sentiment": "Mixed or average"
+  },
+  "timesplitters": {
+    "score": 7.2,
+    "reviewCount": 92,
+    "sentiment": "Mixed or average"
+  },
+  "tin-hearts": {
+    "score": 6.9,
+    "reviewCount": 18,
+    "sentiment": "Mixed or average"
+  },
+  "thrillville-off-the-rails": {
+    "score": 5.8,
+    "reviewCount": 29,
+    "sentiment": "Mixed or average"
+  },
+  "twisted-metal-2012": {
+    "score": 7.8,
+    "reviewCount": 323,
+    "sentiment": "Generally favorable"
+  },
+  "tomb-raider": {
+    "score": 8.2,
+    "reviewCount": 2577,
+    "sentiment": "Generally favorable"
+  },
+  "twisted-metal-iii": {
+    "score": 6.2,
+    "reviewCount": 18,
+    "sentiment": "Mixed or average"
+  },
+  "twisted-metal-4": {
+    "score": 7.3,
+    "reviewCount": 18,
+    "sentiment": "Mixed or average"
+  },
+  "two-point-hospital-jumbo-edition": {
+    "score": 7,
+    "reviewCount": 20,
+    "sentiment": "Mixed or average"
+  },
+  "tomb-raider-legend": {
+    "score": 8,
+    "reviewCount": 232,
+    "sentiment": "Generally favorable"
+  },
+  "two-point-museum": {
+    "score": 8,
+    "reviewCount": 81,
+    "sentiment": "Generally favorable"
+  },
+  "umamusume-pretty-derby-party-dash": {
+    "score": 6.7,
+    "reviewCount": 12,
+    "sentiment": "Mixed or average"
+  },
+  "under-the-waves": {
+    "score": 7.2,
+    "reviewCount": 114,
+    "sentiment": "Mixed or average"
+  },
+  "two-point-campus": {
+    "score": 7.2,
+    "reviewCount": 93,
+    "sentiment": "Mixed or average"
+  },
+  "until-dawn": {
+    "score": 6.9,
+    "reviewCount": 663,
+    "sentiment": "Mixed or average"
+  },
+  "uncharted-the-nathan-drake-collection": {
+    "score": 8.6,
+    "reviewCount": 4199,
+    "sentiment": "Generally favorable"
+  },
+  "uncharted-4-a-thiefs-end": {
+    "score": 8.7,
+    "reviewCount": 18160,
+    "sentiment": "Generally favorable"
+  },
+  "untitled-goose-game": {
+    "score": 7.7,
+    "reviewCount": 436,
+    "sentiment": "Generally favorable"
+  },
+  "vampyr": {
+    "score": 6.8,
+    "reviewCount": 1048,
+    "sentiment": "Mixed or average"
+  },
+  "venba": {
+    "score": 6.5,
+    "reviewCount": 132,
+    "sentiment": "Mixed or average"
+  },
+  "v-rising": {
+    "score": 7,
+    "reviewCount": 299,
+    "sentiment": "Mixed or average"
+  },
+  "war-of-the-monsters": {
+    "score": 7.9,
+    "reviewCount": 53,
+    "sentiment": "Generally favorable"
+  },
+  "warhammer-chaosbane": {
+    "score": 5.2,
+    "reviewCount": 149,
+    "sentiment": "Mixed or average"
+  },
+  "werewolf-the-apocalypse-earthblood": {
+    "score": 4.3,
+    "reviewCount": 86,
+    "sentiment": "Generally unfavorable"
+  },
+  "warriors-abyss": {
+    "score": 7.7,
+    "reviewCount": 41,
+    "sentiment": "Generally favorable"
+  },
+  "werewolves-within": {
+    "score": 6.6,
+    "reviewCount": 30,
+    "sentiment": "Mixed or average"
+  },
+  "west-of-dead": {
+    "score": 6.1,
+    "reviewCount": 53,
+    "sentiment": "Mixed or average"
+  },
+  "wild-arms": {
+    "score": 9.1,
+    "reviewCount": 18,
+    "sentiment": "Universal acclaim"
+  },
+  "wild-arms-4": {
+    "score": 6.7,
+    "reviewCount": 25,
+    "sentiment": "Mixed or average"
+  },
+  "wipeout-omega-collection": {
+    "score": 8.2,
+    "reviewCount": 341,
+    "sentiment": "Generally favorable"
+  },
+  "worms-pinball": null,
+  "worms": {
+    "score": 7.8,
+    "reviewCount": 29,
+    "sentiment": "Generally favorable"
+  },
+  "wizard-with-a-gun": {
+    "score": 5.5,
+    "reviewCount": 22,
+    "sentiment": "Mixed or average"
+  },
+  "world-war-z": {
+    "score": 6.3,
+    "reviewCount": 511,
+    "sentiment": "Mixed or average"
+  },
+  "worms-armageddon-anniversary-edition": {
+    "score": 6.4,
+    "reviewCount": 8,
+    "sentiment": "Mixed or average"
+  },
+  "wild-arms-2": {
+    "score": 8.5,
+    "reviewCount": 6,
+    "sentiment": "Generally favorable"
+  },
+  "worms-world-party": {
+    "score": 8.5,
+    "reviewCount": 32,
+    "sentiment": "Generally favorable"
+  },
+  "ys-viii-lacrimosa-of-dana": {
+    "score": 8.6,
+    "reviewCount": 403,
+    "sentiment": "Generally favorable"
+  },
+  "xcom-2": {
+    "score": 7.5,
+    "reviewCount": 1979,
+    "sentiment": "Generally favorable"
+  },
+  "you-suck-at-parking": {
+    "score": 5.5,
+    "reviewCount": 27,
+    "sentiment": "Mixed or average"
+  },
+  "yakuza-like-a-dragon": {
+    "score": 8.2,
+    "reviewCount": 1288,
+    "sentiment": "Generally favorable"
+  },
+  "wrc-generations": {
+    "score": 7.1,
+    "reviewCount": 65,
+    "sentiment": "Mixed or average"
   }
 }
