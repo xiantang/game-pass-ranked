@@ -1,0 +1,43 @@
+# Weekly refresh of both catalogs and their Metacritic scores. The site is served
+# straight from this branch by GitHub Pages, so committing data/ republishes it.
+# If any fetch fails, `npm run build` fails before the commit step and the live
+# site keeps the previous data.
+name: Refresh data
+
+on:
+  schedule:
+    - cron: '0 2 * * 1' # Mondays 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # No dependencies to install: the scripts only use Node's built-in fetch.
+      - run: npm run build
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): weekly refresh"
+          git push
