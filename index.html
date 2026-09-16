@@ -176,7 +176,7 @@
         <option value="2023" data-i18n="since" data-year="2023"></option>
         <option value="2020" data-i18n="since" data-year="2020"></option>
         <option value="2015" data-i18n="since" data-year="2015"></option>
-        <option value="2010" data-i18n="since" data-year="2010"></option>
+        <option value="2010" data-i18n="since" data-year="2010" selected></option>
       </select>
       <label class="toggle"><input type="checkbox" id="unrated"> <span data-i18n="unrated"></span></label>
       <div class="seg" id="view">
@@ -280,6 +280,8 @@ const pickLang = () => {
 
 let t = I18N.zh;
 const state = { q: '', sort: 'score-desc', playOn: [], min: 0, minUser: 0, since: 0, unrated: false, view: 'grid', lang: 'zh', service: 'xgp', tier: 0 };
+// Default to 2010 onward: older titles are a pick-"any year" opt-in, not the first view.
+state.since = 2010;
 
 const SERVICE_DATA = { xgp: 'data/games.json', psplus: 'data/psplus-games.json' };
 const datasets = {};

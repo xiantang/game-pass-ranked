@@ -168,6 +168,8 @@ not the store's. The store date is frequently the re-release or Game Pass listin
 1997 game), which would make an age filter useless. The store date is the fallback for
 titles with no Metacritic match.
 
+The page opens filtered to **2010 or newer**; pick *Any year* to see older games too.
+
 Unmatched or unscored titles still appear in the page under **Include unrated**.
 Roughly 85% of SKUs resolve to a score; the rest are mostly Game Preview titles and
 brand-new releases Metacritic has not reviewed.
