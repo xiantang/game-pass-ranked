@@ -114,6 +114,10 @@ that includes the game. A game in several lists (the Ubisoft Classics are all in
 Catalog too) keeps its lowest tier. Monthly games rotate, so Essential is only ever a
 handful of titles.
 
+The **PS5** device filter includes PS4 games, since the PS5 plays them (and the emulated
+classics) through backward compatibility; **PS5 native** shows only games with a PS5 version.
+Cards still carry the store's own `PS5` / `PS4` tags.
+
 Store titles add PlayStation noise (`PS4 & PS5`, `PlayStation®Hits`, `[PS4 & PS5]`), which
 the matcher strips as well. Both services share the Metacritic caches, so a game on both
 is only looked up once.

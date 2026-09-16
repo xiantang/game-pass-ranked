@@ -146,8 +146,9 @@
         <label data-service="xgp"><input type="checkbox" value="pc"> <span data-i18n="devPc"></span></label>
         <label data-service="xgp" data-i18n-title="handheldHint"><input type="checkbox" value="handheld"> <span data-i18n="devHandheld"></span></label>
         <label data-service="xgp"><input type="checkbox" value="playAnywhere"> <span data-i18n="devXpa"></span></label>
-        <label data-service="psplus"><input type="checkbox" value="ps5"> PS5</label>
-        <label data-service="psplus"><input type="checkbox" value="ps4"> PS4</label>
+        <label data-service="psplus"><input type="checkbox" value="ps5"> <span data-i18n="devPs5"></span></label>
+        <label data-service="psplus"><input type="checkbox" value="ps5Native"> <span data-i18n="devPs5Native"></span></label>
+        <label data-service="psplus"><input type="checkbox" value="ps4"> <span data-i18n="devPs4"></span></label>
       </div>
       <select id="tier" data-service="psplus">
         <option value="0" data-i18n="tierAny"></option>
@@ -215,6 +216,7 @@ const I18N = {
     thUser: '玩家',
     playOn: '可玩平台',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
+    devPs5: 'PS5（含兼容 PS4）', devPs5Native: 'PS5 原生', devPs4: 'PS4',
     devHandheld: '掌机', devXpa: 'Play Anywhere',
     handheldHint: '微软官网的「掌机」筛选直接复用 PC 目录，结果与 Windows PC 相同',
     anyScore: '不限评分', score90: '90+ · 普遍赞誉', score75: '75+ · 好评',
@@ -250,6 +252,7 @@ const I18N = {
     thUser: 'Users',
     playOn: 'Play on',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
+    devPs5: 'PS5 (incl. PS4 games)', devPs5Native: 'PS5 native', devPs4: 'PS4',
     devHandheld: 'Handhelds', devXpa: 'Play Anywhere',
     handheldHint: "Xbox serves the Handhelds facet from the PC catalog, so it matches Windows PC",
     anyScore: 'Any score', score90: '90+ · Universal acclaim', score75: '75+ · Generally favorable',
@@ -289,7 +292,10 @@ const PLAY_ON = {
   pc: (g) => g.platforms.includes('pc'),
   handheld: (g) => g.platforms.includes('pc'),
   playAnywhere: (g) => g.playAnywhere,
-  ps5: (g) => g.ps5,
+  // PS5 plays PS4 games (and the emulated classics), so "PS5" means playable on
+  // one; ps5Native is for people who only want the native PS5 versions.
+  ps5: (g) => g.ps5 || g.ps4,
+  ps5Native: (g) => g.ps5,
   ps4: (g) => g.ps4,
 };
 let games = [];
