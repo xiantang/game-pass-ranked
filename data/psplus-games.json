@@ -2,7 +2,7 @@
   "service": "psplus",
   "market": "SG",
   "fetchedAt": "2026-09-16T14:20:01.890Z",
-  "scoredAt": "2026-09-16T14:20:01.932Z",
+  "scoredAt": "2026-09-16T14:31:24.071Z",
   "total": 519,
   "scored": 440,
   "games": [
@@ -79,7 +79,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "寂静之地：前方之路",
       "metacritic": {
         "score": 67,
         "title": "A Quiet Place: The Road Ahead",
@@ -93,7 +93,7 @@
         "userScore": 6.5,
         "userReviewCount": 223
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005843",
@@ -361,7 +361,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《纪元 1800》主机版 - 标准版",
+      "titleZh": "纪元 1800 主机版",
       "metacritic": {
         "score": 83,
         "title": "Anno 1800 Console Edition",
@@ -829,7 +829,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：奥德赛 - 数码标准版",
+      "titleZh": "刺客信条：奥德赛 - 数码",
       "metacritic": {
         "score": 83,
         "title": "Assassin's Creed Odyssey",
@@ -863,7 +863,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：起源 - 数字标准版",
+      "titleZh": "刺客信条：起源",
       "metacritic": {
         "score": 81,
         "title": "Assassin's Creed Origins",
@@ -897,7 +897,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：叛变 重制版 - 数字标准版",
+      "titleZh": "刺客信条：叛变 重制版",
       "metacritic": {
         "score": 72,
         "title": "Assassin's Creed Rogue",
@@ -968,7 +968,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：大革命 - 数字标准版",
+      "titleZh": "刺客信条：大革命",
       "metacritic": {
         "score": 72,
         "title": "Assassin's Creed Unity",
@@ -1002,7 +1002,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：英灵殿- 数字标准版",
+      "titleZh": "刺客信条：英灵殿",
       "metacritic": {
         "score": 80,
         "title": "Assassin's Creed Valhalla",
@@ -1058,7 +1058,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条 III 重制版- 数码标准版",
+      "titleZh": "刺客信条 III 重制版 - 数码",
       "metacritic": {
         "score": 72,
         "title": "Assassin's Creed III Remastered",
@@ -1093,7 +1093,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客教条4：黑旗 - 数字标准版",
+      "titleZh": "刺客教条4：黑旗",
       "metacritic": {
         "score": 88,
         "title": "Assassin's Creed IV: Black Flag",
@@ -1355,7 +1355,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "喋血复仇：标准版",
+      "titleZh": "喋血复仇：",
       "metacritic": {
         "score": 77,
         "title": "Back 4 Blood",
@@ -1727,7 +1727,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《烈焰之刃》 Blades of Fire",
+      "titleZh": "烈焰之刃",
       "metacritic": {
         "score": 71,
         "title": "Blades of Fire",
@@ -2095,7 +2095,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "猫咪斗恶龙 Cat Quest",
+      "titleZh": "猫咪斗恶龙",
       "metacritic": {
         "score": 74,
         "title": "Cat Quest",
@@ -2289,7 +2289,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "城市：天际线",
       "metacritic": {
         "score": 85,
         "title": "Cities: Skylines",
@@ -2303,7 +2303,7 @@
         "userScore": 8.6,
         "userReviewCount": 2693
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011288",
@@ -2968,7 +2968,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Days Gone 一般版",
+      "titleZh": "一般版",
       "metacritic": {
         "score": 71,
         "title": "Days Gone",
@@ -3104,7 +3104,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Death end re;Quest 死亡终局 轮回试炼",
+      "titleZh": "死亡终局 轮回试炼",
       "metacritic": {
         "score": 71,
         "title": "Death end re;Quest",
@@ -3137,7 +3137,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "DEATH STRANDING 数字标准版",
+      "titleZh": null,
       "metacritic": {
         "score": 85,
         "title": "Death Stranding: Director's Cut",
@@ -3151,7 +3151,7 @@
         "userScore": 8.1,
         "userReviewCount": 2653
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "234692",
@@ -3239,7 +3239,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "赏金奇兵III",
       "metacritic": {
         "score": 86,
         "title": "Desperados III",
@@ -3253,7 +3253,7 @@
         "userScore": 8.2,
         "userReviewCount": 839
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "221852",
@@ -3306,7 +3306,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Detroit: Become Human 一般版",
+      "titleZh": "一般版",
       "metacritic": {
         "score": 78,
         "title": "Detroit: Become Human",
@@ -3663,7 +3663,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "毁灭战士",
       "metacritic": {
         "score": 79,
         "title": "DOOM",
@@ -3677,7 +3677,7 @@
         "userScore": 8.2,
         "userReviewCount": 1690
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234453",
@@ -3799,7 +3799,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "毁灭战士II",
       "metacritic": {
         "score": 77,
         "title": "DOOM II",
@@ -3813,7 +3813,7 @@
         "userScore": 7.9,
         "userReviewCount": 247
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232591",
@@ -4231,7 +4231,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "echochrome 无限回廊",
+      "titleZh": "无限回廊",
       "metacritic": {
         "score": 81,
         "title": "echochrome",
@@ -4297,7 +4297,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "echoshift 时限回廊",
+      "titleZh": "时限回廊",
       "metacritic": {
         "score": 75,
         "title": "echoshift",
@@ -4463,7 +4463,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Entwined 制品版",
+      "titleZh": "制品版",
       "metacritic": {
         "score": 59,
         "title": "Entwined",
@@ -4684,7 +4684,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "辐射4",
       "metacritic": {
         "score": 87,
         "title": "Fallout 4",
@@ -4698,7 +4698,7 @@
         "userScore": 7.1,
         "userReviewCount": 8031
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232248",
@@ -4786,7 +4786,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "极地战嚎 4 - 数字标准版",
+      "titleZh": "极地战嚎 4",
       "metacritic": {
         "score": 85,
         "title": "Far Cry 4",
@@ -4858,7 +4858,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "极地战嚎：破晓- 数码标准版",
+      "titleZh": "极地战嚎：破晓 - 数码",
       "metacritic": {
         "score": 71,
         "title": "Far Cry New Dawn",
@@ -5227,7 +5227,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《燧石枪：黎明之围》Flintlock: The Siege of Dawn",
+      "titleZh": "燧石枪：黎明之围",
       "metacritic": {
         "score": 70,
         "title": "Flintlock: The Siege of Dawn",
@@ -5361,9 +5361,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Siren - 死魂曲",
+      "titleZh": "死魂曲",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008137",
@@ -5403,7 +5403,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Ghost of Tsushima 导演剪辑版",
+      "titleZh": "对马岛之魂 导演剪辑版",
       "metacritic": {
         "score": 87,
         "title": "Ghost of Tsushima: Director's Cut",
@@ -5417,7 +5417,7 @@
         "userScore": 8.4,
         "userReviewCount": 6122
       },
-      "titleZhSource": "store"
+      "titleZhSource": "override"
     },
     {
       "productId": "10010578",
@@ -5523,7 +5523,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "战神：诸神黄昏",
       "metacritic": {
         "score": 94,
         "title": "God of War: Ragnarok",
@@ -5537,7 +5537,7 @@
         "userScore": 8.3,
         "userReviewCount": 17115
       },
-      "titleZhSource": null
+      "titleZhSource": "override"
     },
     {
       "productId": "228618",
@@ -5816,7 +5816,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "GRAVITY RUSH 2 重力异想世界完结篇",
+      "titleZh": "重力异想世界完结篇",
       "metacritic": {
         "score": 80,
         "title": "Gravity Rush 2",
@@ -6039,7 +6039,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Hell is Us 地狱即我们",
+      "titleZh": "地狱即我们",
       "metacritic": {
         "score": 77,
         "title": "Hell is Us",
@@ -6162,7 +6162,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "霍格沃茨之遗PS5版",
+      "titleZh": "霍格沃茨之遗",
       "metacritic": {
         "score": 84,
         "title": "Hogwarts Legacy",
@@ -6197,7 +6197,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "空洞骑士",
       "metacritic": {
         "score": 90,
         "title": "Hollow Knight",
@@ -6211,7 +6211,7 @@
         "userScore": 9,
         "userReviewCount": 6335
       },
-      "titleZhSource": null
+      "titleZhSource": "override"
     },
     {
       "productId": "221727",
@@ -6231,7 +6231,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "地平线 零之曙光重制版",
+      "titleZh": "地平线 零之曙光 重制版",
       "metacritic": {
         "score": 85,
         "title": "Horizon Zero Dawn Remastered",
@@ -6436,7 +6436,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "渡神纪 芬尼斯崛起- 数字标准版",
+      "titleZh": "渡神纪 芬尼斯崛起",
       "metacritic": {
         "score": 81,
         "title": "Immortals Fenyx Rising",
@@ -6536,7 +6536,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "inFAMOUS First Light 制品版",
+      "titleZh": "恶名昭彰：首道曙光",
       "metacritic": {
         "score": 73,
         "title": "inFamous: First Light",
@@ -6550,7 +6550,7 @@
         "userScore": 7.3,
         "userReviewCount": 1034
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227147",
@@ -6846,9 +6846,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "跳闪！ 阿罗哈男爵惊恐大作战之卷",
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002577",
@@ -7127,7 +7127,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "KNACK 制品版",
+      "titleZh": "制品版",
       "metacritic": {
         "score": 54,
         "title": "Knack",
@@ -7236,7 +7236,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "传奇小钓手- 数码版",
+      "titleZh": "传奇小钓手 - 数码版",
       "metacritic": null,
       "titleZhSource": "store"
     },
@@ -7358,7 +7358,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "LEGO DC 超级反派",
+      "titleZh": "乐高DC 超级反派",
       "metacritic": {
         "score": 74,
         "title": "LEGO DC Super-Villains",
@@ -7372,7 +7372,7 @@
         "userScore": 7.4,
         "userReviewCount": 270
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007722",
@@ -7425,7 +7425,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "侏罗纪世界乐高游戏",
       "metacritic": {
         "score": 70,
         "title": "LEGO Jurassic World",
@@ -7439,7 +7439,7 @@
         "userScore": 7.3,
         "userReviewCount": 286
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202494",
@@ -7459,7 +7459,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "LEGO 漫威复仇者联盟",
+      "titleZh": "乐高：复仇者联盟",
       "metacritic": {
         "score": 71,
         "title": "LEGO Marvel's Avengers",
@@ -7473,7 +7473,7 @@
         "userScore": 7.2,
         "userReviewCount": 355
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "228782",
@@ -7917,7 +7917,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《漫威银河护卫队》PS4和PS5",
+      "titleZh": "漫威银河护卫队 PS4和",
       "metacritic": {
         "score": 80,
         "title": "Marvel's Guardians of the Galaxy",
@@ -7950,7 +7950,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "漫威蜘蛛侠2",
       "metacritic": {
         "score": 90,
         "title": "Marvel's Spider-Man 2",
@@ -7964,7 +7964,7 @@
         "userScore": 8.6,
         "userReviewCount": 11731
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000762",
@@ -8349,7 +8349,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Metro Redux 制品版",
+      "titleZh": "制品版",
       "metacritic": {
         "score": 83,
         "title": "Metro Redux",
@@ -8415,7 +8415,7 @@
       "lists": [
         "monthly"
       ],
-      "titleZh": "《MLB The Show 26》Jump Start同捆包",
+      "titleZh": "Jump Start同捆包",
       "metacritic": {
         "score": 73,
         "title": "MLB The Show 26",
@@ -8503,7 +8503,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Monster Hunter Stories 2: 毁灭之翼",
+      "titleZh": "怪物猎人物语2 ～毁灭之翼～",
       "metacritic": {
         "score": 81,
         "title": "Monster Hunter Stories 2: Wings of Ruin",
@@ -8517,7 +8517,7 @@
         "userScore": 8.1,
         "userReviewCount": 244
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008248",
@@ -9434,7 +9434,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "超自然车旅 Pacific Drive",
+      "titleZh": "超自然车旅",
       "metacritic": {
         "score": 79,
         "title": "Pacific Drive",
@@ -9781,7 +9781,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "动物园之星主机版",
+      "titleZh": "动物园之星 主机版",
       "metacritic": {
         "score": 81,
         "title": "Planet Zoo",
@@ -10379,7 +10379,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "雷曼：传奇 - 数码标准版",
+      "titleZh": "雷曼：传奇 - 数码",
       "metacritic": {
         "score": 92,
         "title": "Rayman Legends",
@@ -10606,7 +10606,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "生化危机 村庄",
       "metacritic": {
         "score": 84,
         "title": "Resident Evil Village",
@@ -10620,7 +10620,7 @@
         "userScore": 8.4,
         "userReviewCount": 5193
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004653",
@@ -10672,7 +10672,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "RESOGUN 制品版",
+      "titleZh": "制品版",
       "metacritic": {
         "score": 84,
         "title": "Resogun",
@@ -10738,7 +10738,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "死亡回归",
       "metacritic": {
         "score": 86,
         "title": "Returnal",
@@ -10752,7 +10752,7 @@
         "userScore": 7.4,
         "userReviewCount": 4748
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000459",
@@ -11115,7 +11115,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野",
+      "titleZh": "符文世界：龙之荒野",
       "metacritic": null,
       "titleZhSource": "store"
     },
@@ -11485,7 +11485,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "SHADOW OF THE COLOSSUS 汪达与巨像",
+      "titleZh": "汪达与巨像",
       "metacritic": {
         "score": 91,
         "title": "Shadow of the Colossus",
@@ -12028,7 +12028,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "South Park: The Fractured but Whole - 数码一般版",
+      "titleZh": "数码一般版",
       "metacritic": {
         "score": 79,
         "title": "South Park: The Fractured But Whole",
@@ -12131,7 +12131,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "星际斗阵 VR- 数码标准版",
+      "titleZh": "星际斗阵 VR - 数码",
       "metacritic": {
         "score": 63,
         "title": "Space Junkies",
@@ -12306,7 +12306,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "星际大战：克隆人之战",
       "metacritic": {
         "score": 73,
         "title": "Star Wars: The Clone Wars",
@@ -12320,7 +12320,7 @@
         "userScore": 6.8,
         "userReviewCount": 30
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "204269",
@@ -12445,7 +12445,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "银河联军：阿特拉斯之战- 数码版",
+      "titleZh": "银河联军：阿特拉斯之战 - 数码版",
       "metacritic": {
         "score": 74,
         "title": "Starlink: Battle for Atlas",
@@ -12480,7 +12480,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "极限巅峰- 数码标准版",
+      "titleZh": "极限巅峰 - 数码",
       "metacritic": {
         "score": 71,
         "title": "Steep",
@@ -12536,7 +12536,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "幽闭求生",
       "metacritic": {
         "score": 74,
         "title": "Still Wakes the Deep",
@@ -12550,7 +12550,7 @@
         "userScore": 7.5,
         "userReviewCount": 537
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006487",
@@ -12635,7 +12635,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "牧场物语 橄榄镇与希望的大地 SPECIAL",
+      "titleZh": "牧场物语 橄榄镇与希望的大地",
       "metacritic": {
         "score": 71,
         "title": "Story of Seasons: Pioneers of Olive Town",
@@ -12649,7 +12649,7 @@
         "userScore": 6.9,
         "userReviewCount": 98
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011028",
@@ -13217,7 +13217,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "无限试驾：太阳王冠",
       "metacritic": {
         "score": 53,
         "title": "Test Drive Unlimited Solar Crown",
@@ -13231,7 +13231,7 @@
         "userScore": 3.9,
         "userReviewCount": 162
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232708",
@@ -13316,7 +13316,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "法兰克·史东的暴行",
       "metacritic": {
         "score": 68,
         "title": "The Casting of Frank Stone",
@@ -13330,7 +13330,7 @@
         "userScore": 5.7,
         "userReviewCount": 249
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227552",
@@ -13350,7 +13350,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "飙酷车神 2 - 数码标准版",
+      "titleZh": "飙酷车神 2 - 数码",
       "metacritic": {
         "score": 64,
         "title": "The Crew 2",
@@ -13384,7 +13384,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《飙酷车神：轰鸣盛典》跨世代捆绑包",
+      "titleZh": "飙酷车神：轰鸣盛典 跨世代捆绑包",
       "metacritic": {
         "score": 76,
         "title": "The Crew Motorfest",
@@ -13665,7 +13665,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "最后生还者",
       "metacritic": {
         "score": 89,
         "title": "The Last of Us Part I",
@@ -13679,7 +13679,7 @@
         "userScore": 8.2,
         "userReviewCount": 6738
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "230079",
@@ -13799,7 +13799,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "LEGO 影视游戏 制品版",
+      "titleZh": "乐高玩电影游戏",
       "metacritic": {
         "score": 71,
         "title": "The LEGO Movie Videogame",
@@ -13813,7 +13813,7 @@
         "userScore": 6.9,
         "userReviewCount": 240
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008445",
@@ -14174,7 +14174,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Thief 制品版",
+      "titleZh": "制品版",
       "metacritic": {
         "score": 67,
         "title": "Thief",
@@ -14395,7 +14395,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Tin Hearts 锡之心",
+      "titleZh": "锡之心",
       "metacritic": {
         "score": 66,
         "title": "Tin Hearts",
@@ -14431,7 +14431,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "幽灵行动：断点 - 标准版",
+      "titleZh": "幽灵行动：断点",
       "metacritic": {
         "score": 56,
         "title": "Tom Clancy's Ghost Recon: Breakpoint",
@@ -14466,7 +14466,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "彩虹六号：围攻- 精英版",
+      "titleZh": "彩虹六号：围攻 - 精英版",
       "metacritic": {
         "score": 73,
         "title": "Tom Clancy's Rainbow Six Siege",
@@ -14536,7 +14536,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "汤姆克兰西：全境封锁 – 数字标准版",
+      "titleZh": "汤姆克兰西：全境封锁",
       "metacritic": {
         "score": 80,
         "title": "Tom Clancy's The Division",
@@ -14604,7 +14604,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "TOMB RAIDER DEFINITIVE EDITION 制品版",
+      "titleZh": "古墓丽影",
       "metacritic": {
         "score": 86,
         "title": "Tomb Raider",
@@ -14618,7 +14618,7 @@
         "userScore": 8.2,
         "userReviewCount": 2577
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10013616",
@@ -14773,7 +14773,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "心灵诡宅- 数码版",
+      "titleZh": "心灵诡宅 - 数码版",
       "metacritic": {
         "score": 71,
         "title": "Transference",
@@ -14877,7 +14877,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "特技摩托赛：崛起- 数码标准版",
+      "titleZh": "特技摩托赛：崛起 - 数码",
       "metacritic": {
         "score": 79,
         "title": "Trials Rising",
@@ -15138,7 +15138,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "神秘海域4：盗贼末路",
       "metacritic": {
         "score": 93,
         "title": "Uncharted 4: A Thief's End",
@@ -15152,7 +15152,7 @@
         "userScore": 8.7,
         "userReviewCount": 18160
       },
-      "titleZhSource": null
+      "titleZhSource": "override"
     },
     {
       "productId": "205353",
@@ -15570,7 +15570,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "战锤40K：星际战士2",
       "metacritic": {
         "score": 82,
         "title": "Warhammer 40,000: Space Marine II",
@@ -15584,7 +15584,7 @@
         "userScore": 7.9,
         "userReviewCount": 1640
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233226",
@@ -15673,7 +15673,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "看门狗 2 - 数码标准版",
+      "titleZh": "看门狗 2 - 数码",
       "metacritic": {
         "score": 82,
         "title": "Watch Dogs 2",
@@ -15744,7 +15744,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "看门狗- 数字标准版",
+      "titleZh": "看门狗",
       "metacritic": {
         "score": 80,
         "title": "Watch Dogs",
@@ -16021,7 +16021,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Wo Long: Fallen Dynasty （卧龙：苍天陨落）",
+      "titleZh": "卧龙：苍天陨落",
       "metacritic": {
         "score": 80,
         "title": "Wo Long: Fallen Dynasty",
@@ -16357,7 +16357,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "WWE 2K26标准版",
+      "titleZh": null,
       "metacritic": {
         "score": 78,
         "title": "WWE 2K26",
@@ -16371,7 +16371,7 @@
         "userScore": 3.6,
         "userReviewCount": 183
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "216773",
@@ -16391,7 +16391,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "幽浮2",
       "metacritic": {
         "score": 88,
         "title": "XCOM 2",
@@ -16405,7 +16405,7 @@
         "userScore": 7.5,
         "userReviewCount": 1979
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "235238",

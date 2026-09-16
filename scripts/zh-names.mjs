@@ -10,8 +10,17 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import OpenCC from 'opencc-js';
 
-const FILES = ['games.json', 'psplus-games.json'];
+// Each scored file, and the raw catalog it was built from. Store Chinese titles are
+// always read from the raw catalog, so re-running this script never cleans an
+// already-cleaned name a second time.
+const FILES = [
+  { file: 'games.json', raw: 'xgp.json' },
+  { file: 'psplus-games.json', raw: 'psplus.json' },
+];
 const CACHE_PATH = new URL('../data/zh-name-cache.json', import.meta.url);
+// Hand-written names, keyed by English title (Metacritic's or the store's). They win
+// over every other source, for games the lookups miss or name badly.
+const OVERRIDES_PATH = new URL('../data/zh-overrides.json', import.meta.url);
 const UA = 'game-pass-ranked/1.0 (https://games.vim0.com)';
 // Wikidata items that are a video game, a remake/remaster, or an expansion.
 const GAME_TYPES = new Set(['Q7889', 'Q21125433', 'Q64170203', 'Q209163', 'Q1066707', 'Q4393107']);
@@ -39,14 +48,67 @@ async function getJSON(url, tries = 4) {
   }
 }
 
-const norm = (s) => String(s).toLowerCase().replace(/[®™©]/g, '').replace(/&/g, 'and').replace(/[^a-z0-9]/g, '');
+// Accents fold to plain letters first: Metacritic's "God of War: Ragnarok" has to
+// equal Wikidata's "God of War Ragnarök", not lose the ö.
+const norm = (s) => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+  .replace(/[®™©]/g, '').replace(/&/g, 'and').replace(/[^a-z0-9]/g, '');
 
-// Light cleanup only: trademark marks, a "(Windows)" platform suffix, and 《》 that
-// wrap the whole name ("《战地风云3》" -> "战地风云3", "《刺客信条IV：黑旗》- 黄金版" kept readable).
+// Store names carry platform and SKU noise the page already shows elsewhere:
+// "《战地风云 2042》Xbox One", "山羊模拟器3（Windows版）", "Diablo IV - 标准版",
+// "(游戏预览版)", "《我的世界：地下城》Windows 版 + Launcher". Edition names that
+// identify a different game ("重制版", "导演剪辑版") stay.
+const PLATFORM = String.raw`(?:xbox\s*(?:series\s*x\s*\|\s*s|series\s*x\/s|one|360)?|windows(?:\s*10)?|pc|ps[45](?:\s*[&＆]\s*ps[45])?)`;
+const NOISE_PATTERNS = [
+  new RegExp(String.raw`\s*[(（]\s*${PLATFORM}\s*版?\s*[)）]`, 'gi'),
+  new RegExp(String.raw`\s*[-–—]?\s*${PLATFORM}\s*版?\s*$`, 'gi'),
+  /\s*\+\s*launcher\s*$/i,
+  /\s*[(（]\s*游戏预览版\s*[)）]/g,
+  /\s*[-–—]?\s*(?:数字|數位)?标准版\s*$/,
+  /\s*(?:跨越世代|跨世代)(?:礼包|包|版)\s*$/,
+];
+
 function tidy(name) {
-  let s = toSimplified(name).replace(/[®™©]/g, '').replace(/\s*[(（]\s*windows\s*[)）]\s*$/i, '').trim();
-  s = s.replace(/^《([^《》]+)》(?=\s*$|\s*[-–—:：]|\s*\S*版$)/, '$1');
-  return s.replace(/\s+/g, ' ').trim();
+  let s = toSimplified(name).replace(/[®™©]/g, '').trim();
+  for (let i = 0; i < 2; i++) for (const re of NOISE_PATTERNS) s = s.replace(re, '').trim();
+  // 《》 around the name itself: "《战地风云3》" -> "战地风云3", "《Control》终极合辑" -> "Control 终极合辑".
+  s = s.replace(/《([^《》]+)》\s*/, (_, inner) => inner + ' ');
+  return s.replace(/\s+/g, ' ').replace(/\s+([：:）)])/g, '$1').trim();
+}
+
+// "Mixed" means an English word of three or more letters is left, which on a card
+// reads as untranslated. Roman numerals and a few words Chinese titles really use
+// ("Online", "VR") do not count.
+const KEEP_LATIN = /^(?:[ivxlc]+|online|vr|hd|dlc|ex|dx)$/i;
+const isMixed = (name) => (name.match(/[A-Za-z][A-Za-z'’.]{2,}/g) || [])
+  .some((w) => !KEEP_LATIN.test(w.replace(/['’.]/g, '')));
+
+// Bilingual names: "Wo Long: Fallen Dynasty （卧龙：苍天陨落）", "纵横秘湾 Corsair Cove",
+// "Roboquest (机械守护者)". If a bracket or a run holds all the Chinese, keep that.
+function chineseOnly(name) {
+  const bracket = name.match(/[(（]([^()（）]*[一-鿿][^()（）]*)[)）]/);
+  if (bracket && !HAS_CJK.test(name.replace(bracket[0], ''))) return bracket[1].trim();
+  return name;
+}
+
+// Store and Steam names often repeat the English title next to the Chinese one:
+// "SHADOW OF THE COLOSSUS 汪达与巨像", "九王 9 Kings". Drop it when Chinese remains.
+const EDITION_WORDS = /^(?:终极|完整|标准|豪华|高级|年度游戏|游戏预览|导演剪辑|重制|高清|复刻|合辑|合集|典藏|收藏|数字|黄金|决定|周年|纪念|特别|版|包|礼包)+$/;
+
+function withoutEnglish(zh, englishTitles) {
+  let s = zh;
+  for (const en of englishTitles) {
+    const plain = String(en || '').replace(/[®™©]/g, '').trim();
+    if (plain.length < 2) continue;
+    const at = s.toLowerCase().indexOf(plain.toLowerCase());
+    if (at < 0) continue;
+    const rest = (s.slice(0, at) + ' ' + s.slice(at + plain.length))
+      .replace(/^[\s\/|—–:：-]+|[\s\/|—–:：-]+$/g, '').replace(/\s+/g, ' ').trim();
+    // "《Control》终极合辑" must not shrink to "终极合辑": what is left has to be a name,
+    // not only edition words.
+    const chinese = rest.replace(/[^一-鿿]/g, '');
+    if (chinese && !EDITION_WORDS.test(chinese)) s = rest;
+  }
+  return s;
 }
 
 // Steam names often carry both languages: "BALL x PIT — 球比伦战记",
@@ -76,11 +138,13 @@ async function fromWikidata(query) {
   const ids = (found.search || []).map((i) => i.id);
   if (!ids.length) return null;
   const details = await getJSON('https://www.wikidata.org/w/api.php?action=wbgetentities&format=json' +
-    `&props=labels|aliases|claims&languages=en&ids=${ids.join('|')}`);
+    `&props=labels|aliases|claims&languages=en|mul&ids=${ids.join('|')}`);
   const match = ids.map((id) => details.entities[id]).find((e) => {
     const types = (e?.claims?.P31 || []).map((c) => c.mainsnak?.datavalue?.value?.id);
     if (!types.some((t) => GAME_TYPES.has(t))) return false;
-    const names = [e.labels?.en?.value, ...(e.aliases?.en || []).map((a) => a.value)].filter(Boolean);
+    // Wikidata now keeps many names under "mul" (all languages) instead of "en".
+    const names = ['en', 'mul'].flatMap((l) =>
+      [e.labels?.[l]?.value, ...(e.aliases?.[l] || []).map((a) => a.value)]).filter(Boolean);
     return names.some((n) => norm(n) === norm(query));
   });
   if (!match) return null;
@@ -106,23 +170,34 @@ async function fromWikidata(query) {
   return label && HAS_CJK.test(label) ? label : null;
 }
 
+const overrides = new Map(Object.entries(JSON.parse(await readFile(OVERRIDES_PATH, 'utf8')))
+  .map(([en, zh]) => [norm(en), zh]));
+const overrideFor = (g) => overrides.get(norm(queryOf(g))) ?? overrides.get(norm(g.title));
+
 let cache = {};
 try { cache = JSON.parse(await readFile(CACHE_PATH, 'utf8')); } catch {}
 
-const datasets = await Promise.all(FILES.map(async (file) => {
-  const url = new URL(`../data/${file}`, import.meta.url);
-  return { file, url, data: JSON.parse(await readFile(url, 'utf8')) };
-}));
+const readData = async (name) => JSON.parse(await readFile(new URL(`../data/${name}`, import.meta.url), 'utf8'));
+const datasets = await Promise.all(FILES.map(async ({ file, raw }) => ({
+  file,
+  url: new URL(`../data/${file}`, import.meta.url),
+  data: await readData(file),
+  storeZh: new Map((await readData(raw)).games.map((g) => [g.productId, g.titleZh])),
+})));
+const storeZhOf = new Map(datasets.flatMap(({ data, storeZh }) =>
+  data.games.map((g) => [g, storeZh.get(g.productId) || null])));
 
 // Queries are the Metacritic title when matched (clean, canonical English) and the
 // store title otherwise.
 const queryOf = (g) => (g.metacritic?.title || g.title).replace(/[®™©]/g, '').trim();
 // A usable store title: the store's own, and actually Chinese. Some "zh" store titles
 // are just a different English name, and those need a lookup like any other.
-const hasStoreTitle = (g) => !!g.titleZh && HAS_CJK.test(g.titleZh) &&
-  (!g.titleZhSource || g.titleZhSource === 'store');
+const storeTitle = (g) => {
+  const zh = storeZhOf.get(g);
+  return zh && HAS_CJK.test(zh) ? zh : null;
+};
 const pending = [...new Set(datasets.flatMap(({ data }) => data.games)
-  .filter((g) => !hasStoreTitle(g))
+  .filter((g) => !overrideFor(g) && !(storeTitle(g) && !isMixed(tidy(storeTitle(g)))))
   .map(queryOf)
   .filter((q) => !(norm(q) in cache)))];
 
@@ -156,23 +231,30 @@ await pass('steam', pending.filter((q) => !cache[norm(q)]), fromSteam, 2);
 
 for (const { file, url, data } of datasets) {
   for (const g of data.games) {
-    // A re-run over already-processed files must not relabel looked-up names as store ones.
-    if (hasStoreTitle(g)) {
-      g.titleZh = tidy(g.titleZh);
-      g.titleZhSource = 'store';
-    } else {
-      const hit = cache[norm(queryOf(g))];
-      g.titleZh = hit ? tidy(hit.name) : null;
-      g.titleZhSource = hit ? hit.source : null;
-    }
-    // A name that tidies down to the English title adds nothing.
-    if (g.titleZh && !HAS_CJK.test(g.titleZh)) { g.titleZh = null; g.titleZhSource = null; }
+    const english = [g.title, g.metacritic?.title];
+    const clean = (name) => (name ? tidy(chineseOnly(withoutEnglish(tidy(name), english))) : null);
+    const override = overrideFor(g);
+    const store = storeTitle(g) ? clean(storeTitle(g)) : null;
+    const hit = cache[norm(queryOf(g))];
+    const lookup = hit ? clean(hit.name) : null;
+    // Prefer whichever name is fully Chinese: the store's "Ghost of Tsushima 导演剪辑版"
+    // loses to a lookup of 对马岛之魂 导演剪辑版. If none is, a mixed name still beats English.
+    const candidates = [
+      override && [clean(override), 'override'],
+      store && [store, 'store'],
+      lookup && [lookup, hit.source],
+    ].filter((c) => c && HAS_CJK.test(c[0]));
+    const [name, source] = override ? candidates[0]
+      : candidates.find(([n]) => !isMixed(n)) || candidates[0] || [null, null];
+    g.titleZh = name;
+    g.titleZhSource = source;
   }
   await writeFile(url, JSON.stringify(data, null, 2));
   const by = (s) => data.games.filter((g) => g.titleZhSource === s).length;
   const withZh = data.games.filter((g) => g.titleZh).length;
   // Any character that changes under conversion is Traditional left behind.
+  const mixed = data.games.filter((g) => g.titleZh && isMixed(g.titleZh)).length;
   const traditional = data.games.filter((g) => g.titleZh && toSimplified(g.titleZh) !== g.titleZh).length;
   console.log(`${file}: ${withZh}/${data.games.length} Chinese titles ` +
-    `(store ${by('store')}, steam ${by('steam')}, wikidata ${by('wikidata')}) · ${traditional} still Traditional`);
+    `(override ${by('override')}, store ${by('store')}, steam ${by('steam')}, wikidata ${by('wikidata')}) · ${traditional} still Traditional · ${mixed} mixed with English`);
 }

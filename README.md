@@ -142,6 +142,16 @@ Chinese titles are always **Simplified**, and come from three places in order:
    rate-limits hard, so this pass runs with two workers and waits out any 429.
    Bilingual names such as `BALL x PIT — 球比伦战记` keep only the Chinese part.
 
+**Overrides first.** `data/zh-overrides.json` maps an English title (Metacritic's or
+the store's) to a hand-written name, and beats every source above. Use it when a lookup
+misses a well-known game (战神：诸神黄昏) or picks a wrong one.
+
+Store names are cleaned of platform and SKU noise (`《战地风云 2042》Xbox One`,
+`（Windows版）`, `- 标准版`, `(游戏预览版)`) and of a repeated English title
+(`SHADOW OF THE COLOSSUS 汪达与巨像`). A name that still mixes in English words
+(`Ghost of Tsushima 导演剪辑版`) is also looked up, and a fully Chinese result wins. Some
+official names are genuinely mixed (`EA Sports PGA 巡回赛`) and stay that way.
+
 `scripts/zh-names.mjs` runs last in `npm run build`. It converts every title with
 `opencc-js` (Taiwan phrasing to mainland Simplified) and records where each came from
 in `titleZhSource`. Lookups are cached in `data/zh-name-cache.json`, so a weekly run only

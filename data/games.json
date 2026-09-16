@@ -2,7 +2,7 @@
   "service": "xgp",
   "market": "SG",
   "fetchedAt": "2026-09-16T14:20:00.747Z",
-  "scoredAt": "2026-09-16T14:20:00.875Z",
+  "scoredAt": "2026-09-16T14:31:24.024Z",
   "total": 807,
   "scored": 680,
   "games": [
@@ -92,7 +92,7 @@
       "releaseDate": "2025-08-14T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.37106.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.acc6db61-934b-417f-8c9f-189d5944d361",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNM7PKZN3JF",
-      "titleZh": "九王 9 Kings (游戏预览版)",
+      "titleZh": "九王 9 Kings",
       "shortDescriptionZh": "一款快节奏的王国建造类Roguelike游戏，数百张独特卡牌，数千种疯狂构筑，突破游戏规则……与九王史诗对决、赢得战斗、扩展帝国，成就众王之王！",
       "platforms": [
         "pc"
@@ -224,7 +224,7 @@
       "releaseDate": "2018-03-23T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.57565.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.88890908-dcdf-4b03-8e73-4a10af21f949",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BWVBNCMF22ZK",
-      "titleZh": null,
+      "titleZh": "逃出生天",
       "shortDescriptionZh": "《A Way Out》是场专为合作模式打造的冒险，您将扮演两名囚犯之一，一道从监狱中逃出生天。\r\n通过好友免费试玩功能，您的好友可以免费和您一起体验整部游戏。",
       "platforms": [
         "console"
@@ -244,7 +244,7 @@
         "userScore": 7.9,
         "userReviewCount": 2142
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9P4NV23Q6QC2",
@@ -674,7 +674,7 @@
       "releaseDate": "2023-06-20T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.59357.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.f23d3596-4cc8-4c03-be15-1a37405ca63a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MX7DMHK13SC",
-      "titleZh": null,
+      "titleZh": "异形：坠入黑暗",
       "shortDescriptionZh": "《异形：坠入黑暗》是一款以小队为单位的单人动作游戏，标志性科幻大作《异形》系列的又一游戏力作，来开启这场扣人心弦的征程吧。实时带领你的士兵阻止忘川月上一种新的可怕异形的大爆发。 ",
       "platforms": [
         "console"
@@ -694,7 +694,7 @@
         "userScore": 7.6,
         "userReviewCount": 236
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N1M64W9XZQ7",
@@ -744,7 +744,7 @@
       "releaseDate": "2021-12-14T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.30063.13589262686196899.16e3418a-cbf2-4748-9724-1c9dc9b7a0b9.672da915-9117-4230-960d-4f59f3d7beb5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NG07QJNK38J",
-      "titleZh": null,
+      "titleZh": "我们之中",
       "shortDescriptionZh": "这是一款可以连线或本地游玩的派对游戏，4 到 15 位玩家相互合作与背叛... 一切都发生在太空之中！",
       "platforms": [
         "console",
@@ -765,7 +765,7 @@
         "userScore": 7,
         "userReviewCount": 1111
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9MVSRJWZBG9G",
@@ -840,7 +840,7 @@
       "releaseDate": "2023-09-22T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.62821.14297915627755596.63bda613-b706-49f5-b411-63eac88ab8f8.13f44d12-2a98-43ac-b787-ad769cb86121",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PMHGHXLGLJM",
-      "titleZh": "纪元 : 变异",
+      "titleZh": "纪元: 变异",
       "shortDescriptionZh": "欢迎来到纪元:变异，这是一个灯火霓虹彻夜不休的赛博朋克世界，血筹在巨型企业中翻涌流动，神秘的边缘群体和难以名状的怪异生物游走其间，而在凝重的黑暗中，有些东西永远无法被照亮。",
       "platforms": [
         "console",
@@ -907,7 +907,7 @@
       "releaseDate": "2023-04-16T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.52642.13903974859798407.fe1b6a24-4577-41e3-92da-76a2503642b9.06c98722-1c79-4f04-81fd-3e72cb2ee0ba",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PHKWCSZ0SQJ",
-      "titleZh": "美丽新世界 1800家机版",
+      "titleZh": "美丽新世界 1800 家机版",
       "shortDescriptionZh": "歡迎透過這款城市建造即時策略遊戲，來到工業時代的黎明。體驗有史以來最刺激和變動最快速的時代之一，探索新科技、區域與社會，執行屬於你的策略，打造你所設計的新世界。\r\n\r\n獨自遊玩或使用線上模式遊玩 PvP 或合作模式——你的名聲就掌握在自己手中。",
       "platforms": [
         "console"
@@ -1485,7 +1485,7 @@
       "releaseDate": "2013-12-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.7727.13883628024041030.27eaa608-e0e5-47c5-a202-b20c70cd6151.fb21e1de-a82d-49d6-a6de-da62d9bcc21f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MZ1GSWX2G53",
-      "titleZh": "刺客信条：自由呐喊——独立游戏",
+      "titleZh": "刺客信条：自由呐喊 ——独立游戏",
       "shortDescriptionZh": "成为阿德瓦勒——原是一名奴隶而后成为刺客，在他的海盗船员帮助下为自由而战。",
       "platforms": [
         "pc"
@@ -1541,7 +1541,7 @@
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.46338.13940090142368898.8299cde5-c41c-4157-9f91-9b62c239a7c3.03fae3b1-22c6-45ba-a38d-0d343e2a0372",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVZ03XT8S2P",
-      "titleZh": "刺客信条IV：黑旗- 黄金版",
+      "titleZh": "刺客信条IV：黑旗 - 黄金版",
       "shortDescriptionZh": "时间是 1715 年。海盗统治着加勒比海地区，肆意恐吓海军和羞辱帝国。从击沉战舰到征服要塞，爱德华·肯威船长不惜一切代价巧取豪夺，成为了一代传奇。然而时至今日，他大副的冒险历程却从未公之于众。立即获取游戏本体和季票，就有机会扮演爱德华的大副，他将带你更深入地了解海盗黄金时代真正震撼人心的事件。",
       "platforms": [
         "pc"
@@ -2066,7 +2066,7 @@
       "releaseDate": "2019-03-29T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.7019.13663198691635509.d632fab1-4bb2-4655-a619-75bb8f17a360.006f7856-0202-4ab1-aa49-44d0ea21bd7a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKD0MLJ3Z3X",
-      "titleZh": "刺客信条III高清重制版",
+      "titleZh": "刺客信条III 高清重制版",
       "shortDescriptionZh": "在《刺客信条III》高清重制版的增强画面与改进的游戏机制中再次体验美国独立战争。此外，该版本亦包含《刺客信条：解放》高清重制版和所有独立DLC内容。",
       "platforms": [
         "pc"
@@ -2165,7 +2165,7 @@
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.51903.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.08e06d2d-1104-4c80-b879-91facf8348d5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PDNF24PP2V2",
-      "titleZh": null,
+      "titleZh": "刺客信条：奥德赛",
       "shortDescriptionZh": "在《Assassin's Creed® Odyssey》當中主宰自己的命運。\n從一名流浪者蛻變成傳奇人物，踏上這趟奧德賽之旅，找出你過往的祕密並改變古希臘的命運。",
       "platforms": [
         "pc"
@@ -2185,7 +2185,7 @@
         "userScore": 6.9,
         "userReviewCount": 6045
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BWT5L9P3L60X",
@@ -2888,7 +2888,7 @@
       "releaseDate": "2021-11-18T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38194.14160631264571868.4e2a2194-8ea4-4266-ba92-577ebe02fd6b.63900eaf-50ab-41a9-8577-3ebaa902b98b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PD5BFNZ4V7K",
-      "titleZh": "《战地风云 2042》Xbox One",
+      "titleZh": "战地风云 2042",
       "shortDescriptionZh": "《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。",
       "platforms": [
         "console"
@@ -2923,7 +2923,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38194.14524595367279766.cf1e9796-ca30-403f-8373-36da51dafac7.f98212b5-9c47-475e-a5bf-3530608585ca",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P0T51BDDWVT",
-      "titleZh": "《战地风云 2042》Xbox Series X|S",
+      "titleZh": "战地风云 2042",
       "shortDescriptionZh": "《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。",
       "platforms": [
         "console"
@@ -2958,7 +2958,7 @@
       "releaseDate": "2015-03-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.54948.63735777037085446.8fe8dc26-04d3-4d1f-9c78-cbcd6784657d.eda99f52-e778-4fe8-9355-2007a3985e1e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BZKZFMQG2K2K",
-      "titleZh": "战地风云：Hardline",
+      "titleZh": "战地：硬仗",
       "shortDescriptionZh": "在战地风云™：Hardline中化身执法者或犯法者。这款充满动作元素的游戏大作将战地风云多人模式中标志性的紧张时刻与扣人心弦的故事情节和场景相结合，俨然是一部现代风格的犯罪大片。",
       "platforms": [
         "console"
@@ -2978,7 +2978,7 @@
         "userScore": 5.5,
         "userReviewCount": 1301
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BZ2N7TQ0XCF2",
@@ -3141,7 +3141,7 @@
       "releaseDate": "2026-06-11T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.60903.13671022809470587.60471b9b-de9a-4234-afb5-a4a133ab86a1.f937b691-4603-489d-b1f8-460cef771311",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NJRSC0B0K88",
-      "titleZh": "欢迎光临 Beastro",
+      "titleZh": "欢迎光临",
       "shortDescriptionZh": "欢迎光临《Beastro》！在这趟奇幻与冒险交织的旅途之中，并不是所有主人公都是手持刀剑……有些手上更爱拿着汤勺。而且，有时候要想拯救世界，需要先美餐一顿。",
       "platforms": [
         "console",
@@ -3984,7 +3984,7 @@
       "releaseDate": "2026-07-07T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28966.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.acc0294d-61eb-49e2-a059-758d5b1227d4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N1N0NQNGK9W",
-      "titleZh": "《使命召唤：黑色行动 6》跨越世代包",
+      "titleZh": "使命召唤：黑色行动 6",
       "shortDescriptionZh": "《使命召唤®：黑色行动 6》是标志性的《黑色行动》系列，史诗电影般的单人战役、一流的多人游戏体验以及波次制丧尸模式的强势回归。",
       "platforms": [
         "console"
@@ -4017,7 +4017,7 @@
       "releaseDate": "2026-07-07T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10491.14346543607136639.d932bf87-6edc-4da6-bbd5-c944ad33bc0d.f78757c0-6542-410f-a0cc-52fc592d79f1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MZ1RZTJTZKB",
-      "titleZh": "使命召唤：黑色行动 6标准版",
+      "titleZh": "使命召唤：黑色行动 6",
       "shortDescriptionZh": "《使命召唤®：黑色行动 6》是标志性的《黑色行动》系列，史诗电影般的单人战役、一流的多人游戏体验以及波次制丧尸模式的强势回归。",
       "platforms": [
         "pc"
@@ -4050,7 +4050,7 @@
       "releaseDate": "2025-11-21T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.54306.14316447222402733.7ce700b1-c1f1-4c72-a33b-ea4a18861dcb.1dd5c821-6d00-42ea-a890-8edab2f71e2c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N8KMNW6942X",
-      "titleZh": "《使命召唤：黑色行动 7》跨越世代包",
+      "titleZh": "使命召唤：黑色行动 7",
       "shortDescriptionZh": "在《使命召唤®：黑色行动 7》中，Treyarch和Raven Software将为玩家带来最大规模的《黑色行动》。充满创新的合作战役，刺激的多人游戏和传奇的波次制丧尸模式。",
       "platforms": [
         "console",
@@ -4084,7 +4084,7 @@
       "releaseDate": "2020-12-16T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.32755.14055557765519709.a446e4ab-5a5d-459e-854a-d4a158048dd0.f7ef5c8e-04fd-4c07-bf19-c536eaa6f2fe",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N863WLSHZGV",
-      "titleZh": "使命召唤：黑色行动冷战跨越世代版",
+      "titleZh": "使命召唤：黑色行动冷战",
       "shortDescriptionZh": "现在进入微软官方商城购买这个数字版Xbox One版《使命召唤®：黑色行动冷战》，即可免费下载 Xbox Series X|S版。\r\n\r\n跨越世代版内有：\r\n\r\n- 《使命召唤®：黑色行动冷战》跨越世代版\r\n-- 包括Xbox One版和 Xbox Series X|S版\r\n- 对抗武器包\r\n- 传奇特遣队员外观“普莱斯上尉”*",
       "platforms": [
         "console"
@@ -4152,7 +4152,7 @@
       "releaseDate": "2019-10-24T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.50528.14393996338935986.84c4ee65-c726-49ae-925f-3dca581be2df.31d66188-6781-49ce-a75a-b4247e73b89d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVQBQ3F6W9W",
-      "titleZh": "使命召唤：现代战争数字标准版",
+      "titleZh": "使命召唤：现代战争",
       "shortDescriptionZh": "体验激动人心的剧情战役，或组队踏入终极在线战场，其中包含多个特别行动、多人地图及模式。",
       "platforms": [
         "console"
@@ -4187,7 +4187,7 @@
       "releaseDate": "2026-03-31T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.50528.13754207406549189.cd8c44dd-5d70-4cac-9ae7-2f630b4a1996.ff92f67e-8112-4555-bf44-3a89f589b98a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NMPDV49K4TX",
-      "titleZh": "使命召唤：现代战争数字标准版",
+      "titleZh": "使命召唤：现代战争",
       "shortDescriptionZh": "体验激动人心的剧情战役，或组队踏入终极在线战场，其中包含多个特别行动、多人地图及模式。",
       "platforms": [
         "pc"
@@ -4220,7 +4220,7 @@
       "releaseDate": "2025-07-29T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34778.14349375889218622.77ec9575-f44b-4013-97c6-f9cd0bbc53f5.fd60100a-bbb6-4eb3-a03c-6da8e90db089",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PNGFSX7S117",
-      "titleZh": "使命召唤：现代战争II 2022跨越世代版",
+      "titleZh": "使命召唤：现代战争II 2022",
       "shortDescriptionZh": "收录有：\n\n- 《使命召唤®：现代战争® II 2022》跨越世代版\n-- 包含Xbox Series X|S及Xbox One版游戏",
       "platforms": [
         "console"
@@ -4253,7 +4253,7 @@
       "releaseDate": "2025-07-29T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.39512.14101915825563460.e102526c-a483-423c-87f0-446d67ef06cd.50d8d058-769d-44c3-8441-a433789a90be",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7RQ1QFFF8R",
-      "titleZh": "使命召唤：现代战争 II 2022标准版",
+      "titleZh": "使命召唤：现代战争 II 2022",
       "shortDescriptionZh": "《使命召唤®：现代战争® II 2022》将玩家带入了一场前所未有的全球冲突，141特遣队的标志性队员们即将回归。从小规模、高风险的渗透战术行动到高度机密，和好友一起部署，沉浸式体验身临其境。",
       "platforms": [
         "pc"
@@ -4286,7 +4286,7 @@
       "releaseDate": "2025-07-29T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.35931.13702346117700120.96dcc05d-7589-4e95-abbc-4fbc3399d7ff.bf621533-dad7-4478-8719-e8ff3da2223e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NLZZ74TFD7P",
-      "titleZh": "《使命召唤：现代战争 III 2023》跨越世代礼包",
+      "titleZh": "使命召唤：现代战争 III 2023",
       "shortDescriptionZh": "《使命召唤®：现代战争® III 2023》跨越世代版内含Xbox One和Xbox Series X|S版游戏。",
       "platforms": [
         "console"
@@ -4319,7 +4319,7 @@
       "releaseDate": "2025-07-29T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.55183.13612848337674936.f9e71e15-6765-4282-8a3d-968dccfb729c.f59acc22-2c7b-41fb-96ca-d173dc290712",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NDKFJ6XDX2M",
-      "titleZh": "使命召唤：现代战争 III 2023标准版",
+      "titleZh": "使命召唤：现代战争 III 2023",
       "shortDescriptionZh": "在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。极端民族主义战犯弗拉基米尔·马卡洛夫正将他的魔爪伸向全世界，而第 141 特遣队面临前所未有的战斗。",
       "platforms": [
         "pc"
@@ -4352,7 +4352,7 @@
       "releaseDate": "2021-11-09T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.37563.14146010266613349.21a2f580-b3ed-4498-a3dc-08568a22ceeb.7ec16582-7d9b-4806-9d6c-eb0d9c167dd4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PDPD158GLKD",
-      "titleZh": "使命召唤：先锋跨越世代版",
+      "titleZh": "使命召唤：先锋",
       "shortDescriptionZh": "《使命召唤®：先锋》跨越世代版礼包内含Xbox Series X|S及Xbox One版游戏。\r\n\r\n跨越世代版礼包包含：\r\n\r\n- 《使命召唤®：先锋》\r\n-- 包含Xbox Series X|S及Xbox One版游戏\r\n- 5小时双倍武器经验值\r\n- 数字版专属-前线武器包",
       "platforms": [
         "console"
@@ -4385,7 +4385,7 @@
       "releaseDate": "2021-11-09T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.31712.13769435894253706.0250f733-83d1-418c-9dda-58cd997dadf4.30854c07-d71d-4464-b315-a34a4eab32e2",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NQQ8B4PJR25",
-      "titleZh": "使命召唤：先锋标准版",
+      "titleZh": "使命召唤：先锋",
       "shortDescriptionZh": "标准版包括：\r\n\r\n- 《使命召唤®：先锋》\r\n-- 包括Xbox One版游戏\r\n-- 通过向后兼容在Xbox Series X|S上进行游戏\r\n- 数字版专属-前线武器包",
       "platforms": [
         "console"
@@ -4420,7 +4420,7 @@
       "releaseDate": "2026-04-15T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.31712.13919092698619191.2d46d279-f52a-433a-8664-7762555e4777.d3338265-fac7-4874-87c5-c419738b627b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N0SNSC9PK4D",
-      "titleZh": "使命召唤：先锋标准版",
+      "titleZh": "使命召唤：先锋",
       "shortDescriptionZh": "《使命召唤®：先锋》内含单人战役模式、规模庞大的多人对战内容，以及紧张刺激的丧尸模式体验。",
       "platforms": [
         "pc"
@@ -4783,7 +4783,7 @@
       "releaseDate": "2023-02-15T09:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.41631.13877341660077011.7198ab78-e545-4cfe-8105-110d8c697dac.7f82efb8-521a-4424-89b3-3d8c14075fcc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MZ4GBWX9GND",
-      "titleZh": null,
+      "titleZh": "城市：天际线",
       "shortDescriptionZh": "《Cities: Skylines》是屡获殊荣且最畅销的经营游戏，现已针对 Xbox Series X|S 重新打造蓬勃城市模拟游玩方式与令人沉醉的迷人特色。",
       "platforms": [
         "console"
@@ -4803,7 +4803,7 @@
         "userScore": 8.6,
         "userReviewCount": 2693
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NWVC7XP3PFD",
@@ -4818,7 +4818,7 @@
       "releaseDate": "2017-05-19T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38447.14442149246756025.e0e6c583-8325-415d-813c-e90e0ab7057a.309e5a51-4e69-41a1-8d19-d19c72140230",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NWVC7XP3PFD",
-      "titleZh": null,
+      "titleZh": "城市：天际线",
       "shortDescriptionZh": "Cities: Skylines – Windows 10 Edition puts you in charge of a growing city – from the ground-breaking of its first streets to the ever-changing needs of thousands of citizens. Design, build, and manage the city of your dreams, from public services to civic policies, and challenge yourself to grow from a simple town to a bustling metropolitan hub.",
       "platforms": [
         "pc"
@@ -4838,7 +4838,7 @@
         "userScore": 8.6,
         "userReviewCount": 2693
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PGZ346PSLN0",
@@ -4853,7 +4853,7 @@
       "releaseDate": "2023-10-24T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.63682.14241982748923031.b7ab82d8-956b-4d85-b739-c1cd07cb25df.6e134b4c-c4db-4dc7-bbdd-f736c3d3fd94",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PGZ346PSLN0",
-      "titleZh": "Cities: Skylines II 都市：天际线2",
+      "titleZh": "都市：天际线2",
       "shortDescriptionZh": "通过有史以来最逼真的城市建造游戏，从头开始建设一座城市，并将其转变为繁荣的大都市。以前所未有的庞大规模进行建造，您的创意和问题解决能力都将面临全新层次的考验。利用深度模拟与生动运转的经济系统，您将能毫不设限地打造自己的世界。\r\n",
       "platforms": [
         "pc"
@@ -5129,7 +5129,7 @@
       "releaseDate": "2024-03-13T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.3830.14105328782956010.49f773af-c1ba-43ab-a4d2-d9b330f79b47.a6dc6161-010f-47b3-b5c5-db0f5b3b7323",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7LVXNVQ6K7",
-      "titleZh": "《Control》终极合辑",
+      "titleZh": "控制",
       "shortDescriptionZh": "某种腐败的存在侵入了联邦控制局……\r\n只有你有能力阻止它。世界就是你的武器，\r\n助你穿越深不可测的环境，歼灭邪恶的敌人，\r\n进行史诗般的战斗。收容失败，人类面临着\r\n生死关头。你能重新控制局面吗?",
       "platforms": [
         "pc"
@@ -5149,7 +5149,7 @@
         "userScore": 7.4,
         "userReviewCount": 3338
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9P4D0K92BM7V",
@@ -5165,7 +5165,7 @@
       "releaseDate": "2021-02-02T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.3830.14595226950892239.a8daf266-2756-4f3f-9606-6b7b7cef7920.4911518a-4a55-43bb-b9ba-972ae1946dd5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P4D0K92BM7V",
-      "titleZh": "《Control》终极合辑 - Xbox Series X|S",
+      "titleZh": "控制",
       "shortDescriptionZh": "某种腐败的存在侵入了联邦控制局……\r\n只有你有能力阻止它。世界就是你的武器，\r\n助你穿越深不可测的环境，歼灭邪恶的敌人，\r\n进行史诗般的战斗。收容失败，人类面临着\r\n生死关头。你能重新控制局面吗?",
       "platforms": [
         "console"
@@ -5185,7 +5185,7 @@
         "userScore": 7.4,
         "userReviewCount": 3338
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N3DKKRHSJBT",
@@ -5259,7 +5259,7 @@
       "releaseDate": "2026-07-31T15:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.57612.14230424027872647.ab6270a0-0d1f-4913-b718-32112ae966e2.8c40fedf-b616-4b79-ae5e-b0cd60acfb60",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PHS0189K408",
-      "titleZh": "纵横秘湾 Corsair Cove",
+      "titleZh": "纵横秘湾",
       "shortDescriptionZh": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
       "platforms": [
         "pc"
@@ -5397,7 +5397,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.48476.13750484087977689.9e720797-3297-4042-be3e-b0fbc4362676.adf5c81a-0ff2-4291-a760-0adb9f074df3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NMW7RJ8FP94",
-      "titleZh": "古惑狼4：时机已到 (PC)",
+      "titleZh": "古惑狼4：时机已到",
       "shortDescriptionZh": "时机已到——全新《古惑狼™》游戏！与你最喜欢的伙伴们一起，进入破碎的时空冒险。",
       "platforms": [
         "pc"
@@ -5861,7 +5861,7 @@
       "releaseDate": "2019-03-27T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.23097.69886306496288395.9ec42146-6037-4440-b5c7-3a44e5213cc3.0e09163e-a6c4-40f6-9fe1-24a6b4685c64",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BSR9NLHVF1KL",
-      "titleZh": null,
+      "titleZh": "僵尸末日",
       "shortDescriptionZh": "后苏联国家黑俄罗斯突遭某种未知病毒的袭击，导致绝大多数人口变成了狂暴的感染者。为了争夺资源，敌对情绪在幸存者之间蔓延，使得残存的人类秩序逐渐崩塌。作为为数不多的病毒免疫者之一 —— 你在这趟生存之旅中能走多远？",
       "platforms": [
         "console",
@@ -5882,7 +5882,7 @@
         "userScore": 4.5,
         "userReviewCount": 407
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C0N22P73QZ60",
@@ -6066,7 +6066,7 @@
       "releaseDate": "2010-08-03T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.47254.69768431406041041.e1386476-b377-413b-9457-1f5559dbb168.1729d161-6022-4368-b67d-128946d0ca78",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BRJLJ6RPLQTJ",
-      "titleZh": "《死亡空间》 (2008)",
+      "titleZh": "死亡空间 (2008)",
       "shortDescriptionZh": "When an immense mining ship, the USG Ishimura, comes into contact with a mysterious alien artifact in a remote star system, its communications with Earth are mysteriously cut off. Engineer Isaac Clarke is sent to repair the Ishimura's communications array, but he arrives to find a living nightmare-the ship is a floating bloodbath, the crew unspeakably mutilated and infected by an ancient alien scourge. Clarke's repair mission becomes one of survival as he fights not just to save himself, but to",
       "platforms": [
         "console"
@@ -6458,7 +6458,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.62400.14024037955784685.f1298079-5f9c-4427-8bdd-d0232cc70ebf.ebfd985e-963f-4f8a-a925-3036bbe791bf",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N66JJQFX3RX",
-      "titleZh": "Descenders Next (游戏预览版)",
+      "titleZh": null,
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。\n\n拎起你的滑板，驾驭高峰与山巅！《下一代速降王者》是终极的极限运动游戏，这里有延绵的雪山，有蜿蜒的土路，还有数不胜数的公园等你来征服。你和朋友能否成为极限速降的下一代王者？",
       "platforms": [
         "console",
@@ -6467,7 +6467,7 @@
       "xboxOne": true,
       "xboxSeries": true,
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "C2R5R5P2DF3C",
@@ -6657,7 +6657,7 @@
       "releaseDate": "2024-06-09T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.27418.14058691289303304.7aeef6ea-ac74-41c2-a37d-5c5c1e0eb55d.e73f1084-51de-4266-8084-2f8787ae9c3f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N8117TM8JL3",
-      "titleZh": "Diablo IV - 标准版",
+      "titleZh": "暗黑破坏神 IV",
       "shortDescriptionZh": "Diablo® IV 带来了次时代的动作角色扮演游戏体验，无穷无尽的恶魔等你屠戮，数不胜数的技能待你掌握，还有噩梦横行的地下城和传奇战利品等你探索。\n \n 这只是 Diablo® IV 的起点，更多活动、故事、赛季、奖励和精彩内容还将陆续推出。",
       "platforms": [
         "console"
@@ -6677,7 +6677,7 @@
         "userScore": 2.7,
         "userReviewCount": 10732
       },
-      "titleZhSource": "store"
+      "titleZhSource": "steam"
     },
     {
       "productId": "9N0H62KZ3BXV",
@@ -6755,7 +6755,7 @@
       "releaseDate": "2020-11-06T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.58389.14216887906907763.b5352caa-b411-460d-acb5-a427d0106d4b.66224440-0755-45e4-a4dd-f1d53b73db9e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PJGM0T0827V",
-      "titleZh": null,
+      "titleZh": "尘埃5",
       "shortDescriptionZh": "在DIRT 5中尽情释放自我——有史以来最大胆的越野赛体验，明星云集的职业生涯，四人分屏模式，创新的在线模式，涂装编辑器以及更多精彩内容。驾驶着经典拉力赛车或是卡车亦或是GT英雄车，在遍及全球覆盖碎石、冰、雪和沙子的各种赛道上驰骋。\r\n",
       "platforms": [
         "console",
@@ -6776,7 +6776,7 @@
         "userScore": 5.5,
         "userReviewCount": 248
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BRPGP6H8P26F",
@@ -6794,7 +6794,7 @@
       "releaseDate": "2019-02-26T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.39094.69250389131421478.505d88bd-fe2e-4564-89a4-f3e4dc4a9732.a926456c-0035-4fde-8de9-df379fb6d703",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BRPGP6H8P26F",
-      "titleZh": null,
+      "titleZh": "大地长征：拉力赛2.0",
       "shortDescriptionZh": "在《DiRT Rally 2.0》你将驾驶史上最强力的越野车接受挑战，在精心挑选出的全世界最具代表性的拉力赛道上披荆斩棘，牢记即使最小的失误也能导致赛段的失败。",
       "platforms": [
         "console"
@@ -6814,7 +6814,7 @@
         "userScore": 6.7,
         "userReviewCount": 312
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NTRS771L8HL",
@@ -7223,7 +7223,7 @@
       "releaseDate": "2016-05-13T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.18860.66773763610413114.5c7115ed-b566-4d24-80ce-7027cb5b7c3e.e1d91fd3-d9ed-4be4-aedf-437e5d9820fe",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C3QH42WRGM3R",
-      "titleZh": null,
+      "titleZh": "毁灭战士",
       "shortDescriptionZh": "現包括全部三款高級DLC包（「Unto the Evil」、「Hell Followed」和「Bloodfall」）、地圖、遊戲模式和武器，以及包括街機模式、拍照模式等所有功能更新，還有最新的6.66更新內容，為玩家帶來進一步改善的多人連線，以及多人連線進度翻新。 第一人稱射擊遊戲始祖、開發多人遊戲死鬥的 id Software 再度出手，《DOOM》帶著殘暴惡趣和高難度現代射擊體驗重磅回歸。",
       "platforms": [
         "console"
@@ -7243,7 +7243,7 @@
         "userScore": 8.2,
         "userReviewCount": 1690
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9P46M5JQ2PTF",
@@ -7737,7 +7737,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10380.13990860711580305.7d016ca5-2501-4843-b9f8-be6dad355631.4145696a-16ec-4c1d-bf05-e81bb5f9d30d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N436FQM30HX",
-      "titleZh": "《EA SPORTS FC 25》Xbox One 版",
+      "titleZh": null,
       "shortDescriptionZh": "《EA SPORTS FC™ 25》将为您带来更多为俱乐部奋勇争胜的方式。在您最喜爱的模式中通过全新 5 对 5 Rush 与好友并肩作战，借助 FC IQ 以前所未有的强大战术掌控力引领您的俱乐部走向胜利。",
       "platforms": [
         "console"
@@ -7757,7 +7757,7 @@
         "userScore": 2.9,
         "userReviewCount": 1246
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9NNPSTWT06VM",
@@ -7773,7 +7773,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10380.13738418562228928.2f1b7c14-3e99-4a31-8375-ffc682a65cb0.20227b42-8b9c-4fe1-8f41-836fe3184ce7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNPSTWT06VM",
-      "titleZh": "《EA SPORTS FC 25》Xbox Series X|S 版",
+      "titleZh": null,
       "shortDescriptionZh": "《EA SPORTS FC™ 25》将为您带来更多为俱乐部奋勇争胜的方式。在您最喜爱的模式中通过全新 5 对 5 Rush 与好友并肩作战，借助 FC IQ 以前所未有的强大战术掌控力引领您的俱乐部走向胜利。",
       "platforms": [
         "console"
@@ -7793,7 +7793,7 @@
         "userScore": 2.9,
         "userReviewCount": 1246
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9NK13T4QFPQW",
@@ -7809,7 +7809,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10782.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.31935413-8ff9-41fa-a5e8-b8a6eb8775c9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK13T4QFPQW",
-      "titleZh": "《EA SPORTS FC 26》XBOX One 版",
+      "titleZh": null,
       "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
       "platforms": [
         "console"
@@ -7829,7 +7829,7 @@
         "userScore": 2.9,
         "userReviewCount": 1145
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9P9FTXPKQ35P",
@@ -7845,7 +7845,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10782.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.12c48214-554d-4f98-a995-c19b9101d1aa",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9FTXPKQ35P",
-      "titleZh": "《EA SPORTS FC 26》XBOX Series X|S 版",
+      "titleZh": null,
       "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
       "platforms": [
         "console"
@@ -7865,7 +7865,7 @@
         "userScore": 2.9,
         "userReviewCount": 1145
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9NSDM7MBGG8L",
@@ -8153,7 +8153,7 @@
       "releaseDate": "2021-04-08T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NHKL695M9F2",
-      "titleZh": null,
+      "titleZh": "从军",
       "shortDescriptionZh": "在《从军》游戏中，玩家不仅能够操纵单名士兵在一线拼杀，更能指挥一整支小队达成战术目标——《从军》是一款多人在线小队射击游戏，忠实还原了风云激荡的 20 世纪多场著名战役的战斗情景。游戏中每场战斗的规模多达上百人，双方均有大量坦克与空战单位登场，打造独一无二的大战场体验！",
       "platforms": [
         "console",
@@ -8162,7 +8162,7 @@
       "xboxOne": false,
       "xboxSeries": true,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PF432CVQBXT",
@@ -8556,7 +8556,7 @@
       "releaseDate": "2021-06-13T19:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.52149.13991296281172164.911bd54e-5f10-4b33-9849-cdf702cd4309.a33797ec-0280-4915-83d8-7ec3ac454075",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N42CT1J5WGW",
-      "titleZh": null,
+      "titleZh": "辐射",
       "shortDescriptionZh": "您刚刚发现了这款振兴整个CRPG类游戏的经典后末世角色扮演游戏。做决策时须深谋远虑，否则您可能会成为又一个殒没于废土的英雄……",
       "platforms": [
         "pc"
@@ -8576,7 +8576,7 @@
         "userScore": 8.7,
         "userReviewCount": 1788
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9P1JS86M9SXH",
@@ -8591,7 +8591,7 @@
       "releaseDate": "2021-06-13T19:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.19126.14505928851806264.bdce1e6f-6028-442f-838e-6c8088bf2f93.d21ebad2-7273-4e75-befd-1ec5d8a571f1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P1JS86M9SXH",
-      "titleZh": null,
+      "titleZh": "辐射2",
       "shortDescriptionZh": "《Fallout》的出现让RPG摆脱了地牢类型，进入了充满生气的末日复古未来阶段，而《Fallout® 2》正是这款游戏嘉作的续作。\r\n\r\n掌握所选角色的技能和生存特质，以应对《Fallout® 2》中后核灾时代世界所带来的挑战。",
       "platforms": [
         "pc"
@@ -8611,7 +8611,7 @@
         "userScore": 9.1,
         "userReviewCount": 1870
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C29HQ887KH4B",
@@ -8626,7 +8626,7 @@
       "releaseDate": "2010-03-02T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.40993.65367730044127425.992bf426-3c9a-450f-a792-7946f7138dee.bc090b3e-e51c-49eb-861b-e6093fde7cdd",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C29HQ887KH4B",
-      "titleZh": null,
+      "titleZh": "辐射3",
       "shortDescriptionZh": "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Fallout 3 includes an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters. Every minute is a fight for survival against the terrors of the outside world – radiation, Super Mutants, and hostile mutated creatures.",
       "platforms": [
         "console"
@@ -8646,7 +8646,7 @@
         "userScore": 8.2,
         "userReviewCount": 2948
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NBZ9JF6TFMD",
@@ -8661,7 +8661,7 @@
       "releaseDate": "2021-06-13T19:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.24357.13574127358458005.65070c14-0cf2-44ab-b4fc-c66107fdb092.94056bc4-93e4-4bf6-ab5d-41bc6b808320",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBZ9JF6TFMD",
-      "titleZh": null,
+      "titleZh": "辐射3",
       "shortDescriptionZh": "Prepare for the Future™\r\n《Fallout 3》年度版为您献上2008年最受欢迎的游戏，收获前所未有的体验。根据您的选择创造角色，深入令人生畏、每一分钟都须为生存而奋战的末日世界。",
       "platforms": [
         "pc"
@@ -8681,7 +8681,7 @@
         "userScore": 8.2,
         "userReviewCount": 2948
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C3KLDKZBHNCZ",
@@ -8696,7 +8696,7 @@
       "releaseDate": "2015-11-11T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.50286.66091604408099736.4cc75ea1-c6a0-40ec-b7f9-7fdb8da581b2.124090f5-4333-4929-af8b-62b4331439d4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C3KLDKZBHNCZ",
-      "titleZh": null,
+      "titleZh": "辐射4",
       "shortDescriptionZh": "《Fallout 4》由屡获殊荣的《Starfield》与《The Elder Scrolls V: Skyrim》创作团队Bethesda Game Studios倾力打造。它不仅是开放世界角色扮演游戏的扛鼎之作，还夺得了包括DICE与BAFTA年度游戏在内的200余项“最佳游戏”大奖。\n\n作为111号避难所唯一的幸存者，你将踏入这个被核战摧毁殆尽的世界。每一秒钟你都必须为生存而战，而你的每个决定都将让未来截然不同。按照你的方式重建文明、改变环境并拯救这片废土。\n\n欢迎回家。",
       "platforms": [
         "console",
@@ -8717,7 +8717,7 @@
         "userScore": 7.1,
         "userReviewCount": 8031
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BS6WJ2L56B10",
@@ -8802,7 +8802,7 @@
       "releaseDate": "2021-06-13T19:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.6223.13611473418794607.9806bdd1-c446-4376-bb6e-95bf0a16329e.e46d7729-8ce8-4146-8234-92cc72bee49e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NDV7FRVD7ML",
-      "titleZh": null,
+      "titleZh": "辐射战略版：钢铁兄弟会",
       "shortDescriptionZh": "《Fallout®》世界打响了基于战术小队的战斗！\r\n在这样的黑暗时期，您那些钢筋铁骨的兄弟将协助您在这片炼狱般的辐射废土上重新点燃文明之火。",
       "platforms": [
         "pc"
@@ -8810,7 +8810,7 @@
       "xboxOne": false,
       "xboxSeries": false,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BX3JNK07Z6QK",
@@ -9815,7 +9815,7 @@
       "releaseDate": "2026-07-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.30769.14553435086111963.df80ae9a-2226-4cc1-99bb-24cdb3f4b8a2.d7d9d753-bb3c-402e-be3d-d3ebca41ed95",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2PP895LSBJ",
-      "titleZh": "穿雾列车 Fogpiercer",
+      "titleZh": "穿雾列车",
       "shortDescriptionZh": "在这款类Rogue科幻卡牌构筑游戏中，穿越致命迷雾，巧妙的战略位置、强烈的连锁反应，以及战场的环境本身，都可能决定生死。",
       "platforms": [
         "pc"
@@ -9987,7 +9987,7 @@
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.25646.13664541971149542.2f5fbe40-bf98-4cd6-8d48-94e08f070c43.6d276a88-3831-4398-aefe-e6bcac845ddf",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P82LXD5RH31",
-      "titleZh": "荣耀战魂标准版",
+      "titleZh": "荣耀战魂",
       "shortDescriptionZh": "《荣耀战魂》是一款开创性的多人团队近战 PVP 游戏。骑士、武士、维京人、武林以及更多阵营将在永无止境的沙场中厮杀。挑选独具特色的英雄，征服紧张刺激的 4v4、2v2 与 1v1 对战。",
       "platforms": [
         "pc"
@@ -10066,7 +10066,7 @@
       "releaseDate": "2019-04-25T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.19309.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.e7460671-6dd2-47d7-af59-71118b6d060c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BT5P2X999VH2",
-      "titleZh": null,
+      "titleZh": "堡垒之夜",
       "shortDescriptionZh": "Everything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.",
       "platforms": [
         "console",
@@ -10087,7 +10087,7 @@
         "userScore": 5.2,
         "userReviewCount": 3551
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NKX70BBCDRN",
@@ -10100,7 +10100,7 @@
       "releaseDate": "2021-11-08T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.49800.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9ac09d39-064d-466c-81ca-2f1b6f0b95c5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKX70BBCDRN",
-      "titleZh": "极限竞速：地平线 5 标准版",
+      "titleZh": "极限竞速：地平线 5",
       "shortDescriptionZh": "在不断变化的开放世界中享受无拘无束的驾驶乐趣。",
       "platforms": [
         "console",
@@ -10134,7 +10134,7 @@
       "releaseDate": "2026-05-20T17:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.29856.14202278764680089.8e4c786a-0a1c-4737-a244-0bdfa34aab7b.64883cac-25a8-4715-a0dc-0dd42b0e5435",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N431PX143P8",
-      "titleZh": "极限竞速：地平线 6 标准版",
+      "titleZh": "极限竞速：地平线 6",
       "shortDescriptionZh": "驾驶超过 550 辆真实存在的赛车，探索日本的绝美风光，在 极限竞速：地平线 有史以来最宏大的冒险中成为竞速传奇。",
       "platforms": [
         "console",
@@ -10168,7 +10168,7 @@
       "releaseDate": "2023-10-09T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.57449.14311721322459352.08838dcd-1049-42ef-a004-b13ad1d41946.4eeb1f6f-f279-4d5b-83b0-8fb4cc7f9aea",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLKVSWR299F",
-      "titleZh": "极限竞速 标准版",
+      "titleZh": "极限竞速",
       "shortDescriptionZh": "驾驶超过500辆真实世界的汽车，包括现代赛车和100辆以上的极限竞速新车。在粉丝最喜爱的地点，包括布兰兹哈奇、戴通纳、纽博格林北赛道以及赛百灵国际赛道等，重返27条实际存在的赛道和众多赛道布局，跑出价值。每一圈都有实时赛道评分、完全动态的时间与天气和独特的驾驶环境，从而确保玩家不会有千篇一律之感。 ",
       "platforms": [
         "console",
@@ -10338,7 +10338,7 @@
       "releaseDate": "2020-12-15T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.9700.14591801423393397.e1044226-28d7-42f6-a357-7102f7d1a4b3.b11e46da-8c40-42d7-8a61-f98879101d4a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P4KMR76PLLQ",
-      "titleZh": "Gears 5 年度游戏版",
+      "titleZh": "战争机器5",
       "shortDescriptionZh": "在一个捆绑包中体验完整的 Gears 5。获取年度游戏版本，体验广受欢迎的战役、更加精彩的多人游戏和蜂巢破坏者扩充内容。\r\n\r\nGears 5 年度游戏版内含：\r\n•\tGears 5 基础游戏\r\n•\t《光环：致远星》角色包\r\n•\t30 天加速器\r\n•\tGears 5：蜂巢破坏者扩充内容",
       "platforms": [
         "console",
@@ -10359,7 +10359,7 @@
         "userScore": 8.1,
         "userReviewCount": 3689
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BPN08ZDRPSFK",
@@ -10938,7 +10938,7 @@
       "releaseDate": "2023-12-07T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.47149.14148334348309617.d7ab70e3-9d1d-4489-b8b9-a2b9be7054bb.b1519ab1-017b-4c25-a2d8-2cb283a46821",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PDS2N82QNXG",
-      "titleZh": "山羊模拟器3（Windows版）",
+      "titleZh": "山羊模拟器3",
       "shortDescriptionZh": "Pilgor重出江湖！\n \n召集伙伴一起进入《Goat Simulator 3》的世界，在极具真实感的农场沙盒场景中体验一场全新冒险。最多可邀请三位好友进行本地游戏或线上合作，既可组队厮杀，也能在小游戏中拼个你死我活，当然，恐怕从此连朋友都没得做。",
       "platforms": [
         "pc"
@@ -10975,7 +10975,7 @@
       "releaseDate": "2024-10-24T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.47149.13719917860433649.aae29470-5649-4ad1-abf1-81f29d7c6bc8.8143a4c0-41a8-4b4c-9c97-94c4e223eec4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NL3468NRPBG",
-      "titleZh": "山羊模拟器3（Xbox One版）",
+      "titleZh": "山羊模拟器3",
       "shortDescriptionZh": "Pilgor重出江湖！\n \n召集伙伴一起进入《Goat Simulator 3》的世界，在极具真实感的农场沙盒场景中体验一场全新冒险。最多可邀请三位好友进行本地游戏或线上合作，既可组队厮杀，也能在小游戏中拼个你死我活，当然，恐怕从此连朋友都没得做。",
       "platforms": [
         "console"
@@ -11084,7 +11084,7 @@
       "releaseDate": "2022-02-25T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.51373.13561500935514596.eddcbba6-93d0-42cc-93d4-0f33eaa8a4e8.28035953-3b70-48c2-b99c-991043ac8f21",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NCT9L7NFHX7",
-      "titleZh": null,
+      "titleZh": "超级房车赛 传奇",
       "shortDescriptionZh": "《GRID Legends》提供遍布全球的扣人心弦的赛车动感。创建你梦想中的赛车赛事，加入多人在线比赛，体验戏剧般的虚拟制作故事，拥抱壮观的竞技快感。",
       "platforms": [
         "console"
@@ -11104,7 +11104,7 @@
         "userScore": 6.4,
         "userReviewCount": 176
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PC288TN7R8K",
@@ -11217,7 +11217,7 @@
       "releaseDate": "2021-08-12T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.48496.14093828725404571.e8c4fd85-da7e-4c33-9a85-c97c9f3eeb38.fde6f3ed-4a08-4bb8-8240-9cd19e049803",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P8DL6W0JBB8",
-      "titleZh": null,
+      "titleZh": "哈迪斯",
       "shortDescriptionZh": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion. ",
       "platforms": [
         "console",
@@ -11238,7 +11238,7 @@
         "userScore": 8.5,
         "userReviewCount": 5253
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PCR3Z2MSM4T",
@@ -11531,7 +11531,7 @@
       "releaseDate": "2026-07-28T15:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.33604.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.d9903df6-1139-45ca-9be8-af50a3290e51",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N6J4RNFPKKL",
-      "titleZh": "Halo: Campaign Evolved - 标准版",
+      "titleZh": "光环：战役进化",
       "shortDescriptionZh": "体验传奇的起点.",
       "platforms": [
         "console",
@@ -11552,7 +11552,7 @@
         "userScore": 5.8,
         "userReviewCount": 668
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BV0K9LMLQ9W5",
@@ -11763,7 +11763,7 @@
       "releaseDate": "2025-09-04T08:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34907.13542441777400767.a5c76c76-ba5a-4024-b4ed-cbd190240c15.993b7502-3417-4157-aa5f-0fde2f6dc1f4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9097G0XZMB",
-      "titleZh": "Hell is Us 地狱即我们",
+      "titleZh": "地狱即我们",
       "shortDescriptionZh": "如果战争是我们最所接近的人间地狱，那会因为这世界上藏着最可怕的恶魔——人类。在一个被内乱摧残与世隔绝的国家，发现你过去的秘密，应对一场神秘灾难的后果。",
       "platforms": [
         "console",
@@ -11835,7 +11835,7 @@
       "releaseDate": "2018-04-11T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28362.67453348098260763.a9f96429-c651-425e-97d2-e8861561f15f.f7b26f7f-73d8-4f53-9f3b-4d9e4e4d23f0",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C4Z7QM8FSXM2",
-      "titleZh": null,
+      "titleZh": "地狱之刃：塞娜的献祭",
       "shortDescriptionZh": "From the makers of Heavenly Sword, Enslaved: Odyssey to the West, and DmC: Devil May Cry, comes a warrior’s brutal journey into myth and madness.\r\n\r\nSet in the Viking age, a broken Celtic warrior embarks on a haunting vision quest into Viking Hell to fight for the soul of her dead lover. \r\n\r\nCreated in collaboration with neuroscientists and people who experience psychosis, Hellblade: Senua’s Sacrifice will pull you deep into Senua’s mind.",
       "platforms": [
         "console"
@@ -11855,7 +11855,7 @@
         "userScore": 7.7,
         "userReviewCount": 2472
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NCLP4LV5K7Z",
@@ -11870,7 +11870,7 @@
       "releaseDate": "2018-04-10T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28362.13565840937352332.c2117327-dc52-4f1e-bf4a-9beb5fedd166.78951c7f-52a4-45b5-b874-ddca18877849",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NCLP4LV5K7Z",
-      "titleZh": null,
+      "titleZh": "地狱之刃：塞娜的献祭",
       "shortDescriptionZh": "曾带来《奴役：奥德赛西游（Heavenly Sword, Enslaved:  Odyssey to the West）》和《鬼泣（DmC: Devil May Cry）》的团队本次将奉上充满神秘与疯狂的战士杀戮之旅。\r\n\r\n故事发生在维京时代，一名心灵受到重创的凯尔特战士一路追踪至北欧炼狱，追寻她死去的爱人的灵魂。\r\n\r\n与神经系统科学家及饱受精神疾病困扰的人们联袂打造，《地狱之刃：苏纽尔的献祭》将带您深入她的内心。",
       "platforms": [
         "pc"
@@ -11890,7 +11890,7 @@
         "userScore": 7.7,
         "userReviewCount": 2472
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NNHK7K8RV9C",
@@ -12023,7 +12023,7 @@
       "releaseDate": "2026-04-30T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.19916.14555346148176053.3c4eeac4-80f2-4a05-b548-e0a6dfdd9587.4fe072ae-40aa-42a2-80b5-8d4c78c1b5ed",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2TFCCRKMRD",
-      "titleZh": "魔法门之英雄无敌：上古纪元 Heroes of Might and Magic: Olden Era (游戏预览版)",
+      "titleZh": "魔法门之英雄无敌：上古纪元 Heroes of Might and Magic: Olden Era",
       "shortDescriptionZh": "《魔法门之英雄无敌：上古纪元》是誉满全球的回合制策略经典《英雄无敌》系列的正统前传。集结浩荡大军，施展撼天动地的法术，在单人战役与多人对战中荡平群敌。",
       "platforms": [
         "pc"
@@ -12231,7 +12231,7 @@
       "releaseDate": "2023-05-04T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.6642.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.46dc11ff-dcf6-425c-8aaf-5b474edd9def",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK4NTBFWW81",
-      "titleZh": "《霍格沃茨之遗》Xbox One版",
+      "titleZh": "霍格沃茨之遗",
       "shortDescriptionZh": "《霍格沃茨之遗》是一款沉浸式开放世界动作角色扮演游戏。这回，你将在魔法世界中扮演“你自己”，亲手书写属于自己的传奇。",
       "platforms": [
         "console"
@@ -12267,7 +12267,7 @@
       "releaseDate": "2025-09-04T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.21346.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.508fc374-c9ac-44bf-b71a-9d4b29515e2f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N116V0599HB",
-      "titleZh": null,
+      "titleZh": "空洞骑士：丝之歌",
       "shortDescriptionZh": "探索《空洞骑士：丝之歌》中庞大的诅咒王国！在这个由丝线与歌声统治的地下世界中，攀登顶峰的旅途，亦是探索、战斗与生存的考验。",
       "platforms": [
         "console",
@@ -12288,7 +12288,7 @@
         "userScore": 8.9,
         "userReviewCount": 7379
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9MW9469V91LM",
@@ -12304,7 +12304,7 @@
       "releaseDate": "2018-09-25T17:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.58959.13847644057609868.8865d2a2-5e11-4424-85ce-1db30a161bd9.41ca3834-331c-4d34-b2c9-7dfe318fd168",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW9469V91LM",
-      "titleZh": "Hollow Knight: 虚空之心版",
+      "titleZh": "空洞骑士：虚空之心版",
       "shortDescriptionZh": "深入《空洞骑士》的世界——这部屡获殊荣的昆虫与英雄题材的动作冒险游戏！探索幽深的洞穴、古老的城市和危险的废墟，与被感染的生物战斗，结识友好又奇异的昆虫，并揭开掩埋在王国腹地的古老历史和远古谜团的真相。",
       "platforms": [
         "console",
@@ -12325,7 +12325,7 @@
         "userScore": 9,
         "userReviewCount": 770
       },
-      "titleZhSource": "store"
+      "titleZhSource": "override"
     },
     {
       "productId": "9NBFGKQLMV33",
@@ -13513,7 +13513,7 @@
       "releaseDate": "2024-09-26T11:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.48887.14556235508309133.ebb6dc1c-004f-4bb2-8ce7-f545c53b97d2.a687bfc3-c900-4f53-8b7f-d6db8207d4e3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2S2QVRB97N",
-      "titleZh": "圣剑传说 Legend of Mana",
+      "titleZh": "圣剑传说",
       "shortDescriptionZh": "于1999年发售的《圣剑传说 Legend of Mana》如今仍受众多“圣剑传说”粉丝喜爱。\r\n本作品历经25年之后，将以HD Remaster的形式登陆Xbox。",
       "platforms": [
         "console",
@@ -13550,7 +13550,7 @@
       "releaseDate": "2022-12-12T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.4423.14134368163209494.cd4ca529-da0e-47a6-8316-e2bd8c7fa05b.f0f56ad3-0bc9-438f-8d3e-3b85055ac8a8",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9XGNFNF11R",
-      "titleZh": null,
+      "titleZh": "符文之地传奇",
       "shortDescriptionZh": "A LEAGUE OF LEGENDS™ ROGUELITE ADVENTURE\nRuneterra calls! Choose your champion and pick your path to power: a single-player roguelite romp through the world of League of Legends and Arcane, or a ranked card battler where strategy reigns supreme. Unlock and level up dozens of characters in a hand-crafted love letter to fans of hero collectors and card games alike. \n\nTHE STORY SO FAR\nFrom the back a",
       "platforms": [
         "pc"
@@ -13570,7 +13570,7 @@
         "userScore": 6.5,
         "userReviewCount": 272
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BRMKDCZT0C4L",
@@ -13864,7 +13864,7 @@
       "releaseDate": "2025-07-01T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.29670.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.73fd1948-9741-42f4-89a8-3c6d093d797d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PBM67RXX3V8",
-      "titleZh": "小小梦魇2 强化版 - Windows",
+      "titleZh": "小小梦魇2 强化版",
       "shortDescriptionZh": "\"重回那令人着迷的恐怖世界──\n在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。\n\n摩诺将与新结交的朋友小六携手合作，揭发讯号塔暗藏的秘密……但必须先克服迎面而来的威胁与敌人。\"\n",
       "platforms": [
         "pc"
@@ -14120,7 +14120,7 @@
       "releaseDate": "2023-10-25T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.37819.14574664570876265.de10a2b3-2508-4c92-80c3-5c42384817e9.ab136f62-5b29-4c78-b543-11893326536c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P5F966564FS",
-      "titleZh": "庄园领主 Manor Lords (游戏预览版)",
+      "titleZh": "庄园领主 Manor Lords",
       "shortDescriptionZh": "《庄园领主》是一款中古时期策略游戏，具备深入详尽的城市建造、富有战术深度的大规模战斗，以及复杂的经济和社会模拟。以中古时期领主的身分统治你的土地——坐看季节更迭，天气变化，城市兴衰。",
       "platforms": [
         "pc"
@@ -14180,7 +14180,7 @@
       "releaseDate": "2009-08-06T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.26210.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.f4e9535a-9bfd-4225-941e-ab6a8685194a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BV5N90RDT0SH",
-      "titleZh": null,
+      "titleZh": "质量效应",
       "shortDescriptionZh": "You are Commander Shepard of the SS Normandy, an elite agent in humanity’s Systems Alliance Military. Explore the galaxy with your hand picked squad of combat, tech and biotic specialists as you race against time to stop a madman bent on galactic destruction. Download new systems and worlds to visit! Meet new characters and encounter never before seen alien species! Find new weapons, armor and items as you experience a whole new adventure!",
       "platforms": [
         "console"
@@ -14200,7 +14200,7 @@
         "userScore": 8.5,
         "userReviewCount": 2449
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C0Z1N477W100",
@@ -14290,7 +14290,7 @@
       "releaseDate": "2021-05-13T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.4132.14254372351363255.ac3906d1-13b6-4af0-a00a-e10c8a92007b.834fe893-324e-4c41-9740-bafed4026578",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PKWHT7G60WQ",
-      "titleZh": "质量效应传奇版",
+      "titleZh": "质量效应 传奇版",
       "shortDescriptionZh": "《质量效应》传奇版将包含单人基础内容及广受赞誉的《质量效应》《质量效应2》及《质量效应3》三部曲系列超过 40 款 DLC，更有多种促销武器、装甲，及各种组合包等你来拿——所有内容，全部重置优化新升级，4K Ultra HD，等你体验。",
       "platforms": [
         "console"
@@ -14684,7 +14684,7 @@
       "releaseDate": "2024-11-19T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2VGCTBMM52",
-      "titleZh": null,
+      "titleZh": "微软模拟飞行2024",
       "shortDescriptionZh": "在全球范围内探索你的飞行生涯，完成从医疗撤离、搜救，到空中消防和客运等动态生成的任务。在标志性的雷诺和红牛空中竞赛中与其他飞行员一决高下。增强的物理和飞机系统以及突破性的飞行规划器，共同打造了这无可比拟的模拟体验。探索迄今为止细节更为逼真的数字孪生世界，体验实时的空中和海上交通，以及丰富多样的动物生态。随着《Microsoft Flight Simulator 2024》将模拟体验提升至前所未有的真实性和逼真度，敬请驾驶我们庞大的机队踏上你的全球探险之旅。",
       "platforms": [
         "console",
@@ -14705,7 +14705,7 @@
         "userScore": 5,
         "userReviewCount": 203
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NC9M1NCZ7SD",
@@ -14794,7 +14794,7 @@
       "releaseDate": "2017-09-20T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.53095.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.419e3c9d-9dd3-4a28-a9f3-a12350215871",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MVXMVT8ZKWC",
-      "titleZh": null,
+      "titleZh": "我的世界",
       "shortDescriptionZh": "探索随机生成的世界，建��不可思议的事物，从最简单的住宅，到最宏伟的城堡。您可以在创意模式中享用无限资源，也可以到生存模式中挖掘整个世界，合成武器和护甲，抵御各种危险生物。",
       "platforms": [
         "console"
@@ -14814,7 +14814,7 @@
         "userScore": 8.4,
         "userReviewCount": 11698
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N8NJ74FZTG9",
@@ -14863,7 +14863,7 @@
       "releaseDate": "2021-11-02T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.2957.14089602043039621.efe46bfe-4de2-4879-a22b-f3b08650221c.dbf4f170-baf6-45ca-a7d8-6fadaba1e8b1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NB6BVL3MTG4",
-      "titleZh": "《我的世界：地下城》Windows 版 + Launcher",
+      "titleZh": "我的世界：地下城",
       "shortDescriptionZh": "请注意，如果您是在 Microsoft 商店购买的游戏，您需要通过 Microsoft 商店才能访问并开启游戏。\r\n\r\n在这款以经典的地下城爬行者为灵感、以《我的世界》为背景的全新动作冒险游戏中杀出一条血路！至多四名玩家可以一起组队，或者您也可以独自挑战地牢。在惊险刺激、宝藏多多、风格各异的关卡中与邪恶的新生物作战。而这一切都是为了一项伟大的使命：击败邪恶的奇厄教主！",
       "platforms": [
         "pc"
@@ -14887,7 +14887,7 @@
       "releaseDate": "2023-04-18T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.18880.13695729085627777.1297136a-f273-41f1-947f-59044c848c55.b17bae54-318a-4560-85b1-ac4f9b1e5c1c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NF0D13RPX5L",
-      "titleZh": null,
+      "titleZh": "我的世界：传奇",
       "shortDescriptionZh": "猪灵的下界腐化之力正在吞噬主世界，烧毁它所接触的一切。你是保卫这片温柔土地的英雄吗？制定战略，在史诗般的战斗中对抗猪灵 - 但要注意：它们总是会反击。白天攻占猪灵基地，黄昏后保护你的盟友。探索充满宝藏和危险的郁郁葱葱的生物群系，结识新朋友，并与友好的生物结盟。有小安粒站在你的阵营，剩下要做的就是拯救世界。\r\n\r\n以前所未有的方式体验《我的世界》宇宙和主世界中的史诗传奇\r\n\r\n与新朋友和友好的生物结盟，然后在史诗般的战斗中冲锋在前，对抗凶猛的猪灵，保卫主世界\r\n\r\n穿越一个郁郁葱葱、充满活力的世界，这个世界资源丰富，每次都有不同的体验\r\n\r\n挑战你的朋友或在激烈的战斗中与他们组队，保卫村庄，同时带领你的单元摧毁对手的定居点\r\n",
       "platforms": [
         "console"
@@ -14907,7 +14907,7 @@
         "userScore": 5.7,
         "userReviewCount": 246
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NM395CH685J",
@@ -14991,7 +14991,7 @@
       "releaseDate": "2022-06-06T22:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.808.14492077886571533.be42f4bd-887b-4430-8ed0-622341b4d2b0.c8274c53-105e-478b-9f4b-41b8088210a3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NXP44L49SHJ",
-      "titleZh": null,
+      "titleZh": "我的世界",
       "shortDescriptionZh": "创造\n充分发挥想象，在不受束缚的世界中打造超凡事物，每一次游戏都会带来独一无二的体验。\n\n探索 \n探索各种生物群落、丰富资源和迥异的生物，在这款出色的沙盒游戏中打造一个充满惊奇的世界。\n\n生存\n迎战神秘敌人，穿越激荡人心的风景，踏上险象环生的异世界之旅，感受难忘的冒险旅程。\n\n共同畅玩\n在《Bedrock Edition》中，即使与朋友们相隔千里，也能跨平台在主机、移动设备和 PC 端和他们畅享游戏之乐。也可加入其他 Minecraft 玩家的队伍，在 PC、Mac 和Linux 上的《Java Edition》中共同冒险*。既能在《Bedrock Edition》中的社区服务器上与数百万玩家交流互动，也可订阅 Realms Plus 或 Realms for Java，与多达 10 位好友在私人服务器上尽享游戏时光。\n\n体验更多精彩\n在 Minecraft Marketplace 上获取",
       "platforms": [
         "pc"
@@ -15011,7 +15011,7 @@
         "userScore": 8.4,
         "userReviewCount": 11698
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N5PKH0KW2L1",
@@ -15137,7 +15137,7 @@
       "releaseDate": "2016-06-07T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.55613.66522486697599341.54595999-7800-48a6-8255-bf581c71e0dd.076c4cea-fe6d-488e-94a2-3b33fa4f2eb3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C48LBRJJCP2L",
-      "titleZh": "镜之边缘：Catalyst",
+      "titleZh": "镜之边缘 催化剂",
       "shortDescriptionZh": "此游戏的在线功能已终止。\r\n\r\n《镜之边缘：Catalyst》通过流畅的第一人称动作达到了动作冒险游戏的新高度，让玩家沉浸在 Faith 的起源故事中，在 Glass 城中为自由而战。",
       "platforms": [
         "console"
@@ -15157,7 +15157,7 @@
         "userScore": 6,
         "userReviewCount": 924
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9P8X6TVW9ZW8",
@@ -15721,7 +15721,7 @@
       "releaseDate": "2015-11-03T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.16220.63922543011545658.b811c016-7bf5-44e1-8dbe-39de98149fe7.5dc8877c-676e-4cd8-b12e-7d04448fec7a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BXWJNW4170RM",
-      "titleZh": null,
+      "titleZh": "极品飞车",
       "shortDescriptionZh": "在Need for Speed™ 中成为成为都市汽车文化的代表。竞速并探索广阔的夜间开放世界，用真实的汽车改装来表现您的风格，并沉浸于由现实世界的传奇Magnus Walker和Ken Block主演的故事。 \r\n\r\nNeed for Speed是网络游戏。\r\n需要192 Kbps或更高的网络连接速度。",
       "platforms": [
         "console"
@@ -15741,7 +15741,7 @@
         "userScore": 6.1,
         "userReviewCount": 1280
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BRZZLBF5T245",
@@ -15792,7 +15792,7 @@
       "releaseDate": "2020-11-06T09:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.32702.13695403561576988.ee93f06a-1e4b-49d1-aa54-9b9583915442.510fe002-6032-4719-b3b8-40e672c81605",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NMBJQ0265ZK",
-      "titleZh": "极品飞车：热力追踪重制版",
+      "titleZh": "极品飞车：热力追踪 重制版",
       "shortDescriptionZh": "《极品飞车：热力追踪》重制版让你感受追逐的快感和脱逃的乐趣，从驾驶全世界最热门的高性能跑车中感受到狂野的速度激情。",
       "platforms": [
         "console"
@@ -15960,7 +15960,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.36855.14126797277715794.df83955a-9b36-4f4a-a5f3-294738bfc10c.d073fd5f-91d3-4b60-b87e-246ca992fa94",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PB3GGBSG27C",
-      "titleZh": "《NHL 25》Xbox Series X|S 版",
+      "titleZh": null,
       "shortDescriptionZh": "《EA SPORTS™ NHL 25》基于全新智能游戏玩法系统 ICE-Q 打造，赋予您控制每一寸冰球场的时间与空间。体验确凿无疑的冰球智能吧。",
       "platforms": [
         "console"
@@ -15980,7 +15980,7 @@
         "userScore": 3,
         "userReviewCount": 77
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9PC1KTWW5PB5",
@@ -15995,7 +15995,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.18465.14112647412832778.84c189e6-f1da-44ed-9b30-6d4c0a1a991a.0d105173-7cfa-48fa-a126-f40247669830",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PC1KTWW5PB5",
-      "titleZh": "《NHL 26》Xbox Series X|S 版",
+      "titleZh": null,
       "shortDescriptionZh": "与划时代的天才、备受爱戴的传奇巨星和赛场颠覆者一同踏上冰球场，书写崭新的历史。",
       "platforms": [
         "console"
@@ -16015,7 +16015,7 @@
         "userScore": 3,
         "userReviewCount": 88
       },
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9PDGC1Z6ZHTP",
@@ -16271,7 +16271,7 @@
       "releaseDate": "2025-07-31T15:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.32236.14186314712076006.978d20b2-62d5-4e8b-b4ad-6c6161e1aeca.1e995cf5-0fb4-4783-8af0-71bd769e956f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PGFSLP8GWQK",
-      "titleZh": "NINJA GAIDEN: Ragebound（忍者外传：怒之羁绊）",
+      "titleZh": "忍者外传：怒之羁绊",
       "shortDescriptionZh": "《NINJA GAIDEN: Ragebound（忍者外传：怒之羁绊）》是以红白机《忍者龙剑传》为灵感的系列的全新横版卷轴作品，由《神之亵渎 Blasphemous》制作团队倾力打造，以宏大、惊险且充满挑战的忍者冒险打造出了这个经典平台动作游戏新列在新时代的全新体验。",
       "platforms": [
         "console",
@@ -16346,7 +16346,7 @@
       "releaseDate": "2026-03-26T18:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64389.13514288515095406.3f7236b5-ddee-4494-adf3-12dbe4be4e57.5b73e318-a3d6-4ce1-a529-ebc6265a69ae",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBNFBQ546DT",
-      "titleZh": "罗马之城 Nova Roma (游戏预览版)",
+      "titleZh": "罗马之城 Nova Roma",
       "shortDescriptionZh": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
       "platforms": [
         "pc"
@@ -16590,7 +16590,7 @@
       "releaseDate": "2026-05-11T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.39817.14196427234086945.931ac468-b5db-4f37-a501-62363c0d7c58.733a6945-b3c2-4a08-b7d1-0fdecd3114b7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PFWZMT737GG",
-      "titleZh": "Outbound / 拾光旅人",
+      "titleZh": "拾光旅人",
       "shortDescriptionZh": "打造属于你的移动家园，实现自给自足的可持续生活。制作工作台和电源，利用太阳能、风能或水能，升级并定制车辆，种植庄稼.。最多4人组队，探索这个绚丽多彩的世界。",
       "platforms": [
         "console",
@@ -16832,7 +16832,7 @@
       "releaseDate": "2024-01-19T08:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.49778.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.9102215b-349a-4f6d-b9a3-2c14908481f1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKV34XDW014",
-      "titleZh": "Palworld / 幻兽帕鲁",
+      "titleZh": "幻兽帕鲁",
       "shortDescriptionZh": "你可以选择与神奇的生物“帕鲁”一同享受悠闲的生活，也可以投身于与偷猎者进行生死搏斗的冒险。",
       "platforms": [
         "console",
@@ -17136,7 +17136,7 @@
       "releaseDate": "2019-12-19T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.23750.14507726714197033.ea391b48-d8cb-4724-a6cb-765168bd5161.0029c50b-c234-475e-9928-0185fc83e0aa",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P1P5Q3BNM7J",
-      "titleZh": null,
+      "titleZh": "凤凰",
       "shortDescriptionZh": "《Phoenix Point》将玩家置于殊死的战斗中，目标是从变异的外星威胁势力手中夺回地球。《Phoenix Point》的地图程序化生成，回合制战术战斗和全球范围内的资源管理，将带来无限的可重玩性，为玩家提供严酷的挑战。\r\n\r\n在一场全球性的环境灾难后，潘多拉病毒现世，造成包括人类在内的大量生物发生可怕的变异。由于无法阻止病毒的蔓延，多数人类文明已灰飞烟灭，地球上只留存有较小的孤立飞地，被主体部分和广阔的土地分隔开来。Phoenix Project 是应对全球灾难的古老保障项目，也是团结人类、夺回地球的唯一希望。\r\n\r\n前往在 Phoenix Point 的项目基地，领导 Phoenix Project 的开展。研发新科技和工艺，计划行动，建立联盟，团结全球，或者毁灭你的敌手。拯救星球并重建文明？这一切都取决于你，但外星威胁可能会远比你看到的多。\r\n\r\n* 变异外星人的威胁：直面不断变",
       "platforms": [
         "console",
@@ -17157,7 +17157,7 @@
         "userScore": 5.8,
         "userReviewCount": 408
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NRHQLZX3900",
@@ -17391,7 +17391,7 @@
       "releaseDate": "2010-07-27T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.7703.68871528329885281.e03a829d-faa0-4a31-a5d8-785bb8b52288.748acac8-0b82-4e85-a963-0f0736c33cc4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BR1D9CR82ZM8",
-      "titleZh": null,
+      "titleZh": "植物大战僵尸",
       "shortDescriptionZh": "A mob of fun-loving zombies is about to invade your home. Defend yourself with an arsenal of home-guardin’ plants to mulchify zombies before they reach your front door.  Get twice the zombie-zapping action with 2-player Versus and Co-op modes. Upgrade and decorate your house in the interactive leaderboard, and check out your friends’ houses, too. Plants vs. Zombies is loaded with seven game modes, new rabble-rousing features, and unlimited replayable action… so the fun never dies!",
       "platforms": [
         "console"
@@ -17411,7 +17411,7 @@
         "userScore": 8.7,
         "userReviewCount": 1961
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BTJ0T8C04ZBV",
@@ -18729,7 +18729,7 @@
       "releaseDate": "2024-02-13T10:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.52431.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.e0e59e64-4a76-4d37-9098-c1b8bf8d0d3c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7T44TTDL7M",
-      "titleZh": null,
+      "titleZh": "生化危机3 重制版",
       "shortDescriptionZh": "不管逃到哪里也会被追至绝路。\r\n\r\n浣熊市发生突如其来的生物灾害，更为危险的武器被投入到这个逐渐毁灭的城镇中……\r\n\r\n多重的危机，九死一生的惊险动作和重新构建的逃生剧情，一切超乎你的想象。\r\n\r\n你能逃离这片绝望吗？",
       "platforms": [
         "pc"
@@ -18749,7 +18749,7 @@
         "userScore": 6.8,
         "userReviewCount": 5309
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BW3T6SNS15BH",
@@ -18787,7 +18787,7 @@
       "releaseDate": "2017-01-24T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38644.71433286839923669.1250138a-286b-4b3f-8367-3d201ae45ae9.a08b2cbe-68eb-4c9e-a196-78097193172f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BVFDTJ1XF6CS",
-      "titleZh": null,
+      "titleZh": "生化危机7",
       "shortDescriptionZh": "于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围。 「7」标志着全新的恐怖求生体验，以及玩家视觉切换为更骇人的「隔离视觉」模式。有赖RE工程部的努力，恐怖的写实感提升至一个全新的境界。让你进入恐怖求生的新世界。",
       "platforms": [
         "console"
@@ -18807,7 +18807,7 @@
         "userScore": 8.2,
         "userReviewCount": 6425
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NBLGGH4SPK6",
@@ -18822,7 +18822,7 @@
       "releaseDate": "2017-01-23T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38644.13510798887575711.33864e3a-d5f7-4c9e-85f6-6baf85bc61e0.b94a0c5b-fc10-4321-afe8-c864c71755e6",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBLGGH4SPK6",
-      "titleZh": null,
+      "titleZh": "生化危机7",
       "shortDescriptionZh": "于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围。 「7」标志着全新的恐怖求生体验，以及玩家视觉切换为更骇人的「隔离视觉」模式。有赖RE工程部的努力，恐怖的写实感提升至一个全新的境界。让你进入恐怖求生的新世界。",
       "platforms": [
         "pc"
@@ -18842,7 +18842,7 @@
         "userScore": 8.2,
         "userReviewCount": 6425
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N2S04LGXXH4",
@@ -18855,7 +18855,7 @@
       "releaseDate": "2021-05-06T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.56356.13946458263695761.43457946-df8c-4dc7-96ef-7ffc79bd1869.dc330229-0b8f-4260-9efc-a88249566e7c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N2S04LGXXH4",
-      "titleZh": null,
+      "titleZh": "生化危机 村庄",
       "shortDescriptionZh": "在《Resident Evil》系列最新游戏中展开令人毛骨悚然的绝命拚搏。\r\n伊森一家的平静生活因克里斯·雷德菲尔德而又陷入混乱之中，他再次身陷无法逃离的梦魇中。\r\n\r\n\r\n这款系列第8部主要作品由日益成熟的游戏引擎“RE ENGINE”创造，将带来最新生存“动作”恐怖游戏体验。\r\n",
       "platforms": [
         "console",
@@ -18876,7 +18876,7 @@
         "userScore": 8.4,
         "userReviewCount": 5193
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PPBNCXP0096",
@@ -18961,7 +18961,7 @@
       "releaseDate": "2022-08-18T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.24576.13967749296389194.10d4dd3f-5a58-4458-be2d-7f2ad1e13b24.3b3a1fa8-1d7c-4a27-b1af-f1f262f5e618",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N1WT4X26SHW",
-      "titleZh": null,
+      "titleZh": "重返德军总部",
       "shortDescriptionZh": "第二次世界大战爆发，国家沦陷。纳粹意图通过科学和秘仪打造出一支能够一劳永逸消灭盟军的军队。你需扮演美国军队的士兵William “B.J.” Blazkowicz，执行一项深入第三帝国黑暗心脏的艰巨任务，阻止或拼死阻止他们。",
       "platforms": [
         "pc"
@@ -18981,7 +18981,7 @@
         "userScore": 7.9,
         "userReviewCount": 118
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NZ4T5RFD7KF",
@@ -19158,7 +19158,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.57731.14201145446258372.6505701a-9e34-4340-9a72-11d5e60dd04f.c03f682d-3d1a-44e2-ae7d-5743489f5309",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PFNXM9G4N83",
-      "titleZh": "宇宙牌加油站（游戏预览版）",
+      "titleZh": "宇宙牌加油站",
       "shortDescriptionZh": "《宇宙牌加油站》是一款支持1至4名玩家合作的加油站模拟游戏。不过，你扮演的是外星人，而且还是卧底。你要一边做着人类平常的事情，比如给货架补货，一边为入侵地球做准备。千万别被人发现哦！",
       "platforms": [
         "console",
@@ -19220,7 +19220,7 @@
       "releaseDate": "2023-11-07T09:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.15889.14593591481307987.1e2d6495-99f7-469f-afa9-16c05216b58f.15ba9cb9-a9ce-49c2-b255-6529845a89ef",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P47S7NJGWZL",
-      "titleZh": "Roboquest (机械守护者)",
+      "titleZh": "机械守护者",
       "shortDescriptionZh": "Roboquest是一款设定在被遗弃的未来世界中的快节奏的Roguelite的第一人称射击游戏。你是个被重启的守护者机器人，已经准备好暴打一顿别的破铜烂铁！\r\n在多变的环境中与你的朋友，或孤身一人的消灭一群又一群的致命机器人。",
       "platforms": [
         "console",
@@ -19256,7 +19256,7 @@
       "releaseDate": "2016-02-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.62884.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.8495fe9e-4ded-40c0-9f0d-468b534b7b54",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C125W9BG2K0V",
-      "titleZh": null,
+      "titleZh": "火箭联盟",
       "shortDescriptionZh": "免費遊玩 Rocket League！\r\n\r\n下載遊戲，在街機風格足球遊戲和車輛混戰的高效混合遊戲中進行競賽！解鎖 Rocket Pass 中的物品、攀升競賽級別、參加競技錦標賽、完成挑戰，並享受跨平台進度和更多內容！來一試身手吧！ ",
       "platforms": [
         "console",
@@ -19277,7 +19277,7 @@
         "userScore": 7.9,
         "userReviewCount": 3104
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PCJT6TLCGGV",
@@ -19330,7 +19330,7 @@
       "releaseDate": "2026-09-15T09:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.19279.14598963835318421.d3340a04-fc78-4b06-9abb-2849494504b3.db648883-647c-4b89-9427-69507858a55f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P402RWR63H4",
-      "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野",
+      "titleZh": "符文世界：龙之荒野",
       "shortDescriptionZh": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
       "platforms": [
         "console",
@@ -19436,7 +19436,7 @@
       "releaseDate": "2026-08-13T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.59202.14324477862367650.3d3cc6a2-f95a-4f3c-a402-9cd3bfe2dcd9.bcece250-2720-48f0-b3e9-822521add260",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PPH71DV44T7",
-      "titleZh": "沙金工业 Sandustry (游戏预览版)",
+      "titleZh": "沙金工业 Sandustry",
       "shortDescriptionZh": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
       "platforms": [
         "pc"
@@ -20218,7 +20218,7 @@
       "releaseDate": "2014-03-04T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34768.13782532772171958.8f3c8098-8bdc-46a4-ad91-81f964c170ce.c884351e-42f3-4fe2-9bee-1dcd8297e09f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NQ26CN8MZ1R",
-      "titleZh": null,
+      "titleZh": "南方公园：真理之杖",
       "shortDescriptionZh": "扮演屎蛋、凯子、阿ㄆ一ㄚˇ和阿尼的新朋友，一同踏上荒诞又疯狂的 RPG 之旅，寻回失落的真实之杖。",
       "platforms": [
         "pc"
@@ -20238,7 +20238,7 @@
         "userScore": 8.5,
         "userReviewCount": 2979
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C4VLMWJWM7BG",
@@ -20254,7 +20254,7 @@
       "releaseDate": "2017-10-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.36209.67439233347281353.312c5ca8-59b5-4ba8-88de-4df24412a885.0fa53054-edfe-4220-b64a-274afb4fd958",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C4VLMWJWM7BG",
-      "titleZh": null,
+      "titleZh": "南方公园：完整破碎",
       "shortDescriptionZh": "繼 2014 年得過遊戲獎的「South Park: The Stick of Truth」後，「南方四賤客」作者 Trey Parker 與 Matt Stone 將推出全新力作「South Park: The Fractured but Whole」。這次玩家將再度扮演 New Kid，和南方四賤客超人氣角色 Stan、Kyle、Kenny 與 Cartman 一起展開一場全新爆笑、無厘頭的角色扮演冒險故事。",
       "platforms": [
         "console"
@@ -20274,7 +20274,7 @@
         "userScore": 7.8,
         "userReviewCount": 934
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PJNXM82ZX47",
@@ -20287,7 +20287,7 @@
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.36209.13614170963517427.58a3fd51-cd1e-499a-a5dc-fbf13cf861e3.f8f17bf3-8c44-4960-9cd3-38b6788e7381",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PJNXM82ZX47",
-      "titleZh": null,
+      "titleZh": "南方公园：完整破碎",
       "shortDescriptionZh": "在这次《南方公园》作者精心制作的全新作品中，玩家将扮演新来的孩子，和斯坦、凯尔、肯尼与卡特曼一起展开一场全新的爆笑无厘头角色扮演冒险故事。",
       "platforms": [
         "pc"
@@ -20307,7 +20307,7 @@
         "userScore": 7.8,
         "userReviewCount": 934
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C0QDQ0KX4HDV",
@@ -20323,7 +20323,7 @@
       "releaseDate": "2018-02-13T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34768.64394882138437593.772185c5-50e8-4003-ad76-1f056f2fe454.bf25143c-c2f0-4a1c-84f6-cc4256d384d2",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0QDQ0KX4HDV",
-      "titleZh": null,
+      "titleZh": "南方公园：真理之杖",
       "shortDescriptionZh": "扮演屎蛋、凱子、阿ㄆ一ㄚˇ和阿尼的新朋友，一同踏上荒誕又瘋狂的 RPG 之旅，尋回失落的真實之杖。",
       "platforms": [
         "console"
@@ -20343,7 +20343,7 @@
         "userScore": 8.5,
         "userReviewCount": 2979
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9PPKR9N31BW6",
@@ -20669,7 +20669,7 @@
       "releaseDate": "2024-09-17T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.58100.14307838718612882.e0c0d680-9047-4793-86d4-78e3dd87e6c2.9c42a5ea-d0d4-4fa0-8ffe-c4382e8313ee",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLRP6PHV6XP",
-      "titleZh": "《星球大战 绝地：幸存者》Xbox One",
+      "titleZh": "星球大战 绝地：幸存者",
       "shortDescriptionZh": "在《星球大战 绝地：幸存者™》，这款由 Respawn Entertainment 与 Lucasfilm Games 合作开发的跨银河系第三人称动作冒险游戏中，卡尔·凯斯提斯的故事仍将继续。",
       "platforms": [
         "console"
@@ -20805,7 +20805,7 @@
       "releaseDate": "2017-11-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.31281.64256825846959382.44b5bc43-437a-4414-83ca-b41ba9e7764a.86abb8aa-f419-4a90-b6aa-cf79b4228f06",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0GWTPD0S8S1",
-      "titleZh": "STAR WARS 战地 II",
+      "titleZh": "星球大战：前线II",
       "shortDescriptionZh": "随时体验来自畅销 STAR WARS™ HD 游戏系列的全新战地感受。\r\n\r\n成为英雄并作为无畏的骑兵去战斗、探索传奇的星战机，用你最爱的标志性 STAR WARS 角色来进行战斗，或通过一个崭新的扣人心弦激动人心的 STAR WARS 故事来塑造一个新的精英特种部队士兵的全新征程。",
       "platforms": [
         "console"
@@ -20825,7 +20825,7 @@
         "userScore": 2,
         "userReviewCount": 9491
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BV9CWVQWNS4P",
@@ -21207,7 +21207,7 @@
       "releaseDate": "2015-04-28T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28894.67259324082967957.a648096d-45eb-44bf-9db2-f3eafcae7d67.5c1b8541-d919-49dc-ac87-8d68dad5201a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C5JGRR1LFVW8",
-      "titleZh": null,
+      "titleZh": "腐烂国度",
       "shortDescriptionZh": "Included with purchase of State of Decay: Year-One Survival Edition; not available for purchase separately.",
       "platforms": [
         "console"
@@ -21227,7 +21227,7 @@
         "userScore": 7.8,
         "userReviewCount": 640
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C350VBGGCL6P",
@@ -21311,7 +21311,7 @@
       "releaseDate": "2026-05-14T17:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.10817.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.8942c710-7732-4c0c-b401-d76a9d802364",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PJPCB188SVG",
-      "titleZh": "Subnautica 2：异星水域 (游戏预览版)",
+      "titleZh": "Subnautica 2：异星水域",
       "shortDescriptionZh": "《Subnautica 2：异星水域》是背景设定在全新外星世界的水下生存冒险游戏，由Unknown Worlds倾力打造。可以单人游玩，也可以与好友组队开启四人合作模式。建造专属基地，制作不同工具，适应环境，水下求生。探索未知世界，揭开深海中隐藏的谜团。",
       "platforms": [
         "console",
@@ -21407,7 +21407,7 @@
       "releaseDate": "2017-11-06T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.33701.14315077775214047.aef14d78-c52a-408c-8883-8ecc08036d2e.cd86b1df-9b7a-4511-89c9-2ca7358d6f5e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLMGFWCFZ9G",
-      "titleZh": "超级幸运狐 (Super Lucky's Tale)",
+      "titleZh": "超级幸运狐 ()",
       "shortDescriptionZh": "这是一款老少咸宜的欢乐游乐场平台游戏。主角乐琦是一个天性乐观、精力充沛、令人爱戴的英雄，他的任务是找到自己的内在力量，帮助姐姐将时代之书从金克斯手中夺回来。金克斯是一个奸诈又神秘的坏蛋，试图重塑世界，但他的目的是什么呢？",
       "platforms": [
         "console",
@@ -21836,7 +21836,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.35901.14348422587763881.b2b2844c-eb84-49b0-920b-516b38b33a6c.4af01740-f8b6-4720-b1c3-a890f227033e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PN8M16GG8M4",
-      "titleZh": "Tears of Metal (游戏预览版)",
+      "titleZh": null,
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。\n\n金属之泪 是一款中世纪风格的合作型 roguelike 游戏，玩家将与强大的苏格兰军团一起，穿越敌人的阵线，夺回自己的岛屿。随着你深入战壕，你将揭示更多关于神秘的龙陨石和危险的敌人入侵的信息。",
       "platforms": [
         "pc"
@@ -21844,7 +21844,7 @@
       "xboxOne": false,
       "xboxSeries": false,
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9NF83PRZK6K3",
@@ -22156,7 +22156,7 @@
       "releaseDate": "2024-09-03T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PG0PMB5Q0GT",
-      "titleZh": null,
+      "titleZh": "法兰克·史东的暴行",
       "shortDescriptionZh": "弗兰克·斯通的阴影笼罩着雪松山，他的暴力过去永远地改变了这个小镇。正如一群年轻的朋友即将发现的那样，斯通的血腥传承影响深远，给家庭、世代甚至现实本身都留下了伤痕",
       "platforms": [
         "console",
@@ -22177,7 +22177,7 @@
         "userScore": 5.7,
         "userReviewCount": 249
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BTBWBGKPKS97",
@@ -22421,7 +22421,7 @@
       "releaseDate": "2021-03-12T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.59595.14329181907474580.fffa1d70-f0e3-45ee-b468-096880ec659e.6ae43892-4027-4344-8379-19b408200a92",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PP7XSG5LDH1",
-      "titleZh": null,
+      "titleZh": "上古卷轴III：晨风",
       "shortDescriptionZh": "在史诗般的开放式单人RPG游戏《Morrowind》中，你可以创造和扮演任何想象得到的角色。你可以选择跟随主线剧情，寻找肆虐于这片大地的邪恶枯萎病的根源，或者自行前去探索陌生地点，并基于角色在整个游戏中的剧情来发展他们的特性。《Morrowind》以令人惊叹的3D图形、开放式的玩法以及超乎想象的细节和交互性，提供了无可匹敌的游玩体验。",
       "platforms": [
         "pc"
@@ -22441,7 +22441,7 @@
         "userScore": 8.4,
         "userReviewCount": 354
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "C5K89TFLSV19",
@@ -22491,7 +22491,7 @@
       "releaseDate": "2021-03-12T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.15154.14561494258435094.d6315fcc-92fc-49c5-ae5f-bcfe4b00d359.cf64ddd5-f68b-474f-afe6-94d943a95295",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2J5D12GJL5",
-      "titleZh": null,
+      "titleZh": "上古卷轴IV：湮灭重制版",
       "shortDescriptionZh": "《The Elder Scrolls IV: Oblivion》年度最佳游戏版是有史以来最好的RPG游戏之一。进入这个迄今为止细节最为丰富且充满活力的游戏世界。在这款有力结合了游玩自由度和前所未有之图形的游戏中，你可以自己的节奏完成主要任务，或探索这个广阔的世界，寻找你自己的挑战。",
       "platforms": [
         "pc"
@@ -22511,7 +22511,7 @@
         "userScore": 7.4,
         "userReviewCount": 987
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NQR437K7PQH",
@@ -22919,7 +22919,7 @@
       "releaseDate": "2017-08-01T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28995.66934420265726607.97919c5c-edc3-4ec4-a441-ca3d129949d8.c25d9682-7a67-449e-9f24-fba0216ba0d9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C41ZDFQ82M1G",
-      "titleZh": null,
+      "titleZh": "漫漫长夜",
       "shortDescriptionZh": "《漫漫长夜》是一款引人深思的探索生存类游戏。在游戏中，玩家需要在地磁灾难之后探索巨大的荒野冰原，他们必须独立思考，找到出路。游戏中没有僵尸，只有你、严寒和大自然中的所有残酷环境。",
       "platforms": [
         "console"
@@ -22939,7 +22939,7 @@
         "userScore": 6.9,
         "userReviewCount": 708
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NFKN56ZBMR0",
@@ -22956,7 +22956,7 @@
       "releaseDate": "2017-11-02T09:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.29824.13597521366015513.fe820bcf-9c60-4f57-a3a7-7cf9ca9f1fc1.2d8ba7ec-aee2-4217-b504-3feb93b84f1d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NFKN56ZBMR0",
-      "titleZh": null,
+      "titleZh": "漫漫长夜",
       "shortDescriptionZh": "《漫漫长夜》是一款引人深思的探索生存类游戏。在游戏中，玩家需要在地磁灾难之后探索巨大的荒野冰原，他们必须独立思考，找到出路。游戏中没有僵尸，只有你、严寒和大自然中的所有残酷环境。",
       "platforms": [
         "pc"
@@ -22976,7 +22976,7 @@
         "userScore": 6.9,
         "userReviewCount": 708
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BVTKN6CQ8W5F",
@@ -23346,7 +23346,7 @@
       "releaseDate": "2022-10-18T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.28449.14318793375483754.bef3d00f-b454-4ca1-b55e-94fd2ae048e4.0ac137e7-0421-4a01-bdfd-c32f01bef688",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLFD17M47K3",
-      "titleZh": "《The Sims 4》EA Play 版",
+      "titleZh": "The Sims 4 EA Play 版",
       "shortDescriptionZh": "EA Play* 会员可访问 EA 优质游戏库，享 9 折优惠购买额外资料片和其它 EA 数字产品。\r\n\r\n《The Sims™ 4 来去上班》\r\n\r\n在《The Sims 4 来去上班》中，你就是工作场所的统治者。你可以主动控制模拟市民进行工作，决定他们是会获得惊人晋升，还是会成为工作场所的祸害。如果你想自己当老板，你甚至可以创办、定制并管理自己的零售事业，成为百万富翁！\r\n\r\n主要特色\r\n\r\n成为医生、警探或科学家 — 在全新的职业场所控制你的模拟市民。作为科学家，可以利用你善于分析的头脑来制造疯狂发明；作为警探，可以在调查犯罪现场时揭开秘密；作为医生，可以治疗病人、接生婴儿、进行急救手术。\r\n\r\n开创独特的零售事业 — 你的业务你做主！创办你喜欢的任何零售业务，包括面包店、时装店、画廊和书店等。用建造模式自定义店铺的方方面面，坐等模拟币滚滚而来！选择销售的物品，根据你的需求管理员工，",
       "platforms": [
         "console"
@@ -23737,7 +23737,7 @@
       "releaseDate": "2019-10-04T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.56444.66828190550422385.fbaf89cf-b3e0-4543-aeba-5f00ca851393.df40c5a2-41e9-472d-90ee-ba9fd7488662",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C3VVNLQQ54F8",
-      "titleZh": "汤姆·克兰西《幽灵行动：断点》",
+      "titleZh": "汤姆·克兰西幽灵行动：断点",
       "shortDescriptionZh": "《幽灵行动：断点》是一款设定于广阔开放世界的战术第三人称射击游戏。你必须依靠潜行、策略和高科技装备，在单人模式或合作模式中生存、适应，并击败一支叛变特殊行动部队。",
       "platforms": [
         "console"
@@ -23772,7 +23772,7 @@
       "releaseDate": "2017-03-07T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34828.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.a7c7df41-881f-4ed4-8b2a-8ef7b6454d3b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C2N9CS4FS1QR",
-      "titleZh": "汤姆·克兰西《幽灵行动：荒野》",
+      "titleZh": "汤姆·克兰西幽灵行动：荒野",
       "shortDescriptionZh": "在这款战术第三人称射击游戏中，率领你的精英幽灵小队。你将探索广阔的开放世界，渗透并摧毁致命的圣塔布兰卡贩毒集团，拯救玻利维亚及其人民。\n\n现所有版本均已包含免费的重大更新，内含全新剧情任务、支持 4K 及 60 帧画质！",
       "platforms": [
         "console"
@@ -23871,7 +23871,7 @@
       "releaseDate": "2025-06-10T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64537.14130689193256226.8d62f3e9-9ac5-4676-92a5-ea70272f517c.2d0b1811-f305-41e2-8cf2-970b5d66ccc3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PB3RHWXB9MR",
-      "titleZh": "彩虹六号：围攻- 精英版",
+      "titleZh": "彩虹六号：围攻 - 精英版",
       "shortDescriptionZh": "《彩虹六号：围攻》是战术团队射击游戏中无可争议的典范，明智的策略和行动力是制胜关键。\n\n精英版将解锁全部游戏模式（包括排名战对战列表和围攻杯），以及额外16名特勤干员。",
       "platforms": [
         "console"
@@ -23973,7 +23973,7 @@
       "releaseDate": "2025-12-01T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64537.14130689193256226.8d62f3e9-9ac5-4676-92a5-ea70272f517c.2d0b1811-f305-41e2-8cf2-970b5d66ccc3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NCZ8W65H33V",
-      "titleZh": "彩虹六号：围攻- 精英版",
+      "titleZh": "彩虹六号：围攻 - 精英版",
       "shortDescriptionZh": "《彩虹六号：围攻》是一款精英团队战术射击游戏，高超的策略和行动力是制胜关键。",
       "platforms": [
         "pc"
@@ -24148,7 +24148,7 @@
       "releaseDate": "2025-07-11T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.40.13545870293609016.82216e19-d3ac-41e6-877a-04dfdefd5e6e.e92b2e2f-1207-4f8f-9591-fd8b72fee93f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N926481VT1Z",
-      "titleZh": "Tony Hawk's Pro Skater 3+4- 跨世代版",
+      "titleZh": "Tony Hawk 滑板高手 3+4",
       "shortDescriptionZh": "传奇归来，热血重燃！《Tony Hawk's™ Pro Skater™ 3+4》强势回归！深受玩家喜爱的经典玩法重装上阵，焕新出击：精英滑板手阵容升级、全新场地重磅亮相、花式技巧突破创新、劲爆音乐热血轰鸣，海量新内容等你来战！",
       "platforms": [
         "console",
@@ -24169,7 +24169,7 @@
         "userScore": 6.8,
         "userReviewCount": 155
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BQND4NQXFFV2",
@@ -24630,7 +24630,7 @@
       "releaseDate": "2025-10-01T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.15233.14503958778322715.61be8a1d-2674-48db-845d-715fb5a3120f.1910ff85-b57b-4d63-94e2-5e125df24da9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P1VK0ZCQGND",
-      "titleZh": null,
+      "titleZh": "特技摩托 聚变",
       "shortDescriptionZh": "在《特技摩托：聚变》的虚拟世界中挑战无穷无尽的关卡！运用你高超的技巧穿越充满障碍和斜坡，你可以和全世界最强的《特技摩托》玩家一比高下。无论你是独自飙车，官方赛道上的通过富有创意的、经验丰富的关卡制作者制作的地图，你可以不断征服最新的、最疯狂世界。在未来不断的新功能、新特色的支持下，你在《特技摩托》中的经历也会变得更加丰富，同时挑战其他玩家。",
       "platforms": [
         "pc"
@@ -24650,7 +24650,7 @@
         "userScore": 7,
         "userReviewCount": 343
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NHMR19TS1M0",
@@ -24666,7 +24666,7 @@
       "releaseDate": "2024-09-26T11:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.21389.13622716626834505.51a4c546-2c71-4cf1-810d-52c49148a319.07dde7e0-8844-465f-97dc-aae2a3c5e235",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NHMR19TS1M0",
-      "titleZh": "圣剑传说3 TRIALS of MANA",
+      "titleZh": "圣剑传说3",
       "shortDescriptionZh": "各自的命运，各自的选择。\n再度展开三途旅程。\n\n于1995年发售，至今仍被许多“圣剑传说”粉丝喜爱的《圣剑传说3》的完全重制版终于登陆Xbox。",
       "platforms": [
         "console",
@@ -25212,7 +25212,7 @@
       "releaseDate": "2022-12-12T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKCCHCFTHV2",
-      "titleZh": null,
+      "titleZh": "无畏契约",
       "shortDescriptionZh": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.\r\n\r\nWith Game Pass, members will unlock: \r\n●\tAll current Agents \r\n●\tDay-one access to every new Agent as they're released\r\n●\t20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
       "platforms": [
         "pc"
@@ -25232,7 +25232,7 @@
         "userScore": 4.7,
         "userReviewCount": 5069
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9NMPVJ7TCFD0",
@@ -25383,7 +25383,7 @@
       "releaseDate": "2024-09-30T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.38758.13682791436862455.fd616451-bc9e-4d12-b724-a0f613e579be.f2f0d7e2-8d7d-4aeb-8582-e16db8121630",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NJ5WV40PD08",
-      "titleZh": "圣剑传说 Visions of Mana",
+      "titleZh": "圣剑传说",
       "shortDescriptionZh": "体验围绕着圣剑和玛那之树展开的全新故事。\r\n本作是一款动作RPG，玩家可以借助精灵之力在广阔的3D原野中自由驰骋。",
       "platforms": [
         "console",
@@ -25466,7 +25466,7 @@
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.20544.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.75e42099-ab23-4790-9d28-58ea2fa9077d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9K5QP9G3GL",
-      "titleZh": "VOID/BREAKER (游戏预览版)",
+      "titleZh": null,
       "shortDescriptionZh": "让人肾上腺素狂飙的 Roguelite 第一人称射击游戏",
       "platforms": [
         "pc"
@@ -25474,7 +25474,7 @@
       "xboxOne": false,
       "xboxSeries": false,
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": null
     },
     {
       "productId": "9NQMVR9WL9FW",
@@ -25724,7 +25724,7 @@
       "releaseDate": "2024-09-09T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.939.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c6499c2f-2c1f-4613-9031-089cbe7d35d9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9PCZWHVP2L",
-      "titleZh": null,
+      "titleZh": "战锤40K：星际战士2",
       "shortDescriptionZh": "\n体验星际战士的超人技能和残暴手段，选择单人或多人模式，在恢弘的第三人称战斗中保卫帝国。",
       "platforms": [
         "console",
@@ -25745,7 +25745,7 @@
         "userScore": 7.9,
         "userReviewCount": 1640
       },
-      "titleZhSource": null
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "BXZWT67JBZJH",
@@ -26258,7 +26258,7 @@
       "releaseDate": "2023-02-17T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.15566.14419340246812518.6ed7971c-0390-4d30-8373-3724d60e305e.18f702a4-ab4c-4faf-92ac-b940ef5561e2",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NTFPTBXDDT3",
-      "titleZh": "WILD HEARTS标准版",
+      "titleZh": "狂野之心",
       "shortDescriptionZh": "掌握机巧奇术，狩猎巨型野兽。《WILD HEARTS™》是款独具特色的狩猎游戏，您可以利用古代科技对抗与自然融合的巨型野兽。故事设定于奇幻的封建日本，您可以独自狩猎，也可以与朋友并肩作战。",
       "platforms": [
         "console"
@@ -26278,7 +26278,7 @@
         "userScore": 6.5,
         "userReviewCount": 206
       },
-      "titleZhSource": "store"
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "9N6VS1BMZ3BW",
@@ -26394,7 +26394,7 @@
       "releaseDate": "2023-03-03T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.35756.13524128328401524.c8089ad9-5e75-4246-83e8-2dac88f04afd.c15772fe-d979-45ea-8d13-c81c5a30e4fa",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9X9PC8V9CP",
-      "titleZh": "Wo Long: Fallen Dynasty （卧龙：苍天陨落）",
+      "titleZh": "卧龙：苍天陨落",
       "shortDescriptionZh": "妖邪乱世 龙跃在渊\r\n\r\nTeam Ninja出品暗黑三国诛死游戏。\r\n\r\n西历184年，中国。时值东汉末年，硝烟四起，生灵涂炭。\r\n昔日睥睨天下的大汉王朝，其天命如今摇摇欲坠。\r\n在结合历史、 奇幻与动作元素的本三国动作RPG中，\r\n玩家将化身为无名义勇兵，运用融合了中华武术精髓的剑戟动作，\r\n力挑各路英雄豪杰与横行跋扈的妖魔，踏破三国乱世。\r\n\r\n以东汉末年的中原大地为舞台，玩家将化身无名义勇兵，\r\n运用融合了中华武术精髓的剑戟动作，踏破妖魔横行之乱世。\r\n此外，本作还设计了崭新的战略要素，帮助玩家克服逆境。\r\n\r\n※所有下载内容皆需连接网络方可执行。\r\n※本产品为通常版。另有包含本产品内容在内的“Complete Edition”可供选购 。",
       "platforms": [
         "console",
