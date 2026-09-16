@@ -117,8 +117,12 @@ const datasets = await Promise.all(FILES.map(async (file) => {
 // Queries are the Metacritic title when matched (clean, canonical English) and the
 // store title otherwise.
 const queryOf = (g) => (g.metacritic?.title || g.title).replace(/[®™©]/g, '').trim();
+// A usable store title: the store's own, and actually Chinese. Some "zh" store titles
+// are just a different English name, and those need a lookup like any other.
+const hasStoreTitle = (g) => !!g.titleZh && HAS_CJK.test(g.titleZh) &&
+  (!g.titleZhSource || g.titleZhSource === 'store');
 const pending = [...new Set(datasets.flatMap(({ data }) => data.games)
-  .filter((g) => !g.titleZh || (g.titleZhSource && g.titleZhSource !== 'store'))
+  .filter((g) => !hasStoreTitle(g))
   .map(queryOf)
   .filter((q) => !(norm(q) in cache)))];
 
@@ -153,8 +157,7 @@ await pass('steam', pending.filter((q) => !cache[norm(q)]), fromSteam, 2);
 for (const { file, url, data } of datasets) {
   for (const g of data.games) {
     // A re-run over already-processed files must not relabel looked-up names as store ones.
-    if (g.titleZhSource && g.titleZhSource !== 'store') g.titleZh = null;
-    if (g.titleZh) {
+    if (hasStoreTitle(g)) {
       g.titleZh = tidy(g.titleZh);
       g.titleZhSource = 'store';
     } else {
