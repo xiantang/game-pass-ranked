@@ -68,7 +68,10 @@ const NOISE_PATTERNS = [
 ];
 
 function tidy(name) {
-  let s = toSimplified(name).replace(/[®™©]/g, '').trim();
+  let s = toSimplified(name).replace(/[®™©]/g, '')
+    // Full-width digits and letters ("女神异闻录５") read as a typo next to normal text.
+    .replace(/[０-９Ａ-Ｚａ-ｚ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xfee0))
+    .trim();
   for (let i = 0; i < 2; i++) for (const re of NOISE_PATTERNS) s = s.replace(re, '').trim();
   // 《》 around the name itself: "《战地风云3》" -> "战地风云3", "《Control》终极合辑" -> "Control 终极合辑".
   s = s.replace(/《([^《》]+)》\s*/, (_, inner) => inner + ' ');
@@ -244,7 +247,9 @@ for (const { file, url, data } of datasets) {
       store && [store, 'store'],
       lookup && [lookup, hit.source],
     ].filter((c) => c && HAS_CJK.test(c[0]));
-    const [name, source] = override ? candidates[0]
+    // An override with no Chinese in it means "keep the English title" (INSIDE, not 里面).
+    const [name, source] = override && !HAS_CJK.test(override) ? [null, 'override']
+      : override ? candidates[0]
       : candidates.find(([n]) => !isMixed(n)) || candidates[0] || [null, null];
     g.titleZh = name;
     g.titleZhSource = source;
