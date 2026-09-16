@@ -68,8 +68,9 @@
   .card:hover { transform: translateY(-2px); border-color: #3d4753; }
   .art { position: relative; aspect-ratio: 3 / 4; background: var(--panel-2); }
   .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  /* Bottom-left: top-left covers box-art banners such as "PLAYSTATION HITS". */
   .rank {
-    position: absolute; top: 8px; left: 8px; background: rgba(0,0,0,.72);
+    position: absolute; bottom: 8px; left: 8px; background: rgba(0,0,0,.72);
     border-radius: 6px; padding: 2px 7px; font-size: 12px; color: var(--muted);
   }
   .score {
@@ -112,6 +113,51 @@
   .pill.bad { background: var(--bad); color: #2a0409; } .pill.none { background: var(--panel-2); color: var(--muted); }
   .empty { color: var(--muted); padding: 60px 0; text-align: center; }
   footer { color: var(--muted); font-size: 12px; padding: 30px 20px 50px; max-width: 1400px; margin: 0 auto; }
+
+  /* Share mode: the current results as 3:4 frames of 12, each ready to screenshot
+     for 小红书 / 小黑盒. Everything inside a frame is sized in cqw so a frame scales
+     with the window but keeps its layout. */
+  .share-btn { background: var(--panel); color: var(--text); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 8px 13px; font: inherit; font-size: 14px; cursor: pointer; }
+  .share-btn:hover { border-color: var(--accent); color: var(--accent); }
+  #shareBar { display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+    max-width: 1080px; margin: 0 auto 16px; color: var(--muted); font-size: 13px; }
+  body.share header, body.share footer, body.share .count { display: none; }
+  .frames { display: flex; flex-direction: column; align-items: center; gap: 32px; }
+  .frame {
+    width: min(1080px, calc(100vw - 32px)); aspect-ratio: 3 / 4; container-type: inline-size;
+    background: var(--bg); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+    display: flex; flex-direction: column; padding: 3cqw;
+  }
+  .frame-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 2cqw; margin-bottom: 2.4cqw; }
+  .frame-title { font-size: 3.4cqw; font-weight: 700; line-height: 1.25; }
+  .frame-title span { color: var(--accent); }
+  .frame-sub { font-size: 1.9cqw; color: var(--muted); margin-top: .6cqw; }
+  .frame-page { font-size: 1.9cqw; color: var(--muted); white-space: nowrap; }
+  .frame-grid { flex: 1; display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(3, 1fr);
+    gap: 2cqw; min-height: 0; }
+  .fcard { background: var(--panel); border: 1px solid var(--line); border-radius: 1.2cqw; overflow: hidden;
+    display: flex; flex-direction: column; min-height: 0; }
+  .fcard .fart { position: relative; flex: 1; min-height: 0; background: var(--panel-2); }
+  .fcard .fart img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .fcard .frank { position: absolute; left: .8cqw; bottom: .8cqw; background: rgba(0,0,0,.75);
+    border-radius: .6cqw; padding: .1cqw .7cqw; font-size: 1.5cqw; color: #c9d1d9; }
+  .fcard .fscores { position: absolute; right: .8cqw; bottom: .8cqw; display: flex; gap: .6cqw; align-items: center; }
+  .fcard .fscore { min-width: 4.4cqw; height: 4.4cqw; border-radius: .9cqw; display: grid; place-items: center;
+    font-weight: 700; font-size: 2.2cqw; color: #05140c; }
+  .fcard .fuser { width: 3.6cqw; height: 3.6cqw; border-radius: 50%; display: grid; place-items: center;
+    font-weight: 700; font-size: 1.5cqw; color: #05140c; }
+  .fscore.good, .fuser.good { background: var(--good); } .fscore.mixed, .fuser.mixed { background: var(--mixed); }
+  .fscore.bad, .fuser.bad { background: var(--bad); color: #2a0409; }
+  .fcard .fbody { padding: 1cqw 1.1cqw 1.2cqw; }
+  .fcard .fname { font-size: 1.9cqw; font-weight: 600; line-height: 1.3; height: 2.6em; overflow: hidden;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .fcard .ftags { display: flex; gap: .6cqw; margin-top: .6cqw; font-size: 1.4cqw; color: var(--muted); white-space: nowrap; overflow: hidden; }
+  .fcard .ftags span { border: 1px solid var(--line); border-radius: .5cqw; padding: 0 .6cqw; }
+  .fcard .ftags .tier-2 { color: #79b8ff; border-color: #24476e; }
+  .fcard .ftags .tier-3 { color: #e3b341; border-color: #6b5317; }
+  .frame-foot { display: flex; justify-content: space-between; margin-top: 2cqw; font-size: 1.7cqw; color: var(--muted); }
+  .frame-foot b { color: var(--text); font-weight: 600; }
 </style>
 </head>
 <body>
@@ -183,11 +229,16 @@
         <button data-v="grid" aria-pressed="true" data-i18n="viewGrid"></button>
         <button data-v="list" aria-pressed="false" data-i18n="viewList"></button>
       </div>
+      <button class="share-btn" id="shareOn" data-i18n="shareOn"></button>
     </div>
   </div>
 </header>
 
 <main>
+  <div id="shareBar" hidden>
+    <button class="share-btn" id="shareOff" data-i18n="shareOff"></button>
+    <span data-i18n="shareHint"></span>
+  </div>
   <div class="count" id="count"></div>
   <div id="out"></div>
 </main>
@@ -221,6 +272,13 @@ const I18N = {
     handheldHint: '微软官网的「掌机」筛选直接复用 PC 目录，结果与 Windows PC 相同',
     anyScore: '不限评分', score90: '90+ · 普遍赞誉', score75: '75+ · 好评',
     anyYear: '不限年份', since: (y) => `${y} 年及以后`,
+    shareOn: '生成分享图', shareOff: '← 返回', shareHint: '每张 3:4、12 款游戏，直接截图即可发小红书 / 小黑盒。按 Esc 返回。',
+    shareService: { xgp: 'XGP', psplus: 'PS Plus' },
+    shareTier: { 1: '一档 Essential', 2: '二档 Extra', 3: '三档 Premium' },
+    shareCritic: (n) => `媒体评分 ${n}+`, shareUser: (n) => `玩家评分 ${n}+`, shareSince: (y) => `${y} 年后`,
+    shareQuery: (q) => `搜索「${q}」`, shareHeading: (parts) => parts.join(' · '),
+    shareCount: (n, sort) => `共 ${n} 款 · ${sort}`, sharePage: (i, n) => `${i} / ${n}`,
+    shareLegend: '<b>方块</b> 媒体评分 · <b>圆圈</b> 玩家评分（Metacritic）',
     unrated: '包含无评分作品', viewGrid: '封面', viewList: '列表',
     count: (n, total, scoredOnly, since) =>
       `共 ${total} 款中的 ${n} 款` + (scoredOnly ? '（有 Metacritic 评分）' : '') + (since ? ` · ${since} 年及以后` : ''),
@@ -257,6 +315,13 @@ const I18N = {
     handheldHint: "Xbox serves the Handhelds facet from the PC catalog, so it matches Windows PC",
     anyScore: 'Any score', score90: '90+ · Universal acclaim', score75: '75+ · Generally favorable',
     anyYear: 'Any year', since: (y) => `${y} or newer`,
+    shareOn: 'Share images', shareOff: '← Back', shareHint: 'Each frame is 3:4 with 12 games, ready to screenshot. Press Esc to go back.',
+    shareService: { xgp: 'Game Pass', psplus: 'PS Plus' },
+    shareTier: { 1: 'Essential', 2: 'Extra', 3: 'Premium' },
+    shareCritic: (n) => `Critics ${n}+`, shareUser: (n) => `Users ${n}+`, shareSince: (y) => `${y}+`,
+    shareQuery: (q) => `“${q}”`, shareHeading: (parts) => parts.join(' · '),
+    shareCount: (n, sort) => `${n} games · ${sort}`, sharePage: (i, n) => `${i} / ${n}`,
+    shareLegend: '<b>Square</b> critic score · <b>circle</b> user score (Metacritic)',
     unrated: 'Include unrated', viewGrid: 'Grid', viewList: 'List',
     count: (n, total, scoredOnly, since) =>
       `${n} of ${total} titles` + (scoredOnly ? ' with a Metacritic score' : '') + (since ? ` · released ${since} or later` : ''),
@@ -280,6 +345,7 @@ const pickLang = () => {
 
 let t = I18N.zh;
 const state = { q: '', sort: 'score-desc', playOn: [], min: 0, minUser: 0, since: 0, unrated: false, view: 'grid', lang: 'zh', service: 'xgp', tier: 0 };
+state.share = false;
 // Default to 2010 onward: older titles are a pick-"any year" opt-in, not the first view.
 state.since = 2010;
 
@@ -420,13 +486,80 @@ function renderList(list) {
   }).join('')}</tbody></table>`;
 }
 
+// Share mode splits the results into 3:4 frames of 12 cards (4 × 3), headed by the
+// active filters so a screenshot explains itself.
+const PER_FRAME = 12;
+
+function shareHeading() {
+  const parts = [t.shareService[state.service]];
+  if (state.service === 'psplus' && state.tier) parts.push(t.shareTier[state.tier]);
+  for (const input of document.querySelectorAll('#platform input:checked')) {
+    parts.push(input.closest('label').textContent.trim());
+  }
+  if (state.min) parts.push(t.shareCritic(state.min));
+  if (state.minUser) parts.push(t.shareUser(state.minUser));
+  if (state.since) parts.push(t.shareSince(state.since));
+  if (state.q.trim()) parts.push(t.shareQuery(state.q.trim()));
+  return t.shareHeading(parts);
+}
+
+function renderShare(list) {
+  const sortLabel = document.getElementById('sort').selectedOptions[0]?.textContent || '';
+  const pages = Math.max(1, Math.ceil(list.length / PER_FRAME));
+  const date = datasets[state.service]?.meta?.date || '';
+  const frames = [];
+  for (let p = 0; p < pages; p++) {
+    const cards = list.slice(p * PER_FRAME, (p + 1) * PER_FRAME).map((g, i) => {
+      const s = g.metacritic?.score ?? null;
+      const u = g.metacritic?.userScore ?? null;
+      const tags = [g.year, ...deviceTags(g).filter((d) => d !== 'XPA')].filter(Boolean)
+        .map((x) => `<span>${x}</span>`).join('');
+      const tier = g.tier ? `<span class="tier-${g.tier}">${t.tierName[g.tier]}</span>` : '';
+      return `<div class="fcard">
+        <div class="fart">
+          ${g.image ? `<img src="${esc(g.image)}" alt="">` : ''}
+          <div class="frank">#${p * PER_FRAME + i + 1}</div>
+          <div class="fscores">
+            ${u != null ? `<div class="fuser ${userBand(u)}">${fmtUser(u)}</div>` : ''}
+            <div class="fscore ${band(s)}">${s ?? '–'}</div>
+          </div>
+        </div>
+        <div class="fbody">
+          <div class="fname">${esc(displayTitle(g))}</div>
+          <div class="ftags">${tier}${tags}</div>
+        </div>
+      </div>`;
+    }).join('');
+    frames.push(`<section class="frame">
+      <div class="frame-head">
+        <div>
+          <div class="frame-title">${esc(shareHeading())}</div>
+          <div class="frame-sub">${esc(t.shareCount(list.length, sortLabel))}</div>
+        </div>
+        ${pages > 1 ? `<div class="frame-page">${t.sharePage(p + 1, pages)}</div>` : ''}
+      </div>
+      <div class="frame-grid">${cards}</div>
+      <div class="frame-foot"><span>${t.shareLegend}</span><span><b>games.vim0.com</b> · ${date}</span></div>
+    </section>`);
+  }
+  return `<div class="frames">${frames.join('')}</div>`;
+}
+
+function setShare(on) {
+  state.share = on;
+  document.body.classList.toggle('share', on);
+  document.getElementById('shareBar').hidden = !on;
+  render();
+  window.scrollTo(0, 0);
+}
+
 function render() {
   const list = visible();
   document.getElementById('count').textContent =
     t.count(list.length, games.length, !state.unrated, state.since);
-  document.getElementById('out').innerHTML = list.length
-    ? (state.view === 'grid' ? renderGrid(list) : renderList(list))
-    : `<div class="empty">${t.empty}</div>`;
+  document.getElementById('out').innerHTML = !list.length ? `<div class="empty">${t.empty}</div>`
+    : state.share ? renderShare(list)
+    : state.view === 'grid' ? renderGrid(list) : renderList(list);
 }
 
 function applyLang(lang) {
@@ -550,6 +683,9 @@ const pickService = () => {
     render();
   });
   bindSeg('view', 'view');
+  document.getElementById('shareOn').addEventListener('click', () => setShare(true));
+  document.getElementById('shareOff').addEventListener('click', () => setShare(false));
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && state.share) setShare(false); });
   document.getElementById('lang').addEventListener('click', (e) => {
     const btn = e.target.closest('button');
     if (btn) applyLang(btn.dataset.v);
