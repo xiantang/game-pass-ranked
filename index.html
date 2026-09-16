@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Game Pass, Ranked</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
 <style>
   :root {
     --bg: #0d1117; --panel: #161b22; --panel-2: #1c232c; --line: #2a323d;
@@ -127,7 +128,8 @@
     .lang { margin-left: 0; }
     .seg button { padding: 7px 11px; font-size: 13px; }
     .controls { gap: 8px; padding-bottom: 12px; }
-    input[type="search"] { min-width: 0; flex: 1 1 0; }
+    /* Search and the Filters button keep the first row to themselves. */
+    input[type="search"] { min-width: calc(100% - 90px); flex: 1 1 0; }
     .filters-toggle {
       display: block; background: var(--panel); color: var(--text); border: 1px solid var(--line);
       border-radius: var(--radius); padding: 8px 12px; font: inherit; font-size: 14px;
@@ -159,6 +161,8 @@
     max-width: 1080px; margin: 0 auto 16px; color: var(--muted); font-size: 13px; }
   body.share header, body.share footer, body.share .count { display: none; }
   .frames { display: flex; flex-direction: column; align-items: center; gap: 32px; }
+  .frame-wrap { display: flex; flex-direction: column; gap: 10px; align-items: flex-end; }
+  .frame-wrap .share-btn { padding: 6px 12px; font-size: 13px; }
   .frame {
     width: min(1080px, calc(100vw - 32px)); aspect-ratio: 3 / 4; container-type: inline-size;
     background: var(--bg); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
@@ -273,6 +277,7 @@
 <main>
   <div id="shareBar" hidden>
     <button class="share-btn" id="shareOff" data-i18n="shareOff"></button>
+    <button class="share-btn" id="shareAll" data-i18n="shareAll"></button>
     <span data-i18n="shareHint"></span>
   </div>
   <div class="count" id="count"></div>
@@ -308,7 +313,8 @@ const I18N = {
     handheldHint: '微软官网的「掌机」筛选直接复用 PC 目录，结果与 Windows PC 相同',
     anyScore: '不限评分', score90: '90+ · 普遍赞誉', score75: '75+ · 好评',
     anyYear: '不限年份', since: (y) => `${y} 年及以后`,
-    shareOn: '生成分享图', shareOff: '← 返回', shareHint: '每张 3:4、12 款游戏，直接截图即可发小红书 / 小黑盒。按 Esc 返回。',
+    shareOn: '生成分享图', shareOff: '← 返回', shareHint: '每张 3:4、12 款游戏，1080×1440，可直接发小红书 / 小黑盒。按 Esc 返回。',
+    shareAll: '下载全部', shareOne: (i) => `下载第 ${i} 张`, shareBusy: '生成中…', shareFail: '生成图片失败，可以改用截图',
     shareService: { xgp: 'XGP', psplus: 'PS Plus' },
     shareTier: { 1: '一档 Essential', 2: '二档 Extra', 3: '三档 Premium' },
     shareCritic: (n) => `媒体评分 ${n}+`, shareUser: (n) => `玩家评分 ${n}+`, shareSince: (y) => `${y} 年后`,
@@ -351,7 +357,8 @@ const I18N = {
     handheldHint: "Xbox serves the Handhelds facet from the PC catalog, so it matches Windows PC",
     anyScore: 'Any score', score90: '90+ · Universal acclaim', score75: '75+ · Generally favorable',
     anyYear: 'Any year', since: (y) => `${y} or newer`,
-    shareOn: 'Share images', shareOff: '← Back', shareHint: 'Each frame is 3:4 with 12 games, ready to screenshot. Press Esc to go back.',
+    shareOn: 'Share images', shareOff: '← Back', shareHint: 'Each frame is 3:4 (1080×1440) with 12 games. Press Esc to go back.',
+    shareAll: 'Download all', shareOne: (i) => `Download image ${i}`, shareBusy: 'Rendering…', shareFail: 'Could not render the image; take a screenshot instead',
     shareService: { xgp: 'Game Pass', psplus: 'PS Plus' },
     shareTier: { 1: 'Essential', 2: 'Extra', 3: 'Premium' },
     shareCritic: (n) => `Critics ${n}+`, shareUser: (n) => `Users ${n}+`, shareSince: (y) => `${y}+`,
@@ -553,7 +560,7 @@ function renderShare(list) {
       const tier = g.tier ? `<span class="tier-${g.tier}">${t.tierName[g.tier]}</span>` : '';
       return `<div class="fcard">
         <div class="fart">
-          ${g.image ? `<img src="${esc(g.image)}" alt="">` : ''}
+          ${g.image ? `<img crossorigin="anonymous" src="${esc(shareCover(g))}" alt="">` : ''}
           <div class="frank">#${p * PER_FRAME + i + 1}</div>
           <div class="fscores">
             ${u != null ? `<div class="fuser ${userBand(u)}">${fmtUser(u)}</div>` : ''}
@@ -566,7 +573,9 @@ function renderShare(list) {
         </div>
       </div>`;
     }).join('');
-    frames.push(`<section class="frame">
+    frames.push(`<div class="frame-wrap">
+    <button class="share-btn" data-download="${p}">${t.shareOne(p + 1)}</button>
+    <section class="frame">
       <div class="frame-head">
         <div>
           <div class="frame-title">${esc(shareHeading())}</div>
@@ -576,9 +585,49 @@ function renderShare(list) {
       </div>
       <div class="frame-grid">${cards}</div>
       <div class="frame-foot"><span>${t.shareLegend}</span><span><b>games.vim0.com</b> · ${date}</span></div>
-    </section>`);
+    </section></div>`);
   }
   return `<div class="frames">${frames.join('')}</div>`;
+}
+
+// Covers must be CORS-readable to be drawn into a downloaded PNG. Xbox's CDN allows
+// that (and resizes with ?w=); PlayStation's does not, so PS covers are served
+// from this site's covers/ps/ (see scripts/fetch-covers.mjs).
+const shareCover = (g) => state.service === 'psplus'
+  ? `covers/ps/${g.coverId ?? g.productId}.jpg`
+  : `${g.image}?w=300`;
+
+// modern-screenshot is vendored and only loaded the first time someone downloads.
+let screenshotLib;
+function loadScreenshotLib() {
+  screenshotLib ??= new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = 'vendor/modern-screenshot.js';
+    script.onload = () => resolve(window.modernScreenshot);
+    script.onerror = reject;
+    document.head.appendChild(script);
+  });
+  return screenshotLib;
+}
+
+async function downloadFrame(index) {
+  const frame = document.querySelectorAll('.frame')[index];
+  const { domToBlob } = await loadScreenshotLib();
+  // Always 1080×1440, whatever size the frame is drawn at on screen.
+  const blob = await domToBlob(frame, { scale: 1080 / frame.offsetWidth, type: 'image/png' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `games-vim0-${state.service}-${index + 1}.png`;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
+}
+
+async function withBusy(button, task) {
+  const label = button.textContent;
+  button.disabled = true;
+  button.textContent = t.shareBusy;
+  try { await task(); } catch (err) { console.error(err); alert(t.shareFail); }
+  finally { button.disabled = false; button.textContent = label; }
 }
 
 function setShare(on) {
@@ -645,7 +694,8 @@ function prepare(data) {
     const prev = merged.get(key);
     if (!prev) { merged.set(key, { ...g, platforms: [...(g.platforms || [])] }); continue; }
     prev.platforms = [...new Set([...prev.platforms, ...(g.platforms || [])])];
-    if (!prev.image && g.image) prev.image = g.image;
+    // coverId follows the image, so share mode finds the matching covers/ps/ file.
+    if (!prev.image && g.image) { prev.image = g.image; prev.coverId = g.productId; }
     for (const f of ['xboxOne', 'xboxSeries', 'playAnywhere', 'ps4', 'ps5']) prev[f] ||= g[f];
     if (g.tier) prev.tier = Math.min(prev.tier, g.tier);
     if (!prev.titleZh && g.titleZh) prev.titleZh = g.titleZh;
@@ -727,6 +777,14 @@ const pickService = () => {
   });
   document.getElementById('shareOn').addEventListener('click', () => setShare(true));
   document.getElementById('shareOff').addEventListener('click', () => setShare(false));
+  document.getElementById('shareAll').addEventListener('click', (e) => withBusy(e.currentTarget, async () => {
+    const count = document.querySelectorAll('.frame').length;
+    for (let i = 0; i < count; i++) await downloadFrame(i);
+  }));
+  document.getElementById('out').addEventListener('click', (e) => {
+    const button = e.target.closest('[data-download]');
+    if (button) withBusy(button, () => downloadFrame(Number(button.dataset.download)));
+  });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && state.share) setShare(false); });
   document.getElementById('lang').addEventListener('click', (e) => {
     const btn = e.target.closest('button');

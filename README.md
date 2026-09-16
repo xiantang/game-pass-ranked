@@ -10,6 +10,16 @@ npm run serve    # http://localhost:5173
 
 Live at **https://games.vim0.com**.
 
+## Share images
+
+**生成分享图 / Share images** lays the current results out as 3:4 frames of 12 games,
+headed by the active filters, and each frame downloads as a 1080×1440 PNG
+(`vendor/modern-screenshot.js`, loaded on first download).
+
+Drawing covers into a PNG needs CORS-readable images. Xbox's image CDN sends the
+headers; `image.api.playstation.com` does not, so `scripts/fetch-covers.mjs` keeps
+300px PS Plus covers in `covers/ps/` and share mode loads them from this site.
+
 ## Deploy
 
 The page is fully static, so it is served for free straight from the `main` branch by

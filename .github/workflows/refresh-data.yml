@@ -33,12 +33,12 @@ jobs:
 
       - name: Commit refreshed data
         run: |
-          if git diff --quiet -- data/; then
+          if [ -z "$(git status --porcelain -- data/ covers/)" ]; then
             echo "No data changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ covers/
           git commit -m "chore(data): weekly refresh"
           git push
