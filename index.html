@@ -113,7 +113,42 @@
   .pill.bad { background: var(--bad); color: #2a0409; } .pill.none { background: var(--panel-2); color: var(--muted); }
   .empty { color: var(--muted); padding: 60px 0; text-align: center; }
   footer { color: var(--muted); font-size: 12px; padding: 30px 20px 50px; max-width: 1400px; margin: 0 auto; }
+  .table-wrap { overflow-x: auto; }
+  .filters-toggle { display: none; }
 
+  /* Phones: the full filter bar wraps to most of the screen, so it scrolls away
+     instead of sticking and folds behind a Filters button; cards go two across. */
+  @media (max-width: 700px) {
+    header { position: static; }
+    .wrap { padding: 0 12px; }
+    .titlebar { gap: 8px; padding: 12px 0 10px; }
+    h1 { font-size: 16px; flex: 1 1 100%; }
+    .meta { font-size: 12px; flex: 1 1 100%; }
+    .lang { margin-left: 0; }
+    .seg button { padding: 7px 11px; font-size: 13px; }
+    .controls { gap: 8px; padding-bottom: 12px; }
+    input[type="search"] { min-width: 0; flex: 1 1 0; }
+    .filters-toggle {
+      display: block; background: var(--panel); color: var(--text); border: 1px solid var(--line);
+      border-radius: var(--radius); padding: 8px 12px; font: inherit; font-size: 14px;
+    }
+    header:not(.open) .controls > :not(#q):not(.filters-toggle) { display: none; }
+    .controls select { flex: 1 1 calc(50% - 4px); min-width: 0; }
+    .playon { flex: 1 1 100%; gap: 10px; }
+    .share-btn { flex: 1 1 auto; }
+    main { padding: 12px; }
+    .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+    .card:hover { transform: none; }
+    .body { padding: 8px 9px 10px; gap: 4px; }
+    .name { font-size: 13px; }
+    .sub { gap: 4px; font-size: 11px; }
+    .sub .dev { display: none; }
+    .links { padding: 0 9px 9px; }
+    .score { width: 32px; height: 32px; font-size: 14px; }
+    .user { width: 26px; height: 26px; font-size: 11px; }
+    th.studio, td.studio { display: none; }
+    th, td { padding: 8px 8px; font-size: 13px; }
+  }
   /* Share mode: the current results as 3:4 frames of 12, each ready to screenshot
      for 小红书 / 小黑盒. Everything inside a frame is sized in cqw so a frame scales
      with the window but keeps its layout. */
@@ -177,6 +212,7 @@
     </div>
     <div class="controls">
       <input type="search" id="q" placeholder="Search title, studio, genre…" autocomplete="off">
+      <button class="filters-toggle" id="filtersToggle" aria-expanded="false" data-i18n="filters"></button>
       <select id="sort">
         <option value="score-desc" data-i18n="sortScoreDesc"></option>
         <option value="score-asc" data-i18n="sortScoreAsc"></option>
@@ -279,7 +315,7 @@ const I18N = {
     shareQuery: (q) => `搜索「${q}」`, shareHeading: (parts) => parts.join(' · '),
     shareCount: (n, sort) => `共 ${n} 款 · ${sort}`, sharePage: (i, n) => `${i} / ${n}`,
     shareLegend: '<b>方块</b> 媒体评分 · <b>圆圈</b> 玩家评分（Metacritic）',
-    unrated: '包含无评分作品', viewGrid: '封面', viewList: '列表',
+    unrated: '包含无评分作品', viewGrid: '封面', viewList: '列表', filters: '筛选', filtersClose: '收起',
     count: (n, total, scoredOnly, since) =>
       `共 ${total} 款中的 ${n} 款` + (scoredOnly ? '（有 Metacritic 评分）' : '') + (since ? ` · ${since} 年及以后` : ''),
     empty: '没有符合条件的游戏',
@@ -322,7 +358,7 @@ const I18N = {
     shareQuery: (q) => `“${q}”`, shareHeading: (parts) => parts.join(' · '),
     shareCount: (n, sort) => `${n} games · ${sort}`, sharePage: (i, n) => `${i} / ${n}`,
     shareLegend: '<b>Square</b> critic score · <b>circle</b> user score (Metacritic)',
-    unrated: 'Include unrated', viewGrid: 'Grid', viewList: 'List',
+    unrated: 'Include unrated', viewGrid: 'Grid', viewList: 'List', filters: 'Filters', filtersClose: 'Done',
     count: (n, total, scoredOnly, since) =>
       `${n} of ${total} titles` + (scoredOnly ? ' with a Metacritic score' : '') + (since ? ` · released ${since} or later` : ''),
     empty: 'Nothing matches those filters.',
@@ -449,7 +485,7 @@ function renderGrid(list) {
         <div class="name">${esc(displayTitle(g))}
           ${state.lang === 'zh' && g.titleZh ? `<div class="name-sub">${esc(g.title)}</div>` : ''}</div>
         <div class="sub">
-          ${g.developer ? esc(g.developer) : ''}
+          ${g.developer ? `<span class="dev">${esc(g.developer)}</span>` : ''}
           ${g.year ? `<span class="tag">${g.year}</span>` : ''}
           ${tierTag(g)}
           ${deviceTags(g).map((t) => `<span class="tag">${t}</span>`).join('')}
@@ -464,9 +500,9 @@ function renderGrid(list) {
 }
 
 function renderList(list) {
-  return `<table><thead><tr>
+  return `<div class="table-wrap"><table><thead><tr>
       <th class="num">${t.thRank}</th><th>${t.thScore}</th><th>${t.thUser}</th><th>${t.thTitle}</th>
-      <th>${t.thStudio}</th><th>${t.thYear}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
+      <th class="studio">${t.thStudio}</th><th>${t.thYear}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
     </tr></thead><tbody>${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
     const u = g.metacritic?.userScore ?? null;
@@ -475,7 +511,7 @@ function renderList(list) {
       <td class="mc"><span class="pill ${band(s)}">${s ?? '–'}</span></td>
       <td class="mc"><span class="pill user ${userBand(u)}">${fmtUser(u)}</span></td>
       <td>${esc(displayTitle(g))}</td>
-      <td style="color:var(--muted)">${esc(g.developer || '')}</td>
+      <td class="studio" style="color:var(--muted)">${esc(g.developer || '')}</td>
       <td style="color:var(--muted)">${g.year ?? ''}</td>
       <td style="color:var(--muted)">${tierTag(g)} ${deviceTags(g).join(' · ')}</td>
       <td><span class="links" style="padding:0">
@@ -483,7 +519,7 @@ function renderList(list) {
         ${g.metacritic ? `<a href="${esc(g.metacritic.url)}" target="_blank" rel="noopener">${t.mcShort}</a>` : ''}
       </span></td>
     </tr>`;
-  }).join('')}</tbody></table>`;
+  }).join('')}</tbody></table></div>`;
 }
 
 // Share mode splits the results into 3:4 frames of 12 cards (4 × 3), headed by the
@@ -683,6 +719,12 @@ const pickService = () => {
     render();
   });
   bindSeg('view', 'view');
+  document.getElementById('filtersToggle').addEventListener('click', (e) => {
+    const header = document.querySelector('header');
+    const open = header.classList.toggle('open');
+    e.currentTarget.setAttribute('aria-expanded', String(open));
+    e.currentTarget.textContent = open ? t.filtersClose : t.filters;
+  });
   document.getElementById('shareOn').addEventListener('click', () => setShare(true));
   document.getElementById('shareOff').addEventListener('click', () => setShare(false));
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && state.share) setShare(false); });
