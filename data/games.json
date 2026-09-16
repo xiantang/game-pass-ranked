@@ -1,8 +1,8 @@
 {
   "service": "xgp",
   "market": "SG",
-  "fetchedAt": "2026-09-16T13:14:24.276Z",
-  "scoredAt": "2026-09-16T13:14:26.328Z",
+  "fetchedAt": "2026-09-16T14:18:16.002Z",
+  "scoredAt": "2026-09-16T14:18:16.063Z",
   "total": 807,
   "scored": 680,
   "games": [
@@ -5611,7 +5611,7 @@
       "releaseDate": "2007-12-04T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.56737.66564363245508968.4a646a68-6736-4349-ad5c-933bc20f715a.48fa5a66-ac8c-4056-aa59-98045c90c295",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C4B8XR1LCXR5",
-      "titleZh": "王牌飞行员：复仇大道",
+      "titleZh": null,
       "shortDescriptionZh": "Crimson Skies®: High Road to Revenge™ combines thrilling aerial combat with the swashbuckling style of a Hollywood action-adventure movie. Set in an alternate 1930s world of gunship diplomacy and sinister intrigue, Crimson Skies: High Road to Revenge lets you pilot powerful aircraft against nefarious air pirates and behemoth war zeppelins. For more information, see www.xbox.com/games, search Crimson Skies.",
       "platforms": [
         "console",
@@ -5632,7 +5632,7 @@
         "userScore": 8.7,
         "userReviewCount": 41
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "BNN7BPDZ6GQB",
@@ -5752,7 +5752,7 @@
       "releaseDate": "2010-04-27T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.2805.65125427675965946.9a11f22d-d015-4e5d-8fe2-d22c387be19c.55436672-743e-4c6f-b104-ddca23969d53",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0X6N5963CTW",
-      "titleZh": "但丁的地狱之旅",
+      "titleZh": null,
       "shortDescriptionZh": "《Dante’s Inferno》受到经典诗歌的影响，将带您前往地狱的九界踏上一段复仇和救赎的史诗之旅。   您将扮演十字军老兵 Dante，追寻心爱的 Beatrice，并尝试从 Lucifer 的魔爪中解救她的灵魂。 您的一路追寻将带您进入地狱的深渊，您必须与更凶残可怕的怪兽战斗——同时也将面对内心的罪恶，黑暗的家族历史以及无法被原谅的战争罪行。",
       "platforms": [
         "console"
@@ -5772,7 +5772,7 @@
         "userScore": 7.8,
         "userReviewCount": 401
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9N0CCPMBLJQ8",
@@ -8964,7 +8964,7 @@
       "releaseDate": "2021-12-15T16:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.47565.14398170082788055.39f3a948-ce24-48db-9c27-8712bd291d87.5eba23a1-40e7-41ba-9ef3-ab28dbdf9268",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVJ4L71DF5Q",
-      "titleZh": "孤岛惊魂3：血龙",
+      "titleZh": null,
       "shortDescriptionZh": "時間是 2007 年，依然是未來。透過「經典版」暢玩廣受好評的《極地戰嚎 3：血龍》——把妹、擊殺壞人並拯救世界",
       "platforms": [
         "console"
@@ -8984,7 +8984,7 @@
         "userScore": 8.1,
         "userReviewCount": 587
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "BV2ZVP7PJZWL",
@@ -9090,7 +9090,7 @@
       "releaseDate": "2016-02-23T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64306.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.473ceee0-ea6e-4be1-bbd8-a21e0adbaaf7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BV6BRSLFJW3W",
-      "titleZh": "孤岛惊魂：原始杀戮",
+      "titleZh": null,
       "shortDescriptionZh": "獲獎無數的《Far Cry》系列，帶著創新的開放世界、匯聚大量的野獸、令人嘆為觀止的環境，以及難以預測的蠻荒遭遇回來了。\n歡迎來到石器時代，這是個充滿危險與冒險的時代，而此時的地球則由巨大的長毛象和劍齒虎所主宰，人類還在努力想要爬上食物鏈的頂端。做為狩獵隊的最後生還者，你必須克服絕種的危機並團結你的部落。",
       "platforms": [
         "console"
@@ -9110,7 +9110,7 @@
         "userScore": 6.8,
         "userReviewCount": 1632
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9P1HX8TFF3VW",
@@ -9123,7 +9123,7 @@
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64306.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.473ceee0-ea6e-4be1-bbd8-a21e0adbaaf7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P1HX8TFF3VW",
-      "titleZh": "孤岛惊魂：原始杀戮",
+      "titleZh": null,
       "shortDescriptionZh": "獲獎無數的《Far Cry》系列，帶著創新的開放世界、匯聚大量的野獸、令人嘆為觀止的環境，以及難以預測的蠻荒遭遇回來了。\n歡迎來到石器時代，這是個充滿危險與冒險的時代，而此時的地球則由巨大的長毛象和劍齒虎所主宰，人類還在努力想要爬上食物鏈的頂端。做為狩獵隊的最後生還者，你必須克服絕種的危機並團結你的部落。",
       "platforms": [
         "pc"
@@ -9143,7 +9143,7 @@
         "userScore": 6.8,
         "userReviewCount": 1632
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "C0KJ40T9QD86",
@@ -10839,7 +10839,7 @@
       "releaseDate": "2023-04-12T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.27628.14258547668150351.c20c8953-e19e-40f6-8081-ab904c694484.af912fca-0b76-4ec7-98f8-b820a3ff593b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PKP39CL0C8D",
-      "titleZh": "幽灵线：东京",
+      "titleZh": null,
       "shortDescriptionZh": "东京的人口已消隐无踪，致命超自然之力席卷街头。使用各种元素技能，解开人口消失背后的真相，拯救东京。 ",
       "platforms": [
         "console",
@@ -10860,7 +10860,7 @@
         "userScore": 7.2,
         "userReviewCount": 1013
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9PF2ZS4XB4JH",
@@ -14396,7 +14396,7 @@
       "releaseDate": "2026-07-16T15:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.64251.14471845286194830.d020df30-4cbe-4cbc-88b5-60f65e890792.c68970d5-7a92-4487-8dd9-53933edf57a7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NZX67J81X6F",
-      "titleZh": "马特·琼斯：骑迹",
+      "titleZh": null,
       "shortDescriptionZh": "专为骑手打造的究极游乐场！摆脱束缚，利用自由的操控能力尽情探索高山与骑行路线，一步步打造自己的职业生涯。表演惊人特技，或者在全球排行榜中全力冲刺！征服各式各样的挑战并拿下来自真实品牌的赞助商合约。你准备好了吗？\n",
       "platforms": [
         "console",
@@ -14405,7 +14405,7 @@
       "xboxOne": false,
       "xboxSeries": true,
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": null
     },
     {
       "productId": "C0SFCF4PBRSZ",
@@ -15686,7 +15686,7 @@
       "releaseDate": "2014-09-23T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.36284.66828645796021226.1045dac2-bde6-4884-b5fc-6bc534a2d954.901627e5-46d3-4be3-a95a-c1765a3ecfe7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C3VM0TMWNZ5M",
-      "titleZh": "极品飞车：宿敌",
+      "titleZh": null,
       "shortDescriptionZh": "这场警察与车手之间的街头竞速对决模糊了单人游戏与多人游戏间的界限。无缝加入您的好友已经开始比赛和追逐的世界。",
       "platforms": [
         "console"
@@ -15706,7 +15706,7 @@
         "userScore": 6.3,
         "userReviewCount": 1108
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "BXWJNW4170RM",
@@ -16089,7 +16089,7 @@
       "releaseDate": "2023-03-21T10:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.15941.14006829741600892.0ff866dd-53ca-4875-b82a-a1e430a3ba20.ad971809-df55-4b01-aa2e-6ba2af9efd1f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N732VFPMWKT",
-      "titleZh": "二之国II 亡灵王国",
+      "titleZh": null,
       "shortDescriptionZh": "Join the young king Evan as he sets out on an epic quest to found a new kingdom and save his world. The Prince's Edition includes the full game and all DLCs.",
       "platforms": [
         "console",
@@ -16110,7 +16110,7 @@
         "userScore": 7.8,
         "userReviewCount": 910
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9PN0LC4CNLPT",
@@ -22456,7 +22456,7 @@
       "releaseDate": "2010-06-01T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.315.67239414110062952.96aaa173-4598-4591-add8-4e72f4c963c7.9b47d169-12bd-4000-a162-66c0ad7099a0",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C5K89TFLSV19",
-      "titleZh": "上古卷轴IV：湮没",
+      "titleZh": null,
       "shortDescriptionZh": "Step inside the most richly detailed and vibrant game-world ever created. Oblivion is the latest chapter in the epic Elder Scrolls saga. With a powerful combination of freeform gameplay and unprecedented graphics, you can unravel the main quest at your own pace or explore the vast world and find your own challenges.",
       "platforms": [
         "console"
@@ -22476,7 +22476,7 @@
         "userScore": 8.5,
         "userReviewCount": 1853
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9P2J5D12GJL5",
@@ -23666,7 +23666,7 @@
       "releaseDate": "2016-10-28T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.25984.65123785197113223.0191c6ed-9ff7-488b-b8cc-c338d3886461.8f235e4d-8c5a-46f3-b9ee-5c817f3f7a56",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0X2HNVH08FB",
-      "titleZh": "泰坦天降2",
+      "titleZh": null,
       "shortDescriptionZh": "Respawn Entertainment为您呈现：《Titanfall™ 2》！ \r\n\r\n《Titanfall™ 2》将首次推出单人战役，同时具备更深邃丰富的多人模式，带来更多新颖、快节奏的流畅游戏体验，保证让系列爱好者们大呼过瘾。",
       "platforms": [
         "console"
@@ -23686,7 +23686,7 @@
         "userScore": 8.6,
         "userReviewCount": 3360
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9NM6NMBJ7ZK4",
@@ -24772,7 +24772,7 @@
       "releaseDate": "2019-02-26T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.56015.13933831786875858.fd150f9a-dd6c-4fd6-b74d-f8dfd5fcf99e.a48e4abd-e709-42b8-ad7c-efec475e2890",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N3F9256SF8K",
-      "titleZh": "特技摩托赛：崛起",
+      "titleZh": null,
       "shortDescriptionZh": "在《Trials》系列最新作中探索充滿極限動作與挑戰物理極限的摩托車競速。透過遍布全世界各地的全新賽道，以及更多競賽方式，《Trials® Rising》將提供最棒的多人競速體驗。全新協力車合作模式、規模更大的賽道中心與道具自訂工具為你帶來無窮樂趣。吃得土中土，方為人上人。",
       "platforms": [
         "pc"
@@ -24792,7 +24792,7 @@
         "userScore": 6.3,
         "userReviewCount": 109
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "BP6V6QZBMFP0",
@@ -24807,7 +24807,7 @@
       "releaseDate": "2019-02-26T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.56015.67833834336852725.359ee4d2-f566-4a2e-91d9-45cec572c8fd.888ab66d-7be9-4003-ab0e-c5abc7742041",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BP6V6QZBMFP0",
-      "titleZh": "特技摩托赛：崛起",
+      "titleZh": null,
       "shortDescriptionZh": "在《Trials》系列最新作中探索充滿極限動作與挑戰物理極限的摩托車競速。透過遍布全世界各地的全新賽道，以及更多競賽方式，《Trials® Rising》將提供最棒的多人競速體驗。全新協力車合作模式、規模更大的賽道中心與道具自訂工具為你帶來無窮樂趣。吃得土中土，方為人上人。",
       "platforms": [
         "console"
@@ -24827,7 +24827,7 @@
         "userScore": 6.3,
         "userReviewCount": 109
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9NLRT31Z4RWM",
@@ -25105,7 +25105,7 @@
       "releaseDate": "2018-06-09T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.44406.67435278791875206.d60b3a6b-61b2-4afb-9c4c-453efe4ef48e.a3832988-4a37-4d71-b4b9-c2a61dbba80b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C4VKLMG1HLZW",
-      "titleZh": "毛线小精灵2",
+      "titleZh": null,
       "shortDescriptionZh": "当你剪断了与过去的联系，新的纽带就会形成。 在《Unravel Two》的本地合作模式中与别的亚尼建立关系，或进行单人模式，随着你们共同解决难关，友情也会在相互扶持中愈加深厚。 在惊艳的风景中追寻冒险的火花，让你身边的事物焕发新生。",
       "platforms": [
         "console"
@@ -25125,7 +25125,7 @@
         "userScore": 7.6,
         "userReviewCount": 436
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "C0X15TR4NP0B",
@@ -25210,7 +25210,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2022-12-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.52657.13663857844271189.41debf59-13e2-4cf9-a53f-e10086983497.f889d591-c0c6-4119-a3a4-7014f74cda4d",
+      "image": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKCCHCFTHV2",
       "titleZh": null,
       "shortDescriptionZh": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.\r\n\r\nWith Game Pass, members will unlock: \r\n●\tAll current Agents \r\n●\tDay-one access to every new Agent as they're released\r\n●\t20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
@@ -26043,7 +26043,7 @@
       "releaseDate": "2026-06-11T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.26142.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.b216af15-301f-4f23-83a3-69a59a87985b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NLFKBTNP2VJ",
-      "titleZh": "看门狗2",
+      "titleZh": null,
       "shortDescriptionZh": "欢迎来到技术革命的起源地：旧金山。扮演年轻的聪明黑客马可仕（Marcus），加入最恶名昭彰的黑客团体 DedSec。你的目标：执行史上最大规模的黑客行动。",
       "platforms": [
         "pc"
@@ -26063,7 +26063,7 @@
         "userScore": 7.5,
         "userReviewCount": 2827
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9P76M1N37K6K",
@@ -26493,7 +26493,7 @@
       "releaseDate": "2022-08-18T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.53556.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.be454e36-958e-43ec-a1de-de65a69e2cae",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7Z1D3N8KR7",
-      "titleZh": "德军总部3D",
+      "titleZh": null,
       "shortDescriptionZh": "二战期间，纳粹计划打造无人能挡的变异军团。你接到任务，要去偷取这个秘密计划，但不幸被俘。现在你幸运地逃脱了，不过前方等待你的却是迷宫般的路线和嗜血的纳粹。",
       "platforms": [
         "pc"
@@ -26513,7 +26513,7 @@
         "userScore": 7.2,
         "userReviewCount": 63
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "9NDBKK9G0FHL",
@@ -26727,7 +26727,7 @@
       "releaseDate": "2020-02-06T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.34137.14232405978199420.10006ada-af2f-43d4-ab04-4e26289ccf76.46f2767d-1483-4024-9cf8-0beb70923f5b",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PHFTS44F99K",
-      "titleZh": "德军总部：新血脉",
+      "titleZh": null,
       "shortDescriptionZh": "《Wolfenstein: Youngblood》是首款当代《Wolfenstein》合作冒险游戏。\n\n化身为B·J·布拉柯威兹的双胞胎女儿之一，使用大量的全新武器、工具和动力装甲战斗，与朋友组队歼敌，或者单打独斗，从纳粹手中解放巴黎。",
       "platforms": [
         "pc"
@@ -26747,7 +26747,7 @@
         "userScore": 2.6,
         "userReviewCount": 1122
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "C4LLMHFQ1BXQ",

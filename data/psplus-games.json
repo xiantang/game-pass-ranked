@@ -1,8 +1,8 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-09-16T13:14:31.245Z",
-  "scoredAt": "2026-09-16T13:14:32.502Z",
+  "fetchedAt": "2026-09-16T14:18:16.642Z",
+  "scoredAt": "2026-09-16T14:18:16.688Z",
   "total": 519,
   "scored": 440,
   "games": [
@@ -326,7 +326,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "鬼屋魔影4",
+      "titleZh": null,
       "metacritic": {
         "score": 66,
         "title": "Alone in the Dark: The New Nightmare",
@@ -340,7 +340,7 @@
         "userScore": 7.4,
         "userReviewCount": 79
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10003143",
@@ -1949,7 +1949,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "荆棘：群山之王",
+      "titleZh": null,
       "metacritic": {
         "score": 80,
         "title": "Bramble: The Mountain King",
@@ -1963,7 +1963,7 @@
         "userScore": 7.8,
         "userReviewCount": 277
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "233251",
@@ -3204,7 +3204,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "恶魔之魂",
+      "titleZh": null,
       "metacritic": {
         "score": 92,
         "title": "Demon's Souls",
@@ -3218,7 +3218,7 @@
         "userScore": 8.3,
         "userReviewCount": 5093
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "231727",
@@ -5116,7 +5116,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "最终幻想VII 重制版",
+      "titleZh": null,
       "metacritic": {
         "score": 87,
         "title": "Final Fantasy VII Remake",
@@ -5130,7 +5130,7 @@
         "userScore": 8.2,
         "userReviewCount": 9444
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10002100",
@@ -5591,7 +5591,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "噬神者",
+      "titleZh": null,
       "metacritic": {
         "score": 71,
         "title": "Gods Eater Burst",
@@ -5605,7 +5605,7 @@
         "userScore": 8,
         "userReviewCount": 43
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "235061",
@@ -5883,7 +5883,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "绿色地狱",
+      "titleZh": null,
       "metacritic": {
         "score": 78,
         "title": "Green Hell",
@@ -5897,7 +5897,7 @@
         "userScore": 7.4,
         "userReviewCount": 299
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "234650",
@@ -6231,7 +6231,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "地平线 零之曙光重制版",
+      "titleZh": null,
       "metacritic": {
         "score": 85,
         "title": "Horizon Zero Dawn Remastered",
@@ -6245,7 +6245,7 @@
         "userScore": 7.2,
         "userReviewCount": 895
       },
-      "titleZhSource": "steam"
+      "titleZhSource": null
     },
     {
       "productId": "10005940",
@@ -7983,7 +7983,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "漫威蜘蛛侠",
+      "titleZh": null,
       "metacritic": {
         "score": 87,
         "title": "Marvel's Spider-Man",
@@ -7997,7 +7997,7 @@
         "userScore": 8.7,
         "userReviewCount": 12000
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10000649",
@@ -8225,7 +8225,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "洛克人X 指令任务",
+      "titleZh": null,
       "metacritic": {
         "score": 69,
         "title": "Mega Man X: Command Mission",
@@ -8239,7 +8239,7 @@
         "userScore": 7.3,
         "userReviewCount": 34
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10000480",
@@ -9059,7 +9059,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "奇异世界：阿比逃亡记",
+      "titleZh": null,
       "metacritic": {
         "score": 88,
         "title": "Oddworld: Abe's Exoddus",
@@ -9073,7 +9073,7 @@
         "userScore": 8.4,
         "userReviewCount": 167
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10005197",
@@ -9092,7 +9092,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "奇异世界：阿比逃亡记",
+      "titleZh": null,
       "metacritic": {
         "score": 85,
         "title": "Oddworld: Abe's Oddysee",
@@ -9106,7 +9106,7 @@
         "userScore": 8.7,
         "userReviewCount": 242
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "203202",
@@ -11718,7 +11718,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "怪盗史库柏2：侠盗帮",
+      "titleZh": null,
       "metacritic": {
         "score": 88,
         "title": "Sly 2: Band of Thieves",
@@ -11732,7 +11732,7 @@
         "userScore": 8.9,
         "userReviewCount": 479
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10010692",
@@ -11751,7 +11751,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "怪盗史库柏3",
+      "titleZh": null,
       "metacritic": {
         "score": 83,
         "title": "Sly 3: Honor Among Thieves",
@@ -11765,7 +11765,7 @@
         "userScore": 8.8,
         "userReviewCount": 321
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10010296",
@@ -11784,9 +11784,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "狡狐大冒险",
+      "titleZh": null,
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "234363",
@@ -12341,7 +12341,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "星际大战：赏金猎人",
+      "titleZh": null,
       "metacritic": {
         "score": 65,
         "title": "Star Wars: Bounty Hunter",
@@ -12355,7 +12355,7 @@
         "userScore": 7.7,
         "userReviewCount": 62
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "204271",
@@ -13418,7 +13418,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "上古卷轴Online",
+      "titleZh": null,
       "metacritic": {
         "score": 71,
         "title": "The Elder Scrolls Online",
@@ -13432,7 +13432,7 @@
         "userScore": 5.7,
         "userReviewCount": 2853
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "230955",
@@ -14362,7 +14362,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "时空分裂者",
+      "titleZh": null,
       "metacritic": {
         "score": 81,
         "title": "TimeSplitters",
@@ -14376,7 +14376,7 @@
         "userScore": 7.2,
         "userReviewCount": 92
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10002494",
@@ -15605,7 +15605,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "战锤：混沌祸害",
+      "titleZh": null,
       "metacritic": {
         "score": 69,
         "title": "Warhammer: Chaosbane",
@@ -15619,7 +15619,7 @@
         "userScore": 5.2,
         "userReviewCount": 149
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10012449",
@@ -16182,7 +16182,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "僵尸世界大战",
+      "titleZh": null,
       "metacritic": {
         "score": 67,
         "title": "World War Z",
@@ -16196,7 +16196,7 @@
         "userScore": 6.3,
         "userReviewCount": 511
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": null
     },
     {
       "productId": "10004898",
