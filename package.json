@@ -7,8 +7,12 @@
   "scripts": {
     "fetch:xgp": "node scripts/fetch-xgp.mjs",
     "fetch:mc": "node scripts/fetch-metacritic.mjs",
-    "fetch:ps": "node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus",
-    "build": "node scripts/fetch-xgp.mjs && node scripts/fetch-metacritic.mjs && node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus",
-    "serve": "node scripts/serve.mjs"
+    "fetch:ps": "node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus && node scripts/zh-names.mjs",
+    "build": "node scripts/fetch-xgp.mjs && node scripts/fetch-metacritic.mjs && node scripts/fetch-psplus.mjs && node scripts/fetch-metacritic.mjs psplus && node scripts/zh-names.mjs",
+    "serve": "node scripts/serve.mjs",
+    "fetch:zh": "node scripts/zh-names.mjs"
+  },
+  "dependencies": {
+    "opencc-js": "^1.4.2"
   }
 }

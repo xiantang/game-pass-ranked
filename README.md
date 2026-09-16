@@ -130,15 +130,25 @@ HK catalog is not identical to SG, so a few titles stay English. Override with `
 The page ships a 中文 / EN switch (top right). It picks up `navigator.language` on
 first visit and remembers the choice in `localStorage`.
 
-Chinese game titles come from a second pass over the same catalog API with
-`languages=zh-cn`, stored as `titleZh` — 313 of 821 SKUs have one, the rest are
-published in English only and fall back to it. In Chinese mode a card shows the
-Chinese title with the English one beneath it, search matches either, and A–Z
-sorting uses `Intl.Collator('zh-Hans')` so titles order by pinyin.
+Chinese titles are always **Simplified**, and come from three places in order:
 
-Some publishers only ship a Traditional Chinese title in the SG market, so a few
-entries appear in 繁體 even in 简体 mode — that is the store's own data.
-`ZH_LANG=zh-tw npm run build` fetches Traditional throughout instead.
+1. **The store.** A second pass over the same catalog API (`languages=zh-cn` for Xbox,
+   `zh-hans-hk` for PS Plus). Only about 40% of titles have one, and some publishers
+   ship it in Traditional.
+2. **Wikidata.** The commonly used name, for example GTA V as 侠盗猎车手V. A candidate must
+   be a video game whose English label or alias equals the Metacritic title exactly.
+   `languagefallback` returns the Simplified form.
+3. **Steam.** The publisher's localized name, for Wikidata's misses only. Steam's search
+   rate-limits hard, so this pass runs with two workers and waits out any 429.
+   Bilingual names such as `BALL x PIT — 球比伦战记` keep only the Chinese part.
+
+`scripts/zh-names.mjs` runs last in `npm run build`. It converts every title with
+`opencc-js` (Taiwan phrasing to mainland Simplified) and records where each came from
+in `titleZhSource`. Lookups are cached in `data/zh-name-cache.json`, so a weekly run only
+queries new games. Small indie games have no Chinese name anywhere and stay in English.
+
+In Chinese mode a card shows the Chinese title with the English one beneath it, search
+matches either, and A–Z sorting uses `Intl.Collator('zh-Hans')` so titles order by pinyin.
 
 ## Release year
 

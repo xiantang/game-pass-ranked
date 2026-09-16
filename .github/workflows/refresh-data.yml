@@ -27,7 +27,8 @@ jobs:
         with:
           node-version: 22
 
-      # No dependencies to install: the scripts only use Node's built-in fetch.
+      # opencc-js converts Traditional Chinese titles to Simplified.
+      - run: npm ci
       - run: npm run build
 
       - name: Commit refreshed data

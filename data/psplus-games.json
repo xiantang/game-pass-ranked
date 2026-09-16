@@ -24,7 +24,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10008945",
@@ -45,7 +46,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "往左一点",
       "metacritic": {
         "score": 75,
         "title": "A Little To The Left",
@@ -58,7 +59,8 @@
         "releaseDate": "2022-11-08",
         "userScore": 7,
         "userReviewCount": 109
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10009366",
@@ -90,7 +92,8 @@
         "releaseDate": "2024-10-17",
         "userScore": 6.5,
         "userReviewCount": 223
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005843",
@@ -109,7 +112,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "无垠之心",
       "metacritic": {
         "score": 85,
         "title": "A Space For The Unbound",
@@ -122,7 +125,8 @@
         "releaseDate": "2023-01-19",
         "userScore": 7.9,
         "userReviewCount": 114
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232814",
@@ -142,7 +146,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10012483",
@@ -161,7 +166,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "非生物因素",
       "metacritic": {
         "score": 88,
         "title": "Abiotic Factor",
@@ -174,7 +179,8 @@
         "releaseDate": "2025-07-22",
         "userScore": 8.3,
         "userReviewCount": 112
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "231468",
@@ -208,7 +214,8 @@
         "releaseDate": "2018-07-17",
         "userScore": 6.2,
         "userReviewCount": 54
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232658",
@@ -229,7 +236,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "魔幻纪元：行星登陆",
       "metacritic": {
         "score": 81,
         "title": "Age of Wonders: Planetfall",
@@ -242,7 +249,8 @@
         "releaseDate": "2019-08-06",
         "userScore": 7.4,
         "userReviewCount": 123
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "206089",
@@ -263,7 +271,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "异种国度",
       "metacritic": {
         "score": 79,
         "title": "Alienation",
@@ -276,7 +284,8 @@
         "releaseDate": "2016-04-26",
         "userScore": 7.8,
         "userReviewCount": 250
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011762",
@@ -295,8 +304,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Alone in the Dark 2",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10009035",
@@ -316,7 +326,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Alone in the Dark: The New Nightmare",
+      "titleZh": "鬼屋魔影4",
       "metacritic": {
         "score": 66,
         "title": "Alone in the Dark: The New Nightmare",
@@ -329,7 +339,8 @@
         "releaseDate": "2001-06-25",
         "userScore": 7.4,
         "userReviewCount": 79
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003143",
@@ -363,7 +374,8 @@
         "releaseDate": "2023-03-16",
         "userScore": 7.2,
         "userReviewCount": 88
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10001119",
@@ -383,7 +395,8 @@
         "catalog"
       ],
       "titleZh": "纪元：变异 收藏版",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10009923",
@@ -402,7 +415,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "蟹蟹寻宝奇遇",
       "metacritic": {
         "score": 78,
         "title": "Another Crab's Treasure",
@@ -415,7 +428,8 @@
         "releaseDate": "2024-04-25",
         "userScore": 7.5,
         "userReviewCount": 349
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233432",
@@ -447,7 +461,8 @@
         "releaseDate": "2020-02-11",
         "userScore": 6.1,
         "userReviewCount": 60
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004810",
@@ -467,7 +482,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10006482",
@@ -488,7 +504,8 @@
         "classics"
       ],
       "titleZh": "哔波猴学苑2：亲亲猜拳玩游戏！",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10004394",
@@ -508,7 +525,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "捉猴啦",
       "metacritic": {
         "score": 90,
         "title": "Ape Escape",
@@ -521,7 +538,8 @@
         "releaseDate": "1999-06-23",
         "userScore": 8.2,
         "userReviewCount": 181
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006481",
@@ -541,7 +559,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "捉猴啦",
       "metacritic": {
         "score": 90,
         "title": "Ape Escape",
@@ -554,7 +572,8 @@
         "releaseDate": "1999-06-23",
         "userScore": 8.2,
         "userReviewCount": 181
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002527",
@@ -587,7 +606,8 @@
         "releaseDate": "2022-08-11",
         "userScore": 6.6,
         "userReviewCount": 56
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10010252",
@@ -606,8 +626,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "装甲内核",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010298",
@@ -626,8 +647,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "机战佣兵 竞技场之王",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010297",
@@ -646,8 +668,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "装甲内核：幻影计划",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008922",
@@ -668,7 +691,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "日落黄昏时",
       "metacritic": {
         "score": 77,
         "title": "As Dusk Falls",
@@ -681,7 +704,8 @@
         "releaseDate": "2022-07-19",
         "userScore": 7.7,
         "userReviewCount": 508
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "200102",
@@ -714,7 +738,8 @@
         "releaseDate": "2015-04-21",
         "userScore": 6,
         "userReviewCount": 183
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "205867",
@@ -747,7 +772,8 @@
         "releaseDate": "2016-01-13",
         "userScore": 4.4,
         "userReviewCount": 113
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "212280",
@@ -780,7 +806,8 @@
         "releaseDate": "2016-02-09",
         "userScore": 4.8,
         "userReviewCount": 76
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "229601",
@@ -802,7 +829,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《刺客信条：奥德赛》 - 数码标准版",
+      "titleZh": "刺客信条：奥德赛 - 数码标准版",
       "metacritic": {
         "score": 83,
         "title": "Assassin's Creed Odyssey",
@@ -815,7 +842,8 @@
         "releaseDate": "2018-10-02",
         "userScore": 6.9,
         "userReviewCount": 6045
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "222066",
@@ -848,7 +876,8 @@
         "releaseDate": "2017-10-27",
         "userScore": 7.3,
         "userReviewCount": 5150
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "230095",
@@ -881,7 +910,8 @@
         "releaseDate": "2014-11-11",
         "userScore": 7.2,
         "userReviewCount": 1016
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "225519",
@@ -915,7 +945,8 @@
         "releaseDate": "2016-11-15",
         "userScore": 8.2,
         "userReviewCount": 625
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "200088",
@@ -950,7 +981,8 @@
         "releaseDate": "2014-11-11",
         "userScore": 6.1,
         "userReviewCount": 2509
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10000237",
@@ -970,7 +1002,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《刺客信条：英灵殿》- 数字标准版",
+      "titleZh": "刺客信条：英灵殿- 数字标准版",
       "metacritic": {
         "score": 80,
         "title": "Assassin's Creed Valhalla",
@@ -983,7 +1015,8 @@
         "releaseDate": "2020-11-10",
         "userScore": 6.1,
         "userReviewCount": 4187
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "200098",
@@ -1003,8 +1036,9 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "刺客信条：自由的吶喊 独立资料片 制品版",
-      "metacritic": null
+      "titleZh": "刺客信条：自由的呐喊 独立资料片 制品版",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "231856",
@@ -1024,7 +1058,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《刺客信条 III 重制版》- 数码标准版",
+      "titleZh": "刺客信条 III 重制版- 数码标准版",
       "metacritic": {
         "score": 72,
         "title": "Assassin's Creed III Remastered",
@@ -1037,7 +1071,8 @@
         "releaseDate": "2019-03-29",
         "userScore": 5.8,
         "userReviewCount": 474
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "200089",
@@ -1071,7 +1106,8 @@
         "releaseDate": "2013-10-29",
         "userScore": 8.4,
         "userReviewCount": 3383
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004865",
@@ -1092,7 +1128,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《刺客信条：幻景》",
+      "titleZh": "刺客信条：幻景",
       "metacritic": {
         "score": 76,
         "title": "Assassin's Creed Mirage",
@@ -1105,7 +1141,8 @@
         "releaseDate": "2023-10-05",
         "userScore": 7,
         "userReviewCount": 2827
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "212339",
@@ -1140,7 +1177,8 @@
         "releaseDate": "2015-10-23",
         "userScore": 6.8,
         "userReviewCount": 3204
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234902",
@@ -1159,7 +1197,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "神力科莎：竞速",
       "metacritic": {
         "score": 77,
         "title": "Assetto Corsa Competizione",
@@ -1172,7 +1210,8 @@
         "releaseDate": "TBA - Early Access",
         "userScore": 7.4,
         "userReviewCount": 101
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234630",
@@ -1193,7 +1232,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "异星探险家",
       "metacritic": {
         "score": 71,
         "title": "ASTRONEER",
@@ -1206,7 +1245,8 @@
         "releaseDate": "2019-02-06",
         "userScore": 7.2,
         "userReviewCount": 366
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005432",
@@ -1238,7 +1278,8 @@
         "releaseDate": "2023-03-24",
         "userScore": 7.4,
         "userReviewCount": 110
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002689",
@@ -1259,8 +1300,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "尘封大陆",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "235179",
@@ -1293,7 +1335,8 @@
         "releaseDate": "2023-12-07",
         "userScore": 7,
         "userReviewCount": 1158
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "233064",
@@ -1325,7 +1368,8 @@
         "releaseDate": "2021-10-12",
         "userScore": 5.3,
         "userReviewCount": 597
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10016190",
@@ -1345,7 +1389,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "球比伦战记",
       "metacritic": {
         "score": 84,
         "title": "BALL x PIT",
@@ -1358,7 +1402,8 @@
         "releaseDate": "2025-10-15",
         "userScore": 8.1,
         "userReviewCount": 265
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006478",
@@ -1379,7 +1424,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "波兰球：编年史",
       "metacritic": {
         "score": 86,
         "title": "Bang-On Balls: Chronicles",
@@ -1392,7 +1437,8 @@
         "releaseDate": "2023-10-05",
         "userScore": 8,
         "userReviewCount": 31
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006098",
@@ -1411,7 +1457,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "流放者：新伊甸的幽灵",
       "metacritic": {
         "score": 78,
         "title": "Banishers: Ghosts of New Eden",
@@ -1424,7 +1470,8 @@
         "releaseDate": "2024-02-13",
         "userScore": 7.6,
         "userReviewCount": 796
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "224815",
@@ -1458,7 +1505,8 @@
         "releaseDate": "2017-10-03",
         "userScore": 7,
         "userReviewCount": 114
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10013168",
@@ -1477,7 +1525,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "战都天鹰",
       "metacritic": {
         "score": 76,
         "title": "Battle Engine Aquila",
@@ -1490,7 +1538,8 @@
         "releaseDate": "2003-01-20",
         "userScore": null,
         "userReviewCount": null
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233889",
@@ -1522,7 +1571,8 @@
         "releaseDate": "2019-11-14",
         "userScore": 5.5,
         "userReviewCount": 46
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "200599",
@@ -1542,7 +1592,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "超凡双生",
       "metacritic": {
         "score": 70,
         "title": "Beyond: Two Souls",
@@ -1555,7 +1605,8 @@
         "releaseDate": "2013-10-08",
         "userScore": 8,
         "userReviewCount": 3511
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000494",
@@ -1575,7 +1626,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "只只大冒险",
       "metacritic": {
         "score": 70,
         "title": "Biped",
@@ -1588,7 +1639,8 @@
         "releaseDate": "2020-04-08",
         "userScore": 7.2,
         "userReviewCount": 84
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233032",
@@ -1609,7 +1661,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "黑色沙漠",
       "metacritic": {
         "score": 75,
         "title": "Black Desert",
@@ -1622,7 +1674,8 @@
         "releaseDate": "2019-03-04",
         "userScore": 6.1,
         "userReviewCount": 139
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006483",
@@ -1654,7 +1707,8 @@
         "releaseDate": "2006-07-18",
         "userScore": 5.1,
         "userReviewCount": 16
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10011854",
@@ -1686,7 +1740,8 @@
         "releaseDate": "2025-05-22",
         "userScore": 7.6,
         "userReviewCount": 196
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007264",
@@ -1705,7 +1760,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "神之亵渎2",
       "metacritic": {
         "score": 84,
         "title": "Blasphemous 2",
@@ -1718,7 +1773,8 @@
         "releaseDate": "2023-08-24",
         "userScore": 8.2,
         "userReviewCount": 549
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10011646",
@@ -1737,7 +1793,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "血兆2",
       "metacritic": {
         "score": 76,
         "title": "Blood Omen 2",
@@ -1750,7 +1806,8 @@
         "releaseDate": "2002-03-21",
         "userScore": 7.5,
         "userReviewCount": 29
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011076",
@@ -1769,8 +1826,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "血兆：凯恩的遗产",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "200520",
@@ -1790,7 +1848,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "血源诅咒",
       "metacritic": {
         "score": 92,
         "title": "Bloodborne",
@@ -1803,7 +1861,8 @@
         "releaseDate": "2015-03-24",
         "userScore": 8.9,
         "userReviewCount": 14898
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10012002",
@@ -1823,7 +1882,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "蓝途王子",
       "metacritic": {
         "score": 92,
         "title": "Blue Prince",
@@ -1836,7 +1895,8 @@
         "releaseDate": "2025-04-10",
         "userScore": 7.8,
         "userReviewCount": 1016
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "214367",
@@ -1869,7 +1929,8 @@
         "releaseDate": "2016-08-16",
         "userScore": 6.9,
         "userReviewCount": 153
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004805",
@@ -1888,7 +1949,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Bramble:The Mountain King",
+      "titleZh": "荆棘：群山之王",
       "metacritic": {
         "score": 80,
         "title": "Bramble: The Mountain King",
@@ -1901,7 +1962,8 @@
         "releaseDate": "2023-04-27",
         "userScore": 7.8,
         "userReviewCount": 277
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233251",
@@ -1920,8 +1982,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "巴士模拟器 21",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "216117",
@@ -1942,8 +2005,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "克苏鲁的呼唤：官方游戏",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000938",
@@ -1963,7 +2027,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "海之呼唤",
       "metacritic": {
         "score": 75,
         "title": "Call of the Sea",
@@ -1976,7 +2040,8 @@
         "releaseDate": "2020-12-08",
         "userScore": 7,
         "userReviewCount": 231
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233219",
@@ -2008,7 +2073,8 @@
         "releaseDate": "2020-08-28",
         "userScore": 7,
         "userReviewCount": 187
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "229453",
@@ -2042,7 +2108,8 @@
         "releaseDate": "2017-11-10",
         "userScore": 7.3,
         "userReviewCount": 229
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234578",
@@ -2063,8 +2130,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "喵咪斗恶龙2",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007859",
@@ -2085,7 +2153,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "喵咪斗恶龙3",
       "metacritic": {
         "score": 80,
         "title": "Cat Quest III",
@@ -2098,7 +2166,8 @@
         "releaseDate": "2024-08-08",
         "userScore": 7.7,
         "userReviewCount": 119
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003362",
@@ -2117,7 +2186,7 @@
       "lists": [
         "monthly"
       ],
-      "titleZh": null,
+      "titleZh": "宿命残响（",
       "metacritic": {
         "score": 90,
         "title": "Chained Echoes",
@@ -2130,7 +2199,8 @@
         "releaseDate": "2022-12-08",
         "userScore": 8.3,
         "userReviewCount": 289
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "200740",
@@ -2163,7 +2233,8 @@
         "releaseDate": "2014-04-29",
         "userScore": 8,
         "userReviewCount": 765
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234762",
@@ -2183,7 +2254,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "骑士精神2",
       "metacritic": {
         "score": 82,
         "title": "Chivalry 2",
@@ -2196,7 +2267,8 @@
         "releaseDate": "2021-06-08",
         "userScore": 5.8,
         "userReviewCount": 401
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "224821",
@@ -2230,7 +2302,8 @@
         "releaseDate": "2015-03-10",
         "userScore": 8.6,
         "userReviewCount": 2693
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10011288",
@@ -2262,7 +2335,8 @@
         "releaseDate": "2025-01-31",
         "userScore": 7.3,
         "userReviewCount": 94
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10005027",
@@ -2283,7 +2357,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "234471",
@@ -2317,7 +2392,8 @@
         "releaseDate": "2020-01-29",
         "userScore": 7.4,
         "userReviewCount": 206
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004780",
@@ -2350,7 +2426,8 @@
         "releaseDate": "2023-04-20",
         "userScore": 7.3,
         "userReviewCount": 70
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "231261",
@@ -2370,7 +2447,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "流放者柯南",
       "metacritic": {
         "score": 68,
         "title": "Conan Exiles",
@@ -2383,7 +2460,8 @@
         "releaseDate": "2018-05-08",
         "userScore": 5.5,
         "userReviewCount": 293
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233628",
@@ -2403,7 +2481,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "壁中精灵",
       "metacritic": {
         "score": 75,
         "title": "Concrete Genie",
@@ -2416,7 +2494,8 @@
         "releaseDate": "2019-10-08",
         "userScore": 7.9,
         "userReviewCount": 547
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010232",
@@ -2448,7 +2527,8 @@
         "releaseDate": "2024-07-23",
         "userScore": 7.8,
         "userReviewCount": 63
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10000438",
@@ -2467,8 +2547,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "建筑模拟器",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "234544",
@@ -2502,7 +2583,8 @@
         "releaseDate": "2019-09-24",
         "userScore": 3.8,
         "userReviewCount": 58
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10009298",
@@ -2534,7 +2616,8 @@
         "releaseDate": "2026-02-05",
         "userScore": null,
         "userReviewCount": null
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008698",
@@ -2553,7 +2636,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "珊瑚岛",
       "metacritic": {
         "score": 82,
         "title": "Coral Island",
@@ -2566,7 +2649,8 @@
         "releaseDate": "2023-11-14",
         "userScore": 7,
         "userReviewCount": 88
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008264",
@@ -2598,7 +2682,8 @@
         "releaseDate": "2023-10-05",
         "userScore": 6.3,
         "userReviewCount": 35
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004424",
@@ -2630,7 +2715,8 @@
         "releaseDate": "2023-03-28",
         "userScore": 4.6,
         "userReviewCount": 163
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10009392",
@@ -2662,7 +2748,8 @@
         "releaseDate": "2024-05-09",
         "userScore": 7.9,
         "userReviewCount": 141
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10001858",
@@ -2682,7 +2769,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "十字军之王III",
       "metacritic": {
         "score": 91,
         "title": "Crusader Kings III",
@@ -2695,7 +2782,8 @@
         "releaseDate": "2020-09-01",
         "userScore": 8.3,
         "userReviewCount": 1239
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000350",
@@ -2714,7 +2802,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "孤岛危机",
       "metacritic": {
         "score": 91,
         "title": "Crysis",
@@ -2727,7 +2815,8 @@
         "releaseDate": "2007-11-13",
         "userScore": 8,
         "userReviewCount": 2965
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234567",
@@ -2746,7 +2835,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《赛博朋克 2077》",
+      "titleZh": "赛博朋克 2077",
       "metacritic": {
         "score": 86,
         "title": "Cyberpunk 2077",
@@ -2759,7 +2848,8 @@
         "releaseDate": "2020-12-10",
         "userScore": 7.3,
         "userReviewCount": 40104
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10009597",
@@ -2778,7 +2868,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "暗黑地牢2",
       "metacritic": {
         "score": 81,
         "title": "Darkest Dungeon II",
@@ -2791,7 +2881,8 @@
         "releaseDate": "2023-05-08",
         "userScore": 6.3,
         "userReviewCount": 271
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010892",
@@ -2823,7 +2914,8 @@
         "releaseDate": "2025-06-17",
         "userScore": 6.6,
         "userReviewCount": 58
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005947",
@@ -2842,7 +2934,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "达斯特",
       "metacritic": {
         "score": 85,
         "title": "Daxter",
@@ -2855,7 +2947,8 @@
         "releaseDate": "2006-03-14",
         "userScore": 8.3,
         "userReviewCount": 244
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229018",
@@ -2888,7 +2981,8 @@
         "releaseDate": "2019-04-26",
         "userScore": 8.5,
         "userReviewCount": 12997
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "227319",
@@ -2909,7 +3003,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "黎明杀机",
       "metacritic": {
         "score": 64,
         "title": "Dead by Daylight",
@@ -2922,7 +3016,8 @@
         "releaseDate": "2017-06-20",
         "userScore": 5.5,
         "userReviewCount": 946
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "201061",
@@ -2942,7 +3037,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "死亡岛2",
       "metacritic": {
         "score": 73,
         "title": "Dead Island 2",
@@ -2955,7 +3050,8 @@
         "releaseDate": "2023-04-21",
         "userScore": 7.2,
         "userReviewCount": 1239
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003340",
@@ -2975,7 +3071,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《创尸纪》",
+      "titleZh": "创尸纪",
       "metacritic": {
         "score": 76,
         "title": "DEADCRAFT",
@@ -2988,7 +3084,8 @@
         "releaseDate": "2022-05-19",
         "userScore": 7.3,
         "userReviewCount": 13
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "228997",
@@ -3020,7 +3117,8 @@
         "releaseDate": "2019-02-19",
         "userScore": 7.3,
         "userReviewCount": 77
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234585",
@@ -3052,7 +3150,8 @@
         "releaseDate": "2021-09-24",
         "userScore": 8.1,
         "userReviewCount": 2653
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234692",
@@ -3072,7 +3171,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "飞向月球",
       "metacritic": {
         "score": 77,
         "title": "Deliver Us The Moon",
@@ -3085,7 +3184,8 @@
         "releaseDate": "2020-04-24",
         "userScore": 6.7,
         "userReviewCount": 202
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000368",
@@ -3104,7 +3204,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Demon’s Souls",
+      "titleZh": "恶魔之魂",
       "metacritic": {
         "score": 92,
         "title": "Demon's Souls",
@@ -3117,7 +3217,8 @@
         "releaseDate": "2020-11-11",
         "userScore": 8.3,
         "userReviewCount": 5093
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "231727",
@@ -3151,7 +3252,8 @@
         "releaseDate": "2020-06-16",
         "userScore": 8.2,
         "userReviewCount": 839
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "221852",
@@ -3184,7 +3286,8 @@
         "releaseDate": "2017-09-06",
         "userScore": 5.2,
         "userReviewCount": 3114
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "222727",
@@ -3203,7 +3306,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Detroit: Become Human™ 一般版",
+      "titleZh": "Detroit: Become Human 一般版",
       "metacritic": {
         "score": 78,
         "title": "Detroit: Become Human",
@@ -3216,7 +3319,8 @@
         "releaseDate": "2018-05-25",
         "userScore": 8.7,
         "userReviewCount": 9428
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "200943",
@@ -3236,7 +3340,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "杀出重围：人类分裂",
       "metacritic": {
         "score": 84,
         "title": "Deus Ex: Mankind Divided",
@@ -3249,7 +3353,8 @@
         "releaseDate": "2016-08-23",
         "userScore": 7.7,
         "userReviewCount": 1374
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10013576",
@@ -3269,7 +3374,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005160",
@@ -3288,7 +3394,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "恐龙危机",
       "metacritic": {
         "score": 74,
         "title": "Dino Crisis",
@@ -3301,7 +3407,8 @@
         "releaseDate": "2000-11-14",
         "userScore": 8.4,
         "userReviewCount": 145
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "201017",
@@ -3321,7 +3428,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "羞辱2",
       "metacritic": {
         "score": 88,
         "title": "Dishonored 2",
@@ -3334,7 +3441,8 @@
         "releaseDate": "2016-11-10",
         "userScore": 8.1,
         "userReviewCount": 2261
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229481",
@@ -3354,7 +3462,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "羞辱：界外魔之死",
       "metacritic": {
         "score": 82,
         "title": "Dishonored: Death of the Outsider",
@@ -3367,7 +3475,8 @@
         "releaseDate": "2017-09-15",
         "userScore": 7.2,
         "userReviewCount": 470
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "228538",
@@ -3400,7 +3509,8 @@
         "releaseDate": "2015-08-25",
         "userScore": 7.9,
         "userReviewCount": 523
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007642",
@@ -3432,7 +3542,8 @@
         "releaseDate": "2001-06-14",
         "userScore": 7.3,
         "userReviewCount": 27
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007631",
@@ -3465,7 +3576,8 @@
         "releaseDate": "2000-09-26",
         "userScore": 6.1,
         "userReviewCount": 15
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007630",
@@ -3484,7 +3596,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "天外奇迹",
       "metacritic": {
         "score": 61,
         "title": "Disney/Pixar Up",
@@ -3497,7 +3609,8 @@
         "releaseDate": "2009-05-26",
         "userScore": 6.6,
         "userReviewCount": 17
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007632",
@@ -3529,7 +3642,8 @@
         "releaseDate": "2008-06-24",
         "userScore": 6.3,
         "userReviewCount": 7
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "233884",
@@ -3549,7 +3663,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "DOOM",
+      "titleZh": null,
       "metacritic": {
         "score": 79,
         "title": "DOOM",
@@ -3562,7 +3676,8 @@
         "releaseDate": "2017-11-10",
         "userScore": 8.2,
         "userReviewCount": 1690
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "234453",
@@ -3582,7 +3697,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "毁灭战士3",
       "metacritic": {
         "score": 87,
         "title": "DOOM 3",
@@ -3595,7 +3710,8 @@
         "releaseDate": "2004-08-03",
         "userScore": 7.7,
         "userReviewCount": 1309
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234454",
@@ -3615,7 +3731,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "毁灭战士64",
       "metacritic": {
         "score": 76,
         "title": "DOOM 64",
@@ -3628,7 +3744,8 @@
         "releaseDate": "2020-03-20",
         "userScore": 7.7,
         "userReviewCount": 175
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232624",
@@ -3648,7 +3765,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "毁灭战士：永恒",
       "metacritic": {
         "score": 88,
         "title": "DOOM Eternal",
@@ -3661,7 +3778,8 @@
         "releaseDate": "2020-03-20",
         "userScore": 8.5,
         "userReviewCount": 6558
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233883",
@@ -3681,7 +3799,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "DOOM II",
+      "titleZh": null,
       "metacritic": {
         "score": 77,
         "title": "DOOM II",
@@ -3694,7 +3812,8 @@
         "releaseDate": "2010-05-26",
         "userScore": 7.9,
         "userReviewCount": 247
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "232591",
@@ -3728,7 +3847,8 @@
         "releaseDate": "2019-06-11",
         "userScore": 6.9,
         "userReviewCount": 38
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "206887",
@@ -3749,8 +3869,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "梦想大创造",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005693",
@@ -3769,7 +3890,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "渔帆暗涌",
       "metacritic": {
         "score": 80,
         "title": "DREDGE",
@@ -3782,7 +3903,8 @@
         "releaseDate": "2023-03-30",
         "userScore": 7.9,
         "userReviewCount": 738
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011397",
@@ -3814,7 +3936,8 @@
         "releaseDate": "2002-05-29",
         "userScore": 8.3,
         "userReviewCount": 7
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007196",
@@ -3834,7 +3957,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "辛特堡传说",
       "metacritic": {
         "score": 80,
         "title": "Dungeons of Hinterberg",
@@ -3847,7 +3970,8 @@
         "releaseDate": "2024-07-18",
         "userScore": 7.7,
         "userReviewCount": 124
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "201129",
@@ -3867,7 +3991,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "消逝的光芒",
       "metacritic": {
         "score": 74,
         "title": "Dying Light",
@@ -3880,7 +4004,8 @@
         "releaseDate": "2015-01-27",
         "userScore": 8,
         "userReviewCount": 3048
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232374",
@@ -3899,7 +4024,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "消逝的光芒2 人与仁之战",
       "metacritic": {
         "score": 76,
         "title": "Dying Light 2 Stay Human",
@@ -3912,7 +4037,8 @@
         "releaseDate": "2022-02-04",
         "userScore": 7.2,
         "userReviewCount": 3618
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "221097",
@@ -3944,7 +4070,8 @@
         "releaseDate": "2015-02-24",
         "userScore": 6.7,
         "userReviewCount": 70
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "229001",
@@ -3978,7 +4105,8 @@
         "releaseDate": "2018-02-13",
         "userScore": 4.3,
         "userReviewCount": 196
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "216171",
@@ -4013,7 +4141,8 @@
         "releaseDate": "2016-11-08",
         "userScore": 7,
         "userReviewCount": 51
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "222995",
@@ -4047,7 +4176,8 @@
         "releaseDate": "2018-12-11",
         "userScore": 7.6,
         "userReviewCount": 59
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232625",
@@ -4068,7 +4198,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "地球防卫军：铁雨",
       "metacritic": {
         "score": 69,
         "title": "Earth Defense Force: Iron Rain",
@@ -4081,7 +4211,8 @@
         "releaseDate": "2019-04-11",
         "userScore": 5.5,
         "userReviewCount": 46
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004656",
@@ -4100,7 +4231,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "echochrome 無限回廊",
+      "titleZh": "echochrome 无限回廊",
       "metacritic": {
         "score": 81,
         "title": "echochrome",
@@ -4113,7 +4244,8 @@
         "releaseDate": "2008-05-01",
         "userScore": 5.8,
         "userReviewCount": 16
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10012310",
@@ -4145,7 +4277,8 @@
         "releaseDate": "2025-08-12",
         "userScore": 6.7,
         "userReviewCount": 243
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005031",
@@ -4177,7 +4310,8 @@
         "releaseDate": "2010-02-24",
         "userScore": 7.5,
         "userReviewCount": 8
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10003484",
@@ -4196,7 +4330,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《百英雄传》",
+      "titleZh": "百英雄传",
       "metacritic": {
         "score": 79,
         "title": "Eiyuden Chronicle: Hundred Heroes",
@@ -4209,7 +4343,8 @@
         "releaseDate": "2024-04-23",
         "userScore": 7.2,
         "userReviewCount": 310
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002570",
@@ -4228,7 +4363,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "上古之魂",
       "metacritic": {
         "score": 76,
         "title": "Eldest Souls",
@@ -4241,7 +4376,8 @@
         "releaseDate": "2021-07-29",
         "userScore": 6.6,
         "userReviewCount": 64
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10001730",
@@ -4261,7 +4397,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "灭火先锋",
       "metacritic": {
         "score": 72,
         "title": "Embr",
@@ -4274,7 +4410,8 @@
         "releaseDate": "2021-09-23",
         "userScore": 7.6,
         "userReviewCount": 7
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10008826",
@@ -4293,7 +4430,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "艾诺提亚：失落之歌",
       "metacritic": {
         "score": 69,
         "title": "Enotria: The Last Song",
@@ -4306,7 +4443,8 @@
         "releaseDate": "2024-09-16",
         "userScore": 6,
         "userReviewCount": 308
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "201386",
@@ -4325,7 +4463,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Entwined™ 制品版",
+      "titleZh": "Entwined 制品版",
       "metacritic": {
         "score": 59,
         "title": "Entwined",
@@ -4338,7 +4476,8 @@
         "releaseDate": "2014-06-09",
         "userScore": 6.8,
         "userReviewCount": 186
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234806",
@@ -4357,7 +4496,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "永远38岁的艾瑞卡",
       "metacritic": {
         "score": 69,
         "title": "Erica",
@@ -4370,7 +4509,8 @@
         "releaseDate": "2019-08-19",
         "userScore": 6.6,
         "userReviewCount": 476
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "209065",
@@ -4403,7 +4543,8 @@
         "releaseDate": "2017-08-29",
         "userScore": 7.5,
         "userReviewCount": 183
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004411",
@@ -4422,7 +4563,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "全民高尔夫",
       "metacritic": {
         "score": 78,
         "title": "Everybody's Golf",
@@ -4435,7 +4576,8 @@
         "releaseDate": "2017-08-29",
         "userScore": 7.5,
         "userReviewCount": 183
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004604",
@@ -4454,8 +4596,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Hot Shots Golf 2",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10008790",
@@ -4475,7 +4618,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "远征：泥泞奔驰游戏",
       "metacritic": {
         "score": 77,
         "title": "Expeditions: A MudRunner Game",
@@ -4488,7 +4631,8 @@
         "releaseDate": "2024-03-05",
         "userScore": 5.4,
         "userReviewCount": 88
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "231804",
@@ -4520,7 +4664,8 @@
         "releaseDate": "2019-04-30",
         "userScore": 4.5,
         "userReviewCount": 43
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "201511",
@@ -4552,7 +4697,8 @@
         "releaseDate": "2015-11-10",
         "userScore": 7.1,
         "userReviewCount": 8031
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "232248",
@@ -4571,7 +4717,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "辐射76",
       "metacritic": {
         "score": 52,
         "title": "Fallout 76",
@@ -4584,7 +4730,8 @@
         "releaseDate": "2018-11-14",
         "userScore": 2.9,
         "userReviewCount": 7201
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003269",
@@ -4604,7 +4751,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《孤岛惊魂 3：血龙》 - 经典版",
+      "titleZh": "孤岛惊魂 3：血龙 - 经典版",
       "metacritic": {
         "score": 80,
         "title": "Far Cry 3: Blood Dragon",
@@ -4617,7 +4764,8 @@
         "releaseDate": "2013-05-01",
         "userScore": 8.1,
         "userReviewCount": 587
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "201624",
@@ -4651,7 +4799,8 @@
         "releaseDate": "2014-11-18",
         "userScore": 7.7,
         "userReviewCount": 3703
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "221692",
@@ -4686,7 +4835,8 @@
         "releaseDate": "2018-03-27",
         "userScore": 7,
         "userReviewCount": 3792
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232910",
@@ -4708,7 +4858,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《极地战嚎：破晓》- 数码标准版",
+      "titleZh": "极地战嚎：破晓- 数码标准版",
       "metacritic": {
         "score": 71,
         "title": "Far Cry New Dawn",
@@ -4721,7 +4871,8 @@
         "releaseDate": "2019-02-15",
         "userScore": 4.9,
         "userReviewCount": 1081
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "201634",
@@ -4755,7 +4906,8 @@
         "releaseDate": "2016-02-23",
         "userScore": 6.8,
         "userReviewCount": 1632
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "231486",
@@ -4776,7 +4928,8 @@
         "ubisoft"
       ],
       "titleZh": "极地战嚎 3：经典版 - 数码一般版",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10002934",
@@ -4809,7 +4962,8 @@
         "releaseDate": "2022-03-01",
         "userScore": 6.9,
         "userReviewCount": 96
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "233961",
@@ -4842,7 +4996,8 @@
         "releaseDate": "2021-10-07",
         "userScore": 5.5,
         "userReviewCount": 2391
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10009612",
@@ -4874,7 +5029,8 @@
         "releaseDate": "2024-11-12",
         "userScore": 5.5,
         "userReviewCount": 94
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004920",
@@ -4907,7 +5063,8 @@
         "releaseDate": "2023-09-29",
         "userScore": 8.1,
         "userReviewCount": 131
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10012303",
@@ -4926,7 +5083,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "联邦控制局：防火组",
       "metacritic": {
         "score": 64,
         "title": "FBC: Firebreak",
@@ -4939,7 +5096,8 @@
         "releaseDate": "2025-06-17",
         "userScore": 5.2,
         "userReviewCount": 120
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "228744",
@@ -4958,7 +5116,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "titleZh": "最终幻想VII 重制版",
       "metacritic": {
         "score": 87,
         "title": "Final Fantasy VII Remake",
@@ -4971,7 +5129,8 @@
         "releaseDate": "2020-04-10",
         "userScore": 8.2,
         "userReviewCount": 9444
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002100",
@@ -4991,7 +5150,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "最终幻想16",
       "metacritic": {
         "score": 87,
         "title": "Final Fantasy XVI",
@@ -5004,7 +5163,8 @@
         "releaseDate": "2023-06-22",
         "userScore": 8.3,
         "userReviewCount": 10314
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008409",
@@ -5023,8 +5183,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "消防模拟：火苗燃动",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "10009325",
@@ -5044,7 +5205,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004425",
@@ -5078,7 +5240,8 @@
         "releaseDate": "2024-07-17",
         "userScore": 5,
         "userReviewCount": 239
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10014519",
@@ -5110,7 +5273,8 @@
         "releaseDate": "2025-11-04",
         "userScore": 2.9,
         "userReviewCount": 205
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "221694",
@@ -5131,7 +5295,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《荣耀战魂》",
+      "titleZh": "荣耀战魂",
       "metacritic": {
         "score": 78,
         "title": "For Honor",
@@ -5144,7 +5308,8 @@
         "releaseDate": "2017-02-14",
         "userScore": 6.1,
         "userReviewCount": 1428
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232512",
@@ -5163,7 +5328,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "为了吾王",
       "metacritic": {
         "score": 79,
         "title": "For the King",
@@ -5176,7 +5341,8 @@
         "releaseDate": "2018-04-19",
         "userScore": 6.9,
         "userReviewCount": 177
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10010950",
@@ -5196,7 +5362,8 @@
         "classics"
       ],
       "titleZh": "Siren - 死魂曲",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10008137",
@@ -5216,7 +5383,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "235227",
@@ -5248,7 +5416,8 @@
         "releaseDate": "2021-08-20",
         "userScore": 8.4,
         "userReviewCount": 6122
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10010578",
@@ -5267,8 +5436,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "除灵派对",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "10017591",
@@ -5287,7 +5457,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "少年吉他手",
       "metacritic": {
         "score": 82,
         "title": "Gitaroo Man",
@@ -5300,7 +5470,8 @@
         "releaseDate": "2002-02-19",
         "userScore": 7.7,
         "userReviewCount": 18
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227770",
@@ -5319,7 +5490,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "战神",
       "metacritic": {
         "score": 94,
         "title": "God of War",
@@ -5332,7 +5503,8 @@
         "releaseDate": "2018-04-20",
         "userScore": 9,
         "userReviewCount": 31363
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10001850",
@@ -5364,7 +5536,8 @@
         "releaseDate": "2022-11-09",
         "userScore": 8.3,
         "userReviewCount": 17115
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "228618",
@@ -5397,7 +5570,8 @@
         "releaseDate": "2015-07-14",
         "userScore": 8.4,
         "userReviewCount": 2004
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005103",
@@ -5417,7 +5591,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "GOD EATER BURST",
+      "titleZh": "噬神者",
       "metacritic": {
         "score": 71,
         "title": "Gods Eater Burst",
@@ -5430,7 +5604,8 @@
         "releaseDate": "2011-03-15",
         "userScore": 8,
         "userReviewCount": 43
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "235061",
@@ -5450,7 +5625,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "友尽高尔夫",
       "metacritic": {
         "score": 68,
         "title": "Golf With Your Friends",
@@ -5463,7 +5638,8 @@
         "releaseDate": "2020-05-19",
         "userScore": 5.9,
         "userReviewCount": 102
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10007911",
@@ -5484,7 +5660,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "碧蓝幻想 Versus -RISING-",
       "metacritic": {
         "score": 81,
         "title": "Granblue Fantasy Versus: Rising",
@@ -5497,7 +5673,8 @@
         "releaseDate": "2023-12-14",
         "userScore": 7.3,
         "userReviewCount": 61
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229066",
@@ -5517,7 +5694,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "碧蓝幻想Relink",
       "metacritic": {
         "score": 80,
         "title": "Granblue Fantasy: Relink",
@@ -5530,7 +5707,8 @@
         "releaseDate": "2024-02-01",
         "userScore": 8.1,
         "userReviewCount": 461
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "201930",
@@ -5550,7 +5728,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "侠盗猎车手V",
       "metacritic": {
         "score": 97,
         "title": "Grand Theft Auto V",
@@ -5563,7 +5741,8 @@
         "releaseDate": "2014-11-18",
         "userScore": 8.5,
         "userReviewCount": 17459
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008233",
@@ -5582,7 +5761,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "格兰蒂亚",
       "metacritic": {
         "score": 89,
         "title": "Grandia",
@@ -5595,7 +5774,8 @@
         "releaseDate": "1999-09-30",
         "userScore": 7.7,
         "userReviewCount": 176
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007237",
@@ -5615,7 +5795,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "221698",
@@ -5635,7 +5816,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "GRAVITY RUSH 2 重力异想世界完结篇™",
+      "titleZh": "GRAVITY RUSH 2 重力异想世界完结篇",
       "metacritic": {
         "score": 80,
         "title": "Gravity Rush 2",
@@ -5648,7 +5829,8 @@
         "releaseDate": "2017-01-20",
         "userScore": 8.1,
         "userReviewCount": 754
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "226357",
@@ -5681,7 +5863,8 @@
         "releaseDate": "2016-02-02",
         "userScore": 8.1,
         "userReviewCount": 547
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002038",
@@ -5700,7 +5883,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Green Hell PS4 + PS5 Free Upgrade",
+      "titleZh": "绿色地狱",
       "metacritic": {
         "score": 78,
         "title": "Green Hell",
@@ -5713,7 +5896,8 @@
         "releaseDate": "2019-09-05",
         "userScore": 7.4,
         "userReviewCount": 299
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234650",
@@ -5733,7 +5917,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "GRIS |",
+      "titleZh": null,
       "metacritic": {
         "score": 83,
         "title": "GRIS",
@@ -5746,7 +5930,8 @@
         "releaseDate": "2018-12-13",
         "userScore": 8,
         "userReviewCount": 1042
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005231",
@@ -5765,7 +5950,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "牧場物語 ～ハーベストムーン",
+      "titleZh": "牧场物语 ～ハーベストムーン",
       "metacritic": {
         "score": 82,
         "title": "Harvest Moon: Back to Nature",
@@ -5778,7 +5963,8 @@
         "releaseDate": "2000-11-22",
         "userScore": 8.8,
         "userReviewCount": 93
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "230279",
@@ -5797,8 +5983,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Harvest Moon®: 希望之光特别版",
-      "metacritic": null
+      "titleZh": "Harvest Moon: 希望之光特别版",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "201902",
@@ -5818,7 +6005,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "暴雨",
       "metacritic": {
         "score": 87,
         "title": "Heavy Rain",
@@ -5831,7 +6018,8 @@
         "releaseDate": "2010-02-23",
         "userScore": 8.4,
         "userReviewCount": 2996
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005051",
@@ -5851,7 +6039,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "Hell is Us 地狱即我们",
       "metacritic": {
         "score": 77,
         "title": "Hell is Us",
@@ -5864,7 +6052,8 @@
         "releaseDate": "2025-09-04",
         "userScore": 7.7,
         "userReviewCount": 480
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10000657",
@@ -5883,7 +6072,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "HELLDIVERS 绝地潜兵2",
       "metacritic": {
         "score": 82,
         "title": "Helldivers 2",
@@ -5896,7 +6085,8 @@
         "releaseDate": "2024-02-08",
         "userScore": 7.5,
         "userReviewCount": 3031
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "231096",
@@ -5917,7 +6107,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "你好，邻居",
       "metacritic": {
         "score": 38,
         "title": "Hello Neighbor",
@@ -5930,7 +6120,8 @@
         "releaseDate": "2017-12-08",
         "userScore": 5.4,
         "userReviewCount": 574
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007636",
@@ -5950,8 +6141,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "海格力斯大冒险",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232447",
@@ -5970,7 +6162,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《霍格沃茨之遗》PS5版",
+      "titleZh": "霍格沃茨之遗PS5版",
       "metacritic": {
         "score": 84,
         "title": "Hogwarts Legacy",
@@ -5983,7 +6175,8 @@
         "releaseDate": "2023-02-07",
         "userScore": 8,
         "userReviewCount": 6886
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232654",
@@ -6004,7 +6197,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Hollow Knight Voidheart Edition",
+      "titleZh": null,
       "metacritic": {
         "score": 90,
         "title": "Hollow Knight",
@@ -6017,7 +6210,8 @@
         "releaseDate": "2018-06-12",
         "userScore": 9,
         "userReviewCount": 6335
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "221727",
@@ -6037,7 +6231,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Horizon Zero Dawn™: Complete Edition",
+      "titleZh": "地平线 零之曙光重制版",
       "metacritic": {
         "score": 85,
         "title": "Horizon Zero Dawn Remastered",
@@ -6050,7 +6244,8 @@
         "releaseDate": "2024-10-31",
         "userScore": 7.2,
         "userReviewCount": 895
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10005940",
@@ -6069,7 +6264,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "迈阿密热线",
       "metacritic": {
         "score": 85,
         "title": "Hotline Miami",
@@ -6082,7 +6277,8 @@
         "releaseDate": "2012-10-23",
         "userScore": 8.5,
         "userReviewCount": 2780
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202007",
@@ -6102,7 +6298,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "火线迈阿密2：空号",
       "metacritic": {
         "score": 74,
         "title": "Hotline Miami 2: Wrong Number",
@@ -6115,7 +6311,8 @@
         "releaseDate": "2015-03-10",
         "userScore": 7.9,
         "userReviewCount": 1207
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "227139",
@@ -6149,7 +6346,8 @@
         "releaseDate": "2016-07-22",
         "userScore": 7.2,
         "userReviewCount": 359
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "233011",
@@ -6169,7 +6367,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "人性",
       "metacritic": {
         "score": 86,
         "title": "Humanity",
@@ -6182,7 +6380,8 @@
         "releaseDate": "2023-05-16",
         "userScore": 7.9,
         "userReviewCount": 165
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232286",
@@ -6202,7 +6401,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《饥饿鲨：世界》",
+      "titleZh": "饥饿鲨：世界",
       "metacritic": {
         "score": 58,
         "title": "Hungry Shark World",
@@ -6215,7 +6414,8 @@
         "releaseDate": "2018-07-17",
         "userScore": 7.1,
         "userReviewCount": 14
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234423",
@@ -6236,7 +6436,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《渡神纪 芬尼斯崛起》- 数字标准版",
+      "titleZh": "渡神纪 芬尼斯崛起- 数字标准版",
       "metacritic": {
         "score": 81,
         "title": "Immortals Fenyx Rising",
@@ -6249,7 +6449,8 @@
         "releaseDate": "2020-12-03",
         "userScore": 7.6,
         "userReviewCount": 687
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007635",
@@ -6269,7 +6470,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "印第安纳·琼斯与王之杖",
       "metacritic": {
         "score": 55,
         "title": "Indiana Jones and the Staff of Kings",
@@ -6282,7 +6483,8 @@
         "releaseDate": "2009-06-09",
         "userScore": 6.4,
         "userReviewCount": 38
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008296",
@@ -6301,7 +6503,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "印蒂卡",
       "metacritic": {
         "score": 80,
         "title": "INDIKA",
@@ -6314,7 +6516,8 @@
         "releaseDate": "2024-05-02",
         "userScore": 7,
         "userReviewCount": 430
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202140",
@@ -6333,7 +6536,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "inFAMOUS First Light™ 制品版",
+      "titleZh": "inFAMOUS First Light 制品版",
       "metacritic": {
         "score": 73,
         "title": "inFamous: First Light",
@@ -6346,7 +6549,8 @@
         "releaseDate": "2014-08-26",
         "userScore": 7.3,
         "userReviewCount": 1034
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "227147",
@@ -6365,7 +6569,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "叛乱：沙漠风暴",
       "metacritic": {
         "score": 78,
         "title": "Insurgency: Sandstorm",
@@ -6378,7 +6582,8 @@
         "releaseDate": "2018-12-12",
         "userScore": 7.8,
         "userReviewCount": 328
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202184",
@@ -6399,7 +6604,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "捷克与达斯特3",
       "metacritic": {
         "score": 84,
         "title": "Jak 3",
@@ -6412,7 +6617,8 @@
         "releaseDate": "2004-11-09",
         "userScore": 8.8,
         "userReviewCount": 519
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007600",
@@ -6431,7 +6637,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "捷克与达斯特：失落的边境",
       "metacritic": {
         "score": 71,
         "title": "Jak and Daxter: The Lost Frontier",
@@ -6444,7 +6650,8 @@
         "releaseDate": "2009-11-03",
         "userScore": 6.8,
         "userReviewCount": 96
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010137",
@@ -6463,7 +6670,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "杰克和达斯特",
       "metacritic": {
         "score": 90,
         "title": "Jak and Daxter: The Precursor Legacy",
@@ -6476,7 +6683,8 @@
         "releaseDate": "2001-12-04",
         "userScore": 8.8,
         "userReviewCount": 835
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202185",
@@ -6497,7 +6705,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "杰克和达斯特2",
       "metacritic": {
         "score": 87,
         "title": "Jak II",
@@ -6510,7 +6718,8 @@
         "releaseDate": "2003-10-14",
         "userScore": 8.3,
         "userReviewCount": 580
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229131",
@@ -6529,7 +6738,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "捷克X：战斗赛车",
       "metacritic": {
         "score": 76,
         "title": "Jak X: Combat Racing",
@@ -6542,7 +6751,8 @@
         "releaseDate": "2005-10-18",
         "userScore": 8,
         "userReviewCount": 145
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007464",
@@ -6561,7 +6771,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "圣女贞德",
       "metacritic": {
         "score": 87,
         "title": "Jeanne d'Arc",
@@ -6574,7 +6784,8 @@
         "releaseDate": "2007-08-21",
         "userScore": 8.1,
         "userReviewCount": 118
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008415",
@@ -6593,8 +6804,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Jet Moto",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10009010",
@@ -6613,8 +6825,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Jet Moto 2",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004413",
@@ -6634,7 +6847,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10002577",
@@ -6654,7 +6868,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《侏罗纪世界：进化 2》",
+      "titleZh": "侏罗纪世界：进化 2",
       "metacritic": {
         "score": 78,
         "title": "Jurassic World Evolution 2",
@@ -6667,7 +6881,8 @@
         "releaseDate": "2021-11-09",
         "userScore": 7.3,
         "userReviewCount": 235
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10005028",
@@ -6688,7 +6903,8 @@
         "classics"
       ],
       "titleZh": "天地之门",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10005847",
@@ -6708,7 +6924,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "致命频率",
       "metacritic": {
         "score": 82,
         "title": "Killer Frequency",
@@ -6721,7 +6937,8 @@
         "releaseDate": "2023-06-01",
         "userScore": 7.3,
         "userReviewCount": 72
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "221915",
@@ -6741,7 +6958,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "杀戮空间2",
       "metacritic": {
         "score": 75,
         "title": "Killing Floor 2",
@@ -6754,7 +6971,8 @@
         "releaseDate": "2016-11-16",
         "userScore": 7,
         "userReviewCount": 307
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006484",
@@ -6774,7 +6992,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "杀戮地带：解放",
       "metacritic": {
         "score": 77,
         "title": "Killzone: Liberation",
@@ -6787,7 +7005,8 @@
         "releaseDate": "2006-10-31",
         "userScore": 7.3,
         "userReviewCount": 113
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202335",
@@ -6807,7 +7026,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "杀戮地带：暗影坠落",
       "metacritic": {
         "score": 73,
         "title": "Killzone: Shadow Fall",
@@ -6820,7 +7039,8 @@
         "releaseDate": "2013-11-15",
         "userScore": 6.8,
         "userReviewCount": 2599
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227410",
@@ -6841,7 +7061,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "天国：拯救",
       "metacritic": {
         "score": 76,
         "title": "Kingdom Come: Deliverance",
@@ -6854,7 +7074,8 @@
         "releaseDate": "2018-02-13",
         "userScore": 8,
         "userReviewCount": 4349
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006210",
@@ -6873,7 +7094,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "天国：拯救2",
       "metacritic": {
         "score": 89,
         "title": "Kingdom Come: Deliverance II",
@@ -6886,7 +7107,8 @@
         "releaseDate": "2025-02-04",
         "userScore": 8.7,
         "userReviewCount": 5122
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "202340",
@@ -6918,7 +7140,8 @@
         "releaseDate": "2013-11-15",
         "userScore": 6.5,
         "userReviewCount": 1427
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004410",
@@ -6937,8 +7160,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "I.Q.：智能魔方",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004412",
@@ -6958,7 +7182,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10012698",
@@ -6990,7 +7215,8 @@
         "releaseDate": "2026-03-03",
         "userScore": 7.6,
         "userReviewCount": 37
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "232460",
@@ -7010,8 +7236,9 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《传奇小钓手》- 数码版",
-      "metacritic": null
+      "titleZh": "传奇小钓手- 数码版",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10007589",
@@ -7030,7 +7257,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "乐高星球大战2：原创三部曲",
       "metacritic": {
         "score": 81,
         "title": "Lego Star Wars II: The Original Trilogy",
@@ -7043,7 +7270,8 @@
         "releaseDate": "2006-09-12",
         "userScore": 8,
         "userReviewCount": 186
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202496",
@@ -7064,7 +7292,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《乐高蝙蝠侠 3：哥谭之上》",
+      "titleZh": "乐高蝙蝠侠 3：哥谭之上",
       "metacritic": {
         "score": 73,
         "title": "LEGO Batman 3: Beyond Gotham",
@@ -7077,7 +7305,8 @@
         "releaseDate": "2014-11-11",
         "userScore": 7,
         "userReviewCount": 362
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "224875",
@@ -7096,7 +7325,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "乐高®都市：卧底风云",
+      "titleZh": "乐高都市：卧底风云",
       "metacritic": {
         "score": 80,
         "title": "LEGO City Undercover",
@@ -7109,7 +7338,8 @@
         "releaseDate": "2013-03-18",
         "userScore": 8.4,
         "userReviewCount": 541
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "231944",
@@ -7128,7 +7358,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "LEGO® DC 超级反派",
+      "titleZh": "LEGO DC 超级反派",
       "metacritic": {
         "score": 74,
         "title": "LEGO DC Super-Villains",
@@ -7141,7 +7371,8 @@
         "releaseDate": "2018-10-16",
         "userScore": 7.4,
         "userReviewCount": 270
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007722",
@@ -7160,7 +7391,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《LEGO®地平线大冒险》",
+      "titleZh": "LEGO地平线大冒险",
       "metacritic": {
         "score": 70,
         "title": "LEGO Horizon Adventures",
@@ -7173,7 +7404,8 @@
         "releaseDate": "2024-11-14",
         "userScore": 5.8,
         "userReviewCount": 316
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "202450",
@@ -7206,7 +7438,8 @@
         "releaseDate": "2015-06-09",
         "userScore": 7.3,
         "userReviewCount": 286
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "202494",
@@ -7226,7 +7459,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《LEGO® 漫威复仇者联盟》",
+      "titleZh": "LEGO 漫威复仇者联盟",
       "metacritic": {
         "score": 71,
         "title": "LEGO Marvel's Avengers",
@@ -7239,7 +7472,8 @@
         "releaseDate": "2016-01-26",
         "userScore": 7.2,
         "userReviewCount": 355
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "228782",
@@ -7259,7 +7493,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "乐高® 旋风忍者® 大电影游戏",
+      "titleZh": "乐高 旋风忍者 大电影游戏",
       "metacritic": {
         "score": 67,
         "title": "The LEGO NINJAGO Movie Video Game",
@@ -7272,7 +7506,8 @@
         "releaseDate": "2017-09-22",
         "userScore": 6.1,
         "userReviewCount": 157
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "202454",
@@ -7291,7 +7526,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "乐高霍比特人",
       "metacritic": {
         "score": 72,
         "title": "LEGO The Hobbit",
@@ -7304,7 +7539,8 @@
         "releaseDate": "2014-04-08",
         "userScore": 6.9,
         "userReviewCount": 214
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "202508",
@@ -7325,7 +7561,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "乐高®世界",
+      "titleZh": "乐高世界",
       "metacritic": {
         "score": 66,
         "title": "LEGO Worlds",
@@ -7338,7 +7574,8 @@
         "releaseDate": "2017-03-07",
         "userScore": 6.1,
         "userReviewCount": 153
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008183",
@@ -7370,7 +7607,8 @@
         "releaseDate": "2024-10-29",
         "userScore": 4.8,
         "userReviewCount": 944
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004462",
@@ -7402,7 +7640,8 @@
         "releaseDate": "2024-01-26",
         "userScore": 8.5,
         "userReviewCount": 1003
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004655",
@@ -7434,7 +7673,8 @@
         "releaseDate": "2009-10-29",
         "userScore": 7.5,
         "userReviewCount": 22
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "227868",
@@ -7453,7 +7693,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "乐克乐克系列",
       "metacritic": {
         "score": 83,
         "title": "LocoRoco",
@@ -7466,7 +7706,8 @@
         "releaseDate": "2006-09-05",
         "userScore": 8.1,
         "userReviewCount": 132
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227869",
@@ -7485,7 +7726,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "LocoRoco™ 2 Remastered",
+      "titleZh": null,
       "metacritic": {
         "score": 85,
         "title": "LocoRoco 2",
@@ -7498,7 +7739,8 @@
         "releaseDate": "2009-02-10",
         "userScore": 8.3,
         "userReviewCount": 77
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "234290",
@@ -7518,7 +7760,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "孤山速降",
       "metacritic": {
         "score": 84,
         "title": "Lonely Mountains: Downhill",
@@ -7531,7 +7773,8 @@
         "releaseDate": "2020-05-07",
         "userScore": 7.2,
         "userReviewCount": 97
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "216665",
@@ -7563,7 +7806,8 @@
         "releaseDate": "2018-06-26",
         "userScore": 8,
         "userReviewCount": 42
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "202615",
@@ -7582,7 +7826,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "魔能2",
       "metacritic": {
         "score": 69,
         "title": "Magicka 2",
@@ -7595,7 +7839,8 @@
         "releaseDate": "2015-05-26",
         "userScore": 6.4,
         "userReviewCount": 155
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "218717",
@@ -7616,8 +7861,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "麻将",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "233202",
@@ -7638,7 +7884,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "食人鲨",
       "metacritic": {
         "score": 70,
         "title": "Maneater",
@@ -7651,7 +7897,8 @@
         "releaseDate": "2020-05-22",
         "userScore": 6.6,
         "userReviewCount": 368
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234665",
@@ -7683,7 +7930,8 @@
         "releaseDate": "2021-10-26",
         "userScore": 8.4,
         "userReviewCount": 2687
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002456",
@@ -7715,7 +7963,8 @@
         "releaseDate": "2023-10-20",
         "userScore": 8.6,
         "userReviewCount": 11731
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10000762",
@@ -7734,7 +7983,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Marvel's Spider-Man Remastered",
+      "titleZh": "漫威蜘蛛侠",
       "metacritic": {
         "score": 87,
         "title": "Marvel's Spider-Man",
@@ -7747,7 +7996,8 @@
         "releaseDate": "2018-09-07",
         "userScore": 8.7,
         "userReviewCount": 12000
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000649",
@@ -7766,7 +8016,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "蜘蛛侠：迈尔斯·莫拉莱斯",
       "metacritic": {
         "score": 85,
         "title": "Marvel's Spider-Man: Miles Morales",
@@ -7779,7 +8029,8 @@
         "releaseDate": "2020-11-12",
         "userScore": 7.6,
         "userReviewCount": 6167
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "224903",
@@ -7812,7 +8063,8 @@
         "releaseDate": "2017-08-15",
         "userScore": 7.4,
         "userReviewCount": 66
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "234427",
@@ -7832,7 +8084,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "骷髅战士",
       "metacritic": {
         "score": 67,
         "title": "MediEvil",
@@ -7845,7 +8097,8 @@
         "releaseDate": "2019-10-25",
         "userScore": 8,
         "userReviewCount": 779
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008138",
@@ -7864,7 +8117,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "骷髅战士",
       "metacritic": {
         "score": 67,
         "title": "MediEvil",
@@ -7877,7 +8130,8 @@
         "releaseDate": "2019-10-25",
         "userScore": 8,
         "userReviewCount": 779
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10009384",
@@ -7896,8 +8150,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "MediEvil II",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005032",
@@ -7929,7 +8184,8 @@
         "releaseDate": "2005-09-13",
         "userScore": 8.1,
         "userReviewCount": 110
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "202663",
@@ -7948,8 +8204,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Megadimension Neptunia™ VII",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10019857",
@@ -7968,7 +8225,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "ROCKMAN X Command Mission",
+      "titleZh": "洛克人X 指令任务",
       "metacritic": {
         "score": 69,
         "title": "Mega Man X: Command Mission",
@@ -7981,7 +8238,8 @@
         "releaseDate": "2004-09-21",
         "userScore": 7.3,
         "userReviewCount": 34
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000480",
@@ -8001,7 +8259,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10008291",
@@ -8022,7 +8281,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "合金天使：堕入伊甸",
       "metacritic": {
         "score": 73,
         "title": "Metal Eden",
@@ -8035,7 +8294,8 @@
         "releaseDate": "2025-09-02",
         "userScore": 7,
         "userReviewCount": 77
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "231769",
@@ -8069,7 +8329,8 @@
         "releaseDate": "2021-06-18",
         "userScore": 8.2,
         "userReviewCount": 752
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "202806",
@@ -8101,7 +8362,8 @@
         "releaseDate": "2014-08-26",
         "userScore": 8.1,
         "userReviewCount": 1097
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10009198",
@@ -8120,7 +8382,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "金刚战士：幽冥女王归来",
       "metacritic": {
         "score": 70,
         "title": "Mighty Morphin Power Rangers: Rita's Rewind",
@@ -8133,7 +8395,8 @@
         "releaseDate": "2024-12-10",
         "userScore": 5.7,
         "userReviewCount": 36
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10015430",
@@ -8152,7 +8415,7 @@
       "lists": [
         "monthly"
       ],
-      "titleZh": "《MLB® The Show™ 26》Jump Start同捆包",
+      "titleZh": "《MLB The Show 26》Jump Start同捆包",
       "metacritic": {
         "score": 73,
         "title": "MLB The Show 26",
@@ -8165,7 +8428,8 @@
         "releaseDate": "2026-03-17",
         "userScore": 2.3,
         "userReviewCount": 103
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002216",
@@ -8185,8 +8449,9 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "MONOPOLY®狂乐派对",
-      "metacritic": null
+      "titleZh": "MONOPOLY狂乐派对",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10007582",
@@ -8205,7 +8470,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "怪物猎人物语",
       "metacritic": {
         "score": 76,
         "title": "Monster Hunter Stories",
@@ -8218,7 +8483,8 @@
         "releaseDate": "2024-06-14",
         "userScore": 7.2,
         "userReviewCount": 50
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007583",
@@ -8250,7 +8516,8 @@
         "releaseDate": "2021-07-09",
         "userScore": 8.1,
         "userReviewCount": 244
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008248",
@@ -8283,7 +8550,8 @@
         "releaseDate": "2024-08-29",
         "userScore": 6.2,
         "userReviewCount": 12
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10010256",
@@ -8302,7 +8570,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "怪物火车",
       "metacritic": {
         "score": 86,
         "title": "Monster Train",
@@ -8315,7 +8583,8 @@
         "releaseDate": "2020-05-21",
         "userScore": 7.9,
         "userReviewCount": 147
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000346",
@@ -8347,7 +8616,8 @@
         "releaseDate": "2020-10-20",
         "userScore": 3.8,
         "userReviewCount": 9
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004427",
@@ -8367,7 +8637,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "磨大号",
       "metacritic": {
         "score": 81,
         "title": "MORDHAU",
@@ -8380,7 +8650,8 @@
         "releaseDate": "2019-04-29",
         "userScore": 7.3,
         "userReviewCount": 328
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004911",
@@ -8399,7 +8670,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "真人快打™ 1",
+      "titleZh": "真人快打 1",
       "metacritic": {
         "score": 83,
         "title": "Mortal Kombat 1",
@@ -8412,7 +8683,8 @@
         "releaseDate": "2023-09-19",
         "userScore": 6.6,
         "userReviewCount": 1645
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10010951",
@@ -8431,8 +8703,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Mister Mosquito",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005104",
@@ -8453,7 +8726,8 @@
         "classics"
       ],
       "titleZh": "爆钻小英雄",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10008667",
@@ -8486,7 +8760,8 @@
         "releaseDate": "2021-08-26",
         "userScore": 7,
         "userReviewCount": 41
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008721",
@@ -8507,7 +8782,8 @@
         "catalog"
       ],
       "titleZh": "神秘之柱 X 坎塔拉",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10008521",
@@ -8540,7 +8816,8 @@
         "releaseDate": "2024-10-15",
         "userScore": 8.2,
         "userReviewCount": 338
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008585",
@@ -8562,7 +8839,8 @@
         "ubisoft"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10013857",
@@ -8581,7 +8859,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "忍者外传：怒之羁绊",
       "metacritic": {
         "score": 84,
         "title": "Ninja Gaiden: Ragebound",
@@ -8594,7 +8872,8 @@
         "releaseDate": "2025-07-31",
         "userScore": 7.9,
         "userReviewCount": 246
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005034",
@@ -8626,7 +8905,8 @@
         "releaseDate": "2010-11-01",
         "userScore": 6.6,
         "userReviewCount": 11
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004267",
@@ -8645,7 +8925,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "英雄不再III",
       "metacritic": {
         "score": 75,
         "title": "No More Heroes III",
@@ -8658,7 +8938,8 @@
         "releaseDate": "2021-08-27",
         "userScore": 7.9,
         "userReviewCount": 257
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "225235",
@@ -8691,7 +8972,8 @@
         "releaseDate": "2018-06-05",
         "userScore": 5.7,
         "userReviewCount": 19
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10001519",
@@ -8723,7 +9005,8 @@
         "releaseDate": "2020-11-10",
         "userScore": 7.2,
         "userReviewCount": 108
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10003316",
@@ -8743,7 +9026,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《神奇躲避球》",
+      "titleZh": "神奇躲避球",
       "metacritic": {
         "score": 71,
         "title": "OddBallers",
@@ -8756,7 +9039,8 @@
         "releaseDate": "2023-01-26",
         "userScore": 6.5,
         "userReviewCount": 6
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10005198",
@@ -8775,7 +9059,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Oddworld: Abe's Exoddus",
+      "titleZh": "奇异世界：阿比逃亡记",
       "metacritic": {
         "score": 88,
         "title": "Oddworld: Abe's Exoddus",
@@ -8788,7 +9072,8 @@
         "releaseDate": "1998-10-31",
         "userScore": 8.4,
         "userReviewCount": 167
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005197",
@@ -8807,7 +9092,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Oddworld: Abe's Oddysee",
+      "titleZh": "奇异世界：阿比逃亡记",
       "metacritic": {
         "score": 85,
         "title": "Oddworld: Abe's Oddysee",
@@ -8820,7 +9105,8 @@
         "releaseDate": "1997-09-18",
         "userScore": 8.7,
         "userReviewCount": 242
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "203202",
@@ -8840,7 +9126,8 @@
         "catalog"
       ],
       "titleZh": "ODDWORLD: NEW 'N' TASTY 制品版",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "227431",
@@ -8859,7 +9146,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "奇异世界：灵魂风暴",
       "metacritic": {
         "score": 67,
         "title": "Oddworld: Soulstorm",
@@ -8872,7 +9159,8 @@
         "releaseDate": "2021-04-06",
         "userScore": 6.3,
         "userReviewCount": 297
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10019710",
@@ -8891,7 +9179,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "新鬼武者",
       "metacritic": {
         "score": 81,
         "title": "Onimusha: Dawn of Dreams",
@@ -8904,7 +9192,8 @@
         "releaseDate": "2006-03-07",
         "userScore": 8.4,
         "userReviewCount": 115
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002601",
@@ -8924,7 +9213,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "兽人必须死3",
       "metacritic": {
         "score": 77,
         "title": "Orcs Must Die! 3",
@@ -8937,7 +9226,8 @@
         "releaseDate": "2021-07-23",
         "userScore": 7,
         "userReviewCount": 88
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005802",
@@ -8956,8 +9246,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "跨越我的尸体",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227430",
@@ -8989,7 +9280,8 @@
         "releaseDate": "2017-11-14",
         "userScore": 5.9,
         "userReviewCount": 47
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "224919",
@@ -9008,7 +9300,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "逃生2",
       "metacritic": {
         "score": 75,
         "title": "Outlast 2",
@@ -9021,7 +9313,8 @@
         "releaseDate": "2017-04-24",
         "userScore": 6.9,
         "userReviewCount": 1201
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000899",
@@ -9041,7 +9334,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "胡闹厨房 全都好吃",
       "metacritic": {
         "score": 84,
         "title": "Overcooked! All You Can Eat",
@@ -9054,7 +9347,8 @@
         "releaseDate": "2020-11-12",
         "userScore": 7.3,
         "userReviewCount": 194
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10006027",
@@ -9086,7 +9380,8 @@
         "releaseDate": "2023-10-17",
         "userScore": 5.8,
         "userReviewCount": 4
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "233719",
@@ -9118,7 +9413,8 @@
         "releaseDate": "2020-03-17",
         "userScore": 3.2,
         "userReviewCount": 21
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10006288",
@@ -9151,7 +9447,8 @@
         "releaseDate": "2024-02-21",
         "userScore": 6.3,
         "userReviewCount": 328
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007599",
@@ -9183,7 +9480,8 @@
         "releaseDate": "2011-04-12",
         "userScore": 7.5,
         "userReviewCount": 76
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "227969",
@@ -9204,7 +9502,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "战鼓啪打碰",
       "metacritic": {
         "score": 86,
         "title": "Patapon",
@@ -9217,7 +9515,8 @@
         "releaseDate": "2008-02-26",
         "userScore": 8.4,
         "userReviewCount": 154
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "235243",
@@ -9251,7 +9550,8 @@
         "releaseDate": "2020-01-30",
         "userScore": 7.2,
         "userReviewCount": 80
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10003238",
@@ -9270,7 +9570,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "开拓者：正义之怒",
       "metacritic": {
         "score": 83,
         "title": "Pathfinder: Wrath of the Righteous",
@@ -9283,7 +9583,8 @@
         "releaseDate": "2021-09-02",
         "userScore": 7.7,
         "userReviewCount": 564
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "231136",
@@ -9304,7 +9605,8 @@
         "catalog"
       ],
       "titleZh": "狗狗巡逻队出发救援",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10002771",
@@ -9336,7 +9638,8 @@
         "releaseDate": "2020-03-31",
         "userScore": 8.8,
         "userReviewCount": 6929
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234529",
@@ -9355,7 +9658,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "女神异闻录5 皇家版",
       "metacritic": {
         "score": 95,
         "title": "Persona 5 Royal",
@@ -9368,7 +9671,8 @@
         "releaseDate": "2020-03-31",
         "userScore": 8.8,
         "userReviewCount": 6929
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000598",
@@ -9401,7 +9705,8 @@
         "releaseDate": "2020-12-03",
         "userScore": 7,
         "userReviewCount": 21
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10005043",
@@ -9421,7 +9726,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10009610",
@@ -9453,7 +9759,8 @@
         "releaseDate": "2024-11-06",
         "userScore": 5.9,
         "userReviewCount": 84
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10009025",
@@ -9474,7 +9781,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《动物园之星》主机版",
+      "titleZh": "动物园之星主机版",
       "metacritic": {
         "score": 81,
         "title": "Planet Zoo",
@@ -9487,7 +9794,8 @@
         "releaseDate": "2019-11-05",
         "userScore": 7.9,
         "userReviewCount": 262
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10007566",
@@ -9507,7 +9815,8 @@
         "catalog"
       ],
       "titleZh": "速速上菜！",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10000663",
@@ -9526,7 +9835,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "警察模拟器：巡警",
       "metacritic": {
         "score": 58,
         "title": "Police Simulator: Patrol Officers",
@@ -9539,7 +9848,8 @@
         "releaseDate": "2022-11-10",
         "userScore": 5.1,
         "userReviewCount": 79
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10009028",
@@ -9559,7 +9869,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005985",
@@ -9592,7 +9903,8 @@
         "releaseDate": "2024-01-18",
         "userScore": 8.3,
         "userReviewCount": 1662
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "216605",
@@ -9613,7 +9925,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "监狱建筑师",
       "metacritic": {
         "score": 83,
         "title": "Prison Architect",
@@ -9626,7 +9938,8 @@
         "releaseDate": "2015-10-06",
         "userScore": 8,
         "userReviewCount": 412
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10016223",
@@ -9658,7 +9971,8 @@
         "releaseDate": "2004-06-14",
         "userScore": 7,
         "userReviewCount": 29
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10006276",
@@ -9690,7 +10004,8 @@
         "releaseDate": "2006-03-07",
         "userScore": 6.8,
         "userReviewCount": 36
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005512",
@@ -9722,7 +10037,8 @@
         "releaseDate": "2008-01-29",
         "userScore": 7.4,
         "userReviewCount": 33
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "233101",
@@ -9754,7 +10070,8 @@
         "releaseDate": "2009-02-04",
         "userScore": 6.4,
         "userReviewCount": 15
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005099",
@@ -9786,7 +10103,8 @@
         "releaseDate": "1999-05-01",
         "userScore": 8.6,
         "userReviewCount": 102
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10002576",
@@ -9806,7 +10124,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《疯狂兔子：奇遇派对》",
+      "titleZh": "疯狂兔子：奇遇派对",
       "metacritic": {
         "score": 69,
         "title": "Rabbids: Party of Legends",
@@ -9819,7 +10137,8 @@
         "releaseDate": "2022-06-30",
         "userScore": 6.8,
         "userReviewCount": 30
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "203654",
@@ -9852,7 +10171,8 @@
         "releaseDate": "2014-11-18",
         "userScore": 6.6,
         "userReviewCount": 14
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "229997",
@@ -9872,7 +10192,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "狂怒2",
       "metacritic": {
         "score": 73,
         "title": "RAGE 2",
@@ -9885,7 +10205,8 @@
         "releaseDate": "2019-05-13",
         "userScore": 5.7,
         "userReviewCount": 988
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "203873",
@@ -9917,7 +10238,8 @@
         "releaseDate": "2012-07-10",
         "userScore": 7,
         "userReviewCount": 73
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10000875",
@@ -9936,7 +10258,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "拉吉：远古传奇",
       "metacritic": {
         "score": 69,
         "title": "Raji: An Ancient Epic",
@@ -9949,7 +10271,8 @@
         "releaseDate": "2020-08-18",
         "userScore": 7.3,
         "userReviewCount": 119
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10007648",
@@ -9969,7 +10292,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10000669",
@@ -9988,7 +10312,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "瑞奇与叮当：分离",
       "metacritic": {
         "score": 88,
         "title": "Ratchet & Clank: Rift Apart",
@@ -10001,7 +10325,8 @@
         "releaseDate": "2021-06-11",
         "userScore": 8.5,
         "userReviewCount": 4286
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007644",
@@ -10020,7 +10345,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "拉捷特与克拉克5 激战！巨大银河之超微军团",
       "metacritic": {
         "score": 85,
         "title": "Ratchet & Clank: Size Matters",
@@ -10033,7 +10358,8 @@
         "releaseDate": "2007-02-13",
         "userScore": 7.6,
         "userReviewCount": 257
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "203902",
@@ -10066,7 +10392,8 @@
         "releaseDate": "2013-09-03",
         "userScore": 8.7,
         "userReviewCount": 1323
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234774",
@@ -10100,7 +10427,8 @@
         "releaseDate": "2019-10-01",
         "userScore": 6.8,
         "userReviewCount": 32
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "203666",
@@ -10119,7 +10447,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "勇闯银河系",
       "metacritic": {
         "score": 75,
         "title": "Rebel Galaxy",
@@ -10132,7 +10460,8 @@
         "releaseDate": "2015-10-20",
         "userScore": 7.5,
         "userReviewCount": 140
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "209441",
@@ -10153,7 +10482,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "荒野大镖客：救赎2",
       "metacritic": {
         "score": 97,
         "title": "Red Dead Redemption 2",
@@ -10166,7 +10495,8 @@
         "releaseDate": "2018-10-26",
         "userScore": 9,
         "userReviewCount": 37168
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005150",
@@ -10186,7 +10516,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "生化危机2",
       "metacritic": {
         "score": 91,
         "title": "Resident Evil 2",
@@ -10199,7 +10529,8 @@
         "releaseDate": "2019-01-25",
         "userScore": 8.9,
         "userReviewCount": 8896
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005151",
@@ -10219,7 +10550,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "生化危机3 最终逃脱",
       "metacritic": {
         "score": 91,
         "title": "Resident Evil 3: Nemesis",
@@ -10232,7 +10563,8 @@
         "releaseDate": "1999-11-11",
         "userScore": 8.7,
         "userReviewCount": 719
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005142",
@@ -10253,7 +10585,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "235235",
@@ -10286,7 +10619,8 @@
         "releaseDate": "2021-05-07",
         "userScore": 8.4,
         "userReviewCount": 5193
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004653",
@@ -10305,7 +10639,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "抵抗：惩罚",
       "metacritic": {
         "score": 81,
         "title": "Resistance: Retribution",
@@ -10318,7 +10652,8 @@
         "releaseDate": "2009-03-17",
         "userScore": 7.9,
         "userReviewCount": 114
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "203706",
@@ -10337,7 +10672,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "RESOGUN™ 制品版",
+      "titleZh": "RESOGUN 制品版",
       "metacritic": {
         "score": 84,
         "title": "Resogun",
@@ -10350,7 +10685,8 @@
         "releaseDate": "2013-11-15",
         "userScore": 7.8,
         "userReviewCount": 1046
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10006133",
@@ -10369,7 +10705,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "重返猴岛",
       "metacritic": {
         "score": 87,
         "title": "Return to Monkey Island",
@@ -10382,7 +10718,8 @@
         "releaseDate": "2022-09-19",
         "userScore": 7.5,
         "userReviewCount": 379
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000176",
@@ -10401,7 +10738,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Returnal™",
+      "titleZh": null,
       "metacritic": {
         "score": 86,
         "title": "Returnal",
@@ -10414,7 +10751,8 @@
         "releaseDate": "2021-04-30",
         "userScore": 7.4,
         "userReviewCount": 4748
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10000459",
@@ -10434,7 +10772,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《极限国度》",
+      "titleZh": "极限国度",
       "metacritic": {
         "score": 77,
         "title": "Riders Republic",
@@ -10447,7 +10785,8 @@
         "releaseDate": "2021-10-28",
         "userScore": 6.8,
         "userReviewCount": 257
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10015861",
@@ -10479,7 +10818,8 @@
         "releaseDate": "2025-06-05",
         "userScore": 8.8,
         "userReviewCount": 5
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10005097",
@@ -10499,7 +10839,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10003386",
@@ -10519,7 +10860,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "浪人崛起™",
+      "titleZh": "浪人崛起",
       "metacritic": {
         "score": 76,
         "title": "Rise of the Ronin",
@@ -10532,7 +10873,8 @@
         "releaseDate": "2024-03-22",
         "userScore": 7.9,
         "userReviewCount": 1709
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "221750",
@@ -10565,7 +10907,8 @@
         "releaseDate": "2016-10-11",
         "userScore": 8,
         "userReviewCount": 2728
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "210671",
@@ -10598,7 +10941,8 @@
         "releaseDate": "2016-08-02",
         "userScore": 4.6,
         "userReviewCount": 14
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008668",
@@ -10631,7 +10975,8 @@
         "releaseDate": "2024-06-25",
         "userScore": 7.9,
         "userReviewCount": 74
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10000504",
@@ -10650,7 +10995,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "欺诈领主",
       "metacritic": {
         "score": 72,
         "title": "Rogue Lords",
@@ -10663,7 +11008,8 @@
         "releaseDate": "2021-09-30",
         "userScore": 4.8,
         "userReviewCount": 20
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10001348",
@@ -10682,7 +11028,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "魔域之书",
       "metacritic": {
         "score": 78,
         "title": "Roguebook",
@@ -10695,7 +11041,8 @@
         "releaseDate": "2021-06-17",
         "userScore": 7,
         "userReviewCount": 42
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10008324",
@@ -10715,7 +11062,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10002870",
@@ -10734,7 +11082,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "符文工廠4豪華版",
+      "titleZh": "符文工厂4豪华版",
       "metacritic": {
         "score": 81,
         "title": "Rune Factory 4 Special",
@@ -10747,7 +11095,8 @@
         "releaseDate": "2020-02-25",
         "userScore": 8.3,
         "userReviewCount": 93
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10017405",
@@ -10766,8 +11115,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "卢恩传奇：龙荒秘境",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "235029",
@@ -10786,8 +11136,9 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "人中之龙7　光与暗的去向",
-      "metacritic": null
+      "titleZh": "人中之龙7 光与暗的去向",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10008577",
@@ -10819,7 +11170,8 @@
         "releaseDate": "2025-05-20",
         "userScore": 5.5,
         "userReviewCount": 31
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10000177",
@@ -10838,7 +11190,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "小小大冒险",
       "metacritic": {
         "score": 79,
         "title": "Sackboy: A Big Adventure",
@@ -10851,7 +11203,8 @@
         "releaseDate": "2020-11-12",
         "userScore": 8.2,
         "userReviewCount": 872
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229323",
@@ -10884,7 +11237,8 @@
         "releaseDate": "2020-11-10",
         "userScore": 8.3,
         "userReviewCount": 104
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10003231",
@@ -10904,7 +11258,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "《盐与献祭》",
+      "titleZh": "盐与献祭",
       "metacritic": {
         "score": 72,
         "title": "Salt and Sacrifice",
@@ -10917,7 +11271,8 @@
         "releaseDate": "2022-05-10",
         "userScore": 4.7,
         "userReviewCount": 155
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10001263",
@@ -10949,7 +11304,8 @@
         "releaseDate": "2021-07-27",
         "userScore": 7.3,
         "userReviewCount": 70
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10001697",
@@ -10970,7 +11326,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "寄梦远方",
       "metacritic": {
         "score": 76,
         "title": "SEASON: A letter to the future",
@@ -10983,7 +11339,8 @@
         "releaseDate": "2023-01-31",
         "userScore": 7.4,
         "userReviewCount": 54
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007598",
@@ -11002,7 +11359,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "秘密特工叮当",
       "metacritic": {
         "score": 72,
         "title": "Secret Agent Clank",
@@ -11015,7 +11372,8 @@
         "releaseDate": "2008-06-17",
         "userScore": 7,
         "userReviewCount": 90
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10001738",
@@ -11037,7 +11395,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004240",
@@ -11070,7 +11429,8 @@
         "releaseDate": "2022-09-22",
         "userScore": 6.1,
         "userReviewCount": 55
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "204156",
@@ -11091,7 +11451,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "异兽王国",
       "metacritic": {
         "score": 64,
         "title": "Shadow of the Beast",
@@ -11104,7 +11464,8 @@
         "releaseDate": "2016-05-17",
         "userScore": 7.3,
         "userReviewCount": 175
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "225857",
@@ -11124,7 +11485,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "SHADOW OF THE COLOSSUS™ 汪达与巨像",
+      "titleZh": "SHADOW OF THE COLOSSUS 汪达与巨像",
       "metacritic": {
         "score": 91,
         "title": "Shadow of the Colossus",
@@ -11137,7 +11498,8 @@
         "releaseDate": "2018-02-06",
         "userScore": 7.9,
         "userReviewCount": 3687
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "231844",
@@ -11156,7 +11518,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "古墓丽影：暗影",
       "metacritic": {
         "score": 75,
         "title": "Shadow of the Tomb Raider",
@@ -11169,7 +11531,8 @@
         "releaseDate": "2018-09-12",
         "userScore": 7.3,
         "userReviewCount": 2569
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005529",
@@ -11188,7 +11551,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "寂静岭2",
       "metacritic": {
         "score": 86,
         "title": "Silent Hill 2",
@@ -11201,7 +11564,8 @@
         "releaseDate": "2024-10-08",
         "userScore": 9,
         "userReviewCount": 5210
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10014385",
@@ -11220,7 +11584,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "滑板故事",
       "metacritic": {
         "score": 85,
         "title": "Skate Story",
@@ -11233,7 +11597,8 @@
         "releaseDate": "2025-12-08",
         "userScore": 7,
         "userReviewCount": 61
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "225700",
@@ -11267,7 +11632,8 @@
         "releaseDate": "2024-02-16",
         "userScore": 3.3,
         "userReviewCount": 778
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10011230",
@@ -11286,7 +11652,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "空战神鹰",
       "metacritic": {
         "score": 75,
         "title": "SkyGunner",
@@ -11299,7 +11665,8 @@
         "releaseDate": "2002-06-24",
         "userScore": 8.1,
         "userReviewCount": 7
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10009203",
@@ -11318,7 +11685,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "野狗子",
       "metacritic": {
         "score": 62,
         "title": "Slitterhead",
@@ -11331,7 +11698,8 @@
         "releaseDate": "2024-11-08",
         "userScore": 7.5,
         "userReviewCount": 102
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010691",
@@ -11350,7 +11718,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "《Sly 2: Band of Thieves™》",
+      "titleZh": "怪盗史库柏2：侠盗帮",
       "metacritic": {
         "score": 88,
         "title": "Sly 2: Band of Thieves",
@@ -11363,7 +11731,8 @@
         "releaseDate": "2004-09-14",
         "userScore": 8.9,
         "userReviewCount": 479
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010692",
@@ -11382,7 +11751,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "《Sly 3: Honor Among Thieves™》",
+      "titleZh": "怪盗史库柏3",
       "metacritic": {
         "score": 83,
         "title": "Sly 3: Honor Among Thieves",
@@ -11395,7 +11764,8 @@
         "releaseDate": "2005-09-26",
         "userScore": 8.8,
         "userReviewCount": 321
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010296",
@@ -11414,8 +11784,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Sly Cooper™ and the Thievius Raccoonus",
-      "metacritic": null
+      "titleZh": "狡狐大冒险",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234363",
@@ -11435,7 +11806,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "狙击精英5",
       "metacritic": {
         "score": 77,
         "title": "Sniper Elite 5",
@@ -11448,7 +11819,8 @@
         "releaseDate": "2022-05-26",
         "userScore": 6.6,
         "userReviewCount": 314
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008716",
@@ -11468,7 +11840,7 @@
       "lists": [
         "monthly"
       ],
-      "titleZh": null,
+      "titleZh": "狙击精英：抵抗",
       "metacritic": {
         "score": 75,
         "title": "Sniper Elite: Resistance",
@@ -11481,7 +11853,8 @@
         "releaseDate": "2025-01-30",
         "userScore": 5.8,
         "userReviewCount": 166
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10009300",
@@ -11513,7 +11886,8 @@
         "releaseDate": "2024-11-28",
         "userScore": null,
         "userReviewCount": null
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007617",
@@ -11546,7 +11920,8 @@
         "releaseDate": "2022-11-15",
         "userScore": 5.9,
         "userReviewCount": 156
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008755",
@@ -11578,7 +11953,8 @@
         "releaseDate": "2024-10-25",
         "userScore": 8.8,
         "userReviewCount": 1203
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10016210",
@@ -11597,8 +11973,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "灵魂能力III",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005102",
@@ -11617,7 +11994,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "SOULCALIBUR Broken Destiny",
+      "titleZh": null,
       "metacritic": {
         "score": 80,
         "title": "SoulCalibur: Broken Destiny",
@@ -11630,7 +12007,8 @@
         "releaseDate": "2009-09-01",
         "userScore": 7.2,
         "userReviewCount": 63
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "216489",
@@ -11650,7 +12028,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "South Park™: The Fractured but Whole™ - 数码一般版",
+      "titleZh": "South Park: The Fractured but Whole - 数码一般版",
       "metacritic": {
         "score": 79,
         "title": "South Park: The Fractured But Whole",
@@ -11663,7 +12041,8 @@
         "releaseDate": "2017-10-17",
         "userScore": 7.8,
         "userReviewCount": 934
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002535",
@@ -11683,7 +12062,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "太空工程师",
       "metacritic": {
         "score": 68,
         "title": "Space Engineers",
@@ -11696,7 +12075,8 @@
         "releaseDate": "2020-04-15",
         "userScore": 6,
         "userReviewCount": 43
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227988",
@@ -11729,7 +12109,8 @@
         "releaseDate": "2016-12-14",
         "userScore": 5.6,
         "userReviewCount": 139
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "232966",
@@ -11750,7 +12131,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《星际斗阵 VR》- 数码标准版",
+      "titleZh": "星际斗阵 VR- 数码标准版",
       "metacritic": {
         "score": 63,
         "title": "Space Junkies",
@@ -11763,7 +12144,8 @@
         "releaseDate": "2019-03-26",
         "userScore": 4.1,
         "userReviewCount": 7
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002043",
@@ -11795,7 +12177,8 @@
         "releaseDate": "2021-08-06",
         "userScore": null,
         "userReviewCount": null
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004921",
@@ -11827,7 +12210,8 @@
         "releaseDate": "2000-11-19",
         "userScore": 6.1,
         "userReviewCount": 9
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004910",
@@ -11847,7 +12231,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005323",
@@ -11867,7 +12252,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": null,
+      "titleZh": "星球大战：亡命之徒",
       "metacritic": {
         "score": 75,
         "title": "Star Wars Outlaws",
@@ -11880,7 +12265,8 @@
         "releaseDate": "2024-08-27",
         "userScore": 5.6,
         "userReviewCount": 3494
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004922",
@@ -11900,7 +12286,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10010584",
@@ -11932,7 +12319,8 @@
         "releaseDate": "2002-10-28",
         "userScore": 6.8,
         "userReviewCount": 30
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "204269",
@@ -11953,7 +12341,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "STAR WARS: Bounty Hunter",
+      "titleZh": "星际大战：赏金猎人",
       "metacritic": {
         "score": 65,
         "title": "Star Wars: Bounty Hunter",
@@ -11966,7 +12354,8 @@
         "releaseDate": "2002-11-19",
         "userScore": 7.7,
         "userReviewCount": 62
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "204271",
@@ -11987,7 +12376,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "星际大战：绝地星际战斗机",
       "metacritic": {
         "score": 81,
         "title": "Star Wars: Jedi Starfighter",
@@ -12000,7 +12389,8 @@
         "releaseDate": "2002-03-10",
         "userScore": 6.9,
         "userReviewCount": 20
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "204268",
@@ -12034,7 +12424,8 @@
         "releaseDate": "2002-02-11",
         "userScore": 6.6,
         "userReviewCount": 28
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "231957",
@@ -12054,7 +12445,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《银河联军：阿特拉斯之战》- 数码版",
+      "titleZh": "银河联军：阿特拉斯之战- 数码版",
       "metacritic": {
         "score": 74,
         "title": "Starlink: Battle for Atlas",
@@ -12067,7 +12458,8 @@
         "releaseDate": "2018-10-16",
         "userScore": 7.7,
         "userReviewCount": 263
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "221765",
@@ -12088,7 +12480,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《极限巅峰》- 数码标准版",
+      "titleZh": "极限巅峰- 数码标准版",
       "metacritic": {
         "score": 71,
         "title": "Steep",
@@ -12101,7 +12493,8 @@
         "releaseDate": "2016-11-29",
         "userScore": 6.5,
         "userReviewCount": 389
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10013520",
@@ -12121,7 +12514,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005163",
@@ -12155,7 +12549,8 @@
         "releaseDate": "2024-06-18",
         "userScore": 7.5,
         "userReviewCount": 537
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10006487",
@@ -12187,7 +12582,8 @@
         "releaseDate": "2023-06-27",
         "userScore": 7,
         "userReviewCount": 45
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002035",
@@ -12219,7 +12615,8 @@
         "releaseDate": "2020-07-14",
         "userScore": 7.8,
         "userReviewCount": 91
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10003254",
@@ -12251,7 +12648,8 @@
         "releaseDate": "2021-03-23",
         "userScore": 6.9,
         "userReviewCount": 98
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10011028",
@@ -12270,8 +12668,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Summoner PS2 Emulation",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004813",
@@ -12290,7 +12689,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Star Strike Portable",
+      "titleZh": null,
       "metacritic": {
         "score": 69,
         "title": "Super Stardust Portable",
@@ -12303,7 +12702,8 @@
         "releaseDate": "2008-12-04",
         "userScore": 5.6,
         "userReviewCount": 14
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "233784",
@@ -12336,7 +12736,8 @@
         "releaseDate": "2021-11-16",
         "userScore": 6,
         "userReviewCount": 26
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10011227",
@@ -12368,7 +12769,8 @@
         "releaseDate": "2025-08-19",
         "userScore": 8.3,
         "userReviewCount": 370
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10001404",
@@ -12387,7 +12789,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "塞伯利亚之谜：世界之前",
       "metacritic": {
         "score": 81,
         "title": "Syberia: The World Before",
@@ -12400,7 +12802,8 @@
         "releaseDate": "2022-03-18",
         "userScore": 8.3,
         "userReviewCount": 216
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004395",
@@ -12432,7 +12835,8 @@
         "releaseDate": "1999-02-17",
         "userScore": 8.4,
         "userReviewCount": 293
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004603",
@@ -12452,7 +12856,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005946",
@@ -12471,7 +12876,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "虹吸战士3",
       "metacritic": {
         "score": 73,
         "title": "Syphon Filter 3",
@@ -12484,7 +12889,8 @@
         "releaseDate": "2001-11-06",
         "userScore": 8.3,
         "userReviewCount": 109
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004652",
@@ -12516,7 +12922,8 @@
         "releaseDate": "2006-03-14",
         "userScore": 7.6,
         "userReviewCount": 94
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004651",
@@ -12535,7 +12942,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "虹吸战士：洛根之影",
       "metacritic": {
         "score": 85,
         "title": "Syphon Filter: Logan's Shadow",
@@ -12548,7 +12955,8 @@
         "releaseDate": "2007-10-02",
         "userScore": 7.8,
         "userReviewCount": 81
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002568",
@@ -12567,7 +12975,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "浣熊硬探",
       "metacritic": {
         "score": 72,
         "title": "Tails Noir",
@@ -12580,7 +12988,8 @@
         "releaseDate": "2021-06-08",
         "userScore": 6.7,
         "userReviewCount": 85
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "215974",
@@ -12614,7 +13023,8 @@
         "releaseDate": "2015-09-08",
         "userScore": 7.9,
         "userReviewCount": 336
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10015791",
@@ -12646,7 +13056,8 @@
         "releaseDate": "1998-04-29",
         "userScore": 8.8,
         "userReviewCount": 1402
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10005101",
@@ -12665,7 +13076,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "铁拳6",
       "metacritic": {
         "score": 79,
         "title": "Tekken 6",
@@ -12678,7 +13089,8 @@
         "releaseDate": "2009-10-27",
         "userScore": 7.5,
         "userReviewCount": 362
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10015859",
@@ -12698,7 +13110,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10005100",
@@ -12718,7 +13131,8 @@
         "classics"
       ],
       "titleZh": "铁拳2",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10001023",
@@ -12737,7 +13151,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Tennis World Tour 2 - Complete Edition",
+      "titleZh": null,
       "metacritic": {
         "score": 56,
         "title": "Tennis World Tour 2",
@@ -12750,7 +13164,8 @@
         "releaseDate": "2020-09-22",
         "userScore": 5.7,
         "userReviewCount": 104
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "205080",
@@ -12769,7 +13184,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "泰拉瑞亚",
       "metacritic": {
         "score": 81,
         "title": "Terraria",
@@ -12782,7 +13197,8 @@
         "releaseDate": "2013-03-27",
         "userScore": 8.4,
         "userReviewCount": 1367
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003910",
@@ -12814,7 +13230,8 @@
         "releaseDate": "2024-09-12",
         "userScore": 3.9,
         "userReviewCount": 162
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "232708",
@@ -12846,7 +13263,8 @@
         "releaseDate": "2020-11-10",
         "userScore": 7.5,
         "userReviewCount": 392
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007988",
@@ -12865,7 +13283,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "谢天谢地你在这里！",
       "metacritic": {
         "score": 89,
         "title": "Thank Goodness You're Here!",
@@ -12878,7 +13296,8 @@
         "releaseDate": "2024-08-01",
         "userScore": 7.6,
         "userReviewCount": 266
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10008245",
@@ -12910,7 +13329,8 @@
         "releaseDate": "2024-09-03",
         "userScore": 5.7,
         "userReviewCount": 249
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "227552",
@@ -12930,7 +13350,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《飙酷车神 2》 - 数码标准版",
+      "titleZh": "飙酷车神 2 - 数码标准版",
       "metacritic": {
         "score": 64,
         "title": "The Crew 2",
@@ -12943,7 +13363,8 @@
         "releaseDate": "2018-06-26",
         "userScore": 5.8,
         "userReviewCount": 674
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10002313",
@@ -12976,7 +13397,8 @@
         "releaseDate": "2023-09-14",
         "userScore": 7.1,
         "userReviewCount": 742
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "204861",
@@ -12996,7 +13418,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "The Elder Scrolls Online",
+      "titleZh": "上古卷轴Online",
       "metacritic": {
         "score": 71,
         "title": "The Elder Scrolls Online",
@@ -13009,7 +13431,8 @@
         "releaseDate": "2014-04-04",
         "userScore": 5.7,
         "userReviewCount": 2853
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "230955",
@@ -13029,7 +13452,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "The Elder Scrolls V: Skyrim Special Edition",
+      "titleZh": null,
       "metacritic": {
         "score": 84,
         "title": "The Elder Scrolls V: Skyrim Special Edition",
@@ -13042,7 +13465,8 @@
         "releaseDate": "2017-11-17",
         "userScore": 8.3,
         "userReviewCount": 1170
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "228861",
@@ -13063,7 +13487,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "邪灵入侵2",
       "metacritic": {
         "score": 76,
         "title": "The Evil Within 2",
@@ -13076,7 +13500,8 @@
         "releaseDate": "2017-10-13",
         "userScore": 7.8,
         "userReviewCount": 1713
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011105",
@@ -13096,7 +13521,8 @@
         "catalog"
       ],
       "titleZh": "8号出口",
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "231167",
@@ -13117,7 +13543,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "花园之间",
       "metacritic": {
         "score": 79,
         "title": "The Gardens Between",
@@ -13130,7 +13556,8 @@
         "releaseDate": "2018-09-20",
         "userScore": 7.1,
         "userReviewCount": 77
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002666",
@@ -13149,7 +13576,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "无敌号",
       "metacritic": {
         "score": 72,
         "title": "The Invincible",
@@ -13162,7 +13589,8 @@
         "releaseDate": "2023-11-06",
         "userScore": 7.8,
         "userReviewCount": 284
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "204826",
@@ -13182,7 +13610,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "最后的守护者",
       "metacritic": {
         "score": 82,
         "title": "The Last Guardian",
@@ -13195,7 +13623,8 @@
         "releaseDate": "2016-12-06",
         "userScore": 7.8,
         "userReviewCount": 2486
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "228639",
@@ -13215,8 +13644,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "最後生还者 Left Behind 单独版",
-      "metacritic": null
+      "titleZh": "最后生还者 Left Behind 单独版",
+      "metacritic": null,
+      "titleZhSource": "store"
     },
     {
       "productId": "10002694",
@@ -13248,7 +13678,8 @@
         "releaseDate": "2022-09-02",
         "userScore": 8.2,
         "userReviewCount": 6738
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "230079",
@@ -13268,7 +13699,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "The Last of Us™ Part II 普通版",
+      "titleZh": "The Last of Us Part II 普通版",
       "metacritic": {
         "score": 90,
         "title": "The Last of Us Part II Remastered",
@@ -13281,7 +13712,8 @@
         "releaseDate": "2024-01-19",
         "userScore": 7.6,
         "userReviewCount": 5030
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "228638",
@@ -13301,7 +13733,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "最後生还者 重制版",
+      "titleZh": "最后生还者 重制版",
       "metacritic": {
         "score": 95,
         "title": "The Last of Us Remastered",
@@ -13314,7 +13746,8 @@
         "releaseDate": "2014-07-29",
         "userScore": 9.2,
         "userReviewCount": 22590
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10004605",
@@ -13333,7 +13766,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "龙骑士传说",
       "metacritic": {
         "score": 74,
         "title": "The Legend of Dragoon",
@@ -13346,7 +13779,8 @@
         "releaseDate": "2000-06-13",
         "userScore": 8.7,
         "userReviewCount": 427
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "204880",
@@ -13365,7 +13799,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "LEGO® 影视游戏 制品版",
+      "titleZh": "LEGO 影视游戏 制品版",
       "metacritic": {
         "score": 71,
         "title": "The LEGO Movie Videogame",
@@ -13378,7 +13812,8 @@
         "releaseDate": "2014-02-07",
         "userScore": 6.9,
         "userReviewCount": 240
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008445",
@@ -13397,7 +13832,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "指环王：重返摩瑞亚",
       "metacritic": {
         "score": 59,
         "title": "The Lord of the Rings: Return to Moria",
@@ -13410,7 +13845,8 @@
         "releaseDate": "2023-10-24",
         "userScore": 6.8,
         "userReviewCount": 202
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10001568",
@@ -13431,7 +13867,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "步行者",
       "metacritic": {
         "score": 81,
         "title": "The Pedestrian",
@@ -13444,7 +13880,8 @@
         "releaseDate": "2020-01-29",
         "userScore": 7.5,
         "userReviewCount": 134
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10013971",
@@ -13465,7 +13902,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "波斯王子：Rogue™",
+      "titleZh": "波斯王子：Rogue",
       "metacritic": {
         "score": 80,
         "title": "The Rogue Prince of Persia",
@@ -13478,7 +13915,8 @@
         "releaseDate": "2025-08-20",
         "userScore": 7.5,
         "userReviewCount": 146
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234411",
@@ -13498,7 +13936,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": null,
+      "titleZh": "工人物语",
       "metacritic": {
         "score": 54,
         "title": "The Settlers: New Allies",
@@ -13511,7 +13949,8 @@
         "releaseDate": "2023-02-17",
         "userScore": 3.6,
         "userReviewCount": 125
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "216542",
@@ -13532,7 +13971,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "机甲狂潮",
       "metacritic": {
         "score": 73,
         "title": "The Surge",
@@ -13545,7 +13984,8 @@
         "releaseDate": "2017-05-16",
         "userScore": 6.6,
         "userReviewCount": 448
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232357",
@@ -13565,7 +14005,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "机甲狂潮2",
       "metacritic": {
         "score": 75,
         "title": "The Surge 2",
@@ -13578,7 +14018,8 @@
         "releaseDate": "2019-09-24",
         "userScore": 7,
         "userReviewCount": 255
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004172",
@@ -13598,7 +14039,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "塔罗斯的法则2",
       "metacritic": {
         "score": 88,
         "title": "The Talos Principle 2",
@@ -13611,7 +14052,8 @@
         "releaseDate": "2023-11-02",
         "userScore": 8.4,
         "userReviewCount": 254
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "217462",
@@ -13632,7 +14074,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "机械巫师",
       "metacritic": {
         "score": 60,
         "title": "The Technomancer",
@@ -13645,7 +14087,8 @@
         "releaseDate": "2016-06-28",
         "userScore": 6.4,
         "userReviewCount": 167
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007126",
@@ -13664,7 +14107,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "奇唤士",
       "metacritic": {
         "score": 74,
         "title": "The Thaumaturge",
@@ -13677,7 +14120,8 @@
         "releaseDate": "2024-03-04",
         "userScore": 7.1,
         "userReviewCount": 182
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "228868",
@@ -13697,7 +14141,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "猎人：荒野的召唤™",
+      "titleZh": "猎人：荒野的召唤",
       "metacritic": {
         "score": 64,
         "title": "theHunter: Call of the Wild",
@@ -13710,7 +14154,8 @@
         "releaseDate": "2017-02-16",
         "userScore": 6.4,
         "userReviewCount": 226
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "204538",
@@ -13742,7 +14187,8 @@
         "releaseDate": "2014-02-25",
         "userScore": 6.2,
         "userReviewCount": 930
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10003699",
@@ -13774,7 +14220,8 @@
         "releaseDate": "2022-05-10",
         "userScore": 7.5,
         "userReviewCount": 124
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007618",
@@ -13794,7 +14241,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "模拟乐园",
       "metacritic": {
         "score": 69,
         "title": "Thrillville",
@@ -13807,7 +14254,8 @@
         "releaseDate": "2006-11-21",
         "userScore": 5.4,
         "userReviewCount": 28
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007620",
@@ -13840,7 +14288,8 @@
         "releaseDate": "2007-10-09",
         "userScore": 5.8,
         "userReviewCount": 29
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10003778",
@@ -13859,7 +14308,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "记忆边境",
       "metacritic": {
         "score": 69,
         "title": "Thymesia",
@@ -13872,7 +14321,8 @@
         "releaseDate": "2022-08-18",
         "userScore": 6.4,
         "userReviewCount": 193
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10016535",
@@ -13891,8 +14341,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "火线危机",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011401",
@@ -13911,7 +14362,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "TimeSplitters: Future Perfect",
+      "titleZh": "时空分裂者",
       "metacritic": {
         "score": 81,
         "title": "TimeSplitters",
@@ -13924,7 +14375,8 @@
         "releaseDate": "2000-10-23",
         "userScore": 7.2,
         "userReviewCount": 92
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10002494",
@@ -13956,7 +14408,8 @@
         "releaseDate": "2023-05-16",
         "userScore": 6.9,
         "userReviewCount": 18
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "233112",
@@ -13978,7 +14431,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《幽灵行动：断点》 - 标准版",
+      "titleZh": "幽灵行动：断点 - 标准版",
       "metacritic": {
         "score": 56,
         "title": "Tom Clancy's Ghost Recon: Breakpoint",
@@ -13991,7 +14444,8 @@
         "releaseDate": "2019-10-01",
         "userScore": 3.6,
         "userReviewCount": 1314
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "203897",
@@ -14012,7 +14466,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《彩虹六号：围攻》- 精英版",
+      "titleZh": "彩虹六号：围攻- 精英版",
       "metacritic": {
         "score": 73,
         "title": "Tom Clancy's Rainbow Six Siege",
@@ -14025,7 +14479,8 @@
         "releaseDate": "2015-12-01",
         "userScore": 7,
         "userReviewCount": 1720
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "233592",
@@ -14045,7 +14500,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《彩虹六号：异种》",
+      "titleZh": "彩虹六号：异种",
       "metacritic": {
         "score": 73,
         "title": "Tom Clancy's Rainbow Six Extraction",
@@ -14058,7 +14513,8 @@
         "releaseDate": "2022-01-20",
         "userScore": 5.2,
         "userReviewCount": 217
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "204941",
@@ -14093,7 +14549,8 @@
         "releaseDate": "2016-03-08",
         "userScore": 7,
         "userReviewCount": 2804
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232391",
@@ -14113,7 +14570,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《全境封锁 2》",
+      "titleZh": "全境封锁 2",
       "metacritic": {
         "score": 82,
         "title": "Tom Clancy's The Division 2",
@@ -14126,7 +14583,8 @@
         "releaseDate": "2019-03-12",
         "userScore": 6.3,
         "userReviewCount": 1839
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "212740",
@@ -14159,7 +14617,8 @@
         "releaseDate": "2013-03-05",
         "userScore": 8.2,
         "userReviewCount": 2577
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10013616",
@@ -14178,7 +14637,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "古墓丽影",
       "metacritic": {
         "score": 86,
         "title": "Tomb Raider",
@@ -14191,7 +14650,8 @@
         "releaseDate": "2013-03-05",
         "userScore": 8.2,
         "userReviewCount": 2577
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10010747",
@@ -14210,7 +14670,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "古墓丽影：传奇",
       "metacritic": {
         "score": 80,
         "title": "Tomb Raider: Legend",
@@ -14223,7 +14683,8 @@
         "releaseDate": "2006-04-11",
         "userScore": 8,
         "userReviewCount": 232
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10000393",
@@ -14257,7 +14718,8 @@
         "releaseDate": "2021-04-01",
         "userScore": 5.1,
         "userReviewCount": 49
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "205023",
@@ -14290,7 +14752,8 @@
         "releaseDate": "2016-03-22",
         "userScore": 7.5,
         "userReviewCount": 261
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "229520",
@@ -14310,7 +14773,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《心灵诡宅》- 数码版",
+      "titleZh": "心灵诡宅- 数码版",
       "metacritic": {
         "score": 71,
         "title": "Transference",
@@ -14323,7 +14786,8 @@
         "releaseDate": "2018-09-18",
         "userScore": 6.1,
         "userReviewCount": 40
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "203938",
@@ -14356,7 +14820,8 @@
         "releaseDate": "2014-04-15",
         "userScore": 7,
         "userReviewCount": 343
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "216382",
@@ -14376,7 +14841,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "特技摩托赛：血龙 游戏程序",
+      "titleZh": "特技摩托赛：血龙 游戏进程",
       "metacritic": {
         "score": 55,
         "title": "Trials of the Blood Dragon",
@@ -14389,7 +14854,8 @@
         "releaseDate": "2016-06-13",
         "userScore": 5.7,
         "userReviewCount": 38
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "228851",
@@ -14411,7 +14877,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《特技摩托赛：崛起》- 数码标准版",
+      "titleZh": "特技摩托赛：崛起- 数码标准版",
       "metacritic": {
         "score": 79,
         "title": "Trials Rising",
@@ -14424,7 +14890,8 @@
         "releaseDate": "2019-02-26",
         "userScore": 6.3,
         "userReviewCount": 109
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008366",
@@ -14456,7 +14923,8 @@
         "releaseDate": "2012-02-14",
         "userScore": 7.8,
         "userReviewCount": 323
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008368",
@@ -14475,8 +14943,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": "Twisted Metal 2",
-      "metacritic": null
+      "titleZh": null,
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10013708",
@@ -14496,7 +14965,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10013707",
@@ -14516,7 +14986,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10001458",
@@ -14535,7 +15006,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "双点校园",
       "metacritic": {
         "score": 83,
         "title": "Two Point Campus",
@@ -14548,7 +15019,8 @@
         "releaseDate": "2022-08-09",
         "userScore": 7.2,
         "userReviewCount": 93
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "234969",
@@ -14580,7 +15052,8 @@
         "releaseDate": "2021-07-29",
         "userScore": 7,
         "userReviewCount": 20
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10009660",
@@ -14612,7 +15085,8 @@
         "releaseDate": "2025-03-04",
         "userScore": 8,
         "userReviewCount": 81
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10008192",
@@ -14644,7 +15118,8 @@
         "releaseDate": "2024-08-30",
         "userScore": 6.7,
         "userReviewCount": 12
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "205354",
@@ -14663,7 +15138,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "UNCHARTED: The Lost Legacy™",
+      "titleZh": null,
       "metacritic": {
         "score": 93,
         "title": "Uncharted 4: A Thief's End",
@@ -14676,7 +15151,8 @@
         "releaseDate": "2016-05-10",
         "userScore": 8.7,
         "userReviewCount": 18160
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "205353",
@@ -14696,7 +15172,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "神秘海域：内森德雷克合集",
       "metacritic": {
         "score": 86,
         "title": "Uncharted: The Nathan Drake Collection",
@@ -14709,7 +15185,8 @@
         "releaseDate": "2015-10-09",
         "userScore": 8.6,
         "userReviewCount": 4199
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005244",
@@ -14729,7 +15206,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "碧波之下",
       "metacritic": {
         "score": 70,
         "title": "Under The Waves",
@@ -14742,7 +15219,8 @@
         "releaseDate": "2023-08-29",
         "userScore": 7.2,
         "userReviewCount": 114
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "217373",
@@ -14762,7 +15240,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《UNO®》",
+      "titleZh": null,
       "metacritic": {
         "score": 71,
         "title": "Uno (2016)",
@@ -14775,7 +15253,8 @@
         "releaseDate": "2016-08-16",
         "userScore": 6.5,
         "userReviewCount": 66
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10007897",
@@ -14807,7 +15286,8 @@
         "releaseDate": "2024-10-04",
         "userScore": 6.9,
         "userReviewCount": 663
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "205132",
@@ -14829,7 +15309,8 @@
         "catalog"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10000039",
@@ -14850,7 +15331,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "鹅作剧",
       "metacritic": {
         "score": 81,
         "title": "Untitled Goose Game",
@@ -14863,7 +15344,8 @@
         "releaseDate": "2019-09-20",
         "userScore": 7.7,
         "userReviewCount": 436
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10007965",
@@ -14884,7 +15366,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "夜族崛起",
       "metacritic": {
         "score": 83,
         "title": "V Rising",
@@ -14897,7 +15379,8 @@
         "releaseDate": "2024-05-08",
         "userScore": 7,
         "userReviewCount": 299
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "205194",
@@ -14918,7 +15401,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《英勇之心：伟大战争》",
+      "titleZh": "英勇之心：伟大战争",
       "metacritic": {
         "score": 77,
         "title": "Valiant Hearts: The Great War",
@@ -14931,7 +15414,8 @@
         "releaseDate": "2014-06-24",
         "userScore": 8.3,
         "userReviewCount": 913
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10010458",
@@ -14952,7 +15436,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "吸血鬼幸存者",
       "metacritic": {
         "score": 86,
         "title": "Vampire Survivors",
@@ -14965,7 +15449,8 @@
         "releaseDate": "2022-10-20",
         "userScore": 8.1,
         "userReviewCount": 1007
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "205200",
@@ -14985,7 +15470,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "吸血鬼",
       "metacritic": {
         "score": 70,
         "title": "Vampyr",
@@ -14998,7 +15483,8 @@
         "releaseDate": "2018-06-05",
         "userScore": 6.8,
         "userReviewCount": 1048
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004312",
@@ -15017,7 +15503,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "薇妮巴一家",
       "metacritic": {
         "score": 79,
         "title": "Venba",
@@ -15030,7 +15516,8 @@
         "releaseDate": "2023-07-31",
         "userScore": 6.5,
         "userReviewCount": 132
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011396",
@@ -15049,7 +15536,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "怪兽大激战",
       "metacritic": {
         "score": 80,
         "title": "War of the Monsters",
@@ -15062,7 +15549,8 @@
         "releaseDate": "2003-01-14",
         "userScore": 7.9,
         "userReviewCount": 53
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10003330",
@@ -15095,7 +15583,8 @@
         "releaseDate": "2024-09-05",
         "userScore": 7.9,
         "userReviewCount": 1640
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "233226",
@@ -15116,7 +15605,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "Warhammer: Chaosbane Slayer Edition",
+      "titleZh": "战锤：混沌祸害",
       "metacritic": {
         "score": 69,
         "title": "Warhammer: Chaosbane",
@@ -15129,7 +15618,8 @@
         "releaseDate": "2019-05-31",
         "userScore": 5.2,
         "userReviewCount": 149
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10012449",
@@ -15162,7 +15652,8 @@
         "releaseDate": "2025-02-12",
         "userScore": 7.7,
         "userReviewCount": 41
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "216759",
@@ -15195,7 +15686,8 @@
         "releaseDate": "2016-11-15",
         "userScore": 7.5,
         "userReviewCount": 2827
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "232581",
@@ -15217,7 +15709,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《看门狗：军团》",
+      "titleZh": "看门狗：军团",
       "metacritic": {
         "score": 76,
         "title": "Watch Dogs: Legion",
@@ -15230,7 +15722,8 @@
         "releaseDate": "2020-10-29",
         "userScore": 5.8,
         "userReviewCount": 1033
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "205264",
@@ -15251,7 +15744,7 @@
         "catalog",
         "ubisoft"
       ],
-      "titleZh": "《看门狗》- 数字标准版",
+      "titleZh": "看门狗- 数字标准版",
       "metacritic": {
         "score": 80,
         "title": "Watch Dogs",
@@ -15264,7 +15757,8 @@
         "releaseDate": "2014-05-27",
         "userScore": 6.8,
         "userReviewCount": 4590
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234709",
@@ -15283,7 +15777,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "狼人之末日怒吼—地灵之血",
       "metacritic": {
         "score": 54,
         "title": "Werewolf: The Apocalypse - Earthblood",
@@ -15296,7 +15790,8 @@
         "releaseDate": "2021-02-04",
         "userScore": 4.3,
         "userReviewCount": 86
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "221804",
@@ -15329,7 +15824,8 @@
         "releaseDate": "2016-12-06",
         "userScore": 6.6,
         "userReviewCount": 30
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "234315",
@@ -15348,7 +15844,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "死亡西部",
       "metacritic": {
         "score": 69,
         "title": "West of Dead",
@@ -15361,7 +15857,8 @@
         "releaseDate": "2020-06-18",
         "userScore": 6.1,
         "userReviewCount": 53
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004409",
@@ -15380,8 +15877,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "荒野兵器",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10005513",
@@ -15400,8 +15898,9 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "PSone复刻版狂野历险2",
+      "metacritic": null,
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10011231",
@@ -15420,7 +15919,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "狂野历险 第四雷管",
       "metacritic": {
         "score": 69,
         "title": "Wild Arms 4",
@@ -15433,7 +15932,8 @@
         "releaseDate": "2006-01-10",
         "userScore": 6.7,
         "userReviewCount": 25
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "227255",
@@ -15465,7 +15965,8 @@
         "releaseDate": "2017-06-06",
         "userScore": 8.2,
         "userReviewCount": 341
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10004448",
@@ -15485,7 +15986,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "荒野枪巫",
       "metacritic": {
         "score": 72,
         "title": "Wizard with a Gun",
@@ -15498,7 +15999,8 @@
         "releaseDate": "2023-10-16",
         "userScore": 5.5,
         "userReviewCount": 22
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004116",
@@ -15519,7 +16021,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "Wo Long: Fallen Dynasty （卧龙：苍天陨落）",
       "metacritic": {
         "score": 80,
         "title": "Wo Long: Fallen Dynasty",
@@ -15532,7 +16034,8 @@
         "releaseDate": "2023-03-03",
         "userScore": 6.7,
         "userReviewCount": 701
-      }
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "10004896",
@@ -15553,8 +16056,9 @@
       "lists": [
         "monthly"
       ],
-      "titleZh": null,
-      "metacritic": null
+      "titleZh": "晃晃人生",
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "205293",
@@ -15574,7 +16078,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "德军总部：旧血脉",
       "metacritic": {
         "score": 76,
         "title": "Wolfenstein: The Old Blood",
@@ -15587,7 +16091,8 @@
         "releaseDate": "2015-05-05",
         "userScore": 7.6,
         "userReviewCount": 829
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "232887",
@@ -15608,7 +16113,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "德军总部：新血脉",
       "metacritic": {
         "score": 69,
         "title": "Wolfenstein: Youngblood",
@@ -15621,7 +16126,8 @@
         "releaseDate": "2019-07-26",
         "userScore": 2.6,
         "userReviewCount": 1122
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "229533",
@@ -15642,7 +16148,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": null,
+      "titleZh": "德军总部II：新巨像",
       "metacritic": {
         "score": 87,
         "title": "Wolfenstein II: The New Colossus",
@@ -15655,7 +16161,8 @@
         "releaseDate": "2017-10-27",
         "userScore": 7.4,
         "userReviewCount": 2129
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "230658",
@@ -15675,7 +16182,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "World War Z: Aftermath",
+      "titleZh": "僵尸世界大战",
       "metacritic": {
         "score": 67,
         "title": "World War Z",
@@ -15688,7 +16195,8 @@
         "releaseDate": "2019-04-16",
         "userScore": 6.3,
         "userReviewCount": 511
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004898",
@@ -15708,7 +16216,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004899",
@@ -15740,7 +16249,8 @@
         "releaseDate": "2024-09-26",
         "userScore": 6.4,
         "userReviewCount": 8
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10008316",
@@ -15760,7 +16270,8 @@
         "classics"
       ],
       "titleZh": null,
-      "metacritic": null
+      "metacritic": null,
+      "titleZhSource": null
     },
     {
       "productId": "10004900",
@@ -15779,7 +16290,7 @@
       "lists": [
         "classics"
       ],
-      "titleZh": null,
+      "titleZh": "百战天虫 世界派对",
       "metacritic": {
         "score": 79,
         "title": "Worms World Party",
@@ -15792,7 +16303,8 @@
         "releaseDate": "2001-06-03",
         "userScore": 8.5,
         "userReviewCount": 32
-      }
+      },
+      "titleZhSource": "wikidata"
     },
     {
       "productId": "10004982",
@@ -15825,7 +16337,8 @@
         "releaseDate": "2022-11-03",
         "userScore": 7.1,
         "userReviewCount": 65
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "10015300",
@@ -15857,7 +16370,8 @@
         "releaseDate": "2026-03-13",
         "userScore": 3.6,
         "userReviewCount": 183
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "216773",
@@ -15890,7 +16404,8 @@
         "releaseDate": "2016-02-04",
         "userScore": 7.5,
         "userReviewCount": 1979
-      }
+      },
+      "titleZhSource": null
     },
     {
       "productId": "235238",
@@ -15909,7 +16424,7 @@
       "lists": [
         "catalog"
       ],
-      "titleZh": "人中之龙7　光与暗的去向　国际版",
+      "titleZh": "人中之龙7 光与暗的去向 国际版",
       "metacritic": {
         "score": 84,
         "title": "Yakuza: Like a Dragon",
@@ -15922,7 +16437,8 @@
         "releaseDate": "2020-11-10",
         "userScore": 8.2,
         "userReviewCount": 1288
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "10001817",
@@ -15954,7 +16470,8 @@
         "releaseDate": "2022-09-14",
         "userScore": 5.5,
         "userReviewCount": 27
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "221809",
@@ -15986,7 +16503,8 @@
         "releaseDate": "2017-09-12",
         "userScore": 8.6,
         "userReviewCount": 403
-      }
+      },
+      "titleZhSource": "store"
     },
     {
       "productId": "205514",
@@ -16019,7 +16537,8 @@
         "releaseDate": "2012-11-18",
         "userScore": 7.7,
         "userReviewCount": 808
-      }
+      },
+      "titleZhSource": "store"
     }
   ]
 }

@@ -1,0 +1,2111 @@
+{
+  "33immortals": {
+    "name": "33不朽灵魂",
+    "source": "steam"
+  },
+  "1000xresist": null,
+  "agameaboutdiggingahole": {
+    "name": "掘地求财",
+    "source": "steam"
+  },
+  "awayout": null,
+  "absolum": {
+    "name": "绝对魔权",
+    "source": "steam"
+  },
+  "aerialknightsdropshot": null,
+  "aliensdarkdescent": null,
+  "amongus": null,
+  "arkultimatesurvivoredition": null,
+  "armyoftwo": null,
+  "arksurvivalascended": {
+    "name": "方舟: 生存飞升",
+    "source": "steam"
+  },
+  "assassinscreedchronicles": null,
+  "assassinscreedorigins": {
+    "name": "刺客信条：起源",
+    "source": "steam"
+  },
+  "assassinscreedchroniclesindia": null,
+  "assassinscreedtheeziocollection": null,
+  "assassinscreedchroniclesrussia": null,
+  "baldursgateandbaldursgateiienhancededitions": null,
+  "banjotooie": null,
+  "battlefield1revolution": null,
+  "battletech": null,
+  "beastofreincarnation": {
+    "name": "轮回之兽",
+    "source": "steam"
+  },
+  "beatdowncitysurvivors": null,
+  "bejeweled2deluxe": null,
+  "bejeweled3": null,
+  "blackjacket": {
+    "name": "地狱黑杰克",
+    "source": "steam"
+  },
+  "black": null,
+  "blizzardarcadecollection": null,
+  "blinxthetimesweeper": null,
+  "bountystar": null,
+  "brawlhalla": null,
+  "brewsandbastards": null,
+  "brotato": {
+    "name": "土豆兄弟(",
+    "source": "steam"
+  },
+  "buckshotroulette": {
+    "name": "恶魔轮盘",
+    "source": "steam"
+  },
+  "burnoutparadiseremastered": null,
+  "citiesskylines": null,
+  "citiesskylinesii": {
+    "name": "Cities: Skylines II 都市：天际线2",
+    "source": "steam"
+  },
+  "conkerliveandreloaded": null,
+  "cloverpit": {
+    "name": "四叶草深渊",
+    "source": "steam"
+  },
+  "contrast2013": null,
+  "constructionsimulator": {
+    "name": "建筑模拟器",
+    "source": "steam"
+  },
+  "cookingsimulatorwindows": null,
+  "cricket26theofficialgameoftheashes": null,
+  "crashbandicootnsanetrilogy": null,
+  "crimescenecleaner": null,
+  "dateeverything": null,
+  "dayofthetentacleremastered": null,
+  "deadbydaylightwindows": null,
+  "dayz": null,
+  "deathstrandingdirectorscut": null,
+  "deadstaticdrive": null,
+  "diabloiv": {
+    "name": "《暗黑破坏神® IV》",
+    "source": "steam"
+  },
+  "diceamillion": null,
+  "dirt5": null,
+  "dirtrally20": null,
+  "dishonoreddefinitiveedition": null,
+  "discoelysiumthefinalcut": null,
+  "easportscollegefootball25": null,
+  "doom": null,
+  "easportscollegefootball26": null,
+  "easportswrc": null,
+  "echogeneration2": null,
+  "enlistedxboxone": null,
+  "enlisted": null,
+  "f124": null,
+  "escapethebackrooms": null,
+  "fableanniversary": null,
+  "f125": null,
+  "fallout": null,
+  "fallout2": null,
+  "fallout4": null,
+  "fallout3": null,
+  "fallouttactics": null,
+  "farmingsimulator25": null,
+  "fightnightchampion": null,
+  "fe": null,
+  "firefightingsimulatorthesquad": null,
+  "forhonormarchingfire": null,
+  "fixforce": null,
+  "fortnite": null,
+  "frogsqwad": {
+    "name": "青蛙小队🐸",
+    "source": "steam"
+  },
+  "fullthrottleremastered": null,
+  "gearsofwarultimateedition": null,
+  "gearsofwarreloaded": null,
+  "greatgodgrove": null,
+  "goals": null,
+  "grimfandangoremastered": null,
+  "grounded2gamepreview": null,
+  "halowarsdefinitiveedition": null,
+  "hades": null,
+  "halospartanassault": null,
+  "halospartanstrike": null,
+  "hellisus": {
+    "name": "Hell is Us 地狱即我们",
+    "source": "steam"
+  },
+  "hellbladesenuassacrifice": null,
+  "heretichexen": null,
+  "highonlife2": {
+    "name": "高能人生2",
+    "source": "steam"
+  },
+  "hollowknightsilksong": null,
+  "inkonbinionestoremanystories": null,
+  "humanfallflat": {
+    "name": "人类一败涂地",
+    "source": "steam"
+  },
+  "jetpacrefuelled": null,
+  "ironbrigade": null,
+  "joyrideturbo": null,
+  "junkster": null,
+  "kabutopark": {
+    "name": "兜虫公园 (",
+    "source": "steam"
+  },
+  "keeper": null,
+  "killerinstinct2classic": null,
+  "killitwithfire2": null,
+  "killerinstinctanniversaryedition": null,
+  "kiln": null,
+  "legendsofruneterra": null,
+  "kingdomcomedeliveranceii": {
+    "name": "天国：拯救2",
+    "source": "steam"
+  },
+  "littlerocketlab": null,
+  "masseffect": null,
+  "medievaldynasty": {
+    "name": "中世纪王朝",
+    "source": "steam"
+  },
+  "mechwarrior5clans": null,
+  "microsoftflightsimulator2020standard40thanniversaryedition": null,
+  "microsoftbubble": null,
+  "microsoftjewel": null,
+  "microsoftmahjong": null,
+  "microsoftflightsimulator2024": null,
+  "minecraft": null,
+  "minecraftlegends": null,
+  "minecraftlegendsforwindowslauncher": null,
+  "minecraftpreview": null,
+  "minecraftpreviewforwindows": null,
+  "mirrorsedgemobile": null,
+  "monopoly2024": null,
+  "mixtape": null,
+  "monstersanctuary": {
+    "name": "怪物圣所",
+    "source": "steam"
+  },
+  "monstersarecoming": null,
+  "moonlighter2theendlessvault": {
+    "name": "夜勤人2：无尽宝库",
+    "source": "steam"
+  },
+  "motorslice": {
+    "name": "废都电锯姬",
+    "source": "steam"
+  },
+  "needforspeed": null,
+  "newsuperluckystale": null,
+  "ninokuniwrathofthewhitewitchremastered": null,
+  "ninjagaiden2black": null,
+  "oncehuman": {
+    "name": "七日世界",
+    "source": "steam"
+  },
+  "oriandtheblindforestdefinitiveedition": null,
+  "overthrown": {
+    "name": "翻转世界",
+    "source": "steam"
+  },
+  "overwatch": {
+    "name": "《守望先锋®》",
+    "source": "steam"
+  },
+  "perfectdark2000": null,
+  "pbaprobowling2026": null,
+  "pigeonsimulator": null,
+  "phoenixpoint": null,
+  "pillarsofeternityiideadfireultimateedition": null,
+  "pillarsofeternitycompleteedition": null,
+  "plantsvszombies": null,
+  "powerwashsimulator2": {
+    "name": "冲就完事模拟器2",
+    "source": "steam"
+  },
+  "policesimulatorpatrolofficers": {
+    "name": "警察模拟器：巡警",
+    "source": "steam"
+  },
+  "quakeiienhancededition": null,
+  "quakeremastered": null,
+  "rabbidsinvasion": null,
+  "rarereplay": null,
+  "relichunterslegend": {
+    "name": "《遗物猎人传说》",
+    "source": "steam"
+  },
+  "rematch": {
+    "name": "开球!",
+    "source": "steam"
+  },
+  "replaced": null,
+  "residentevil3forxbox": null,
+  "residentevil3": null,
+  "residentevil7biohazard": null,
+  "resonanceaplaguetalelegacy": {
+    "name": "共鸣：瘟疫传说传承",
+    "source": "steam"
+  },
+  "residentevilvillage": null,
+  "retroclassics": null,
+  "riskurbanassault": null,
+  "rocketleague": null,
+  "roboquest": {
+    "name": "Roboquest (机械守护者)",
+    "source": "steam"
+  },
+  "ryselegendaryedition": null,
+  "shadowrunhongkongextendededition": null,
+  "shadowrunhongkongextendededitionpc": null,
+  "shadowrundragonfalldirectorscut": null,
+  "shelldiver": {
+    "name": "龟龟潜海记",
+    "source": "steam"
+  },
+  "shiftatmidnight": {
+    "name": "午夜轮班",
+    "source": "steam"
+  },
+  "sleddinggame": null,
+  "sopataleofthestolenpotato": null,
+  "southparkthestickoftruth": null,
+  "southparkthefracturedbutwhole": null,
+  "speedrunners2kingofspeed": null,
+  "starcraftiicampaigncollection": null,
+  "starcraftremastered": null,
+  "stacking": null,
+  "starseekerastroneerexpeditionsgamepreview": null,
+  "starfield": null,
+  "stateofdecay2juggernautedition": null,
+  "stateofdecay": null,
+  "supermegabaseball3": null,
+  "supermeatboy3d": {
+    "name": "超级肉肉男孩 3D",
+    "source": "steam"
+  },
+  "supermegabaseball4": null,
+  "supermarketsimulator": null,
+  "sworn": {
+    "name": "圣杯誓约",
+    "source": "steam"
+  },
+  "symphonia": null,
+  "tamashika": null,
+  "teamfighttactics": null,
+  "tempopo": null,
+  "thealters": {
+    "name": "多重人生",
+    "source": "steam"
+  },
+  "thebardstalearpgremasteredandresnarkled": null,
+  "thebardstaleivdirectorscut": null,
+  "thebardstaletrilogy": null,
+  "thecave2013": null,
+  "thecastingoffrankstone": null,
+  "theelderscrollsiiimorrowind": null,
+  "thecrewmotorfest": {
+    "name": "《飙酷车神：轰鸣盛典》",
+    "source": "steam"
+  },
+  "theelderscrollsivoblivionremastered": null,
+  "theelderscrollsvskyrimspecialedition": null,
+  "thegunk": null,
+  "thelongdark": null,
+  "theouterworldsspacerschoiceedition": null,
+  "theplanetcrafter": {
+    "name": "星球工匠",
+    "source": "steam"
+  },
+  "thewalkingdeadanewfrontierthecompleteseasonepisodes15": null,
+  "thetalosprinciple2": {
+    "name": "塔罗斯的法则2",
+    "source": "steam"
+  },
+  "thewalkingdeadmichonnethecompleteseason": null,
+  "thewalkingdeadthecompletefirstseason": null,
+  "thehuntercallofthewild": {
+    "name": "《猎人：荒野的召唤™》",
+    "source": "steam"
+  },
+  "tinybookshop": {
+    "name": "小小书店",
+    "source": "steam"
+  },
+  "toat": null,
+  "totallyreliabledeliveryservice": null,
+  "totalchaos": null,
+  "trackmaniaturbo": null,
+  "trailmakers": {
+    "name": "机械制造者",
+    "source": "steam"
+  },
+  "trialsfusion": null,
+  "tunic": null,
+  "ultimatesheepraccoon": {
+    "name": "超级浣熊羊",
+    "source": "steam"
+  },
+  "valorant": null,
+  "undisputed": null,
+  "vampirecrawlerstheturbowildcardfromvampiresurvivors": {
+    "name": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+    "source": "steam"
+  },
+  "vampiresurvivors": {
+    "name": "吸血鬼幸存者",
+    "source": "steam"
+  },
+  "vaporworldoverthemindgamepreview": null,
+  "voidtrain": {
+    "name": "虚空列车",
+    "source": "steam"
+  },
+  "warhammer40000darktide": {
+    "name": "战锤40K：暗潮",
+    "source": "steam"
+  },
+  "warhammer40000spacemarineii": null,
+  "warhammervermintide2": null,
+  "wastelandremastered": null,
+  "wheelworld": null,
+  "winterburrow": {
+    "name": "林间暖巢",
+    "source": "steam"
+  },
+  "wolongfallendynasty": {
+    "name": "Wo Long: Fallen Dynasty （卧龙：苍天陨落）",
+    "source": "steam"
+  },
+  "wobblylife": {
+    "name": "晃晃人生",
+    "source": "steam"
+  },
+  "wolfensteiniistandardedition": null,
+  "worldoftanksmodernarmor": null,
+  "worldoftanksheat": null,
+  "worldwarzaftermath": null,
+  "worldofwarshipslegends": null,
+  "youngsuns": null,
+  "zootycoonultimateanimalcollection": null,
+  "zumadeluxe": null,
+  "zumasrevenge": null,
+  "2xtreme": null,
+  "aquietplacetheroadahead": null,
+  "atrainexpressplus": null,
+  "apeacademy": null,
+  "aotennis2": null,
+  "arcadeparadise": null,
+  "atlasfallenreignofsand": {
+    "name": "尘封大陆",
+    "source": "steam"
+  },
+  "battlechasersnightwar": null,
+  "beesimulator": null,
+  "bound2016": null,
+  "bussimulator21nextstop": {
+    "name": "巴士模拟器 21",
+    "source": "steam"
+  },
+  "chainedechoes": {
+    "name": "宿命残响（",
+    "source": "steam"
+  },
+  "blasphemous2": {
+    "name": "神之亵渎2",
+    "source": "steam"
+  },
+  "codedsoul": null,
+  "coffeetalkepisode2hibiscusandbutterfly": null,
+  "coffeetalk": null,
+  "conscript": null,
+  "coolboarders": null,
+  "contraroguecorps": null,
+  "cricket24": null,
+  "crowcountry": null,
+  "deusextheconspiracy": null,
+  "desperadosiii": null,
+  "disneypixarbuzzlightyearofstarcommand": null,
+  "disneypixarwalle2008": null,
+  "dropshipunitedpeaceforce": null,
+  "echoesoftheend": null,
+  "embr": {
+    "name": "灭火先锋",
+    "source": "steam"
+  },
+  "expeditionsamudrunnergame": {
+    "name": "远征：泥泞奔驰游戏",
+    "source": "steam"
+  },
+  "fadetosilence": null,
+  "firefightingsimulatorignite": {
+    "name": "消防模拟：火苗燃动",
+    "source": "steam"
+  },
+  "fivenightsatfreddyshelpwanted2": null,
+  "fortheking": {
+    "name": "为了吾王",
+    "source": "steam"
+  },
+  "fatesamurairemnant": null,
+  "gpolice": null,
+  "godofwarragnarok": null,
+  "ghosthunter": {
+    "name": "除灵派对",
+    "source": "steam"
+  },
+  "godofwariiiremastered": null,
+  "golfwithyourfriends": {
+    "name": "友尽高尔夫",
+    "source": "steam"
+  },
+  "gravitycrashportable": null,
+  "helldivers2": {
+    "name": "HELLDIVERS™ 绝地潜兵2",
+    "source": "steam"
+  },
+  "hotlinemiami2wrongnumber": {
+    "name": "火线迈阿密2：空号",
+    "source": "steam"
+  },
+  "jumpingflash": null,
+  "kurushifinalmentalblocks": null,
+  "killerfrequency": {
+    "name": "致命频率",
+    "source": "steam"
+  },
+  "legacyofkaindefianceremastered": null,
+  "locorocomidnightcarnival": null,
+  "legojurassicworld": null,
+  "luminesremastered": null,
+  "matterfall": null,
+  "marvelsspiderman2": null,
+  "medievilresurrection": null,
+  "meltybloodtypelumina": null,
+  "metaleden": {
+    "name": "合金天使：堕入伊甸",
+    "source": "steam"
+  },
+  "metroexodusenhancededition": null,
+  "monsterjamshowdown": null,
+  "monstertruckchampionship": null,
+  "newmonopoly": null,
+  "neva": null,
+  "noheroesallowed": null,
+  "observersystemredux": null,
+  "outcastsecondcontact": null,
+  "overpass2": null,
+  "patapon3": null,
+  "overpass": null,
+  "pinballheroes": null,
+  "poppyplaytimechapter1": null,
+  "pursuitforce": null,
+  "pursuitforceextremejustice": null,
+  "patapon2remastered": null,
+  "r4ridgeracertype4": null,
+  "rainbowmoon": null,
+  "rtypedimensions": null,
+  "rallycross": null,
+  "rajianancientepic": {
+    "name": "拉吉：远古传奇",
+    "source": "steam"
+  },
+  "readysetheroes": null,
+  "residentevildirectorscut": null,
+  "rebelgalaxy": {
+    "name": "勇闯银河系",
+    "source": "steam"
+  },
+  "ridgeracer1995": null,
+  "ridgeracer2": null,
+  "riseofthetombraider20yearcelebration": null,
+  "roguelords": {
+    "name": "欺诈领主",
+    "source": "steam"
+  },
+  "roguebook": {
+    "name": "魔域之书",
+    "source": "steam"
+  },
+  "secretneighbor": null,
+  "rugby25": null,
+  "sessionskatesim": null,
+  "snowbroswonderland": null,
+  "spacehulkdeathwing": null,
+  "spelunkerhddeluxe": null,
+  "starwarsdemolition": null,
+  "starwarsepisodeithephantommenace": null,
+  "starwarsrebelassaultiithehiddenempire": null,
+  "starwarstheclonewars": null,
+  "starwarsracerrevenge": null,
+  "stellarisconsoleeditionps5": null,
+  "somerville": null,
+  "survivingtheaftermath": null,
+  "swordofthesea": null,
+  "syphonfilter": null,
+  "syphonfilter2": null,
+  "stillwakesthedeep": null,
+  "syphonfilterdarkmirror": null,
+  "tekkendarkresurrection": null,
+  "tailsnoir": {
+    "name": "浣熊硬探",
+    "source": "steam"
+  },
+  "testdriveunlimitedsolarcrown": null,
+  "thelastofusparti": null,
+  "tetriseffectconnected": null,
+  "thiswarofminefinalcut": null,
+  "twistedmetal2012": null,
+  "thrillvilleofftherails": null,
+  "twistedmetal4": null,
+  "twistedmetaliii": null,
+  "twopointhospitaljumboedition": null,
+  "untildawn2015": null,
+  "wipeoutomegacollection": null,
+  "untildawn": null,
+  "wormsps1emulation": null,
+  "wormsarmageddonanniversaryedition": null,
+  "wormspinballps1emulation": null,
+  "wrcgenerations": null,
+  "xcom2": null,
+  "wwe2k26": null,
+  "anelderscrollslegendbattlespire": {
+    "name": "上古卷轴：战斗神塔",
+    "source": "wikidata"
+  },
+  "ageofmythologyretold": {
+    "name": "神话世纪：重述",
+    "source": "wikidata"
+  },
+  "aphelion": {
+    "name": "远日点",
+    "source": "wikidata"
+  },
+  "aplaguetalerequiem": {
+    "name": "瘟疫传说：安魂曲",
+    "source": "wikidata"
+  },
+  "anno1800": {
+    "name": "纪元 1800",
+    "source": "wikidata"
+  },
+  "abioticfactor": {
+    "name": "非生物因素",
+    "source": "wikidata"
+  },
+  "arahistoryuntold": {
+    "name": "Ara：无尽历史",
+    "source": "wikidata"
+  },
+  "arxfatalis": {
+    "name": "地城英雄志",
+    "source": "wikidata"
+  },
+  "atomfall": {
+    "name": "原子能降临",
+    "source": "wikidata"
+  },
+  "assassinscreedrogue": {
+    "name": "刺客信条：叛变",
+    "source": "wikidata"
+  },
+  "astroneer": {
+    "name": "异星探险家",
+    "source": "wikidata"
+  },
+  "assassinscreedvalhalla": {
+    "name": "刺客信条：英灵殿",
+    "source": "wikidata"
+  },
+  "avowed": {
+    "name": "宣誓",
+    "source": "wikidata"
+  },
+  "ballxpit": {
+    "name": "球比伦战记",
+    "source": "wikidata"
+  },
+  "balatro": {
+    "name": "小丑牌",
+    "source": "wikidata"
+  },
+  "banishersghostsofneweden": {
+    "name": "流放者：新伊甸的幽灵",
+    "source": "wikidata"
+  },
+  "banjokazooie": {
+    "name": "班卓熊大冒险",
+    "source": "wikidata"
+  },
+  "battlefield4": {
+    "name": "战地4",
+    "source": "wikidata"
+  },
+  "bleedingedge": {
+    "name": "尖峰战队",
+    "source": "wikidata"
+  },
+  "blueprince": {
+    "name": "蓝途王子",
+    "source": "wikidata"
+  },
+  "brutallegend": {
+    "name": "恶黑摇滚",
+    "source": "wikidata"
+  },
+  "brokenage": {
+    "name": "破碎时光",
+    "source": "wikidata"
+  },
+  "carmechanicsimulator2021": {
+    "name": "汽车机械师模拟器2021",
+    "source": "wikidata"
+  },
+  "callofdutywwii": {
+    "name": "使命召唤：二战",
+    "source": "wikidata"
+  },
+  "cookingsimulator": {
+    "name": "料理模拟器 VR",
+    "source": "wikidata"
+  },
+  "chivalry2": {
+    "name": "骑士精神2",
+    "source": "wikidata"
+  },
+  "crimsonskieshighroadtorevenge": {
+    "name": "王牌飞行员：复仇大道",
+    "source": "wikidata"
+  },
+  "control": {
+    "name": "控制",
+    "source": "wikidata"
+  },
+  "costumequest": {
+    "name": "万圣节大作战",
+    "source": "wikidata"
+  },
+  "dantesinferno": {
+    "name": "但丁的地狱之旅",
+    "source": "wikidata"
+  },
+  "crysis2": {
+    "name": "孤岛危机2",
+    "source": "wikidata"
+  },
+  "deadisland2": {
+    "name": "死亡岛2",
+    "source": "wikidata"
+  },
+  "deadspaceignition": {
+    "name": "绝命异次元：星火",
+    "source": "wikidata"
+  },
+  "deadspace2": {
+    "name": "死亡空间2",
+    "source": "wikidata"
+  },
+  "deathhowl": {
+    "name": "死亡呼啸",
+    "source": "wikidata"
+  },
+  "deathloop": {
+    "name": "死亡循环",
+    "source": "wikidata"
+  },
+  "descenders": {
+    "name": "下坡竞速王者",
+    "source": "wikidata"
+  },
+  "deeprockgalactic": {
+    "name": "深岩银河",
+    "source": "wikidata"
+  },
+  "diablo": {
+    "name": "暗黑破坏神",
+    "source": "wikidata"
+  },
+  "diabloiiresurrected": {
+    "name": "暗黑破坏神II：重制版",
+    "source": "wikidata"
+  },
+  "diabloiiireaperofsouls": {
+    "name": "暗黑破坏神III：夺魂之镰",
+    "source": "wikidata"
+  },
+  "dishonoreddeathoftheoutsider": {
+    "name": "羞辱：界外魔之死",
+    "source": "wikidata"
+  },
+  "domekeeper": {
+    "name": "穹顶守护者",
+    "source": "wikidata"
+  },
+  "dishonored2": {
+    "name": "羞辱2",
+    "source": "wikidata"
+  },
+  "kinectdisneylandadventures": {
+    "name": "迪士尼大冒险",
+    "source": "wikidata"
+  },
+  "donutcounty": {
+    "name": "甜甜圈郡",
+    "source": "wikidata"
+  },
+  "doomdoomii": {
+    "name": "毁灭战士",
+    "source": "wikidata"
+  },
+  "doom64": {
+    "name": "毁灭战士64",
+    "source": "wikidata"
+  },
+  "doometernal": {
+    "name": "毁灭战士：永恒",
+    "source": "wikidata"
+  },
+  "dragonageorigins": {
+    "name": "龙之纪元：起源",
+    "source": "wikidata"
+  },
+  "dragonageii": {
+    "name": "龙之纪元2",
+    "source": "wikidata"
+  },
+  "doomthedarkages": {
+    "name": "毁灭战士：黑暗时代",
+    "source": "wikidata"
+  },
+  "easportspgatour": {
+    "name": "EA Sports PGA 巡回赛",
+    "source": "wikidata"
+  },
+  "doom3": {
+    "name": "毁灭战士3",
+    "source": "wikidata"
+  },
+  "escapesimulator": {
+    "name": "密室逃脱模拟器",
+    "source": "wikidata"
+  },
+  "evilwest": {
+    "name": "暗邪西部",
+    "source": "wikidata"
+  },
+  "fableiii": {
+    "name": "神鬼寓言3",
+    "source": "wikidata"
+  },
+  "dredge": {
+    "name": "渔帆暗涌",
+    "source": "wikidata"
+  },
+  "eternalstrands": {
+    "name": "永恒之线",
+    "source": "wikidata"
+  },
+  "falloutnewvegas": {
+    "name": "辐射：新维加斯",
+    "source": "wikidata"
+  },
+  "farcry3blooddragon": {
+    "name": "孤岛惊魂3：血龙",
+    "source": "wikidata"
+  },
+  "fallout76": {
+    "name": "辐射76",
+    "source": "wikidata"
+  },
+  "farcry4": {
+    "name": "孤岛惊魂4",
+    "source": "wikidata"
+  },
+  "farcry5": {
+    "name": "孤岛惊魂5",
+    "source": "wikidata"
+  },
+  "fbcfirebreak": {
+    "name": "联邦控制局：防火组",
+    "source": "wikidata"
+  },
+  "farcry6": {
+    "name": "孤岛惊魂6",
+    "source": "wikidata"
+  },
+  "farcryprimal": {
+    "name": "孤岛惊魂：原始杀戮",
+    "source": "wikidata"
+  },
+  "feedingfrenzy": {
+    "name": "吞食鱼",
+    "source": "wikidata"
+  },
+  "finalfantasyii": {
+    "name": "最终幻想II",
+    "source": "wikidata"
+  },
+  "farcrynewdawn": {
+    "name": "孤岛惊魂：新曙光",
+    "source": "wikidata"
+  },
+  "finalfantasyiii3dremake": {
+    "name": "最终幻想III",
+    "source": "wikidata"
+  },
+  "finalfantasyiv": {
+    "name": "最终幻想IV",
+    "source": "wikidata"
+  },
+  "finalfantasyv": {
+    "name": "最终幻想V",
+    "source": "wikidata"
+  },
+  "fragpunk": {
+    "name": "界外狂潮",
+    "source": "wikidata"
+  },
+  "finalfantasy": {
+    "name": "最终幻想",
+    "source": "wikidata"
+  },
+  "gangbeasts": {
+    "name": "萌萌小人大乱斗",
+    "source": "wikidata"
+  },
+  "gearsofwar": {
+    "name": "战争机器",
+    "source": "wikidata"
+  },
+  "gearsofwar3": {
+    "name": "战争机器3",
+    "source": "wikidata"
+  },
+  "gearsofwar2": {
+    "name": "战争机器2",
+    "source": "wikidata"
+  },
+  "gearsofwar4": {
+    "name": "战争机器4",
+    "source": "wikidata"
+  },
+  "gearsofwarjudgment": {
+    "name": "战争机器：审判",
+    "source": "wikidata"
+  },
+  "generationzero": {
+    "name": "零世代",
+    "source": "wikidata"
+  },
+  "finalfantasyvi": {
+    "name": "最终幻想VI",
+    "source": "wikidata"
+  },
+  "gearstactics": {
+    "name": "战争机器：战术小队",
+    "source": "wikidata"
+  },
+  "ghostwiretokyo": {
+    "name": "幽灵线：东京",
+    "source": "wikidata"
+  },
+  "goldeneye007": {
+    "name": "黄金眼007",
+    "source": "wikidata"
+  },
+  "genesisnoir": {
+    "name": "黑色起源",
+    "source": "wikidata"
+  },
+  "heavyweapon": {
+    "name": "重装兵器",
+    "source": "wikidata"
+  },
+  "halowars2": {
+    "name": "星环战役2",
+    "source": "wikidata"
+  },
+  "highonlife": {
+    "name": "嗨嗨人生",
+    "source": "wikidata"
+  },
+  "hifirush": {
+    "name": "完美音浪",
+    "source": "wikidata"
+  },
+  "grounded": {
+    "name": "禁闭求生",
+    "source": "wikidata"
+  },
+  "indika": {
+    "name": "印蒂卡",
+    "source": "wikidata"
+  },
+  "hadesii": {
+    "name": "哈迪斯II",
+    "source": "wikidata"
+  },
+  "houseflipper": {
+    "name": "房产达人",
+    "source": "wikidata"
+  },
+  "kameo": {
+    "name": "凯蜜欧",
+    "source": "wikidata"
+  },
+  "inscryption": {
+    "name": "邪恶冥刻",
+    "source": "wikidata"
+  },
+  "inside": {
+    "name": "裡面",
+    "source": "wikidata"
+  },
+  "killerinstinctclassic": {
+    "name": "杀手本能",
+    "source": "wikidata"
+  },
+  "kingdomcomedeliverance": {
+    "name": "天国：拯救",
+    "source": "wikidata"
+  },
+  "kingdomtwocrowns": {
+    "name": "王国：两位君主",
+    "source": "wikidata"
+  },
+  "laracroftandtheguardianoflight": {
+    "name": "劳拉与光之守护者",
+    "source": "wikidata"
+  },
+  "littlekittybigcity": {
+    "name": "小猫咪大城市",
+    "source": "wikidata"
+  },
+  "laracroftandthetempleofosiris": {
+    "name": "劳拉和俄西里斯神庙",
+    "source": "wikidata"
+  },
+  "lostrecordsbloomandrage": {
+    "name": "遗失的纪录：绽放与愤怒",
+    "source": "wikidata"
+  },
+  "lunaabyss": {
+    "name": "月神深渊",
+    "source": "wikidata"
+  },
+  "limbo": {
+    "name": "地狱边境",
+    "source": "wikidata"
+  },
+  "lostinrandom": {
+    "name": "迷失随机",
+    "source": "wikidata"
+  },
+  "massivechalice": {
+    "name": "巨大圣杯",
+    "source": "wikidata"
+  },
+  "masseffect2": {
+    "name": "质量效应2",
+    "source": "wikidata"
+  },
+  "mechwarrior5mercenaries": {
+    "name": "机甲战士5：雇佣兵",
+    "source": "wikidata"
+  },
+  "masseffectandromeda": {
+    "name": "质量效应：仙女座",
+    "source": "wikidata"
+  },
+  "medalofhonorairborne": {
+    "name": "荣誉勋章：空降神兵",
+    "source": "wikidata"
+  },
+  "monstertrain2": {
+    "name": "怪物列车2",
+    "source": "wikidata"
+  },
+  "minishootadventures": {
+    "name": "小飞船大冒险",
+    "source": "wikidata"
+  },
+  "microsoftsolitairecollection": {
+    "name": "微软纸牌合集",
+    "source": "wikidata"
+  },
+  "miomemoriesinorbit": {
+    "name": "秘奥：秘宇奥忆",
+    "source": "wikidata"
+  },
+  "moonlighter": {
+    "name": "夜勤人",
+    "source": "wikidata"
+  },
+  "movingout2": {
+    "name": "胡闹搬家2",
+    "source": "wikidata"
+  },
+  "narakabladepoint": {
+    "name": "永劫无间",
+    "source": "wikidata"
+  },
+  "needforspeedrivals": {
+    "name": "极品飞车：宿敌",
+    "source": "wikidata"
+  },
+  "needforspeedheat": {
+    "name": "极品飞车：热焰",
+    "source": "wikidata"
+  },
+  "needforspeedpayback": {
+    "name": "极品飞车：复仇",
+    "source": "wikidata"
+  },
+  "nickelodeonallstarbrawl2": {
+    "name": "尼克儿童频道全明星大乱斗2",
+    "source": "wikidata"
+  },
+  "ninokuniiirevenantkingdom": {
+    "name": "二之国II 亡灵王国",
+    "source": "wikidata"
+  },
+  "pacificdrive": {
+    "name": "超自然车旅",
+    "source": "wikidata"
+  },
+  "ninjagaiden4": {
+    "name": "忍者龙剑传4",
+    "source": "wikidata"
+  },
+  "oddballers": {
+    "name": "怪怪躲避球",
+    "source": "wikidata"
+  },
+  "paxdei": {
+    "name": "神佑之人",
+    "source": "wikidata"
+  },
+  "overcooked2": {
+    "name": "胡闹厨房2",
+    "source": "wikidata"
+  },
+  "pentiment": {
+    "name": "隐迹渐现",
+    "source": "wikidata"
+  },
+  "perfectdarkzero": {
+    "name": "完美女煞星",
+    "source": "wikidata"
+  },
+  "peggle": {
+    "name": "幻幻球",
+    "source": "wikidata"
+  },
+  "planetoflanaii": {
+    "name": "拉娜之星II",
+    "source": "wikidata"
+  },
+  "plantsvszombiesgardenwarfare2": {
+    "name": "植物大战僵尸：花园战争2",
+    "source": "wikidata"
+  },
+  "plantsvszombiesgardenwarfare": {
+    "name": "植物大战僵尸：花园战争",
+    "source": "wikidata"
+  },
+  "quake4": {
+    "name": "雷神之锤4",
+    "source": "wikidata"
+  },
+  "prey": {
+    "name": "掠食",
+    "source": "wikidata"
+  },
+  "psychonauts": {
+    "name": "脑航员",
+    "source": "wikidata"
+  },
+  "quakeiiiarena": {
+    "name": "雷神之锤III竞技场",
+    "source": "wikidata"
+  },
+  "quantumbreak": {
+    "name": "量子破碎",
+    "source": "wikidata"
+  },
+  "rage": {
+    "name": "狂怒",
+    "source": "wikidata"
+  },
+  "redfall": {
+    "name": "红霞岛",
+    "source": "wikidata"
+  },
+  "rage2": {
+    "name": "狂怒2",
+    "source": "wikidata"
+  },
+  "remnantii": {
+    "name": "遗迹2",
+    "source": "wikidata"
+  },
+  "residentevil2": {
+    "name": "生化危机2",
+    "source": "wikidata"
+  },
+  "roadcraft": {
+    "name": "灾后修复师",
+    "source": "wikidata"
+  },
+  "routine": {
+    "name": "月球任务",
+    "source": "wikidata"
+  },
+  "robocoproguecity": {
+    "name": "机械战警：暴戾都市",
+    "source": "wikidata"
+  },
+  "seaofsolitude": {
+    "name": "孤独之海",
+    "source": "wikidata"
+  },
+  "screamride": {
+    "name": "尖叫之旅",
+    "source": "wikidata"
+  },
+  "shadowrunreturns": {
+    "name": "暗影狂奔 归来",
+    "source": "wikidata"
+  },
+  "skate3": {
+    "name": "极限滑板3",
+    "source": "wikidata"
+  },
+  "seaofthieves": {
+    "name": "盗贼之海",
+    "source": "wikidata"
+  },
+  "skate": {
+    "name": "极限滑板",
+    "source": "wikidata"
+  },
+  "sifu": {
+    "name": "师父",
+    "source": "wikidata"
+  },
+  "snowrunner": {
+    "name": "雪地奔驰",
+    "source": "wikidata"
+  },
+  "southofmidnight": {
+    "name": "午夜以南",
+    "source": "wikidata"
+  },
+  "startrucker": {
+    "name": "星际卡车司机",
+    "source": "wikidata"
+  },
+  "spyroreignitedtrilogy": {
+    "name": "小龙斯派罗：重燃三部曲",
+    "source": "wikidata"
+  },
+  "sunsetoverdrive": {
+    "name": "日落过载",
+    "source": "wikidata"
+  },
+  "superhotmindcontroldelete": {
+    "name": "燥热：意念控制删除",
+    "source": "wikidata"
+  },
+  "stardewvalley": {
+    "name": "星露谷物语",
+    "source": "wikidata"
+  },
+  "tellmewhy": {
+    "name": "谓何",
+    "source": "wikidata"
+  },
+  "theelderscrollsadventuresredguard": {
+    "name": "上古卷轴：红色守卫",
+    "source": "wikidata"
+  },
+  "thecrew2": {
+    "name": "飙酷车神2",
+    "source": "wikidata"
+  },
+  "steep": {
+    "name": "极限巅峰",
+    "source": "wikidata"
+  },
+  "theelderscrollsivoblivion": {
+    "name": "上古卷轴IV：湮没",
+    "source": "wikidata"
+  },
+  "theevilwithin2": {
+    "name": "邪灵入侵2",
+    "source": "wikidata"
+  },
+  "thefinals": {
+    "name": "最终决战",
+    "source": "wikidata"
+  },
+  "theelderscrollsonline": {
+    "name": "上古卷轴Online",
+    "source": "wikidata"
+  },
+  "thefirstdescendant": {
+    "name": "第一后裔",
+    "source": "wikidata"
+  },
+  "theevilwithin": {
+    "name": "恶灵附身",
+    "source": "wikidata"
+  },
+  "thethaumaturge": {
+    "name": "奇唤士",
+    "source": "wikidata"
+  },
+  "theouterworlds2": {
+    "name": "天外世界2",
+    "source": "wikidata"
+  },
+  "theouterworlds": {
+    "name": "天外世界",
+    "source": "wikidata"
+  },
+  "thesettlersnewallies": {
+    "name": "工人物语",
+    "source": "wikidata"
+  },
+  "titanfall2": {
+    "name": "泰坦天降2",
+    "source": "wikidata"
+  },
+  "thewalkingdeadseasontwo": {
+    "name": "行尸走肉：第二季",
+    "source": "wikidata"
+  },
+  "tormenttidesofnumenera": {
+    "name": "折磨：扭蒙拉之潮",
+    "source": "wikidata"
+  },
+  "totallyaccuratebattlesimulator": {
+    "name": "全面战争模拟器",
+    "source": "wikidata"
+  },
+  "tomclancysghostreconwildlands": {
+    "name": "幽灵行动：荒野",
+    "source": "wikidata"
+  },
+  "towerborne": {
+    "name": "勇闯荒野",
+    "source": "wikidata"
+  },
+  "transference": {
+    "name": "心灵诡宅",
+    "source": "wikidata"
+  },
+  "trepang2": {
+    "name": "海参2",
+    "source": "wikidata"
+  },
+  "trialsoftheblooddragon": {
+    "name": "特技摩托：血龙",
+    "source": "wikidata"
+  },
+  "trialsrising": {
+    "name": "特技摩托赛：崛起",
+    "source": "wikidata"
+  },
+  "virtuafighter5revoworldstage": {
+    "name": "VR 快打5 R.E.V.O.",
+    "source": "wikidata"
+  },
+  "unraveltwo": {
+    "name": "毛线小精灵2",
+    "source": "wikidata"
+  },
+  "unravel": {
+    "name": "毛线小精灵",
+    "source": "wikidata"
+  },
+  "vivapiata": {
+    "name": "宝贝万岁",
+    "source": "wikidata"
+  },
+  "valiantheartsthegreatwar": {
+    "name": "勇敢的心：世界大战",
+    "source": "wikidata"
+  },
+  "warthunder": {
+    "name": "战争雷霆",
+    "source": "wikidata"
+  },
+  "wartales": {
+    "name": "战争传说",
+    "source": "wikidata"
+  },
+  "warhammer40000roguetrader": {
+    "name": "战锤40K：行商浪人",
+    "source": "wikidata"
+  },
+  "wasteland3": {
+    "name": "废土3",
+    "source": "wikidata"
+  },
+  "wehappyfew": {
+    "name": "少数幸运儿",
+    "source": "wikidata"
+  },
+  "watchdogs2": {
+    "name": "看门狗2",
+    "source": "wikidata"
+  },
+  "watchdogs": {
+    "name": "看门狗",
+    "source": "wikidata"
+  },
+  "wolfenstein3d": {
+    "name": "德军总部3D",
+    "source": "wikidata"
+  },
+  "wolfensteintheneworder": {
+    "name": "德军总部：新秩序",
+    "source": "wikidata"
+  },
+  "wolfensteintheoldblood": {
+    "name": "德军总部：旧血脉",
+    "source": "wikidata"
+  },
+  "wolfensteinyoungblood": {
+    "name": "德军总部：新血脉",
+    "source": "wikidata"
+  },
+  "wolfensteiniithenewcolossus": {
+    "name": "德军总部II：新巨像",
+    "source": "wikidata"
+  },
+  "worldofwarships": {
+    "name": "战舰世界",
+    "source": "wikidata"
+  },
+  "wreckfest": {
+    "name": "撞车嘉年华",
+    "source": "wikidata"
+  },
+  "zombiearmy4deadwar": {
+    "name": "僵尸部队4：死亡战争",
+    "source": "wikidata"
+  },
+  "alittletotheleft": {
+    "name": "往左一点",
+    "source": "wikidata"
+  },
+  "zombiu": {
+    "name": "僵尸U",
+    "source": "wikidata"
+  },
+  "ageofwondersplanetfall": {
+    "name": "魔幻纪元：行星登陆",
+    "source": "wikidata"
+  },
+  "aspacefortheunbound": {
+    "name": "无垠之心",
+    "source": "wikidata"
+  },
+  "alienation": {
+    "name": "异种国度",
+    "source": "wikidata"
+  },
+  "anothercrabstreasure": {
+    "name": "蟹蟹寻宝奇遇",
+    "source": "wikidata"
+  },
+  "aloneinthedarkthenewnightmare": {
+    "name": "鬼屋魔影4",
+    "source": "wikidata"
+  },
+  "armoredcoremasterofarena": {
+    "name": "机战佣兵 竞技场之王",
+    "source": "wikidata"
+  },
+  "armoredcoreprojectphantasma": {
+    "name": "装甲核心：幻影计划",
+    "source": "wikidata"
+  },
+  "armoredcore": {
+    "name": "装甲核心",
+    "source": "wikidata"
+  },
+  "apeescape": {
+    "name": "捉猴啦",
+    "source": "wikidata"
+  },
+  "asduskfalls": {
+    "name": "日落黄昏时",
+    "source": "wikidata"
+  },
+  "assettocorsacompetizione": {
+    "name": "神力科莎：竞速",
+    "source": "wikidata"
+  },
+  "battleengineaquila": {
+    "name": "战都天鹰",
+    "source": "wikidata"
+  },
+  "bangonballschronicles": {
+    "name": "波蘭球：編年史",
+    "source": "wikidata"
+  },
+  "biped": {
+    "name": "只只大冒险",
+    "source": "wikidata"
+  },
+  "beyondtwosouls": {
+    "name": "超凡双生",
+    "source": "wikidata"
+  },
+  "bloodomen2": {
+    "name": "血兆2",
+    "source": "wikidata"
+  },
+  "bloodomenlegacyofkain": {
+    "name": "血兆：凯恩的遗产",
+    "source": "wikidata"
+  },
+  "blackdesert": {
+    "name": "黑色沙漠",
+    "source": "wikidata"
+  },
+  "bramblethemountainking": {
+    "name": "荆棘：群山之王",
+    "source": "wikidata"
+  },
+  "bloodborne": {
+    "name": "血源诅咒",
+    "source": "wikidata"
+  },
+  "callofcthulhu": {
+    "name": "克苏鲁的呼唤：官方游戏",
+    "source": "wikidata"
+  },
+  "catquestiii": {
+    "name": "喵咪斗恶龙3",
+    "source": "wikidata"
+  },
+  "callofthesea": {
+    "name": "海之呼唤",
+    "source": "wikidata"
+  },
+  "catquestii": {
+    "name": "喵咪斗恶龙2",
+    "source": "wikidata"
+  },
+  "concretegenie": {
+    "name": "壁中精灵",
+    "source": "wikidata"
+  },
+  "conanexiles": {
+    "name": "流放者柯南",
+    "source": "wikidata"
+  },
+  "coralisland": {
+    "name": "珊瑚岛",
+    "source": "wikidata"
+  },
+  "daxter": {
+    "name": "达斯特",
+    "source": "wikidata"
+  },
+  "darkestdungeonii": {
+    "name": "暗黑地牢2",
+    "source": "wikidata"
+  },
+  "crusaderkingsiii": {
+    "name": "十字军之王III",
+    "source": "wikidata"
+  },
+  "crysis": {
+    "name": "孤岛危机",
+    "source": "wikidata"
+  },
+  "deadbydaylight": {
+    "name": "黎明杀机",
+    "source": "wikidata"
+  },
+  "deliverusthemoon": {
+    "name": "飞向月球",
+    "source": "wikidata"
+  },
+  "disneypixarup": {
+    "name": "天外奇迹",
+    "source": "wikidata"
+  },
+  "deusexmankinddivided": {
+    "name": "杀出重围：人类分裂",
+    "source": "wikidata"
+  },
+  "demonssouls": {
+    "name": "恶魔之魂",
+    "source": "wikidata"
+  },
+  "dinocrisis": {
+    "name": "恐龙危机",
+    "source": "wikidata"
+  },
+  "dungeonsofhinterberg": {
+    "name": "辛特堡传说",
+    "source": "wikidata"
+  },
+  "earthdefenseforceironrain": {
+    "name": "地球防卫军：铁雨",
+    "source": "wikidata"
+  },
+  "dreamsuniverse": {
+    "name": "梦想大创造",
+    "source": "wikidata"
+  },
+  "eldestsouls": {
+    "name": "上古之魂",
+    "source": "wikidata"
+  },
+  "dyinglight": {
+    "name": "消逝的光芒",
+    "source": "wikidata"
+  },
+  "dyinglight2stayhuman": {
+    "name": "消逝的光芒2 人与仁之战",
+    "source": "wikidata"
+  },
+  "enotriathelastsong": {
+    "name": "艾诺提亚：失落之歌",
+    "source": "wikidata"
+  },
+  "erica": {
+    "name": "永远38岁的艾瑞卡",
+    "source": "wikidata"
+  },
+  "gitarooman": {
+    "name": "少年吉他手",
+    "source": "wikidata"
+  },
+  "everybodysgolf": {
+    "name": "全民高尔夫",
+    "source": "wikidata"
+  },
+  "finalfantasyxvi": {
+    "name": "最终幻想16",
+    "source": "wikidata"
+  },
+  "finalfantasyviiremake": {
+    "name": "最终幻想VII 重制版",
+    "source": "wikidata"
+  },
+  "godseaterburst": {
+    "name": "噬神者",
+    "source": "wikidata"
+  },
+  "godofwar": {
+    "name": "战神",
+    "source": "wikidata"
+  },
+  "granbluefantasyrelink": {
+    "name": "碧蓝幻想Relink",
+    "source": "wikidata"
+  },
+  "granbluefantasyversusrising": {
+    "name": "碧蓝幻想 Versus -RISING-",
+    "source": "wikidata"
+  },
+  "grandia": {
+    "name": "格兰蒂亚",
+    "source": "wikidata"
+  },
+  "grandtheftautov": {
+    "name": "侠盗猎车手V",
+    "source": "wikidata"
+  },
+  "hercsadventures": {
+    "name": "海格力斯大冒险",
+    "source": "wikidata"
+  },
+  "greenhell": {
+    "name": "绿色地狱",
+    "source": "wikidata"
+  },
+  "helloneighbor": {
+    "name": "你好，邻居",
+    "source": "wikidata"
+  },
+  "heavyrain": {
+    "name": "暴雨",
+    "source": "wikidata"
+  },
+  "indianajonesandthestaffofkings": {
+    "name": "印第安纳·琼斯与王之杖",
+    "source": "wikidata"
+  },
+  "humanity": {
+    "name": "人性",
+    "source": "wikidata"
+  },
+  "hotlinemiami": {
+    "name": "迈阿密热线",
+    "source": "wikidata"
+  },
+  "insurgencysandstorm": {
+    "name": "叛乱：沙漠风暴",
+    "source": "wikidata"
+  },
+  "jakanddaxterthelostfrontier": {
+    "name": "捷克与达斯特：失落的边境",
+    "source": "wikidata"
+  },
+  "jakanddaxtertheprecursorlegacy": {
+    "name": "杰克和达斯特",
+    "source": "wikidata"
+  },
+  "jakxcombatracing": {
+    "name": "捷克X：战斗赛车",
+    "source": "wikidata"
+  },
+  "jakii": {
+    "name": "杰克和达斯特2",
+    "source": "wikidata"
+  },
+  "jak3": {
+    "name": "捷克与达斯特3",
+    "source": "wikidata"
+  },
+  "jeannedarc": {
+    "name": "圣女贞德",
+    "source": "wikidata"
+  },
+  "killingfloor2": {
+    "name": "杀戮空间2",
+    "source": "wikidata"
+  },
+  "killzoneshadowfall": {
+    "name": "杀戮地带：暗影坠落",
+    "source": "wikidata"
+  },
+  "killzoneliberation": {
+    "name": "杀戮地带：解放",
+    "source": "wikidata"
+  },
+  "kurushi": {
+    "name": "I.Q.：智能魔方",
+    "source": "wikidata"
+  },
+  "legostarwarsiitheoriginaltrilogy": {
+    "name": "乐高星球大战2：原创三部曲",
+    "source": "wikidata"
+  },
+  "legothehobbit": {
+    "name": "乐高霍比特人",
+    "source": "wikidata"
+  },
+  "lonelymountainsdownhill": {
+    "name": "孤山速降",
+    "source": "wikidata"
+  },
+  "locoroco": {
+    "name": "乐克乐克系列",
+    "source": "wikidata"
+  },
+  "magicka2": {
+    "name": "魔能2",
+    "source": "wikidata"
+  },
+  "mahjong": {
+    "name": "麻将",
+    "source": "wikidata"
+  },
+  "maneater": {
+    "name": "食人鲨",
+    "source": "wikidata"
+  },
+  "marvelsspiderman": {
+    "name": "漫威蜘蛛侠",
+    "source": "wikidata"
+  },
+  "marvelsspidermanmilesmorales": {
+    "name": "蜘蛛侠：迈尔斯·莫拉莱斯",
+    "source": "wikidata"
+  },
+  "megamanxcommandmission": {
+    "name": "洛克人X 指令任务",
+    "source": "wikidata"
+  },
+  "medievil": {
+    "name": "骷髅战士",
+    "source": "wikidata"
+  },
+  "mightymorphinpowerrangersritasrewind": {
+    "name": "金刚战士：幽冥女王归来",
+    "source": "wikidata"
+  },
+  "monstertrain": {
+    "name": "怪物火车",
+    "source": "wikidata"
+  },
+  "monsterhunterstories": {
+    "name": "怪物猎人物语",
+    "source": "wikidata"
+  },
+  "mordhau": {
+    "name": "磨大号",
+    "source": "wikidata"
+  },
+  "oddworldsoulstorm": {
+    "name": "奇异世界：灵魂风暴",
+    "source": "wikidata"
+  },
+  "nomoreheroesiii": {
+    "name": "英雄不再III",
+    "source": "wikidata"
+  },
+  "ninjagaidenragebound": {
+    "name": "忍者外传：怒之羁绊",
+    "source": "wikidata"
+  },
+  "oddworldabesexoddus": {
+    "name": "奇异世界：阿比逃亡记",
+    "source": "wikidata"
+  },
+  "onimushadawnofdreams": {
+    "name": "新鬼武者",
+    "source": "wikidata"
+  },
+  "oddworldabesoddysee": {
+    "name": "奇异世界：阿比逃亡记",
+    "source": "wikidata"
+  },
+  "overcookedallyoucaneat": {
+    "name": "胡闹厨房 全都好吃",
+    "source": "wikidata"
+  },
+  "outlast2": {
+    "name": "逃生2",
+    "source": "wikidata"
+  },
+  "orcsmustdie3": {
+    "name": "兽人必须死3",
+    "source": "wikidata"
+  },
+  "oreshika": {
+    "name": "跨越我的尸体",
+    "source": "wikidata"
+  },
+  "patapon": {
+    "name": "战鼓啪打碰",
+    "source": "wikidata"
+  },
+  "pathfinderwrathoftherighteous": {
+    "name": "开拓者：正义之怒",
+    "source": "wikidata"
+  },
+  "persona5royal": {
+    "name": "女神异闻录5 皇家版",
+    "source": "wikidata"
+  },
+  "ratchetandclankriftapart": {
+    "name": "瑞奇与叮当：分离",
+    "source": "wikidata"
+  },
+  "ratchetandclanksizematters": {
+    "name": "拉捷特与克拉克5 激战！巨大银河之超微军团",
+    "source": "wikidata"
+  },
+  "prisonarchitect": {
+    "name": "监狱建筑师",
+    "source": "wikidata"
+  },
+  "resistanceretribution": {
+    "name": "抵抗：惩罚",
+    "source": "wikidata"
+  },
+  "reddeadredemption2": {
+    "name": "荒野大镖客：救赎2",
+    "source": "wikidata"
+  },
+  "runescapedragonwilds": {
+    "name": "卢恩传奇：龙荒秘境",
+    "source": "wikidata"
+  },
+  "returntomonkeyisland": {
+    "name": "重返猴岛",
+    "source": "wikidata"
+  },
+  "residentevil3nemesis": {
+    "name": "生化危机3 最终逃脱",
+    "source": "wikidata"
+  },
+  "sackboyabigadventure": {
+    "name": "小小大冒险",
+    "source": "wikidata"
+  },
+  "seasonalettertothefuture": {
+    "name": "寄梦远方",
+    "source": "wikidata"
+  },
+  "secretagentclank": {
+    "name": "秘密特工叮当",
+    "source": "wikidata"
+  },
+  "shadowofthebeast": {
+    "name": "异兽王国",
+    "source": "wikidata"
+  },
+  "shadowofthetombraider": {
+    "name": "古墓丽影：暗影",
+    "source": "wikidata"
+  },
+  "skygunner": {
+    "name": "空战神鹰",
+    "source": "wikidata"
+  },
+  "silenthill2": {
+    "name": "寂静岭2",
+    "source": "wikidata"
+  },
+  "skatestory": {
+    "name": "滑板故事",
+    "source": "wikidata"
+  },
+  "slitterhead": {
+    "name": "野狗子",
+    "source": "wikidata"
+  },
+  "sly2bandofthieves": {
+    "name": "怪盗史库柏2：侠盗帮",
+    "source": "wikidata"
+  },
+  "sly3honoramongthieves": {
+    "name": "怪盗史库柏3",
+    "source": "wikidata"
+  },
+  "slyraccoon": {
+    "name": "狡狐大冒险",
+    "source": "wikidata"
+  },
+  "soulcaliburiii": {
+    "name": "灵魂能力III",
+    "source": "wikidata"
+  },
+  "snipereliteresistance": {
+    "name": "狙击精英：抵抗",
+    "source": "wikidata"
+  },
+  "sniperelite5": {
+    "name": "狙击精英5",
+    "source": "wikidata"
+  },
+  "spaceengineers": {
+    "name": "太空工程师",
+    "source": "wikidata"
+  },
+  "starwarsbountyhunter": {
+    "name": "星际大战：赏金猎人",
+    "source": "wikidata"
+  },
+  "starwarsjedistarfighter": {
+    "name": "星际大战：绝地星际战斗机",
+    "source": "wikidata"
+  },
+  "starwarsoutlaws": {
+    "name": "星球大战：亡命之徒",
+    "source": "wikidata"
+  },
+  "syberiatheworldbefore": {
+    "name": "塞伯利亚之谜：世界之前",
+    "source": "wikidata"
+  },
+  "syphonfilterlogansshadow": {
+    "name": "虹吸战士：洛根之影",
+    "source": "wikidata"
+  },
+  "syphonfilter3": {
+    "name": "虹吸战士3",
+    "source": "wikidata"
+  },
+  "tekken6": {
+    "name": "铁拳6",
+    "source": "wikidata"
+  },
+  "thankgoodnessyourehere": {
+    "name": "谢天谢地你在这里！",
+    "source": "wikidata"
+  },
+  "terraria": {
+    "name": "泰拉瑞亚",
+    "source": "wikidata"
+  },
+  "thelegendofdragoon": {
+    "name": "龙骑士传说",
+    "source": "wikidata"
+  },
+  "thegardensbetween": {
+    "name": "花园之间",
+    "source": "wikidata"
+  },
+  "theinvincible": {
+    "name": "无敌号",
+    "source": "wikidata"
+  },
+  "thelastguardian": {
+    "name": "最后的守护者",
+    "source": "wikidata"
+  },
+  "thelordoftheringsreturntomoria": {
+    "name": "指环王：重返摩瑞亚",
+    "source": "wikidata"
+  },
+  "thetechnomancer": {
+    "name": "机械巫师",
+    "source": "wikidata"
+  },
+  "thesurge2": {
+    "name": "机甲狂潮2",
+    "source": "wikidata"
+  },
+  "thesurge": {
+    "name": "机甲狂潮",
+    "source": "wikidata"
+  },
+  "thepedestrian": {
+    "name": "步行者",
+    "source": "wikidata"
+  },
+  "thrillville": {
+    "name": "模拟乐园",
+    "source": "wikidata"
+  },
+  "thymesia": {
+    "name": "记忆边境",
+    "source": "wikidata"
+  },
+  "timecrisis": {
+    "name": "火线危机",
+    "source": "wikidata"
+  },
+  "timesplitters": {
+    "name": "时空分裂者",
+    "source": "wikidata"
+  },
+  "tombraiderlegend": {
+    "name": "古墓丽影：传奇",
+    "source": "wikidata"
+  },
+  "underthewaves": {
+    "name": "碧波之下",
+    "source": "wikidata"
+  },
+  "tombraider": {
+    "name": "古墓丽影",
+    "source": "wikidata"
+  },
+  "twopointcampus": {
+    "name": "双点校园",
+    "source": "wikidata"
+  },
+  "unchartedthenathandrakecollection": {
+    "name": "神秘海域：内森德雷克合集",
+    "source": "wikidata"
+  },
+  "venba": {
+    "name": "薇妮巴一家",
+    "source": "wikidata"
+  },
+  "warofthemonsters": {
+    "name": "怪兽大激战",
+    "source": "wikidata"
+  },
+  "vrising": {
+    "name": "夜族崛起",
+    "source": "wikidata"
+  },
+  "untitledgoosegame": {
+    "name": "鹅作剧",
+    "source": "wikidata"
+  },
+  "vampyr": {
+    "name": "吸血鬼",
+    "source": "wikidata"
+  },
+  "warhammerchaosbane": {
+    "name": "战锤：混沌祸害",
+    "source": "wikidata"
+  },
+  "westofdead": {
+    "name": "死亡西部",
+    "source": "wikidata"
+  },
+  "wildarms4": {
+    "name": "狂野历险 第四雷管",
+    "source": "wikidata"
+  },
+  "wildarms2": {
+    "name": "PSone复刻版狂野历险2",
+    "source": "wikidata"
+  },
+  "wildarms": {
+    "name": "荒野兵器",
+    "source": "wikidata"
+  },
+  "wizardwithagun": {
+    "name": "荒野枪巫",
+    "source": "wikidata"
+  },
+  "werewolftheapocalypseearthblood": {
+    "name": "狼人之末日怒吼—地灵之血",
+    "source": "wikidata"
+  },
+  "wormsworldparty": {
+    "name": "百战天虫 世界派对",
+    "source": "wikidata"
+  },
+  "worldwarz": {
+    "name": "僵尸世界大战",
+    "source": "wikidata"
+  },
+  "easportsmaddennfl26": null,
+  "assassinscreedodyssey": null,
+  "gridlegends": null,
+  "maddennfl252013": null,
+  "mavrixbymattjones": {
+    "name": "马特·琼斯：骑迹",
+    "source": "steam"
+  },
+  "returntocastlewolfenstein": null,
+  "rushadisneypixaradventure": null,
+  "ufc5": null,
+  "ufc4": null,
+  "uno2016": null,
+  "aloneinthedark21996": null,
+  "doomii": null,
+  "everybodysgolf2ps1": null,
+  "hollowknight": null,
+  "gris": null,
+  "jetrider": null,
+  "horizonzerodawnremastered": {
+    "name": "《地平线 零之曙光™》重制版",
+    "source": "steam"
+  },
+  "jetrider2": null,
+  "locoroco2": null,
+  "medievil2": null,
+  "megadimensionneptunevii": null,
+  "mrmoskeeto": null,
+  "soulcaliburbrokendestiny": null,
+  "returnal": null,
+  "summonerps2emulation2000": null,
+  "superstardustportable": null,
+  "twistedmetalworldtour": null,
+  "tennisworldtour2": null,
+  "uncharted4athiefsend": null
+}
