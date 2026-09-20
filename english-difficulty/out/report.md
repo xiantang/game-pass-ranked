@@ -31,9 +31,11 @@ neighbour. Coverage survives (+0.5%) and is what these rows are for.
 | corpus | cov@2k % | cov@5k % | C1+C2 % | unlisted % | archaic/1k | sent. len | subord./sent |
 |---|---|---|---|---|---|---|---|
 | **bg3** | 88.16 | 93.91 | — | — | — | — | — |
+| **clair-obscur-33** | 91.7 | 95.18 | — | — | — | — | — |
 | **cyberpunk-2077** | 89.34 | 94.25 | — | — | — | — | — |
 | **ghost-of-tsushima** | 92.23 | 96.51 | — | — | — | — | — |
 | **god-of-war-2018** | 92.82 | 96.45 | — | — | — | — | — |
+| **jedi-survivor** | 91.83 | 95.61 | — | — | — | — | — |
 | **kcd2** | 92.65 | 96.15 | — | — | — | — | — |
 | **persona-5-royal** | 90.04 | 94.93 | — | — | — | — | — |
 | **rdr2** | 94.61 | 97.48 | — | — | — | — | — |
@@ -53,9 +55,11 @@ so it is the rate while someone is actually speaking.
 | game | words/hour | words/min spoken | corpus words | hours | ASR noise % |
 |---|---|---|---|---|---|
 | bg3 | 2315 | 95.7 | 43549 | 18.81 | 2.42 |
+| clair-obscur-33 | 1607 | 74.9 | 38560 | 24.0 | 0.04 |
 | cyberpunk-2077 | 3132 | 109.8 | 16443 | 5.25 | 0.46 |
 | ghost-of-tsushima | 2876 | 111.1 | 24391 | 8.48 | 3.83 |
 | god-of-war-2018 | 2861 | 120.0 | 29310 | 10.24 | 1.45 |
+| jedi-survivor | 1903 | 100.0 | 22760 | 11.96 | 2.03 |
 | kcd2 | 5126 | 150.0 | 184415 | 35.98 | 1.16 |
 | persona-5-royal | 4980 | 121.0 | 21652 | 4.35 | 0.6 |
 | rdr2 | 4816 | 139.5 | 172106 | 35.74 | 1.04 |
@@ -81,6 +85,8 @@ is understated here, not overstated.
 | re2-remake * | 41.2 | 639 | 50 | **26** | 14 |
 | re4-remake * | 30.0 | 1280 | 60 | **38** | 26 |
 | tlou-remastered | 22.1 | 2826 | 96 | **62** | 41 |
+| clair-obscur-33 | 48.2 | 1607 | 104 | **77** | 52 |
+| jedi-survivor | 43.9 | 1903 | 114 | **84** | 57 |
 | ghost-of-tsushima | 34.9 | 2876 | 157 | **100** | 64 |
 | god-of-war-2018 | 35.5 | 2861 | 150 | **102** | 69 |
 | rdr2 | 25.2 | 4816 | 184 | **121** | 79 |

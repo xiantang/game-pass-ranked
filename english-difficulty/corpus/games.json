@@ -237,7 +237,8 @@
         "subtitles": null,
         "missable_dialogue": null,
         "accent_note": null
-      }
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
     },
     "re2-remake": {
       "title": "Resident Evil 2 (2019)",
@@ -272,7 +273,117 @@
       "captions": {
         "video": "DJ9ueNpFufI"
       }
+    },
+    "ghost-of-yotei": {
+      "title": "Ghost of Yōtei",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "tlou-part-2": {
+      "title": "The Last of Us Part II",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "mass-effect-2": {
+      "title": "Mass Effect 2",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "hades-2": {
+      "title": "Hades II",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "ori-wotw": {
+      "title": "Ori and the Will of the Wisps",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "clair-obscur-33": {
+      "title": "Clair Obscur: Expedition 33",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "dHDoR_R6bDY"
+      }
+    },
+    "jedi-survivor": {
+      "title": "Star Wars Jedi: Survivor",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "zKBZRkiFheg"
+      }
     }
   },
-  "_source_note": "Every corpus now comes from YouTube automatic captions of a no-commentary playthrough. Fandom could not supply this list: six of the eight wikis have no dialogue category, and the two that do gave 50k words for one game and 1.3k for another. The cost was measured by collecting rdr2 both ways — vocabulary coverage survives (+0.5%), syntax and archaism do not (-26%, -45%) — so caption corpora declare which axes they support and the report leaves the rest blank."
+  "_source_note": "Every corpus now comes from YouTube automatic captions of a no-commentary playthrough. Fandom could not supply this list: six of the eight wikis have no dialogue category, and the two that do gave 50k words for one game and 1.3k for another. The cost was measured by collecting rdr2 both ways — vocabulary coverage survives (+0.5%), syntax and archaism do not (-26%, -45%) — so caption corpora declare which axes they support and the report leaves the rest blank.",
+  "_uncollected_note": "Games with _no_corpus have no row in the report. Automatic captions exist for roughly one gameplay video in five, and these drew none. Three searches also returned the wrong game (Andromeda for Mass Effect 2, Part 1 for The Last of Us Part II, a part-video for Ghost of Yotei); candidates are checked by title and by character-name density in the fetched text before a corpus is kept."
 }
