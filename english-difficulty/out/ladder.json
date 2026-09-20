@@ -5,50 +5,51 @@
       "lines_sampled": 1360,
       "tokens": 16856,
       "types": 3824,
-      "sentences": 1322
+      "sentences": 1301
     },
     "vocabulary": {
-      "coverage_2k": 83.34,
-      "coverage_3k": 86.56,
-      "coverage_5k": 90.39,
-      "coverage_10k": 93.93,
-      "coverage_20k": 96.49,
-      "beyond_top_band_pct": 1.13,
+      "coverage_2k": 83.58,
+      "coverage_3k": 86.79,
+      "coverage_5k": 90.61,
+      "coverage_10k": 94.17,
+      "coverage_20k": 96.74,
+      "beyond_top_band_pct": 0.88,
       "cefr_pct": {
-        "A1": 53.13,
-        "A2": 16.13,
-        "B1": 11.5,
-        "B2": 5.74,
-        "C1": 1.25,
-        "C2": 0.31,
-        "unlisted": 11.93
+        "A1": 53.4,
+        "A2": 16.24,
+        "B1": 11.66,
+        "B2": 5.72,
+        "C1": 1.26,
+        "C2": 0.34,
+        "unlisted": 11.38
       },
-      "cefr_b2_plus_pct": 19.23,
-      "cefr_c_plus_pct": 1.56,
-      "cefr_unlisted_pct": 11.93,
+      "cefr_b2_plus_pct": 18.7,
+      "cefr_c_plus_pct": 1.6,
+      "cefr_unlisted_pct": 11.38,
       "archaic_per_1k": 2.14,
-      "archaic_mean_score": 6.01,
+      "coinage_per_1k": 2.14,
+      "archaic_mean_score": 5.65,
       "mattr": 0.5479
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.37,
-      "distinct_per_1k": 23.2
+      "pct_of_tokens": 4.47,
+      "distinct_per_1k": 23.85
     },
     "sentence": {
-      "mean_length": 12.75,
-      "median_length": 11.0,
-      "over_20_pct": 16.87,
-      "over_30_pct": 3.86,
-      "subordinate_per_sentence": 0.986,
-      "mean_tree_depth": 5.0,
+      "mean_length": 12.96,
+      "median_length": 11,
+      "over_20_pct": 17.6,
+      "over_30_pct": 4.23,
+      "subordinate_per_sentence": 1.005,
+      "mean_tree_depth": 5.07,
       "mean_dependency_distance": 2.76
     },
     "register": {
       "contractions_per_1k": 21.36,
       "first_second_person_per_1k": 29.19,
-      "interjections_per_1k": 3.86,
-      "question_pct": 5.98,
-      "fragment_pct": 7.87
+      "interjections_per_1k": 3.74,
+      "question_pct": 5.69,
+      "fragment_pct": 7.69
     }
   },
   "brown/belles_lettres": {
@@ -57,50 +58,51 @@
       "lines_sampled": 822,
       "tokens": 17642,
       "types": 4587,
-      "sentences": 766
+      "sentences": 760
     },
     "vocabulary": {
-      "coverage_2k": 78.88,
-      "coverage_3k": 82.83,
-      "coverage_5k": 87.26,
-      "coverage_10k": 92.22,
-      "coverage_20k": 95.89,
-      "beyond_top_band_pct": 1.6,
+      "coverage_2k": 79.07,
+      "coverage_3k": 83.02,
+      "coverage_5k": 87.43,
+      "coverage_10k": 92.37,
+      "coverage_20k": 96.0,
+      "beyond_top_band_pct": 1.48,
       "cefr_pct": {
-        "A1": 39.84,
-        "A2": 20.9,
-        "B1": 16.84,
-        "B2": 8.03,
-        "C1": 1.27,
-        "C2": 0.67,
-        "unlisted": 12.45
+        "A1": 40.02,
+        "A2": 20.99,
+        "B1": 16.89,
+        "B2": 8.02,
+        "C1": 1.26,
+        "C2": 0.66,
+        "unlisted": 12.15
       },
-      "cefr_b2_plus_pct": 22.42,
-      "cefr_c_plus_pct": 1.94,
-      "cefr_unlisted_pct": 12.45,
+      "cefr_b2_plus_pct": 22.09,
+      "cefr_c_plus_pct": 1.92,
+      "cefr_unlisted_pct": 12.15,
       "archaic_per_1k": 2.04,
-      "archaic_mean_score": 6.67,
+      "coinage_per_1k": 1.47,
+      "archaic_mean_score": 6.69,
       "mattr": 0.569
     },
     "proper_nouns": {
-      "pct_of_tokens": 6.86,
-      "distinct_per_1k": 42.46
+      "pct_of_tokens": 6.97,
+      "distinct_per_1k": 43.31
     },
     "sentence": {
-      "mean_length": 23.03,
+      "mean_length": 23.21,
       "median_length": 21.0,
-      "over_20_pct": 50.65,
-      "over_30_pct": 25.07,
-      "subordinate_per_sentence": 1.627,
-      "mean_tree_depth": 6.98,
-      "mean_dependency_distance": 3.22
+      "over_20_pct": 51.18,
+      "over_30_pct": 25.53,
+      "subordinate_per_sentence": 1.646,
+      "mean_tree_depth": 7.06,
+      "mean_dependency_distance": 3.2
     },
     "register": {
       "contractions_per_1k": 7.31,
       "first_second_person_per_1k": 13.04,
       "interjections_per_1k": 0.4,
-      "question_pct": 4.18,
-      "fragment_pct": 1.83
+      "question_pct": 4.21,
+      "fragment_pct": 1.71
     }
   },
   "brown/editorial": {
@@ -109,50 +111,51 @@
       "lines_sampled": 979,
       "tokens": 17580,
       "types": 4391,
-      "sentences": 867
+      "sentences": 857
     },
     "vocabulary": {
-      "coverage_2k": 79.33,
-      "coverage_3k": 83.4,
-      "coverage_5k": 87.96,
-      "coverage_10k": 92.85,
-      "coverage_20k": 96.4,
-      "beyond_top_band_pct": 1.04,
+      "coverage_2k": 79.43,
+      "coverage_3k": 83.48,
+      "coverage_5k": 87.98,
+      "coverage_10k": 92.87,
+      "coverage_20k": 96.44,
+      "beyond_top_band_pct": 1.01,
       "cefr_pct": {
-        "A1": 41.74,
-        "A2": 21.35,
-        "B1": 16.64,
+        "A1": 41.85,
+        "A2": 21.33,
+        "B1": 16.59,
         "B2": 7.39,
-        "C1": 1.25,
-        "C2": 0.51,
-        "unlisted": 11.11
+        "C1": 1.27,
+        "C2": 0.54,
+        "unlisted": 11.04
       },
-      "cefr_b2_plus_pct": 20.26,
-      "cefr_c_plus_pct": 1.76,
-      "cefr_unlisted_pct": 11.11,
-      "archaic_per_1k": 1.37,
-      "archaic_mean_score": 5.5,
+      "cefr_b2_plus_pct": 20.24,
+      "cefr_c_plus_pct": 1.81,
+      "cefr_unlisted_pct": 11.04,
+      "archaic_per_1k": 1.42,
+      "coinage_per_1k": 0.23,
+      "archaic_mean_score": 5.44,
       "mattr": 0.5747
     },
     "proper_nouns": {
-      "pct_of_tokens": 7.72,
-      "distinct_per_1k": 39.93
+      "pct_of_tokens": 7.79,
+      "distinct_per_1k": 40.5
     },
     "sentence": {
-      "mean_length": 20.28,
+      "mean_length": 20.51,
       "median_length": 18,
-      "over_20_pct": 42.21,
-      "over_30_pct": 16.96,
-      "subordinate_per_sentence": 1.479,
-      "mean_tree_depth": 6.54,
-      "mean_dependency_distance": 3.07
+      "over_20_pct": 42.59,
+      "over_30_pct": 17.5,
+      "subordinate_per_sentence": 1.488,
+      "mean_tree_depth": 6.56,
+      "mean_dependency_distance": 3.09
     },
     "register": {
       "contractions_per_1k": 7.57,
-      "first_second_person_per_1k": 11.83,
-      "interjections_per_1k": 0.63,
-      "question_pct": 5.65,
-      "fragment_pct": 4.27
+      "first_second_person_per_1k": 11.89,
+      "interjections_per_1k": 0.68,
+      "question_pct": 5.72,
+      "fragment_pct": 4.43
     }
   },
   "brown/fiction": {
@@ -161,50 +164,51 @@
       "lines_sampled": 1236,
       "tokens": 17042,
       "types": 3975,
-      "sentences": 1183
+      "sentences": 1172
     },
     "vocabulary": {
-      "coverage_2k": 84.28,
+      "coverage_2k": 84.35,
       "coverage_3k": 87.4,
-      "coverage_5k": 90.71,
-      "coverage_10k": 94.18,
-      "coverage_20k": 96.72,
-      "beyond_top_band_pct": 1.14,
+      "coverage_5k": 90.72,
+      "coverage_10k": 94.24,
+      "coverage_20k": 96.74,
+      "beyond_top_band_pct": 1.1,
       "cefr_pct": {
-        "A1": 54.81,
-        "A2": 16.25,
-        "B1": 11.04,
-        "B2": 5.31,
+        "A1": 54.85,
+        "A2": 16.21,
+        "B1": 11.12,
+        "B2": 5.3,
         "C1": 0.77,
-        "C2": 0.39,
-        "unlisted": 11.43
+        "C2": 0.37,
+        "unlisted": 11.38
       },
-      "cefr_b2_plus_pct": 17.9,
-      "cefr_c_plus_pct": 1.16,
-      "cefr_unlisted_pct": 11.43,
+      "cefr_b2_plus_pct": 17.82,
+      "cefr_c_plus_pct": 1.14,
+      "cefr_unlisted_pct": 11.38,
       "archaic_per_1k": 2.58,
-      "archaic_mean_score": 5.35,
+      "coinage_per_1k": 0.76,
+      "archaic_mean_score": 5.33,
       "mattr": 0.547
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.24,
-      "distinct_per_1k": 28.28
+      "pct_of_tokens": 5.22,
+      "distinct_per_1k": 27.99
     },
     "sentence": {
-      "mean_length": 14.41,
-      "median_length": 11,
-      "over_20_pct": 22.91,
-      "over_30_pct": 9.21,
-      "subordinate_per_sentence": 1.081,
-      "mean_tree_depth": 5.18,
-      "mean_dependency_distance": 2.94
+      "mean_length": 14.54,
+      "median_length": 11.0,
+      "over_20_pct": 23.04,
+      "over_30_pct": 9.39,
+      "subordinate_per_sentence": 1.09,
+      "mean_tree_depth": 5.25,
+      "mean_dependency_distance": 2.92
     },
     "register": {
       "contractions_per_1k": 14.2,
       "first_second_person_per_1k": 21.24,
-      "interjections_per_1k": 2.0,
-      "question_pct": 7.02,
-      "fragment_pct": 7.27
+      "interjections_per_1k": 2.29,
+      "question_pct": 6.83,
+      "fragment_pct": 7.42
     }
   },
   "brown/government": {
@@ -213,50 +217,51 @@
       "lines_sampled": 913,
       "tokens": 17423,
       "types": 3634,
-      "sentences": 729
+      "sentences": 719
     },
     "vocabulary": {
-      "coverage_2k": 73.36,
-      "coverage_3k": 78.78,
-      "coverage_5k": 85.25,
-      "coverage_10k": 91.51,
-      "coverage_20k": 95.71,
-      "beyond_top_band_pct": 1.3,
+      "coverage_2k": 73.45,
+      "coverage_3k": 78.88,
+      "coverage_5k": 85.33,
+      "coverage_10k": 91.59,
+      "coverage_20k": 95.79,
+      "beyond_top_band_pct": 1.23,
       "cefr_pct": {
-        "A1": 32.78,
-        "A2": 23.1,
-        "B1": 21.19,
-        "B2": 10.71,
-        "C1": 1.08,
-        "C2": 0.49,
-        "unlisted": 10.67
+        "A1": 32.92,
+        "A2": 23.14,
+        "B1": 21.31,
+        "B2": 10.75,
+        "C1": 1.09,
+        "C2": 0.48,
+        "unlisted": 10.31
       },
-      "cefr_b2_plus_pct": 22.95,
+      "cefr_b2_plus_pct": 22.63,
       "cefr_c_plus_pct": 1.57,
-      "cefr_unlisted_pct": 10.67,
+      "cefr_unlisted_pct": 10.31,
       "archaic_per_1k": 1.72,
+      "coinage_per_1k": 0.46,
       "archaic_mean_score": 6.84,
       "mattr": 0.5013
     },
     "proper_nouns": {
-      "pct_of_tokens": 8.0,
-      "distinct_per_1k": 31.05
+      "pct_of_tokens": 8.14,
+      "distinct_per_1k": 31.68
     },
     "sentence": {
-      "mean_length": 23.9,
-      "median_length": 21,
-      "over_20_pct": 51.99,
-      "over_30_pct": 24.97,
-      "subordinate_per_sentence": 1.359,
-      "mean_tree_depth": 7.42,
-      "mean_dependency_distance": 3.34
+      "mean_length": 24.23,
+      "median_length": 22,
+      "over_20_pct": 52.71,
+      "over_30_pct": 25.87,
+      "subordinate_per_sentence": 1.402,
+      "mean_tree_depth": 7.47,
+      "mean_dependency_distance": 3.32
     },
     "register": {
       "contractions_per_1k": 4.02,
       "first_second_person_per_1k": 5.85,
       "interjections_per_1k": 0.0,
-      "question_pct": 1.23,
-      "fragment_pct": 9.19
+      "question_pct": 1.25,
+      "fragment_pct": 8.62
     }
   },
   "brown/hobbies": {
@@ -265,50 +270,51 @@
       "lines_sampled": 1045,
       "tokens": 17515,
       "types": 4581,
-      "sentences": 914
+      "sentences": 908
     },
     "vocabulary": {
-      "coverage_2k": 75.38,
-      "coverage_3k": 79.83,
-      "coverage_5k": 85.89,
-      "coverage_10k": 91.6,
-      "coverage_20k": 95.61,
-      "beyond_top_band_pct": 1.62,
+      "coverage_2k": 75.53,
+      "coverage_3k": 79.96,
+      "coverage_5k": 86.03,
+      "coverage_10k": 91.76,
+      "coverage_20k": 95.76,
+      "beyond_top_band_pct": 1.45,
       "cefr_pct": {
-        "A1": 41.42,
+        "A1": 41.57,
         "A2": 21.36,
-        "B1": 15.81,
-        "B2": 7.73,
-        "C1": 0.93,
-        "C2": 0.38,
-        "unlisted": 12.37
+        "B1": 15.85,
+        "B2": 7.77,
+        "C1": 0.91,
+        "C2": 0.39,
+        "unlisted": 12.16
       },
-      "cefr_b2_plus_pct": 21.41,
-      "cefr_c_plus_pct": 1.31,
-      "cefr_unlisted_pct": 12.37,
-      "archaic_per_1k": 1.26,
-      "archaic_mean_score": 5.18,
+      "cefr_b2_plus_pct": 21.23,
+      "cefr_c_plus_pct": 1.3,
+      "cefr_unlisted_pct": 12.16,
+      "archaic_per_1k": 1.31,
+      "coinage_per_1k": 1.03,
+      "archaic_mean_score": 5.14,
       "mattr": 0.5623
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.24,
-      "distinct_per_1k": 36.43
+      "pct_of_tokens": 5.32,
+      "distinct_per_1k": 37.28
     },
     "sentence": {
-      "mean_length": 19.16,
-      "median_length": 17.0,
-      "over_20_pct": 37.09,
-      "over_30_pct": 13.79,
-      "subordinate_per_sentence": 1.22,
-      "mean_tree_depth": 6.47,
-      "mean_dependency_distance": 3.1
+      "mean_length": 19.29,
+      "median_length": 17.5,
+      "over_20_pct": 37.11,
+      "over_30_pct": 13.88,
+      "subordinate_per_sentence": 1.229,
+      "mean_tree_depth": 6.48,
+      "mean_dependency_distance": 3.11
     },
     "register": {
       "contractions_per_1k": 6.45,
       "first_second_person_per_1k": 11.42,
-      "interjections_per_1k": 0.17,
-      "question_pct": 4.81,
-      "fragment_pct": 11.05
+      "interjections_per_1k": 0.23,
+      "question_pct": 4.74,
+      "fragment_pct": 12.0
     }
   },
   "brown/humor": {
@@ -317,50 +323,51 @@
       "lines_sampled": 980,
       "tokens": 16942,
       "types": 4347,
-      "sentences": 932
+      "sentences": 916
     },
     "vocabulary": {
-      "coverage_2k": 80.83,
-      "coverage_3k": 84.22,
-      "coverage_5k": 87.82,
-      "coverage_10k": 92.14,
-      "coverage_20k": 95.37,
-      "beyond_top_band_pct": 1.82,
+      "coverage_2k": 80.91,
+      "coverage_3k": 84.29,
+      "coverage_5k": 87.92,
+      "coverage_10k": 92.25,
+      "coverage_20k": 95.45,
+      "beyond_top_band_pct": 1.65,
       "cefr_pct": {
-        "A1": 47.72,
-        "A2": 17.53,
-        "B1": 12.92,
-        "B2": 6.42,
-        "C1": 1.48,
-        "C2": 0.53,
-        "unlisted": 13.39
+        "A1": 47.71,
+        "A2": 17.62,
+        "B1": 12.94,
+        "B2": 6.43,
+        "C1": 1.53,
+        "C2": 0.55,
+        "unlisted": 13.22
       },
-      "cefr_b2_plus_pct": 21.82,
-      "cefr_c_plus_pct": 2.01,
-      "cefr_unlisted_pct": 13.39,
-      "archaic_per_1k": 2.95,
-      "archaic_mean_score": 5.97,
+      "cefr_b2_plus_pct": 21.73,
+      "cefr_c_plus_pct": 2.08,
+      "cefr_unlisted_pct": 13.22,
+      "archaic_per_1k": 2.89,
+      "coinage_per_1k": 1.65,
+      "archaic_mean_score": 6.0,
       "mattr": 0.5528
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.28,
+      "pct_of_tokens": 5.29,
       "distinct_per_1k": 32.35
     },
     "sentence": {
-      "mean_length": 18.18,
+      "mean_length": 18.5,
       "median_length": 16.0,
-      "over_20_pct": 35.41,
-      "over_30_pct": 16.42,
-      "subordinate_per_sentence": 1.479,
-      "mean_tree_depth": 6.03,
-      "mean_dependency_distance": 3.26
+      "over_20_pct": 36.14,
+      "over_30_pct": 17.14,
+      "subordinate_per_sentence": 1.505,
+      "mean_tree_depth": 6.11,
+      "mean_dependency_distance": 3.28
     },
     "register": {
       "contractions_per_1k": 14.82,
       "first_second_person_per_1k": 29.04,
-      "interjections_per_1k": 2.01,
-      "question_pct": 7.62,
-      "fragment_pct": 3.43
+      "interjections_per_1k": 1.95,
+      "question_pct": 7.21,
+      "fragment_pct": 3.38
     }
   },
   "brown/learned": {
@@ -369,50 +376,51 @@
       "lines_sampled": 851,
       "tokens": 17638,
       "types": 4441,
-      "sentences": 774
+      "sentences": 763
     },
     "vocabulary": {
-      "coverage_2k": 71.07,
-      "coverage_3k": 75.81,
-      "coverage_5k": 82.23,
-      "coverage_10k": 88.65,
-      "coverage_20k": 93.36,
-      "beyond_top_band_pct": 2.89,
+      "coverage_2k": 71.23,
+      "coverage_3k": 75.99,
+      "coverage_5k": 82.4,
+      "coverage_10k": 88.82,
+      "coverage_20k": 93.51,
+      "beyond_top_band_pct": 2.77,
       "cefr_pct": {
-        "A1": 30.9,
-        "A2": 21.35,
-        "B1": 20.84,
-        "B2": 8.61,
-        "C1": 1.43,
-        "C2": 0.72,
-        "unlisted": 16.15
+        "A1": 30.87,
+        "A2": 21.59,
+        "B1": 20.87,
+        "B2": 8.59,
+        "C1": 1.44,
+        "C2": 0.76,
+        "unlisted": 15.87
       },
-      "cefr_b2_plus_pct": 26.91,
-      "cefr_c_plus_pct": 2.15,
-      "cefr_unlisted_pct": 16.15,
-      "archaic_per_1k": 1.53,
-      "archaic_mean_score": 5.11,
+      "cefr_b2_plus_pct": 26.66,
+      "cefr_c_plus_pct": 2.2,
+      "cefr_unlisted_pct": 15.87,
+      "archaic_per_1k": 1.59,
+      "coinage_per_1k": 1.3,
+      "archaic_mean_score": 5.1,
       "mattr": 0.5439
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.31,
-      "distinct_per_1k": 26.31
+      "pct_of_tokens": 4.32,
+      "distinct_per_1k": 26.59
     },
     "sentence": {
-      "mean_length": 22.79,
-      "median_length": 20.0,
-      "over_20_pct": 49.22,
-      "over_30_pct": 20.93,
-      "subordinate_per_sentence": 1.465,
-      "mean_tree_depth": 7.06,
-      "mean_dependency_distance": 3.21
+      "mean_length": 23.12,
+      "median_length": 21,
+      "over_20_pct": 50.98,
+      "over_30_pct": 21.76,
+      "subordinate_per_sentence": 1.489,
+      "mean_tree_depth": 7.13,
+      "mean_dependency_distance": 3.23
     },
     "register": {
       "contractions_per_1k": 3.52,
       "first_second_person_per_1k": 6.24,
       "interjections_per_1k": 0.0,
-      "question_pct": 1.29,
-      "fragment_pct": 5.56
+      "question_pct": 1.57,
+      "fragment_pct": 5.24
     }
   },
   "brown/lore": {
@@ -421,50 +429,51 @@
       "lines_sampled": 894,
       "tokens": 17602,
       "types": 4813,
-      "sentences": 828
+      "sentences": 830
     },
     "vocabulary": {
-      "coverage_2k": 78.48,
-      "coverage_3k": 82.56,
-      "coverage_5k": 87.01,
-      "coverage_10k": 91.91,
-      "coverage_20k": 95.71,
-      "beyond_top_band_pct": 1.48,
+      "coverage_2k": 78.55,
+      "coverage_3k": 82.61,
+      "coverage_5k": 87.1,
+      "coverage_10k": 92.01,
+      "coverage_20k": 95.81,
+      "beyond_top_band_pct": 1.39,
       "cefr_pct": {
-        "A1": 42.69,
-        "A2": 19.97,
-        "B1": 15.25,
-        "B2": 7.44,
-        "C1": 1.31,
+        "A1": 42.66,
+        "A2": 20.16,
+        "B1": 15.27,
+        "B2": 7.52,
+        "C1": 1.33,
         "C2": 0.63,
-        "unlisted": 12.7
+        "unlisted": 12.42
       },
-      "cefr_b2_plus_pct": 22.08,
-      "cefr_c_plus_pct": 1.94,
-      "cefr_unlisted_pct": 12.7,
-      "archaic_per_1k": 1.31,
-      "archaic_mean_score": 5.54,
+      "cefr_b2_plus_pct": 21.9,
+      "cefr_c_plus_pct": 1.96,
+      "cefr_unlisted_pct": 12.42,
+      "archaic_per_1k": 1.25,
+      "coinage_per_1k": 1.08,
+      "archaic_mean_score": 6.06,
       "mattr": 0.5719
     },
     "proper_nouns": {
-      "pct_of_tokens": 6.08,
-      "distinct_per_1k": 39.2
+      "pct_of_tokens": 6.12,
+      "distinct_per_1k": 39.37
     },
     "sentence": {
-      "mean_length": 21.26,
+      "mean_length": 21.21,
       "median_length": 18.5,
-      "over_20_pct": 43.24,
-      "over_30_pct": 19.2,
-      "subordinate_per_sentence": 1.486,
-      "mean_tree_depth": 6.62,
-      "mean_dependency_distance": 3.18
+      "over_20_pct": 43.49,
+      "over_30_pct": 18.92,
+      "subordinate_per_sentence": 1.463,
+      "mean_tree_depth": 6.67,
+      "mean_dependency_distance": 3.15
     },
     "register": {
       "contractions_per_1k": 6.59,
       "first_second_person_per_1k": 8.86,
-      "interjections_per_1k": 0.45,
-      "question_pct": 3.14,
-      "fragment_pct": 2.78
+      "interjections_per_1k": 0.57,
+      "question_pct": 3.25,
+      "fragment_pct": 2.77
     }
   },
   "brown/mystery": {
@@ -473,50 +482,51 @@
       "lines_sampled": 1344,
       "tokens": 16949,
       "types": 3411,
-      "sentences": 1290
+      "sentences": 1268
     },
     "vocabulary": {
-      "coverage_2k": 86.77,
-      "coverage_3k": 89.47,
-      "coverage_5k": 92.49,
-      "coverage_10k": 95.6,
-      "coverage_20k": 97.7,
-      "beyond_top_band_pct": 0.74,
+      "coverage_2k": 86.81,
+      "coverage_3k": 89.52,
+      "coverage_5k": 92.56,
+      "coverage_10k": 95.66,
+      "coverage_20k": 97.78,
+      "beyond_top_band_pct": 0.69,
       "cefr_pct": {
-        "A1": 58.58,
-        "A2": 16.45,
-        "B1": 10.0,
-        "B2": 5.09,
-        "C1": 0.82,
+        "A1": 58.56,
+        "A2": 16.49,
+        "B1": 10.04,
+        "B2": 5.07,
+        "C1": 0.8,
         "C2": 0.29,
-        "unlisted": 8.77
+        "unlisted": 8.74
       },
-      "cefr_b2_plus_pct": 14.97,
-      "cefr_c_plus_pct": 1.11,
-      "cefr_unlisted_pct": 8.77,
-      "archaic_per_1k": 1.89,
-      "archaic_mean_score": 5.59,
+      "cefr_b2_plus_pct": 14.9,
+      "cefr_c_plus_pct": 1.09,
+      "cefr_unlisted_pct": 8.74,
+      "archaic_per_1k": 1.83,
+      "coinage_per_1k": 0.53,
+      "archaic_mean_score": 5.68,
       "mattr": 0.5247
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.67,
-      "distinct_per_1k": 21.83
+      "pct_of_tokens": 4.68,
+      "distinct_per_1k": 22.01
     },
     "sentence": {
-      "mean_length": 13.14,
+      "mean_length": 13.37,
       "median_length": 11.0,
-      "over_20_pct": 18.22,
-      "over_30_pct": 4.96,
-      "subordinate_per_sentence": 1.057,
-      "mean_tree_depth": 5.01,
-      "mean_dependency_distance": 2.79
+      "over_20_pct": 19.01,
+      "over_30_pct": 5.36,
+      "subordinate_per_sentence": 1.091,
+      "mean_tree_depth": 5.07,
+      "mean_dependency_distance": 2.82
     },
     "register": {
       "contractions_per_1k": 22.95,
       "first_second_person_per_1k": 29.56,
-      "interjections_per_1k": 2.83,
-      "question_pct": 8.84,
-      "fragment_pct": 7.67
+      "interjections_per_1k": 3.25,
+      "question_pct": 8.99,
+      "fragment_pct": 7.73
     }
   },
   "brown/news": {
@@ -525,50 +535,51 @@
       "lines_sampled": 920,
       "tokens": 17222,
       "types": 4640,
-      "sentences": 827
+      "sentences": 809
     },
     "vocabulary": {
-      "coverage_2k": 78.49,
-      "coverage_3k": 83.46,
-      "coverage_5k": 88.44,
-      "coverage_10k": 93.62,
-      "coverage_20k": 96.98,
-      "beyond_top_band_pct": 0.91,
+      "coverage_2k": 78.6,
+      "coverage_3k": 83.58,
+      "coverage_5k": 88.52,
+      "coverage_10k": 93.7,
+      "coverage_20k": 97.03,
+      "beyond_top_band_pct": 0.85,
       "cefr_pct": {
-        "A1": 40.64,
-        "A2": 22.32,
-        "B1": 17.39,
-        "B2": 7.82,
+        "A1": 40.77,
+        "A2": 22.48,
+        "B1": 17.28,
+        "B2": 7.85,
         "C1": 0.84,
         "C2": 0.41,
-        "unlisted": 10.57
+        "unlisted": 10.37
       },
-      "cefr_b2_plus_pct": 19.64,
+      "cefr_b2_plus_pct": 19.47,
       "cefr_c_plus_pct": 1.25,
-      "cefr_unlisted_pct": 10.57,
-      "archaic_per_1k": 0.87,
-      "archaic_mean_score": 6.75,
+      "cefr_unlisted_pct": 10.37,
+      "archaic_per_1k": 0.81,
+      "coinage_per_1k": 0.52,
+      "archaic_mean_score": 6.89,
       "mattr": 0.589
     },
     "proper_nouns": {
-      "pct_of_tokens": 12.78,
-      "distinct_per_1k": 72.12
+      "pct_of_tokens": 12.72,
+      "distinct_per_1k": 72.29
     },
     "sentence": {
-      "mean_length": 20.82,
+      "mean_length": 21.29,
       "median_length": 20,
-      "over_20_pct": 46.19,
-      "over_30_pct": 16.81,
-      "subordinate_per_sentence": 1.369,
-      "mean_tree_depth": 6.87,
-      "mean_dependency_distance": 3.14
+      "over_20_pct": 47.1,
+      "over_30_pct": 18.17,
+      "subordinate_per_sentence": 1.389,
+      "mean_tree_depth": 7.0,
+      "mean_dependency_distance": 3.15
     },
     "register": {
       "contractions_per_1k": 9.0,
       "first_second_person_per_1k": 5.4,
-      "interjections_per_1k": 0.23,
-      "question_pct": 0.85,
-      "fragment_pct": 4.59
+      "interjections_per_1k": 0.29,
+      "question_pct": 0.87,
+      "fragment_pct": 4.2
     }
   },
   "brown/religion": {
@@ -577,50 +588,51 @@
       "lines_sampled": 868,
       "tokens": 17469,
       "types": 3841,
-      "sentences": 752
+      "sentences": 744
     },
     "vocabulary": {
-      "coverage_2k": 79.47,
-      "coverage_3k": 83.53,
-      "coverage_5k": 87.86,
-      "coverage_10k": 92.52,
+      "coverage_2k": 79.54,
+      "coverage_3k": 83.59,
+      "coverage_5k": 87.91,
+      "coverage_10k": 92.51,
       "coverage_20k": 96.03,
       "beyond_top_band_pct": 1.47,
       "cefr_pct": {
-        "A1": 38.99,
-        "A2": 21.99,
-        "B1": 17.27,
-        "B2": 7.89,
+        "A1": 38.9,
+        "A2": 22.09,
+        "B1": 17.22,
+        "B2": 7.95,
         "C1": 1.29,
-        "C2": 0.65,
-        "unlisted": 11.92
+        "C2": 0.66,
+        "unlisted": 11.9
       },
-      "cefr_b2_plus_pct": 21.75,
-      "cefr_c_plus_pct": 1.94,
-      "cefr_unlisted_pct": 11.92,
+      "cefr_b2_plus_pct": 21.8,
+      "cefr_c_plus_pct": 1.95,
+      "cefr_unlisted_pct": 11.9,
       "archaic_per_1k": 4.01,
-      "archaic_mean_score": 6.31,
+      "coinage_per_1k": 0.4,
+      "archaic_mean_score": 6.44,
       "mattr": 0.5187
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.75,
-      "distinct_per_1k": 26.22
+      "pct_of_tokens": 5.85,
+      "distinct_per_1k": 27.02
     },
     "sentence": {
-      "mean_length": 23.23,
+      "mean_length": 23.48,
       "median_length": 20.0,
-      "over_20_pct": 48.01,
-      "over_30_pct": 28.06,
-      "subordinate_per_sentence": 1.729,
-      "mean_tree_depth": 6.85,
-      "mean_dependency_distance": 3.34
+      "over_20_pct": 48.79,
+      "over_30_pct": 28.36,
+      "subordinate_per_sentence": 1.738,
+      "mean_tree_depth": 6.9,
+      "mean_dependency_distance": 3.37
     },
     "register": {
       "contractions_per_1k": 3.89,
-      "first_second_person_per_1k": 16.2,
-      "interjections_per_1k": 0.74,
-      "question_pct": 4.52,
-      "fragment_pct": 3.99
+      "first_second_person_per_1k": 16.26,
+      "interjections_per_1k": 0.8,
+      "question_pct": 4.57,
+      "fragment_pct": 4.57
     }
   },
   "brown/reviews": {
@@ -629,50 +641,51 @@
       "lines_sampled": 841,
       "tokens": 17367,
       "types": 4881,
-      "sentences": 774
+      "sentences": 767
     },
     "vocabulary": {
-      "coverage_2k": 77.09,
-      "coverage_3k": 81.37,
-      "coverage_5k": 85.95,
-      "coverage_10k": 91.07,
-      "coverage_20k": 95.21,
-      "beyond_top_band_pct": 1.76,
+      "coverage_2k": 77.18,
+      "coverage_3k": 81.47,
+      "coverage_5k": 86.09,
+      "coverage_10k": 91.17,
+      "coverage_20k": 95.26,
+      "beyond_top_band_pct": 1.7,
       "cefr_pct": {
-        "A1": 41.24,
-        "A2": 20.1,
-        "B1": 15.52,
+        "A1": 41.26,
+        "A2": 20.24,
+        "B1": 15.54,
         "B2": 7.57,
         "C1": 1.51,
-        "C2": 0.69,
-        "unlisted": 13.37
+        "C2": 0.72,
+        "unlisted": 13.17
       },
-      "cefr_b2_plus_pct": 23.14,
-      "cefr_c_plus_pct": 2.2,
-      "cefr_unlisted_pct": 13.37,
-      "archaic_per_1k": 2.02,
-      "archaic_mean_score": 5.6,
+      "cefr_b2_plus_pct": 22.97,
+      "cefr_c_plus_pct": 2.23,
+      "cefr_unlisted_pct": 13.17,
+      "archaic_per_1k": 1.78,
+      "coinage_per_1k": 0.69,
+      "archaic_mean_score": 5.66,
       "mattr": 0.5915
     },
     "proper_nouns": {
-      "pct_of_tokens": 9.41,
-      "distinct_per_1k": 57.93
+      "pct_of_tokens": 9.48,
+      "distinct_per_1k": 58.1
     },
     "sentence": {
-      "mean_length": 22.44,
-      "median_length": 20.0,
-      "over_20_pct": 49.22,
-      "over_30_pct": 21.83,
-      "subordinate_per_sentence": 1.402,
+      "mean_length": 22.64,
+      "median_length": 21,
+      "over_20_pct": 50.33,
+      "over_30_pct": 22.29,
+      "subordinate_per_sentence": 1.416,
       "mean_tree_depth": 6.94,
-      "mean_dependency_distance": 3.45
+      "mean_dependency_distance": 3.36
     },
     "register": {
       "contractions_per_1k": 8.58,
-      "first_second_person_per_1k": 4.95,
-      "interjections_per_1k": 0.52,
-      "question_pct": 1.94,
-      "fragment_pct": 4.13
+      "first_second_person_per_1k": 4.89,
+      "interjections_per_1k": 0.58,
+      "question_pct": 1.69,
+      "fragment_pct": 3.13
     }
   },
   "brown/romance": {
@@ -681,50 +694,51 @@
       "lines_sampled": 1280,
       "tokens": 16866,
       "types": 3608,
-      "sentences": 1238
+      "sentences": 1212
     },
     "vocabulary": {
-      "coverage_2k": 86.39,
-      "coverage_3k": 89.32,
-      "coverage_5k": 92.22,
-      "coverage_10k": 95.17,
-      "coverage_20k": 97.22,
-      "beyond_top_band_pct": 0.82,
+      "coverage_2k": 86.44,
+      "coverage_3k": 89.37,
+      "coverage_5k": 92.24,
+      "coverage_10k": 95.18,
+      "coverage_20k": 97.24,
+      "beyond_top_band_pct": 0.81,
       "cefr_pct": {
-        "A1": 59.42,
+        "A1": 59.44,
         "A2": 14.64,
-        "B1": 10.58,
-        "B2": 5.0,
-        "C1": 0.65,
-        "C2": 0.18,
-        "unlisted": 9.54
+        "B1": 10.56,
+        "B2": 5.02,
+        "C1": 0.66,
+        "C2": 0.19,
+        "unlisted": 9.49
       },
-      "cefr_b2_plus_pct": 15.37,
-      "cefr_c_plus_pct": 0.83,
-      "cefr_unlisted_pct": 9.54,
+      "cefr_b2_plus_pct": 15.36,
+      "cefr_c_plus_pct": 0.85,
+      "cefr_unlisted_pct": 9.49,
       "archaic_per_1k": 1.96,
-      "archaic_mean_score": 6.77,
+      "coinage_per_1k": 0.59,
+      "archaic_mean_score": 6.76,
       "mattr": 0.5303
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.99,
-      "distinct_per_1k": 25.2
+      "pct_of_tokens": 4.95,
+      "distinct_per_1k": 24.61
     },
     "sentence": {
-      "mean_length": 13.62,
+      "mean_length": 13.92,
       "median_length": 11.0,
-      "over_20_pct": 21.24,
-      "over_30_pct": 8.48,
-      "subordinate_per_sentence": 1.078,
-      "mean_tree_depth": 5.03,
-      "mean_dependency_distance": 2.89
+      "over_20_pct": 21.78,
+      "over_30_pct": 8.91,
+      "subordinate_per_sentence": 1.089,
+      "mean_tree_depth": 5.09,
+      "mean_dependency_distance": 2.91
     },
     "register": {
       "contractions_per_1k": 22.29,
       "first_second_person_per_1k": 35.69,
-      "interjections_per_1k": 3.14,
-      "question_pct": 6.06,
-      "fragment_pct": 7.03
+      "interjections_per_1k": 3.2,
+      "question_pct": 6.02,
+      "fragment_pct": 6.93
     }
   },
   "brown/science_fiction": {
@@ -733,50 +747,51 @@
       "lines_sampled": 948,
       "tokens": 12081,
       "types": 2933,
-      "sentences": 885
+      "sentences": 875
     },
     "vocabulary": {
-      "coverage_2k": 83.19,
-      "coverage_3k": 86.02,
-      "coverage_5k": 89.72,
-      "coverage_10k": 93.76,
-      "coverage_20k": 96.57,
-      "beyond_top_band_pct": 1.49,
+      "coverage_2k": 83.5,
+      "coverage_3k": 86.38,
+      "coverage_5k": 90.12,
+      "coverage_10k": 94.12,
+      "coverage_20k": 96.9,
+      "beyond_top_band_pct": 1.17,
       "cefr_pct": {
-        "A1": 50.2,
-        "A2": 18.4,
-        "B1": 13.09,
-        "B2": 5.65,
-        "C1": 0.99,
-        "C2": 0.38,
-        "unlisted": 11.29
+        "A1": 50.67,
+        "A2": 18.47,
+        "B1": 13.2,
+        "B2": 5.68,
+        "C1": 0.98,
+        "C2": 0.43,
+        "unlisted": 10.57
       },
-      "cefr_b2_plus_pct": 18.31,
-      "cefr_c_plus_pct": 1.37,
-      "cefr_unlisted_pct": 11.29,
-      "archaic_per_1k": 2.23,
-      "archaic_mean_score": 5.89,
+      "cefr_b2_plus_pct": 17.66,
+      "cefr_c_plus_pct": 1.41,
+      "cefr_unlisted_pct": 10.57,
+      "archaic_per_1k": 2.32,
+      "coinage_per_1k": 3.39,
+      "archaic_mean_score": 5.83,
       "mattr": 0.529
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.21,
-      "distinct_per_1k": 20.03
+      "pct_of_tokens": 5.28,
+      "distinct_per_1k": 20.86
     },
     "sentence": {
-      "mean_length": 13.65,
-      "median_length": 11,
-      "over_20_pct": 19.89,
-      "over_30_pct": 6.1,
-      "subordinate_per_sentence": 1.041,
-      "mean_tree_depth": 5.16,
-      "mean_dependency_distance": 2.86
+      "mean_length": 13.81,
+      "median_length": 12,
+      "over_20_pct": 20.11,
+      "over_30_pct": 6.17,
+      "subordinate_per_sentence": 1.051,
+      "mean_tree_depth": 5.19,
+      "mean_dependency_distance": 2.89
     },
     "register": {
       "contractions_per_1k": 12.75,
       "first_second_person_per_1k": 24.75,
-      "interjections_per_1k": 4.14,
-      "question_pct": 8.93,
-      "fragment_pct": 5.99
+      "interjections_per_1k": 4.3,
+      "question_pct": 8.69,
+      "fragment_pct": 5.6
     }
   },
   "chat/nps": {
@@ -785,50 +800,51 @@
       "lines_sampled": 4913,
       "tokens": 18108,
       "types": 3229,
-      "sentences": 1343
+      "sentences": 1381
     },
     "vocabulary": {
-      "coverage_2k": 82.36,
-      "coverage_3k": 84.59,
-      "coverage_5k": 87.68,
-      "coverage_10k": 90.01,
-      "coverage_20k": 94.53,
-      "beyond_top_band_pct": 3.79,
+      "coverage_2k": 85.07,
+      "coverage_3k": 87.48,
+      "coverage_5k": 90.51,
+      "coverage_10k": 93.11,
+      "coverage_20k": 97.72,
+      "beyond_top_band_pct": 0.47,
       "cefr_pct": {
-        "A1": 56.96,
-        "A2": 9.25,
-        "B1": 4.76,
-        "B2": 2.68,
+        "A1": 59.78,
+        "A2": 10.09,
+        "B1": 5.18,
+        "B2": 2.86,
         "C1": 0.14,
-        "C2": 0.07,
-        "unlisted": 26.14
+        "C2": 0.14,
+        "unlisted": 21.8
       },
-      "cefr_b2_plus_pct": 29.03,
-      "cefr_c_plus_pct": 0.21,
-      "cefr_unlisted_pct": 26.14,
-      "archaic_per_1k": 0.06,
-      "archaic_mean_score": 4.07,
+      "cefr_b2_plus_pct": 24.94,
+      "cefr_c_plus_pct": 0.28,
+      "cefr_unlisted_pct": 21.8,
+      "archaic_per_1k": 0.11,
+      "coinage_per_1k": 30.54,
+      "archaic_mean_score": 4.04,
       "mattr": 0.5174
     },
     "proper_nouns": {
-      "pct_of_tokens": 7.99,
-      "distinct_per_1k": 35.9
+      "pct_of_tokens": 7.87,
+      "distinct_per_1k": 36.61
     },
     "sentence": {
-      "mean_length": 13.48,
+      "mean_length": 13.11,
       "median_length": 9,
-      "over_20_pct": 20.4,
-      "over_30_pct": 9.9,
-      "subordinate_per_sentence": 1.385,
-      "mean_tree_depth": 5.42,
-      "mean_dependency_distance": 4.29
+      "over_20_pct": 20.06,
+      "over_30_pct": 8.11,
+      "subordinate_per_sentence": 1.369,
+      "mean_tree_depth": 5.41,
+      "mean_dependency_distance": 4.33
     },
     "register": {
       "contractions_per_1k": 17.89,
-      "first_second_person_per_1k": 86.09,
-      "interjections_per_1k": 46.39,
-      "question_pct": 20.48,
-      "fragment_pct": 17.35
+      "first_second_person_per_1k": 86.37,
+      "interjections_per_1k": 44.12,
+      "question_pct": 18.25,
+      "fragment_pct": 18.83
     }
   },
   "gutenberg/austen-emma": {
@@ -837,50 +853,51 @@
       "lines_sampled": 1806,
       "tokens": 19703,
       "types": 2756,
-      "sentences": 851
+      "sentences": 878
     },
     "vocabulary": {
-      "coverage_2k": 87.54,
-      "coverage_3k": 89.71,
-      "coverage_5k": 92.25,
-      "coverage_10k": 95.21,
+      "coverage_2k": 87.56,
+      "coverage_3k": 89.75,
+      "coverage_5k": 92.27,
+      "coverage_10k": 95.23,
       "coverage_20k": 97.44,
-      "beyond_top_band_pct": 0.96,
+      "beyond_top_band_pct": 0.94,
       "cefr_pct": {
-        "A1": 55.97,
-        "A2": 17.94,
-        "B1": 12.57,
-        "B2": 4.95,
-        "C1": 0.83,
-        "C2": 0.38,
-        "unlisted": 7.35
+        "A1": 56.12,
+        "A2": 17.95,
+        "B1": 12.47,
+        "B2": 4.97,
+        "C1": 0.82,
+        "C2": 0.37,
+        "unlisted": 7.3
       },
-      "cefr_b2_plus_pct": 13.51,
-      "cefr_c_plus_pct": 1.21,
-      "cefr_unlisted_pct": 7.35,
-      "archaic_per_1k": 9.39,
-      "archaic_mean_score": 7.14,
+      "cefr_b2_plus_pct": 13.46,
+      "cefr_c_plus_pct": 1.19,
+      "cefr_unlisted_pct": 7.3,
+      "archaic_per_1k": 9.69,
+      "coinage_per_1k": 0.1,
+      "archaic_mean_score": 7.07,
       "mattr": 0.5088
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.6,
-      "distinct_per_1k": 7.51
+      "pct_of_tokens": 4.64,
+      "distinct_per_1k": 8.07
     },
     "sentence": {
-      "mean_length": 23.15,
-      "median_length": 16,
-      "over_20_pct": 39.37,
-      "over_30_pct": 24.91,
-      "subordinate_per_sentence": 2.351,
-      "mean_tree_depth": 6.08,
-      "mean_dependency_distance": 3.87
+      "mean_length": 22.44,
+      "median_length": 16.0,
+      "over_20_pct": 38.72,
+      "over_30_pct": 23.35,
+      "subordinate_per_sentence": 2.287,
+      "mean_tree_depth": 6.01,
+      "mean_dependency_distance": 3.83
     },
     "register": {
       "contractions_per_1k": 6.14,
       "first_second_person_per_1k": 38.73,
-      "interjections_per_1k": 3.71,
-      "question_pct": 2.7,
-      "fragment_pct": 8.93
+      "interjections_per_1k": 3.5,
+      "question_pct": 3.3,
+      "fragment_pct": 9.79
     }
   },
   "gutenberg/austen-persuasion": {
@@ -889,50 +906,51 @@
       "lines_sampled": 1766,
       "tokens": 20041,
       "types": 2871,
-      "sentences": 800
+      "sentences": 802
     },
     "vocabulary": {
-      "coverage_2k": 87.28,
-      "coverage_3k": 89.56,
-      "coverage_5k": 92.09,
-      "coverage_10k": 95.23,
-      "coverage_20k": 97.39,
-      "beyond_top_band_pct": 0.78,
+      "coverage_2k": 87.29,
+      "coverage_3k": 89.6,
+      "coverage_5k": 92.1,
+      "coverage_10k": 95.24,
+      "coverage_20k": 97.42,
+      "beyond_top_band_pct": 0.76,
       "cefr_pct": {
-        "A1": 55.16,
-        "A2": 18.23,
-        "B1": 12.52,
-        "B2": 5.5,
-        "C1": 1.05,
+        "A1": 55.18,
+        "A2": 18.26,
+        "B1": 12.57,
+        "B2": 5.52,
+        "C1": 1.02,
         "C2": 0.49,
-        "unlisted": 7.05
+        "unlisted": 6.95
       },
-      "cefr_b2_plus_pct": 14.09,
-      "cefr_c_plus_pct": 1.54,
-      "cefr_unlisted_pct": 7.05,
-      "archaic_per_1k": 10.58,
-      "archaic_mean_score": 6.64,
+      "cefr_b2_plus_pct": 13.98,
+      "cefr_c_plus_pct": 1.51,
+      "cefr_unlisted_pct": 6.95,
+      "archaic_per_1k": 10.68,
+      "coinage_per_1k": 0.05,
+      "archaic_mean_score": 6.63,
       "mattr": 0.5134
     },
     "proper_nouns": {
-      "pct_of_tokens": 6.18,
-      "distinct_per_1k": 7.29
+      "pct_of_tokens": 6.19,
+      "distinct_per_1k": 7.19
     },
     "sentence": {
-      "mean_length": 25.05,
+      "mean_length": 24.99,
       "median_length": 18.0,
-      "over_20_pct": 43.25,
-      "over_30_pct": 28.75,
-      "subordinate_per_sentence": 2.388,
-      "mean_tree_depth": 6.25,
-      "mean_dependency_distance": 3.89
+      "over_20_pct": 42.02,
+      "over_30_pct": 27.31,
+      "subordinate_per_sentence": 2.375,
+      "mean_tree_depth": 6.26,
+      "mean_dependency_distance": 3.85
     },
     "register": {
       "contractions_per_1k": 6.24,
-      "first_second_person_per_1k": 27.34,
-      "interjections_per_1k": 2.54,
-      "question_pct": 3.0,
-      "fragment_pct": 8.12
+      "first_second_person_per_1k": 27.29,
+      "interjections_per_1k": 2.3,
+      "question_pct": 3.49,
+      "fragment_pct": 8.1
     }
   },
   "gutenberg/austen-sense": {
@@ -941,50 +959,51 @@
       "lines_sampled": 2152,
       "tokens": 19871,
       "types": 2834,
-      "sentences": 669
+      "sentences": 682
     },
     "vocabulary": {
-      "coverage_2k": 86.02,
-      "coverage_3k": 88.44,
+      "coverage_2k": 85.98,
+      "coverage_3k": 88.38,
       "coverage_5k": 91.35,
-      "coverage_10k": 94.89,
-      "coverage_20k": 97.23,
+      "coverage_10k": 94.87,
+      "coverage_20k": 97.22,
       "beyond_top_band_pct": 0.93,
       "cefr_pct": {
-        "A1": 51.55,
-        "A2": 18.83,
-        "B1": 14.57,
-        "B2": 6.32,
-        "C1": 0.78,
-        "C2": 0.51,
-        "unlisted": 7.45
+        "A1": 51.39,
+        "A2": 18.89,
+        "B1": 14.56,
+        "B2": 6.45,
+        "C1": 0.79,
+        "C2": 0.52,
+        "unlisted": 7.4
       },
-      "cefr_b2_plus_pct": 15.06,
-      "cefr_c_plus_pct": 1.29,
-      "cefr_unlisted_pct": 7.45,
-      "archaic_per_1k": 10.77,
-      "archaic_mean_score": 6.98,
+      "cefr_b2_plus_pct": 15.16,
+      "cefr_c_plus_pct": 1.31,
+      "cefr_unlisted_pct": 7.4,
+      "archaic_per_1k": 10.72,
+      "coinage_per_1k": 0.15,
+      "archaic_mean_score": 7.03,
       "mattr": 0.5147
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.38,
-      "distinct_per_1k": 5.79
+      "pct_of_tokens": 4.35,
+      "distinct_per_1k": 5.74
     },
     "sentence": {
-      "mean_length": 29.7,
-      "median_length": 20,
-      "over_20_pct": 49.78,
-      "over_30_pct": 34.38,
-      "subordinate_per_sentence": 3.01,
-      "mean_tree_depth": 6.61,
-      "mean_dependency_distance": 4.09
+      "mean_length": 29.14,
+      "median_length": 20.0,
+      "over_20_pct": 48.97,
+      "over_30_pct": 34.46,
+      "subordinate_per_sentence": 2.953,
+      "mean_tree_depth": 6.64,
+      "mean_dependency_distance": 4.1
     },
     "register": {
       "contractions_per_1k": 6.09,
-      "first_second_person_per_1k": 33.92,
-      "interjections_per_1k": 2.52,
-      "question_pct": 3.74,
-      "fragment_pct": 6.73
+      "first_second_person_per_1k": 33.97,
+      "interjections_per_1k": 2.42,
+      "question_pct": 4.84,
+      "fragment_pct": 7.62
     }
   },
   "gutenberg/bible-kjv": {
@@ -993,50 +1012,51 @@
       "lines_sampled": 1833,
       "tokens": 19233,
       "types": 2576,
-      "sentences": 729
+      "sentences": 732
     },
     "vocabulary": {
-      "coverage_2k": 82.48,
-      "coverage_3k": 86.61,
-      "coverage_5k": 89.52,
-      "coverage_10k": 93.62,
-      "coverage_20k": 96.42,
-      "beyond_top_band_pct": 1.41,
+      "coverage_2k": 82.76,
+      "coverage_3k": 86.69,
+      "coverage_5k": 89.64,
+      "coverage_10k": 93.74,
+      "coverage_20k": 96.47,
+      "beyond_top_band_pct": 1.39,
       "cefr_pct": {
-        "A1": 48.88,
-        "A2": 14.0,
-        "B1": 10.65,
-        "B2": 5.76,
-        "C1": 0.98,
+        "A1": 48.97,
+        "A2": 14.09,
+        "B1": 10.63,
+        "B2": 5.77,
+        "C1": 1.0,
         "C2": 0.59,
-        "unlisted": 19.15
+        "unlisted": 18.95
       },
-      "cefr_b2_plus_pct": 26.48,
-      "cefr_c_plus_pct": 1.57,
-      "cefr_unlisted_pct": 19.15,
-      "archaic_per_1k": 53.14,
-      "archaic_mean_score": 5.29,
+      "cefr_b2_plus_pct": 26.31,
+      "cefr_c_plus_pct": 1.59,
+      "cefr_unlisted_pct": 18.95,
+      "archaic_per_1k": 50.75,
+      "coinage_per_1k": 0.47,
+      "archaic_mean_score": 5.33,
       "mattr": 0.4522
     },
     "proper_nouns": {
-      "pct_of_tokens": 7.4,
-      "distinct_per_1k": 26.36
+      "pct_of_tokens": 7.73,
+      "distinct_per_1k": 26.67
     },
     "sentence": {
-      "mean_length": 26.38,
-      "median_length": 20,
-      "over_20_pct": 48.29,
-      "over_30_pct": 30.18,
-      "subordinate_per_sentence": 1.89,
+      "mean_length": 26.27,
+      "median_length": 20.0,
+      "over_20_pct": 49.59,
+      "over_30_pct": 28.42,
+      "subordinate_per_sentence": 1.937,
       "mean_tree_depth": 6.34,
-      "mean_dependency_distance": 4.13
+      "mean_dependency_distance": 4.02
     },
     "register": {
       "contractions_per_1k": 2.65,
       "first_second_person_per_1k": 25.79,
-      "interjections_per_1k": 1.66,
-      "question_pct": 7.54,
-      "fragment_pct": 11.93
+      "interjections_per_1k": 1.51,
+      "question_pct": 7.51,
+      "fragment_pct": 12.3
     }
   },
   "gutenberg/blake-poems": {
@@ -1045,50 +1065,51 @@
       "lines_sampled": 1094,
       "tokens": 6802,
       "types": 1486,
-      "sentences": 377
+      "sentences": 367
     },
     "vocabulary": {
-      "coverage_2k": 78.89,
-      "coverage_3k": 84.31,
-      "coverage_5k": 88.21,
-      "coverage_10k": 93.45,
-      "coverage_20k": 96.74,
-      "beyond_top_band_pct": 1.34,
+      "coverage_2k": 79.33,
+      "coverage_3k": 84.73,
+      "coverage_5k": 88.81,
+      "coverage_10k": 94.06,
+      "coverage_20k": 97.08,
+      "beyond_top_band_pct": 0.98,
       "cefr_pct": {
-        "A1": 51.08,
-        "A2": 15.71,
-        "B1": 10.48,
-        "B2": 6.28,
-        "C1": 0.68,
-        "C2": 0.34,
-        "unlisted": 15.43
+        "A1": 51.4,
+        "A2": 16.07,
+        "B1": 10.97,
+        "B2": 6.34,
+        "C1": 0.6,
+        "C2": 0.44,
+        "unlisted": 14.17
       },
-      "cefr_b2_plus_pct": 22.73,
-      "cefr_c_plus_pct": 1.02,
-      "cefr_unlisted_pct": 15.43,
-      "archaic_per_1k": 22.79,
-      "archaic_mean_score": 4.67,
+      "cefr_b2_plus_pct": 21.55,
+      "cefr_c_plus_pct": 1.04,
+      "cefr_unlisted_pct": 14.17,
+      "archaic_per_1k": 21.17,
+      "coinage_per_1k": 3.23,
+      "archaic_mean_score": 4.51,
       "mattr": 0.4998
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.76,
-      "distinct_per_1k": 29.84
+      "pct_of_tokens": 6.56,
+      "distinct_per_1k": 30.87
     },
     "sentence": {
-      "mean_length": 18.04,
-      "median_length": 15,
-      "over_20_pct": 35.81,
-      "over_30_pct": 12.73,
-      "subordinate_per_sentence": 1.268,
-      "mean_tree_depth": 5.45,
-      "mean_dependency_distance": 3.28
+      "mean_length": 18.53,
+      "median_length": 16,
+      "over_20_pct": 37.87,
+      "over_30_pct": 14.71,
+      "subordinate_per_sentence": 1.281,
+      "mean_tree_depth": 5.48,
+      "mean_dependency_distance": 3.24
     },
     "register": {
       "contractions_per_1k": 11.17,
       "first_second_person_per_1k": 28.67,
-      "interjections_per_1k": 5.88,
-      "question_pct": 12.47,
-      "fragment_pct": 15.65
+      "interjections_per_1k": 4.7,
+      "question_pct": 13.9,
+      "fragment_pct": 16.89
     }
   },
   "gutenberg/bryant-stories": {
@@ -1097,50 +1118,51 @@
       "lines_sampled": 1791,
       "tokens": 20082,
       "types": 2553,
-      "sentences": 1067
+      "sentences": 1071
     },
     "vocabulary": {
-      "coverage_2k": 89.44,
-      "coverage_3k": 91.69,
-      "coverage_5k": 94.27,
-      "coverage_10k": 96.8,
-      "coverage_20k": 98.41,
-      "beyond_top_band_pct": 0.54,
+      "coverage_2k": 89.76,
+      "coverage_3k": 92.04,
+      "coverage_5k": 94.57,
+      "coverage_10k": 96.92,
+      "coverage_20k": 98.52,
+      "beyond_top_band_pct": 0.39,
       "cefr_pct": {
-        "A1": 68.73,
-        "A2": 12.2,
-        "B1": 7.53,
+        "A1": 69.01,
+        "A2": 12.33,
+        "B1": 7.48,
         "B2": 3.67,
-        "C1": 0.66,
+        "C1": 0.63,
         "C2": 0.26,
-        "unlisted": 6.95
+        "unlisted": 6.6
       },
-      "cefr_b2_plus_pct": 11.54,
-      "cefr_c_plus_pct": 0.92,
-      "cefr_unlisted_pct": 6.95,
-      "archaic_per_1k": 2.89,
-      "archaic_mean_score": 5.61,
+      "cefr_b2_plus_pct": 11.16,
+      "cefr_c_plus_pct": 0.89,
+      "cefr_unlisted_pct": 6.6,
+      "archaic_per_1k": 2.94,
+      "coinage_per_1k": 1.39,
+      "archaic_mean_score": 5.6,
       "mattr": 0.4371
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.54,
-      "distinct_per_1k": 11.95
+      "pct_of_tokens": 4.73,
+      "distinct_per_1k": 12.85
     },
     "sentence": {
-      "mean_length": 18.82,
+      "mean_length": 18.75,
       "median_length": 15,
-      "over_20_pct": 34.21,
-      "over_30_pct": 15.56,
-      "subordinate_per_sentence": 1.634,
+      "over_20_pct": 33.99,
+      "over_30_pct": 16.06,
+      "subordinate_per_sentence": 1.631,
       "mean_tree_depth": 5.52,
-      "mean_dependency_distance": 3.44
+      "mean_dependency_distance": 3.41
     },
     "register": {
       "contractions_per_1k": 7.57,
       "first_second_person_per_1k": 26.94,
-      "interjections_per_1k": 3.39,
-      "question_pct": 2.81,
-      "fragment_pct": 7.31
+      "interjections_per_1k": 3.24,
+      "question_pct": 3.08,
+      "fragment_pct": 7.28
     }
   },
   "gutenberg/burgess-busterbrown": {
@@ -1149,50 +1171,51 @@
       "lines_sampled": 1315,
       "tokens": 15915,
       "types": 1492,
-      "sentences": 955
+      "sentences": 964
     },
     "vocabulary": {
-      "coverage_2k": 92.25,
-      "coverage_3k": 93.8,
-      "coverage_5k": 95.45,
-      "coverage_10k": 97.19,
-      "coverage_20k": 98.75,
-      "beyond_top_band_pct": 0.34,
+      "coverage_2k": 92.4,
+      "coverage_3k": 93.98,
+      "coverage_5k": 95.61,
+      "coverage_10k": 97.31,
+      "coverage_20k": 98.8,
+      "beyond_top_band_pct": 0.26,
       "cefr_pct": {
-        "A1": 72.35,
-        "A2": 11.81,
-        "B1": 6.24,
-        "B2": 3.7,
-        "C1": 0.19,
+        "A1": 72.65,
+        "A2": 11.8,
+        "B1": 6.21,
+        "B2": 3.72,
+        "C1": 0.21,
         "C2": 0.02,
-        "unlisted": 5.7
+        "unlisted": 5.39
       },
-      "cefr_b2_plus_pct": 9.61,
-      "cefr_c_plus_pct": 0.21,
-      "cefr_unlisted_pct": 5.7,
+      "cefr_b2_plus_pct": 9.34,
+      "cefr_c_plus_pct": 0.23,
+      "cefr_unlisted_pct": 5.39,
       "archaic_per_1k": 4.21,
-      "archaic_mean_score": 4.92,
+      "coinage_per_1k": 0.0,
+      "archaic_mean_score": 4.78,
       "mattr": 0.4145
     },
     "proper_nouns": {
-      "pct_of_tokens": 11.08,
-      "distinct_per_1k": 9.99
+      "pct_of_tokens": 11.35,
+      "distinct_per_1k": 11.0
     },
     "sentence": {
-      "mean_length": 16.66,
-      "median_length": 14,
-      "over_20_pct": 29.21,
-      "over_30_pct": 13.09,
-      "subordinate_per_sentence": 1.554,
-      "mean_tree_depth": 5.55,
-      "mean_dependency_distance": 3.18
+      "mean_length": 16.51,
+      "median_length": 13.0,
+      "over_20_pct": 29.25,
+      "over_30_pct": 12.86,
+      "subordinate_per_sentence": 1.541,
+      "mean_tree_depth": 5.59,
+      "mean_dependency_distance": 3.14
     },
     "register": {
       "contractions_per_1k": 24.25,
       "first_second_person_per_1k": 19.92,
-      "interjections_per_1k": 3.46,
-      "question_pct": 2.2,
-      "fragment_pct": 3.46
+      "interjections_per_1k": 2.7,
+      "question_pct": 2.39,
+      "fragment_pct": 3.63
     }
   },
   "gutenberg/carroll-alice": {
@@ -1201,50 +1224,51 @@
       "lines_sampled": 1880,
       "tokens": 20060,
       "types": 2210,
-      "sentences": 944
+      "sentences": 1031
     },
     "vocabulary": {
-      "coverage_2k": 90.73,
-      "coverage_3k": 92.91,
-      "coverage_5k": 94.41,
-      "coverage_10k": 96.93,
-      "coverage_20k": 98.46,
-      "beyond_top_band_pct": 0.37,
+      "coverage_2k": 90.81,
+      "coverage_3k": 93.01,
+      "coverage_5k": 94.52,
+      "coverage_10k": 96.94,
+      "coverage_20k": 98.51,
+      "beyond_top_band_pct": 0.35,
       "cefr_pct": {
-        "A1": 67.28,
-        "A2": 15.41,
-        "B1": 7.65,
-        "B2": 3.91,
-        "C1": 0.33,
-        "C2": 0.18,
-        "unlisted": 5.24
+        "A1": 67.29,
+        "A2": 15.52,
+        "B1": 7.67,
+        "B2": 3.9,
+        "C1": 0.37,
+        "C2": 0.21,
+        "unlisted": 5.03
       },
-      "cefr_b2_plus_pct": 9.66,
-      "cefr_c_plus_pct": 0.51,
-      "cefr_unlisted_pct": 5.24,
-      "archaic_per_1k": 4.59,
-      "archaic_mean_score": 5.9,
+      "cefr_b2_plus_pct": 9.51,
+      "cefr_c_plus_pct": 0.58,
+      "cefr_unlisted_pct": 5.03,
+      "archaic_per_1k": 4.44,
+      "coinage_per_1k": 0.35,
+      "archaic_mean_score": 5.97,
       "mattr": 0.4528
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.32,
-      "distinct_per_1k": 8.72
+      "pct_of_tokens": 5.43,
+      "distinct_per_1k": 8.92
     },
     "sentence": {
-      "mean_length": 21.25,
-      "median_length": 14.0,
-      "over_20_pct": 38.14,
-      "over_30_pct": 22.99,
-      "subordinate_per_sentence": 2.501,
-      "mean_tree_depth": 5.68,
-      "mean_dependency_distance": 4.05
+      "mean_length": 19.46,
+      "median_length": 14,
+      "over_20_pct": 35.01,
+      "over_30_pct": 19.69,
+      "subordinate_per_sentence": 2.222,
+      "mean_tree_depth": 5.51,
+      "mean_dependency_distance": 3.83
     },
     "register": {
       "contractions_per_1k": 24.38,
       "first_second_person_per_1k": 40.08,
-      "interjections_per_1k": 5.48,
-      "question_pct": 2.33,
-      "fragment_pct": 7.31
+      "interjections_per_1k": 5.28,
+      "question_pct": 2.52,
+      "fragment_pct": 7.86
     }
   },
   "gutenberg/chesterton-ball": {
@@ -1253,50 +1277,51 @@
       "lines_sampled": 1910,
       "tokens": 20075,
       "types": 3797,
-      "sentences": 939
+      "sentences": 970
     },
     "vocabulary": {
-      "coverage_2k": 83.75,
-      "coverage_3k": 86.54,
-      "coverage_5k": 89.8,
-      "coverage_10k": 93.75,
-      "coverage_20k": 96.47,
-      "beyond_top_band_pct": 1.35,
+      "coverage_2k": 83.89,
+      "coverage_3k": 86.64,
+      "coverage_5k": 89.91,
+      "coverage_10k": 93.82,
+      "coverage_20k": 96.53,
+      "beyond_top_band_pct": 1.3,
       "cefr_pct": {
-        "A1": 50.73,
-        "A2": 17.59,
-        "B1": 12.37,
-        "B2": 6.42,
+        "A1": 50.83,
+        "A2": 17.63,
+        "B1": 12.41,
+        "B2": 6.43,
         "C1": 0.92,
-        "C2": 0.5,
-        "unlisted": 11.47
+        "C2": 0.53,
+        "unlisted": 11.25
       },
-      "cefr_b2_plus_pct": 19.31,
-      "cefr_c_plus_pct": 1.42,
-      "cefr_unlisted_pct": 11.47,
+      "cefr_b2_plus_pct": 19.13,
+      "cefr_c_plus_pct": 1.45,
+      "cefr_unlisted_pct": 11.25,
       "archaic_per_1k": 5.28,
+      "coinage_per_1k": 0.55,
       "archaic_mean_score": 7.32,
       "mattr": 0.535
     },
     "proper_nouns": {
-      "pct_of_tokens": 3.78,
-      "distinct_per_1k": 14.2
+      "pct_of_tokens": 3.9,
+      "distinct_per_1k": 14.74
     },
     "sentence": {
-      "mean_length": 21.38,
-      "median_length": 16,
-      "over_20_pct": 38.02,
-      "over_30_pct": 19.6,
-      "subordinate_per_sentence": 1.797,
-      "mean_tree_depth": 6.18,
-      "mean_dependency_distance": 3.49
+      "mean_length": 20.7,
+      "median_length": 16.0,
+      "over_20_pct": 36.49,
+      "over_30_pct": 18.25,
+      "subordinate_per_sentence": 1.733,
+      "mean_tree_depth": 6.17,
+      "mean_dependency_distance": 3.39
     },
     "register": {
       "contractions_per_1k": 8.27,
       "first_second_person_per_1k": 29.64,
-      "interjections_per_1k": 3.24,
-      "question_pct": 3.09,
-      "fragment_pct": 9.05
+      "interjections_per_1k": 3.14,
+      "question_pct": 3.61,
+      "fragment_pct": 10.21
     }
   },
   "gutenberg/chesterton-brown": {
@@ -1305,50 +1330,51 @@
       "lines_sampled": 1809,
       "tokens": 20153,
       "types": 3831,
-      "sentences": 933
+      "sentences": 954
     },
     "vocabulary": {
-      "coverage_2k": 83.57,
-      "coverage_3k": 86.51,
+      "coverage_2k": 83.62,
+      "coverage_3k": 86.55,
       "coverage_5k": 89.86,
-      "coverage_10k": 93.96,
-      "coverage_20k": 96.65,
-      "beyond_top_band_pct": 1.26,
+      "coverage_10k": 93.89,
+      "coverage_20k": 96.6,
+      "beyond_top_band_pct": 1.24,
       "cefr_pct": {
-        "A1": 51.79,
-        "A2": 17.25,
-        "B1": 12.09,
-        "B2": 6.22,
-        "C1": 0.91,
-        "C2": 0.51,
-        "unlisted": 11.22
+        "A1": 51.71,
+        "A2": 17.31,
+        "B1": 12.11,
+        "B2": 6.34,
+        "C1": 0.92,
+        "C2": 0.52,
+        "unlisted": 11.08
       },
       "cefr_b2_plus_pct": 18.86,
-      "cefr_c_plus_pct": 1.42,
-      "cefr_unlisted_pct": 11.22,
-      "archaic_per_1k": 5.95,
-      "archaic_mean_score": 6.68,
+      "cefr_c_plus_pct": 1.44,
+      "cefr_unlisted_pct": 11.08,
+      "archaic_per_1k": 6.05,
+      "coinage_per_1k": 0.25,
+      "archaic_mean_score": 6.55,
       "mattr": 0.542
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.55,
-      "distinct_per_1k": 16.67
+      "pct_of_tokens": 4.58,
+      "distinct_per_1k": 17.32
     },
     "sentence": {
-      "mean_length": 21.6,
-      "median_length": 17,
-      "over_20_pct": 40.41,
-      "over_30_pct": 21.22,
-      "subordinate_per_sentence": 1.833,
-      "mean_tree_depth": 6.18,
-      "mean_dependency_distance": 3.51
+      "mean_length": 21.12,
+      "median_length": 16.5,
+      "over_20_pct": 38.89,
+      "over_30_pct": 20.96,
+      "subordinate_per_sentence": 1.802,
+      "mean_tree_depth": 6.14,
+      "mean_dependency_distance": 3.42
     },
     "register": {
       "contractions_per_1k": 13.25,
       "first_second_person_per_1k": 29.87,
-      "interjections_per_1k": 2.33,
-      "question_pct": 2.68,
-      "fragment_pct": 7.82
+      "interjections_per_1k": 2.23,
+      "question_pct": 3.46,
+      "fragment_pct": 8.91
     }
   },
   "gutenberg/chesterton-thursday": {
@@ -1357,50 +1383,51 @@
       "lines_sampled": 1892,
       "tokens": 19998,
       "types": 3544,
-      "sentences": 1091
+      "sentences": 1129
     },
     "vocabulary": {
-      "coverage_2k": 84.61,
-      "coverage_3k": 87.38,
-      "coverage_5k": 90.36,
-      "coverage_10k": 94.14,
-      "coverage_20k": 96.98,
-      "beyond_top_band_pct": 1.11,
+      "coverage_2k": 84.66,
+      "coverage_3k": 87.41,
+      "coverage_5k": 90.39,
+      "coverage_10k": 94.11,
+      "coverage_20k": 96.95,
+      "beyond_top_band_pct": 1.05,
       "cefr_pct": {
-        "A1": 51.09,
-        "A2": 17.75,
-        "B1": 12.55,
-        "B2": 6.77,
-        "C1": 1.1,
-        "C2": 0.41,
-        "unlisted": 10.32
+        "A1": 51.16,
+        "A2": 17.78,
+        "B1": 12.49,
+        "B2": 6.63,
+        "C1": 1.13,
+        "C2": 0.42,
+        "unlisted": 10.39
       },
-      "cefr_b2_plus_pct": 18.6,
-      "cefr_c_plus_pct": 1.51,
-      "cefr_unlisted_pct": 10.32,
-      "archaic_per_1k": 5.3,
-      "archaic_mean_score": 7.63,
+      "cefr_b2_plus_pct": 18.57,
+      "cefr_c_plus_pct": 1.55,
+      "cefr_unlisted_pct": 10.39,
+      "archaic_per_1k": 5.35,
+      "coinage_per_1k": 0.5,
+      "archaic_mean_score": 7.34,
       "mattr": 0.5268
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.08,
-      "distinct_per_1k": 11.65
+      "pct_of_tokens": 4.17,
+      "distinct_per_1k": 12.5
     },
     "sentence": {
-      "mean_length": 18.33,
-      "median_length": 15,
-      "over_20_pct": 33.55,
-      "over_30_pct": 15.67,
-      "subordinate_per_sentence": 1.555,
-      "mean_tree_depth": 5.8,
-      "mean_dependency_distance": 3.42
+      "mean_length": 17.71,
+      "median_length": 14,
+      "over_20_pct": 31.27,
+      "over_30_pct": 15.06,
+      "subordinate_per_sentence": 1.498,
+      "mean_tree_depth": 5.75,
+      "mean_dependency_distance": 3.32
     },
     "register": {
       "contractions_per_1k": 7.3,
       "first_second_person_per_1k": 36.55,
-      "interjections_per_1k": 2.95,
-      "question_pct": 3.85,
-      "fragment_pct": 9.17
+      "interjections_per_1k": 2.65,
+      "question_pct": 4.25,
+      "fragment_pct": 10.27
     }
   },
   "gutenberg/edgeworth-parents": {
@@ -1409,50 +1436,51 @@
       "lines_sampled": 1763,
       "tokens": 19976,
       "types": 3144,
-      "sentences": 1013
+      "sentences": 1042
     },
     "vocabulary": {
-      "coverage_2k": 86.93,
-      "coverage_3k": 89.35,
-      "coverage_5k": 92.22,
-      "coverage_10k": 95.5,
-      "coverage_20k": 97.58,
-      "beyond_top_band_pct": 0.83,
+      "coverage_2k": 87.04,
+      "coverage_3k": 89.46,
+      "coverage_5k": 92.28,
+      "coverage_10k": 95.57,
+      "coverage_20k": 97.62,
+      "beyond_top_band_pct": 0.75,
       "cefr_pct": {
-        "A1": 59.21,
-        "A2": 14.7,
-        "B1": 10.6,
-        "B2": 5.65,
-        "C1": 0.48,
+        "A1": 59.29,
+        "A2": 14.8,
+        "B1": 10.57,
+        "B2": 5.67,
+        "C1": 0.47,
         "C2": 0.33,
-        "unlisted": 9.03
+        "unlisted": 8.87
       },
-      "cefr_b2_plus_pct": 15.49,
-      "cefr_c_plus_pct": 0.81,
-      "cefr_unlisted_pct": 9.03,
+      "cefr_b2_plus_pct": 15.34,
+      "cefr_c_plus_pct": 0.8,
+      "cefr_unlisted_pct": 8.87,
       "archaic_per_1k": 7.76,
-      "archaic_mean_score": 5.99,
+      "coinage_per_1k": 0.5,
+      "archaic_mean_score": 5.93,
       "mattr": 0.508
     },
     "proper_nouns": {
-      "pct_of_tokens": 5.02,
-      "distinct_per_1k": 16.07
+      "pct_of_tokens": 5.21,
+      "distinct_per_1k": 16.62
     },
     "sentence": {
-      "mean_length": 19.72,
-      "median_length": 13,
-      "over_20_pct": 34.95,
-      "over_30_pct": 20.04,
-      "subordinate_per_sentence": 2.09,
-      "mean_tree_depth": 5.69,
-      "mean_dependency_distance": 3.65
+      "mean_length": 19.17,
+      "median_length": 13.0,
+      "over_20_pct": 32.92,
+      "over_30_pct": 18.71,
+      "subordinate_per_sentence": 2.009,
+      "mean_tree_depth": 5.68,
+      "mean_dependency_distance": 3.57
     },
     "register": {
       "contractions_per_1k": 17.37,
       "first_second_person_per_1k": 48.16,
-      "interjections_per_1k": 5.76,
-      "question_pct": 5.53,
-      "fragment_pct": 12.73
+      "interjections_per_1k": 4.96,
+      "question_pct": 5.57,
+      "fragment_pct": 13.72
     }
   },
   "gutenberg/melville-moby_dick": {
@@ -1461,50 +1489,51 @@
       "lines_sampled": 1837,
       "tokens": 20221,
       "types": 4597,
-      "sentences": 799
+      "sentences": 814
     },
     "vocabulary": {
-      "coverage_2k": 77.94,
-      "coverage_3k": 80.96,
-      "coverage_5k": 85.38,
-      "coverage_10k": 90.21,
-      "coverage_20k": 94.13,
-      "beyond_top_band_pct": 2.54,
+      "coverage_2k": 78.03,
+      "coverage_3k": 81.04,
+      "coverage_5k": 85.5,
+      "coverage_10k": 90.3,
+      "coverage_20k": 94.21,
+      "beyond_top_band_pct": 2.39,
       "cefr_pct": {
-        "A1": 43.23,
-        "A2": 14.79,
-        "B1": 13.82,
-        "B2": 7.44,
-        "C1": 1.07,
-        "C2": 0.97,
-        "unlisted": 18.69
+        "A1": 43.33,
+        "A2": 14.94,
+        "B1": 13.83,
+        "B2": 7.41,
+        "C1": 1.12,
+        "C2": 0.98,
+        "unlisted": 18.38
       },
-      "cefr_b2_plus_pct": 28.17,
-      "cefr_c_plus_pct": 2.04,
-      "cefr_unlisted_pct": 18.69,
-      "archaic_per_1k": 14.89,
-      "archaic_mean_score": 5.71,
+      "cefr_b2_plus_pct": 27.89,
+      "cefr_c_plus_pct": 2.1,
+      "cefr_unlisted_pct": 18.38,
+      "archaic_per_1k": 14.49,
+      "coinage_per_1k": 1.19,
+      "archaic_mean_score": 5.67,
       "mattr": 0.5732
     },
     "proper_nouns": {
-      "pct_of_tokens": 4.53,
-      "distinct_per_1k": 24.92
+      "pct_of_tokens": 4.67,
+      "distinct_per_1k": 26.16
     },
     "sentence": {
-      "mean_length": 25.31,
-      "median_length": 18,
-      "over_20_pct": 43.55,
-      "over_30_pct": 29.29,
-      "subordinate_per_sentence": 1.904,
-      "mean_tree_depth": 6.29,
-      "mean_dependency_distance": 3.95
+      "mean_length": 24.84,
+      "median_length": 17.0,
+      "over_20_pct": 42.87,
+      "over_30_pct": 28.38,
+      "subordinate_per_sentence": 1.903,
+      "mean_tree_depth": 6.31,
+      "mean_dependency_distance": 3.86
     },
     "register": {
       "contractions_per_1k": 11.28,
       "first_second_person_per_1k": 19.78,
       "interjections_per_1k": 2.23,
-      "question_pct": 7.13,
-      "fragment_pct": 17.02
+      "question_pct": 7.74,
+      "fragment_pct": 16.83
     }
   },
   "gutenberg/milton-paradise": {
@@ -1513,50 +1542,51 @@
       "lines_sampled": 2658,
       "tokens": 20015,
       "types": 4312,
-      "sentences": 714
+      "sentences": 605
     },
     "vocabulary": {
-      "coverage_2k": 73.02,
-      "coverage_3k": 78.36,
-      "coverage_5k": 82.89,
-      "coverage_10k": 88.34,
-      "coverage_20k": 92.73,
-      "beyond_top_band_pct": 3.19,
+      "coverage_2k": 73.51,
+      "coverage_3k": 78.77,
+      "coverage_5k": 83.3,
+      "coverage_10k": 88.73,
+      "coverage_20k": 93.13,
+      "beyond_top_band_pct": 2.95,
       "cefr_pct": {
-        "A1": 38.06,
-        "A2": 17.65,
-        "B1": 13.52,
-        "B2": 7.71,
-        "C1": 1.26,
-        "C2": 1.17,
-        "unlisted": 20.63
+        "A1": 38.01,
+        "A2": 17.96,
+        "B1": 13.68,
+        "B2": 7.64,
+        "C1": 1.27,
+        "C2": 1.14,
+        "unlisted": 20.31
       },
-      "cefr_b2_plus_pct": 30.77,
-      "cefr_c_plus_pct": 2.43,
-      "cefr_unlisted_pct": 20.63,
-      "archaic_per_1k": 36.67,
-      "archaic_mean_score": 5.68,
+      "cefr_b2_plus_pct": 30.36,
+      "cefr_c_plus_pct": 2.41,
+      "cefr_unlisted_pct": 20.31,
+      "archaic_per_1k": 35.72,
+      "coinage_per_1k": 2.0,
+      "archaic_mean_score": 5.67,
       "mattr": 0.6071
     },
     "proper_nouns": {
-      "pct_of_tokens": 6.44,
-      "distinct_per_1k": 30.43
+      "pct_of_tokens": 6.96,
+      "distinct_per_1k": 33.72
     },
     "sentence": {
-      "mean_length": 28.03,
-      "median_length": 21.0,
-      "over_20_pct": 51.82,
-      "over_30_pct": 32.63,
-      "subordinate_per_sentence": 2.307,
-      "mean_tree_depth": 6.31,
-      "mean_dependency_distance": 4.26
+      "mean_length": 33.08,
+      "median_length": 23,
+      "over_20_pct": 55.87,
+      "over_30_pct": 39.83,
+      "subordinate_per_sentence": 2.974,
+      "mean_tree_depth": 6.61,
+      "mean_dependency_distance": 4.53
     },
     "register": {
       "contractions_per_1k": 4.05,
       "first_second_person_per_1k": 15.99,
-      "interjections_per_1k": 1.65,
-      "question_pct": 11.34,
-      "fragment_pct": 17.93
+      "interjections_per_1k": 1.5,
+      "question_pct": 13.88,
+      "fragment_pct": 17.52
     }
   },
   "gutenberg/shakespeare-caesar": {
@@ -1565,50 +1595,51 @@
       "lines_sampled": 2713,
       "tokens": 19689,
       "types": 2814,
-      "sentences": 1662
+      "sentences": 1514
     },
     "vocabulary": {
-      "coverage_2k": 79.02,
-      "coverage_3k": 81.5,
-      "coverage_5k": 83.19,
-      "coverage_10k": 85.28,
-      "coverage_20k": 87.54,
-      "beyond_top_band_pct": 11.17,
+      "coverage_2k": 87.46,
+      "coverage_3k": 90.06,
+      "coverage_5k": 91.96,
+      "coverage_10k": 94.2,
+      "coverage_20k": 96.74,
+      "beyond_top_band_pct": 1.85,
       "cefr_pct": {
-        "A1": 44.24,
-        "A2": 9.81,
-        "B1": 6.78,
-        "B2": 3.48,
-        "C1": 0.51,
-        "C2": 0.34,
-        "unlisted": 34.85
+        "A1": 55.96,
+        "A2": 12.95,
+        "B1": 8.48,
+        "B2": 4.56,
+        "C1": 0.65,
+        "C2": 0.41,
+        "unlisted": 16.98
       },
-      "cefr_b2_plus_pct": 39.18,
-      "cefr_c_plus_pct": 0.85,
-      "cefr_unlisted_pct": 34.85,
-      "archaic_per_1k": 29.25,
-      "archaic_mean_score": 5.79,
+      "cefr_b2_plus_pct": 22.6,
+      "cefr_c_plus_pct": 1.06,
+      "cefr_unlisted_pct": 16.98,
+      "archaic_per_1k": 27.78,
+      "coinage_per_1k": 78.93,
+      "archaic_mean_score": 5.95,
       "mattr": 0.4788
     },
     "proper_nouns": {
-      "pct_of_tokens": 18.17,
-      "distinct_per_1k": 52.11
+      "pct_of_tokens": 18.21,
+      "distinct_per_1k": 52.72
     },
     "sentence": {
-      "mean_length": 11.85,
+      "mean_length": 13.0,
       "median_length": 9.0,
-      "over_20_pct": 16.19,
-      "over_30_pct": 6.5,
-      "subordinate_per_sentence": 0.846,
-      "mean_tree_depth": 4.63,
-      "mean_dependency_distance": 2.98
+      "over_20_pct": 18.43,
+      "over_30_pct": 8.06,
+      "subordinate_per_sentence": 0.999,
+      "mean_tree_depth": 4.82,
+      "mean_dependency_distance": 3.07
     },
     "register": {
       "contractions_per_1k": 13.71,
       "first_second_person_per_1k": 60.03,
-      "interjections_per_1k": 6.76,
-      "question_pct": 11.43,
-      "fragment_pct": 25.81
+      "interjections_per_1k": 5.69,
+      "question_pct": 8.92,
+      "fragment_pct": 27.41
     }
   },
   "gutenberg/shakespeare-hamlet": {
@@ -1617,50 +1648,51 @@
       "lines_sampled": 2673,
       "tokens": 19736,
       "types": 3548,
-      "sentences": 1616
+      "sentences": 1509
     },
     "vocabulary": {
-      "coverage_2k": 77.14,
-      "coverage_3k": 79.39,
-      "coverage_5k": 81.15,
-      "coverage_10k": 83.87,
-      "coverage_20k": 86.12,
-      "beyond_top_band_pct": 12.19,
+      "coverage_2k": 85.71,
+      "coverage_3k": 88.17,
+      "coverage_5k": 90.12,
+      "coverage_10k": 93.09,
+      "coverage_20k": 95.57,
+      "beyond_top_band_pct": 2.56,
       "cefr_pct": {
-        "A1": 40.13,
-        "A2": 10.34,
-        "B1": 6.81,
-        "B2": 3.68,
-        "C1": 0.67,
-        "C2": 0.34,
-        "unlisted": 38.04
+        "A1": 51.32,
+        "A2": 13.48,
+        "B1": 8.84,
+        "B2": 4.6,
+        "C1": 0.76,
+        "C2": 0.44,
+        "unlisted": 20.57
       },
-      "cefr_b2_plus_pct": 42.73,
-      "cefr_c_plus_pct": 1.01,
-      "cefr_unlisted_pct": 38.04,
-      "archaic_per_1k": 27.41,
-      "archaic_mean_score": 6.02,
+      "cefr_b2_plus_pct": 26.37,
+      "cefr_c_plus_pct": 1.2,
+      "cefr_unlisted_pct": 20.57,
+      "archaic_per_1k": 27.46,
+      "coinage_per_1k": 85.17,
+      "archaic_mean_score": 6.27,
       "mattr": 0.5158
     },
     "proper_nouns": {
-      "pct_of_tokens": 15.76,
-      "distinct_per_1k": 59.69
+      "pct_of_tokens": 15.92,
+      "distinct_per_1k": 61.71
     },
     "sentence": {
-      "mean_length": 12.21,
-      "median_length": 8.0,
-      "over_20_pct": 17.7,
-      "over_30_pct": 8.35,
-      "subordinate_per_sentence": 0.822,
-      "mean_tree_depth": 4.62,
-      "mean_dependency_distance": 3.14
+      "mean_length": 13.08,
+      "median_length": 9,
+      "over_20_pct": 19.15,
+      "over_30_pct": 9.48,
+      "subordinate_per_sentence": 0.967,
+      "mean_tree_depth": 4.74,
+      "mean_dependency_distance": 3.26
     },
     "register": {
       "contractions_per_1k": 16.21,
-      "first_second_person_per_1k": 49.5,
-      "interjections_per_1k": 8.26,
-      "question_pct": 12.13,
-      "fragment_pct": 25.06
+      "first_second_person_per_1k": 49.55,
+      "interjections_per_1k": 7.3,
+      "question_pct": 10.74,
+      "fragment_pct": 26.64
     }
   },
   "gutenberg/shakespeare-macbeth": {
@@ -1669,50 +1701,51 @@
       "lines_sampled": 2588,
       "tokens": 17338,
       "types": 3252,
-      "sentences": 1498
+      "sentences": 1367
     },
     "vocabulary": {
-      "coverage_2k": 76.69,
-      "coverage_3k": 79.27,
-      "coverage_5k": 81.08,
-      "coverage_10k": 84.05,
-      "coverage_20k": 86.3,
-      "beyond_top_band_pct": 12.07,
+      "coverage_2k": 85.65,
+      "coverage_3k": 88.3,
+      "coverage_5k": 90.34,
+      "coverage_10k": 93.56,
+      "coverage_20k": 96.09,
+      "beyond_top_band_pct": 2.06,
       "cefr_pct": {
-        "A1": 40.89,
-        "A2": 9.85,
-        "B1": 7.73,
-        "B2": 3.37,
-        "C1": 0.68,
-        "C2": 0.32,
-        "unlisted": 37.15
+        "A1": 52.2,
+        "A2": 12.84,
+        "B1": 9.97,
+        "B2": 4.36,
+        "C1": 0.8,
+        "C2": 0.4,
+        "unlisted": 19.42
       },
-      "cefr_b2_plus_pct": 41.52,
-      "cefr_c_plus_pct": 1.0,
-      "cefr_unlisted_pct": 37.15,
-      "archaic_per_1k": 30.51,
-      "archaic_mean_score": 5.84,
+      "cefr_b2_plus_pct": 24.98,
+      "cefr_c_plus_pct": 1.2,
+      "cefr_unlisted_pct": 19.42,
+      "archaic_per_1k": 29.24,
+      "coinage_per_1k": 85.42,
+      "archaic_mean_score": 5.88,
       "mattr": 0.5406
     },
     "proper_nouns": {
-      "pct_of_tokens": 18.59,
-      "distinct_per_1k": 72.9
+      "pct_of_tokens": 19.01,
+      "distinct_per_1k": 75.04
     },
     "sentence": {
-      "mean_length": 11.57,
-      "median_length": 8.0,
-      "over_20_pct": 17.36,
-      "over_30_pct": 7.41,
-      "subordinate_per_sentence": 0.808,
-      "mean_tree_depth": 4.56,
-      "mean_dependency_distance": 3.13
+      "mean_length": 12.68,
+      "median_length": 9,
+      "over_20_pct": 19.39,
+      "over_30_pct": 7.75,
+      "subordinate_per_sentence": 0.935,
+      "mean_tree_depth": 4.79,
+      "mean_dependency_distance": 3.19
     },
     "register": {
       "contractions_per_1k": 23.59,
-      "first_second_person_per_1k": 42.05,
-      "interjections_per_1k": 5.19,
-      "question_pct": 9.88,
-      "fragment_pct": 27.77
+      "first_second_person_per_1k": 41.99,
+      "interjections_per_1k": 3.17,
+      "question_pct": 7.68,
+      "fragment_pct": 29.7
     }
   },
   "gutenberg/whitman-leaves": {
@@ -1721,50 +1754,51 @@
       "lines_sampled": 2326,
       "tokens": 20097,
       "types": 4475,
-      "sentences": 707
+      "sentences": 683
     },
     "vocabulary": {
-      "coverage_2k": 78.12,
-      "coverage_3k": 81.92,
-      "coverage_5k": 85.92,
-      "coverage_10k": 90.76,
-      "coverage_20k": 94.7,
-      "beyond_top_band_pct": 2.08,
+      "coverage_2k": 78.27,
+      "coverage_3k": 82.0,
+      "coverage_5k": 86.01,
+      "coverage_10k": 90.8,
+      "coverage_20k": 94.71,
+      "beyond_top_band_pct": 2.02,
       "cefr_pct": {
-        "A1": 44.48,
-        "A2": 16.41,
-        "B1": 13.61,
+        "A1": 44.57,
+        "A2": 16.43,
+        "B1": 13.57,
         "B2": 6.93,
-        "C1": 1.32,
-        "C2": 0.89,
+        "C1": 1.23,
+        "C2": 0.92,
         "unlisted": 16.35
       },
-      "cefr_b2_plus_pct": 25.49,
-      "cefr_c_plus_pct": 2.21,
+      "cefr_b2_plus_pct": 25.43,
+      "cefr_c_plus_pct": 2.15,
       "cefr_unlisted_pct": 16.35,
-      "archaic_per_1k": 14.73,
-      "archaic_mean_score": 5.93,
+      "archaic_per_1k": 14.13,
+      "coinage_per_1k": 0.8,
+      "archaic_mean_score": 6.09,
       "mattr": 0.5688
     },
     "proper_nouns": {
-      "pct_of_tokens": 3.52,
-      "distinct_per_1k": 23.49
+      "pct_of_tokens": 3.9,
+      "distinct_per_1k": 25.28
     },
     "sentence": {
-      "mean_length": 28.43,
-      "median_length": 18,
-      "over_20_pct": 45.12,
-      "over_30_pct": 32.53,
-      "subordinate_per_sentence": 1.989,
-      "mean_tree_depth": 6.38,
-      "mean_dependency_distance": 4.22
+      "mean_length": 29.42,
+      "median_length": 19,
+      "over_20_pct": 47.44,
+      "over_30_pct": 33.97,
+      "subordinate_per_sentence": 2.127,
+      "mean_tree_depth": 6.57,
+      "mean_dependency_distance": 4.27
     },
     "register": {
       "contractions_per_1k": 17.56,
-      "first_second_person_per_1k": 44.88,
-      "interjections_per_1k": 4.63,
-      "question_pct": 11.6,
-      "fragment_pct": 28.01
+      "first_second_person_per_1k": 44.83,
+      "interjections_per_1k": 4.38,
+      "question_pct": 11.86,
+      "fragment_pct": 28.26
     }
   }
 }

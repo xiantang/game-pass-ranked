@@ -9,11 +9,17 @@ something you can act on.
 
 ## Status
 
-The pipeline is built and validated. **No game corpus is included**, and none
-could be collected in the environment this was written in: outbound access was
-restricted to GitHub, npm and PyPI, so every wiki, transcript site and archive
-returned `403` at the proxy. The reference scale below is real, measured
-output; the game rows are empty until transcripts are supplied.
+The pipeline is built and validated, and two games are measured: `rdr2`
+(39 pages, ~51k words) and `re4-remake`. **`re4-remake` is not comparable** —
+Fandom has a transcript for only 18 of its 104 cutscene pages, ~1.3k words
+against a 20,000-token budget, and coverage drifts with length.
+
+The other six games cannot be collected from Fandom at all. Ghost of Tsushima,
+Demon's Souls, God of War and Kingdom Come have no dialogue category on their
+wikis; Zelda has a single quotes page; and `baldursgate3.fandom.com` is the
+whole-series wiki, whose 57 dialogue categories are Baldur's Gate 1 and 2
+companions and whose `Dialogues` category holds no pages. Filling those rows
+means a different source, not a different filter.
 
 ## One source, one population
 
@@ -44,9 +50,17 @@ Five of the eight games sit on a wiki that covers a whole series —
 both. Selecting on population alone collects the wrong game's dialogue
 alongside the right one, and nothing downstream can detect it afterwards.
 
-Those entries are marked `shared_wiki` and are **refused until `game_filter`
-is set.** Run `discover` first: it reports what the wiki actually calls its
+Those entries are marked `shared_wiki` and are **refused until a filter is
+set.** Run `discover` first: it reports what the wiki actually calls its
 categories, so the filter is written against reality rather than guessed.
+
+There are two filters, because wikis file things two ways. `game_filter`
+selects category names, which is enough where the categories name the game
+(`Resident Evil 4 remake cutscenes`). `page_filter` selects pages by their own
+categories — and, for an `X/dialogues` subpage, by its parent page's, since the
+subpage itself carries nothing but `Dialogues`. That is the only thing that
+separates games filed in one flat category, which is how the Red Dead wiki
+holds both Redemption games.
 
 ### Getting corpora
 

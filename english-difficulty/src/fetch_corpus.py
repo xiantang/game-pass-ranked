@@ -88,6 +88,19 @@ class Wiki:
             "categorymembers", action="query", list="categorymembers",
             cmtitle=f"Category:{category}", cmlimit=500, cmnamespace=0)]
 
+    def page_categories(self, titles: list[str]) -> dict[str, list[str]]:
+        """The categories each page itself carries."""
+        out: dict[str, list[str]] = {}
+        for i in range(0, len(titles), TITLES_PER_REQUEST):
+            chunk = titles[i:i + TITLES_PER_REQUEST]
+            data = self.query(action="query", prop="categories", cllimit=500,
+                              titles="|".join(chunk))
+            for page in data.get("query", {}).get("pages", []):
+                out[page["title"]] = [c["title"].split(":", 1)[-1]
+                                      for c in page.get("categories", [])]
+            time.sleep(COURTESY_DELAY)
+        return out
+
     def search(self, term: str, limit: int = 200) -> list[str]:
         return [p["title"] for p in self.query_all(
             "search", action="query", list="search", srsearch=term,
@@ -138,6 +151,29 @@ def select_categories(available: list[str], population: str,
     return sorted(picked)
 
 
+def select_pages(wiki: "Wiki", titles: list[str], page_filter: str) -> list[str]:
+    """Keep only the pages that belong to this game.
+
+    Some wikis file every game's dialogue in one flat category — the Red Dead
+    wiki puts both Redemption games in `Dialogues` — so filtering on category
+    names cannot separate them and `game_filter` is no help. What does
+    separate them is the page's own categories, and for a `Mission/dialogues`
+    subpage, its parent's: the subpage carries only `Dialogues`, while the
+    mission page above it carries `Redemption II Missions`.
+    """
+    wanted = re.compile(page_filter, re.I)
+    parents = {t: t.rsplit("/", 1)[0] for t in titles if "/" in t}
+    lookup = sorted(set(titles) | set(parents.values()))
+    categories = wiki.page_categories(lookup)
+    kept = []
+    for title in titles:
+        own = categories.get(title, [])
+        inherited = categories.get(parents.get(title, ""), [])
+        if any(wanted.search(c) for c in own + inherited):
+            kept.append(title)
+    return kept
+
+
 def discover(host: str, population: str) -> dict:
     """Report what a wiki offers, without downloading any of it.
 
@@ -170,9 +206,9 @@ def fetch_game(slug: str, spec: dict, population: str) -> dict:
     categories = select_categories(available, population, spec.get("categories"),
                                    spec.get("game_filter"))
     if spec.get("shared_wiki") and not spec.get("game_filter") \
-            and not spec.get("categories"):
+            and not spec.get("page_filter") and not spec.get("categories"):
         print(f"    REFUSED: {host} covers more than one game and this entry has "
-              f"no game_filter. Run `discover` and set one, or the corpus will "
+              f"no game_filter and no page_filter. Run `discover` and set one, or the corpus will "
               f"mix games.", file=sys.stderr)
         return {"slug": slug, "pages": 0, "lines": 0, "words": 0,
                 "categories": [], "host": host, "refused": "shared wiki, no game_filter"}
@@ -188,6 +224,12 @@ def fetch_game(slug: str, spec: dict, population: str) -> dict:
         print(f"    search {term!r}: {len(hits)} pages", file=sys.stderr)
 
     titles = sorted(set(titles))
+    page_filter = spec.get("page_filter")
+    if page_filter and titles:
+        before = len(titles)
+        titles = select_pages(wiki, titles, page_filter)
+        print(f"    page_filter {page_filter!r}: {len(titles)}/{before} pages kept",
+              file=sys.stderr)
     if not titles:
         print(f"    no pages matched — run `discover` against {host}", file=sys.stderr)
         return {"slug": slug, "pages": 0, "lines": 0, "words": 0,
@@ -200,7 +242,7 @@ def fetch_game(slug: str, spec: dict, population: str) -> dict:
     lines: list[str] = []
     revisions: dict[str, int] = {}
     for title, (source, revid) in sorted(pages.items()):
-        extracted = W.to_lines(source)
+        extracted = W.speech_only(W.to_lines(source))
         if extracted:
             lines += extracted
             revisions[title] = revid
@@ -214,6 +256,7 @@ def fetch_game(slug: str, spec: dict, population: str) -> dict:
         "endpoint": wiki.endpoint,
         "population": population,
         "categories": categories,
+        "page_filter": page_filter,
         "pages": len(revisions),
         "lines": len(lines),
         "words": words,

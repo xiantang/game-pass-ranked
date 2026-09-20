@@ -31,9 +31,25 @@ DROP_BLOCKS = [
     re.compile(r"<syntaxhighlight[^>]*>.*?</syntaxhighlight>", re.S | re.I),
 ]
 
+# Sections that hold spoken lines. Everything else on a cutscene page is prose
+# the wiki's editors wrote — a plot summary is encyclopedic register, and
+# measuring it would measure the editors rather than the game.
+SPOKEN_SECTION = re.compile(r"transcript|dialogue|dialog|script|quotes?|"
+                            r"conversation|lines", re.I)
+SECTION_HEADING = re.compile(r"^[ \t]*(={2,})[ \t]*(.*?)[ \t]*\1[ \t]*$", re.M)
+
+# A <tabber> holds the same scene more than once: Resident Evil pages carry the
+# official localisation beside a literal retranslation of the Japanese script.
+# Keeping both would count every line twice, in two different Englishes, only
+# one of which was ever in the game.
+TABBER = re.compile(r"<tabber>(.*?)</tabber>", re.S | re.I)
+TAB_SPLIT = re.compile(r"\|-\|")
+TAB_LABEL = re.compile(r"\s*([^=\n]{1,80})=(.*)", re.S)
+PREFERRED_TAB = re.compile(r"official|localis|localiz|english", re.I)
+
 FILE_LINK = re.compile(r"\[\[(?:File|Image|Media|Category):[^\]]*\]\]", re.I)
 HEADING = re.compile(r"^\s*={2,}.*?={2,}\s*$")
-TABLE_MARKUP = re.compile(r"^\s*(?:\{\||\|\}|\|[-+}]|!)")
+TABLE_MARKUP = re.compile(r"^\s*(?:\{\||\|\}|\||!)")
 LIST_PREFIX = re.compile(r"^[:*#;]+\s*")
 HTML_TAG = re.compile(r"</?[a-zA-Z][^>]*>")
 BOLD_ITALIC = re.compile(r"'{2,5}")
@@ -150,6 +166,63 @@ def resolve_links(text: str) -> str:
     return EXTERNAL_LINK.sub(lambda m: m.group(1) or " ", text)
 
 
+# A line of dialogue on these pages is either labelled with its speaker or set
+# in quotation marks. A bare narrative sentence between them is the editor
+# describing the scene.
+SPEAKER_LABEL = re.compile(r"^[^\"\u201c\n]{1,40}:\s*\S")
+QUOTED = re.compile(r"[\"\u201c\u201d]")
+
+
+def speech_only(lines: list[str]) -> list[str]:
+    """Drop the narration a wiki editor wrote around the dialogue.
+
+    "Trelawny fakes a seizure in front of the two bounty hunters" is prose
+    about the game, not English the game delivers, and it reads at a very
+    different register from the speech it sits between.
+
+    Only applied to pages that actually mark their speech: where few lines are
+    labelled or quoted, the page is a plain transcript with no marking at all
+    and everything is kept, because the alternative is discarding the page.
+    """
+    marked = [x for x in lines if SPEAKER_LABEL.match(x) or QUOTED.search(x)]
+    if len(marked) < max(5, 0.25 * len(lines)):
+        return lines
+    return marked
+
+
+def pick_tab(source: str) -> str:
+    """Collapse every <tabber> to the one tab that was in the game."""
+    def choose(match: re.Match) -> str:
+        parsed = []
+        for chunk in TAB_SPLIT.split(match.group(1)):
+            label = TAB_LABEL.match(chunk)
+            parsed.append((label.group(1).strip(), label.group(2))
+                          if label else ("", chunk))
+        for label, body in parsed:
+            if PREFERRED_TAB.search(label):
+                return body
+        return parsed[0][1] if parsed else ""
+    return TABBER.sub(choose, source)
+
+
+def spoken_sections(source: str) -> str:
+    """Keep only the sections that hold spoken lines.
+
+    A page with no headings at all is returned whole: plenty of wikis write a
+    transcript with no section structure, and dropping those would be worse
+    than letting a little prose through.
+    """
+    heads = list(SECTION_HEADING.finditer(source))
+    if not heads:
+        return source
+    kept = []
+    for i, head in enumerate(heads):
+        end = heads[i + 1].start() if i + 1 < len(heads) else len(source)
+        if SPOKEN_SECTION.search(head.group(2)):
+            kept.append(source[head.end():end])
+    return "\n".join(kept) if kept else source
+
+
 def to_lines(source: str) -> list[str]:
     """Wikitext in, candidate dialogue lines out.
 
@@ -159,6 +232,8 @@ def to_lines(source: str) -> list[str]:
     """
     for pattern in DROP_BLOCKS:
         source = pattern.sub(" ", source)
+    source = pick_tab(source)
+    source = spoken_sections(source)
     source = NOWIKI.sub("", source)
     source = resolve_templates(source)
     source = resolve_links(source)

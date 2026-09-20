@@ -1,10 +1,10 @@
 {
-  "anchor": "ghost-of-tsushima",
+  "anchor": null,
   "population": "all-dialogue",
-  "_anchor_note": "The game the player reports as comfortable. Every multiplier is relative to this one, and the working-vocabulary estimate is inferred from its coverage curve.",
+  "_anchor_note": "null = no personal baseline. Games are then read against the reference registers in out/ladder.json rather than as multiples of a game. Set this to a slug only if you want multipliers and an inferred working-vocabulary figure.",
   "_population_note": "all-dialogue = main story, side content, companion and ambient lines. NOT item descriptions or documents (that is all-text). Comparing corpora collected under different populations is invalid, so `measure` refuses to build one table out of two.",
-  "_wiki_note": "Hosts are the conventional Fandom names and are UNVERIFIED — they could not be reached from the machine this was written on. Run `run.py discover <slug>` before trusting any row.",
-  "_shared_wiki_note": "A wiki covering a whole series will hand back the wrong game's dialogue. Those entries carry shared_wiki: true and are REFUSED until game_filter is set from what `discover` reports.",
+  "_wiki_note": "Hosts verified reachable via discover. Only rdr2 and re4-remake actually carry game dialogue: ghost-of-tsushima, demons-souls, god-of-war-2018 and kcd2 have no dialogue category at all, totk has one page, and the bg3 host is the whole series wiki whose Dialogues category is empty of BG3.",
+  "_shared_wiki_note": "A wiki covering a whole series will hand back the wrong game's dialogue. Those entries carry shared_wiki: true and are REFUSED until game_filter or page_filter is set from what `discover` reports. game_filter selects category names; page_filter selects pages by their own categories, and by their parent page's for an `X/dialogues` subpage, which is the only thing that separates games filed in one flat category.",
   "_load_note": "The `load` fields cannot be derived from a transcript and must be filled in by hand or left null. Nothing downstream invents them: a null stays null in the output.",
   "games": {
     "ghost-of-tsushima": {
@@ -21,7 +21,8 @@
       "wiki": "reddead.fandom.com",
       "shared_wiki": true,
       "game_filter": null,
-      "_filter_hint": "the host also carries Red Dead Redemption and Revolver",
+      "page_filter": "Redemption (II|2)\\b",
+      "_filter_hint": "every game's dialogue sits in one flat `Dialogues` category, so only a page_filter separates them: the mission page above each `X/dialogues` subpage carries `Redemption II Missions`.",
       "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
     },
     "re4-remake": {
@@ -29,7 +30,7 @@
       "role": "test",
       "wiki": "residentevil.fandom.com",
       "shared_wiki": true,
-      "game_filter": null,
+      "game_filter": "^Resident Evil 4 remake\\b",
       "_filter_hint": "the host carries the whole series, and the 2005 RE4 as well as the remake",
       "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
     },
