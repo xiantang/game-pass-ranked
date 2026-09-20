@@ -1,0 +1,167 @@
+# Game English Corpus
+
+Measures how hard a game's English actually is, and expresses the answer as a
+multiple of a game you have already played comfortably — not as a CEFR label.
+
+`RE4 is B2` is useless to someone who has finished two open-world games in
+English. `RE4 asks 0.8x the vocabulary lookups that Ghost of Tsushima did` is
+something you can act on.
+
+## Status
+
+The pipeline is built and validated. **No game corpus is included**, and none
+could be collected in the environment this was written in: outbound access was
+restricted to GitHub, npm and PyPI, so every wiki, transcript site and archive
+returned `403` at the proxy. The reference scale below is real, measured
+output; the game rows are empty until transcripts are supplied.
+
+## Getting corpora
+
+Put text you have the right to use in `corpus/raw/<slug>/*.txt`, one game per
+directory, slugs as in `corpus/games.json`. Anything goes in — transcripts,
+extracted dialogue tables, subtitle files — the cleaner is built to cope with
+mixed, messy dumps.
+
+`corpus/raw/` and `corpus/clean/` are **git-ignored and must stay that way.**
+Game scripts are copyrighted. This project commits only derived statistics —
+counts, ratios, coverage percentages — which is what makes it publishable at
+all. Never commit the text itself.
+
+## Running
+
+```bash
+python3 -m venv .venv && . .venv/bin/activate
+pip install -r requirements.txt
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+python src/run.py reference   # build wordlists + reference registers (~1 min)
+python src/run.py ladder      # measure the reference scale
+python src/run.py clean       # corpus/raw/ -> corpus/clean/
+python src/run.py measure     # measure the games, anchored on games.json
+python src/run.py report      # -> out/report.md
+```
+
+## Method
+
+### Everything is cut to the same size
+
+Vocabulary coverage and type-token ratio both drift with corpus length, so a
+game with a 200k-word script would score as harder than one with 20k on volume
+alone. Every corpus is sampled to **20,000 tokens** before measurement, by
+taking whole lines at random across the whole script rather than truncating —
+the opening hours of most games are written to be the easiest part.
+
+### What gets thrown away
+
+Speaker names, stage directions, UI strings, wiki furniture, timestamps and
+markup. Left in, speaker labels alone can be a tenth of the tokens and would
+be counted as vocabulary. Repeated lines are collapsed, because combat barks
+repeat for hours and would otherwise dominate the frequency profile.
+
+### Vocabulary
+
+Coverage is measured against **OpenSubtitles frequency bands** (2k/3k/5k/10k/
+20k), not an academic list. Subtitles and games are the same register —
+spoken English delivered as on-screen text — where BNC/COCA would rank
+literary vocabulary as more common than a player ever hears it.
+
+CEFR levels come from the CEFR-J profile (A1–B2) and the Octanove profile
+(C1–C2). A headword keeps its *easiest* level: a word you already meet at A1
+in one sense is not hard because it also carries a C1 sense.
+
+**`unlisted` is reported separately from C1/C2 and is not advanced vocabulary.**
+It is everything the wordlist has never seen, which in a game means invented
+common nouns. Folded together, a fantasy game would outscore Shakespeare on
+coinages alone.
+
+Proper nouns are excluded from every vocabulary measure and counted on their
+own axis. They are a load on memory, not on vocabulary: you do not need to
+*know* a place name, only to keep it straight.
+
+### Archaic register
+
+Derived from data, not hand-written: a word scores by how much more often
+19th-century literature uses it than contemporary speech does, as log2 of the
+ratio. Three filters keep it honest, each added after it produced a visibly
+wrong answer:
+
+- **Apostrophe tokens are dropped.** The subtitle list mangles them (`don't`
+  is split across `don`, `dont`, `don\`t`, `don.t`), so every contraction
+  looked absent from modern English and scored at the very top.
+- **Early Modern spellings are dropped.** The sample carries the KJV Bible and
+  Shakespeare in original orthography, so `haue`, `vpon` and `loue` ranked as
+  the most literary words in English. They are `have`, `upon` and `love`.
+- **Words modern speech still uses are dropped**, however lopsided the ratio.
+  Without this the index fills with connectives the KJV leans on (`upon`,
+  `nor`, `thus`, `therefore`) and with the subject matter of the two longest
+  books in the sample (`sons`, `kings`, `servants`, `whale`). A curated seed
+  list of genuine archaisms is merged back in, so `thou` and `thy` still count
+  even though fantasy subtitles keep them alive.
+
+Elevated-but-current vocabulary (`relinquish`, `heirloom`, `vanquish`) is
+deliberately *not* on this axis. The CEFR and frequency axes already carry it.
+
+### Sentences
+
+spaCy parses every sentence: mean and median length, share over 20 and 30
+tokens, subordinate clauses per sentence, mean dependency distance, mean parse
+tree depth. Tree depth is computed iteratively — recursion overflows on long
+sentences, and a statistical parser occasionally emits a head cycle that a
+recursive walk never returns from.
+
+### Calibration
+
+Every number is a ratio of two ratio-scale quantities, so `1.8x` means 1.8
+times as much of the measured thing. Nothing is a weighted sum of z-scores,
+because the weights would be invented and the ratios would not survive them.
+
+From the anchor game's coverage curve, the pipeline infers the smallest
+vocabulary that reads 98% of it without stopping — the standard threshold for
+comfortable reading. That is your working vocabulary floor. Each game's
+`vocabulary` multiplier is then its unknown-words-per-1000 at that vocabulary
+size, divided by the anchor's.
+
+Unknown words and archaic forms are reported in the same unit — times per
+1000 tokens that a player is stopped — so they **add** into a single `decode`
+load rather than needing an invented weight to trade them off. Measuring
+archaism and then leaving it out of the composite scored Demon's Souls-shaped
+text, where archaic grammar is most of the difficulty, as easy.
+
+`overall` counts decoding twice against sentence complexity once: a sentence
+whose words you know parses itself eventually, a sentence whose words you do
+not know does not.
+
+## The scale
+
+Measured reference registers, so a game's numbers mean something. See
+`out/report.md` for the full table. Worth knowing before reading any game row:
+
+Shakespeare's `cov@2k` (77.1%) is *higher* than academic prose's (71.1%). His
+difficulty is not rare vocabulary — it is archaic morphology and syntax, which
+is why archaism is its own axis rather than folded into a single score.
+
+## Limitations
+
+- **Listening is not measured.** Accent, speech rate and elision are not
+  recoverable from a transcript. The pipeline reports a text-side proxy
+  (contractions, fragments, interjections) and nothing more. The `load` fields
+  in `corpus/games.json` are null and stay null until filled by hand — nothing
+  downstream invents them.
+- **Reading and listening must not be pooled for a mostly-unvoiced game.**
+  Tears of the Kingdom's NPC dialogue is largely text, so its listening load is
+  not comparable to a fully voiced game's on the same scale.
+- **Transcript completeness varies.** A main-story transcript and a full
+  extracted dialogue archive are not the same population; optional and
+  ambient dialogue is usually the harder half. Sample sizes are reported.
+- The archaic index rests on an 18-book public-domain sample, which is enough
+  for archaic function words and verb morphology and not enough for open-ended
+  content words.
+- **Semantic drift is invisible.** A word that is common now and meant
+  something else then is counted as known. This is why measured Shakespeare
+  lands below academic prose: his word stock really is ordinary English
+  (`cov@2k` 77%, *higher* than newspaper journalism), and what makes him hard
+  is compression and shifted sense, which no lexical metric sees. Read the
+  archaic axis, not the overall, for period-register games.
+- The scale was not tuned until its ranking matched intuition. Where a
+  measured result disagrees with the reference ladder, that is information
+  about the text, not a number to adjust.

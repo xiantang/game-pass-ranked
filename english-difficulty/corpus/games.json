@@ -1,0 +1,55 @@
+{
+  "anchor": "ghost-of-tsushima",
+  "_anchor_note": "The game the player reports as comfortable. Every multiplier is relative to this one, and the working-vocabulary estimate is inferred from its coverage curve.",
+  "_load_note": "The `load` fields cannot be derived from a transcript and must be filled in by hand or left null. Nothing downstream invents them: a null stays null in the output.",
+  "games": {
+    "ghost-of-tsushima": {
+      "title": "Ghost of Tsushima",
+      "role": "anchor — reported comfortable",
+      "corpus": "main-story transcript",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "rdr2": {
+      "title": "Red Dead Redemption 2",
+      "role": "second baseline — reported comfortable",
+      "corpus": "main-story transcript",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "re4-remake": {
+      "title": "Resident Evil 4 (2023)",
+      "role": "test",
+      "corpus": "cutscene dialogue, radio comms, readable files",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "god-of-war-2018": {
+      "title": "God of War (2018)",
+      "role": "test",
+      "corpus": "full transcript, by chapter",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "demons-souls": {
+      "title": "Demon's Souls",
+      "role": "test — expected high archaic register, low volume",
+      "corpus": "per-NPC dialogue, item descriptions",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "totk": {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "role": "test — mostly unvoiced, so reading and listening must not be scored together",
+      "corpus": "game text dump, dialogue section",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "bg3": {
+      "title": "Baldur's Gate 3",
+      "role": "test — the one most likely to sit at the ceiling",
+      "corpus": "extracted dialogue archive",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    },
+    "kcd2": {
+      "title": "Kingdom Come: Deliverance II",
+      "role": "test — period register",
+      "corpus": "dialogue, hard to assemble completely",
+      "load": {"voiced_pct": null, "words_per_hour": null, "subtitles": null, "missable_dialogue": null, "accent_note": null}
+    }
+  }
+}
