@@ -29,6 +29,68 @@ def _load_games_config() -> dict:
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
 
 
+def cmd_discover(args) -> None:
+    """Report what a wiki actually offers before anything is downloaded."""
+    import fetch_corpus
+
+    config = _load_games_config()
+    population = config.get("population", "all-dialogue")
+    for slug in args.slugs or sorted(config.get("games", {})):
+        spec = config.get("games", {}).get(slug) or {}
+        host = spec.get("wiki")
+        if not host:
+            print(f"{slug}: no wiki configured", file=sys.stderr)
+            continue
+        try:
+            found = fetch_corpus.discover(host, population)
+        except Exception as exc:                       # noqa: BLE001
+            print(f"{slug}: {host} unreachable — {exc}", file=sys.stderr)
+            continue
+        print(f"\n{slug} ({host}) — {found['categories_total']} categories",
+              file=sys.stderr)
+        print(f"  selected for {population}: {found['categories_selected']}",
+              file=sys.stderr)
+        if spec.get("shared_wiki"):
+            print("  shared wiki: set game_filter from the list above before "
+                  "fetching", file=sys.stderr)
+
+
+def cmd_fetch(args) -> None:
+    import fetch_corpus
+
+    fetch_corpus.main(args.slugs or None)
+
+
+def _provenance() -> dict:
+    out = {}
+    for path in (ROOT / "corpus" / "raw").glob("*/provenance.json"):
+        out[path.parent.name] = json.loads(path.read_text(encoding="utf-8"))
+    return out
+
+
+def _check_population(slugs: list[str]) -> str | None:
+    """Refuse to build one table out of corpora collected differently.
+
+    A main-story transcript and a full dialogue archive are different
+    populations. Scored side by side, the second looks like harder English
+    when all that differs is how much of the game was written down.
+    """
+    prov = _provenance()
+    missing = [s for s in slugs if s not in prov]
+    seen = {}
+    for slug in slugs:
+        if slug in prov:
+            key = (prov[slug].get("source"), prov[slug].get("population"))
+            seen.setdefault(key, []).append(slug)
+    if len(seen) > 1:
+        detail = "; ".join(f"{k[0]}/{k[1]}: {', '.join(v)}" for k, v in seen.items())
+        return f"corpora were collected differently and cannot share a table — {detail}"
+    if missing:
+        return (f"no provenance for {', '.join(sorted(missing))} — these were not "
+                f"collected by `fetch`, so the population is unknown")
+    return None
+
+
 def cmd_reference(_args) -> None:
     import fetch_reference
 
@@ -94,9 +156,26 @@ def cmd_measure(args) -> None:
         print("no cleaned corpora — run `clean` first (and see README.md on "
               "how to obtain the raw transcripts)", file=sys.stderr)
         return
+    problem = _check_population(sorted(named))
+    if problem:
+        print(f"REFUSED: {problem}", file=sys.stderr)
+        if not args.allow_mixed:
+            print("re-run with --allow-mixed only if you know the corpora really "
+                  "are comparable", file=sys.stderr)
+            raise SystemExit(1)
+        print("continuing anyway (--allow-mixed)", file=sys.stderr)
+
     print(f"measuring {len(named)} game corpora", file=sys.stderr)
     result = _measure_many(named, sample=True)
     OUT.mkdir(parents=True, exist_ok=True)
+    prov = _provenance()
+    for slug, metrics in result.items():
+        if slug in prov:
+            metrics["provenance"] = {
+                k: prov[slug][k] for k in
+                ("source", "host", "population", "pages", "lines", "words")
+                if k in prov[slug]
+            }
     (OUT / "measurements.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
 
     config = _load_games_config()
@@ -199,8 +278,16 @@ def main() -> None:
     sub.add_parser("reference").set_defaults(fn=cmd_reference)
     sub.add_parser("clean").set_defaults(fn=cmd_clean)
     sub.add_parser("ladder").set_defaults(fn=cmd_ladder)
+    discover = sub.add_parser("discover")
+    discover.add_argument("slugs", nargs="*")
+    discover.set_defaults(fn=cmd_discover)
+    fetch = sub.add_parser("fetch")
+    fetch.add_argument("slugs", nargs="*")
+    fetch.set_defaults(fn=cmd_fetch)
     measure = sub.add_parser("measure")
     measure.add_argument("--anchor", help="slug of the game to calibrate against")
+    measure.add_argument("--allow-mixed", action="store_true",
+                         help="measure even when the corpora were collected differently")
     measure.set_defaults(fn=cmd_measure)
     sub.add_parser("selftest").set_defaults(fn=cmd_selftest)
     sub.add_parser("report").set_defaults(fn=cmd_report)

@@ -15,17 +15,51 @@ restricted to GitHub, npm and PyPI, so every wiki, transcript site and archive
 returned `403` at the proxy. The reference scale below is real, measured
 output; the game rows are empty until transcripts are supplied.
 
-## Getting corpora
+## One source, one population
 
-Put text you have the right to use in `corpus/raw/<slug>/*.txt`, one game per
-directory, slugs as in `corpus/games.json`. Anything goes in — transcripts,
-extracted dialogue tables, subtitle files — the cleaner is built to cope with
-mixed, messy dumps.
+Every corpus comes from **Fandom, through the MediaWiki API, through one
+parser**. This is the constraint the whole comparison rests on.
+
+Assembling each game from whatever transcript happened to exist would measure
+the transcript, not the game. A main-story fan transcript and a complete
+extracted dialogue archive are different populations: the second contains
+every optional branch and companion line, so it scores as harder English for
+reasons that have nothing to do with its English. Transcriber conventions
+differ too — whether stage directions, item text or ambient chatter were
+written down at all.
+
+**The population is `all-dialogue`:** main story, side content, companion and
+ambient lines. Not item descriptions or documents — that is `all-text`, and
+mixing the two is exactly the error this is built to prevent. The three
+populations are defined in `fetch_corpus.py` as patterns over category names,
+so the口径 is enforced in code rather than left to whoever collected the text.
+`measure` reads each corpus's provenance and **refuses to build one table**
+out of corpora collected under different populations.
+
+### Shared wikis
+
+Five of the eight games sit on a wiki that covers a whole series —
+`reddead` carries both Redemption games, `residentevil` the entire series,
+`godofwar` the Greek-era games, `zelda` every Zelda, `kingdomcomedeliverance`
+both. Selecting on population alone collects the wrong game's dialogue
+alongside the right one, and nothing downstream can detect it afterwards.
+
+Those entries are marked `shared_wiki` and are **refused until `game_filter`
+is set.** Run `discover` first: it reports what the wiki actually calls its
+categories, so the filter is written against reality rather than guessed.
+
+### Getting corpora
+
+```bash
+python src/run.py discover           # what each wiki offers; no download
+# set game_filter in corpus/games.json for the shared wikis
+python src/run.py fetch              # -> corpus/raw/<slug>/corpus.txt + provenance.json
+```
 
 `corpus/raw/` and `corpus/clean/` are **git-ignored and must stay that way.**
-Game scripts are copyrighted. This project commits only derived statistics —
-counts, ratios, coverage percentages — which is what makes it publishable at
-all. Never commit the text itself.
+Game scripts are copyrighted, and Fandom text is CC BY-SA. This project
+commits only derived statistics — counts, ratios, coverage percentages —
+which is what makes it publishable at all. Never commit the text itself.
 
 ## Running
 
@@ -35,11 +69,20 @@ pip install -r requirements.txt
 pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 
 python src/run.py reference   # build wordlists + reference registers (~1 min)
-python src/run.py ladder      # measure the reference scale
+python src/run.py selftest    # prove the engine orders known text correctly
+python src/test_wikitext.py   # prove the wiki parser extracts dialogue
+
+python src/run.py discover    # what each wiki offers; no download
+python src/run.py fetch       # one source, one parser, provenance recorded
 python src/run.py clean       # corpus/raw/ -> corpus/clean/
-python src/run.py measure     # measure the games, anchored on games.json
+python src/run.py measure     # refuses if the corpora are not comparable
 python src/run.py report      # -> out/report.md
 ```
+
+The wiki hosts in `corpus/games.json` are the conventional Fandom names and
+are **unverified** — they could not be reached from the machine this was
+written on, where outbound access was restricted to GitHub, npm and PyPI.
+`discover` is the check.
 
 ## Method
 
@@ -150,9 +193,13 @@ is why archaism is its own axis rather than folded into a single score.
 - **Reading and listening must not be pooled for a mostly-unvoiced game.**
   Tears of the Kingdom's NPC dialogue is largely text, so its listening load is
   not comparable to a fully voiced game's on the same scale.
-- **Transcript completeness varies.** A main-story transcript and a full
-  extracted dialogue archive are not the same population; optional and
-  ambient dialogue is usually the harder half. Sample sizes are reported.
+- **Wiki depth varies, and that is not measured difficulty.** One source
+  fixes the population definition but not how diligently each community
+  transcribed. A thin wiki yields a small, cutscene-heavy sample; a thorough
+  one yields ambient lines too. `provenance.json` records pages, lines and
+  words per game and those land in `measurements.json` — read them before
+  trusting a row. Extracting text from the games themselves would remove this
+  entirely, at the cost of a separate tool per engine.
 - The archaic index rests on an 18-book public-domain sample, which is enough
   for archaic function words and verb morphology and not enough for open-ended
   content words.
