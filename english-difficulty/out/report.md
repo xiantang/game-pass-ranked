@@ -21,8 +21,76 @@ budget. A game's numbers mean something only against these.
 
 ## Games
 
+Collected from automatic captions of no-commentary playthroughs. The
+blanked columns are the ones that source cannot carry: measured against a
+wiki corpus of the same game, sentence length came out 26% low and archaism
+45% low, because the automatic track has no punctuation for the parser to
+split on and speech recognition hears an archaic word as its modern
+neighbour. Coverage survives (+0.5%) and is what these rows are for.
+
 | corpus | cov@2k % | cov@5k % | C1+C2 % | unlisted % | archaic/1k | sent. len | subord./sent |
 |---|---|---|---|---|---|---|---|
-| **rdr2** | 93.75 | 96.98 | 0.29 | 6.19 | 0.4 | 7.38 | 0.637 |
-| **re4-remake** | 90.96 | 95.29 | 0.2 | 6.09 | 1.78 | 6.82 | 0.436 |
+| **bg3** | 88.16 | 93.91 | — | — | — | — | — |
+| **cyberpunk-2077** | 89.34 | 94.25 | — | — | — | — | — |
+| **ghost-of-tsushima** | 92.23 | 96.51 | — | — | — | — | — |
+| **god-of-war-2018** | 92.82 | 96.45 | — | — | — | — | — |
+| **kcd2** | 92.65 | 96.15 | — | — | — | — | — |
+| **persona-5-royal** | 90.04 | 94.93 | — | — | — | — | — |
+| **rdr2** | 94.61 | 97.48 | — | — | — | — | — |
+| **re2-remake** | 90.04 | 95.88 | — | — | — | — | — |
+| **re4-remake** | 93.6 | 97.0 | — | — | — | — | — |
+| **spider-man-2** | 92.02 | 96.22 | — | — | — | — | — |
+| **tlou-remastered** | 95.51 | 97.79 | — | — | — | — | — |
+| **uncharted-4** | 93.67 | 96.93 | — | — | — | — | — |
+
+### Load
+
+How fast the English arrives, which is a different question from how
+hard it is. Words per hour counts the whole playthrough, silence
+included; words per minute is measured over the gaps between captions,
+so it is the rate while someone is actually speaking.
+
+| game | words/hour | words/min spoken | corpus words | hours | ASR noise % |
+|---|---|---|---|---|---|
+| bg3 | 2315 | 95.7 | 43549 | 18.81 | 2.42 |
+| cyberpunk-2077 | 3132 | 109.8 | 16443 | 5.25 | 0.46 |
+| ghost-of-tsushima | 2876 | 111.1 | 24391 | 8.48 | 3.83 |
+| god-of-war-2018 | 2861 | 120.0 | 29310 | 10.24 | 1.45 |
+| kcd2 | 5126 | 150.0 | 184415 | 35.98 | 1.16 |
+| persona-5-royal | 4980 | 121.0 | 21652 | 4.35 | 0.6 |
+| rdr2 | 4816 | 139.5 | 172106 | 35.74 | 1.04 |
+| re2-remake | 639 | 45.2 | 2476 | 3.87 | 18.2 |
+| re4-remake | 1280 | 51.7 | 11611 | 9.07 | 0.21 |
+| spider-man-2 | 3516 | 122.0 | 63272 | 18.0 | 0.94 |
+| tlou-remastered | 2826 | 104.2 | 28442 | 10.07 | 1.1 |
+| uncharted-4 | 4006 | 122.2 | 38167 | 9.53 | 1.64 |
+
+## Lookups per hour
+
+How often an unknown word stops you, per hour of play. It is the only
+composite here, and it needs no invented weight: unknown words per 1000
+tokens times thousands of words per hour multiply to a rate, with the
+units cancelling. Pick the column matching your own vocabulary.
+
+It carries vocabulary and volume only. Syntax and archaism are not in it,
+because the caption source cannot measure them — so a period-register game
+is understated here, not overstated.
+
+| game | unknown/1k @5k | words/hour | @3k | @5k | @8k |
+|---|---|---|---|---|---|
+| re2-remake * | 41.2 | 639 | 50 | **26** | 14 |
+| re4-remake * | 30.0 | 1280 | 60 | **38** | 26 |
+| tlou-remastered | 22.1 | 2826 | 96 | **62** | 41 |
+| ghost-of-tsushima | 34.9 | 2876 | 157 | **100** | 64 |
+| god-of-war-2018 | 35.5 | 2861 | 150 | **102** | 69 |
+| rdr2 | 25.2 | 4816 | 184 | **121** | 79 |
+| uncharted-4 | 30.7 | 4006 | 180 | **123** | 81 |
+| spider-man-2 | 37.8 | 3516 | 210 | **133** | 88 |
+| bg3 | 60.9 | 2315 | 207 | **141** | 102 |
+| cyberpunk-2077 * | 57.5 | 3132 | 266 | **180** | 121 |
+| kcd2 | 38.5 | 5126 | 291 | **197** | 132 |
+| persona-5-royal | 50.7 | 4980 | 370 | **252** | 162 |
+
+`*` under 20,000 words of corpus, so that row is measured on a smaller
+sample than the budget the rest are cut to.
 

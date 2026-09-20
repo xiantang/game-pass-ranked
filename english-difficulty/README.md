@@ -9,17 +9,40 @@ something you can act on.
 
 ## Status
 
-The pipeline is built and validated, and two games are measured: `rdr2`
-(39 pages, ~51k words) and `re4-remake`. **`re4-remake` is not comparable** —
-Fandom has a transcript for only 18 of its 104 cutscene pages, ~1.3k words
-against a 20,000-token budget, and coverage drifts with length.
+Twelve games are measured, from the automatic captions of no-commentary
+playthroughs. Fandom was tried first and could not supply this list: six of
+the eight wikis it was pointed at have no dialogue category at all, and the
+two that do gave 50k words for one game and 1.3k for another.
 
-The other six games cannot be collected from Fandom at all. Ghost of Tsushima,
-Demon's Souls, God of War and Kingdom Come have no dialogue category on their
-wikis; Zelda has a single quotes page; and `baldursgate3.fandom.com` is the
-whole-series wiki, whose 57 dialogue categories are Baldur's Gate 1 and 2
-companions and whose `Dialogues` category holds no pages. Filling those rows
-means a different source, not a different filter.
+What the caption source costs was measured rather than assumed, by collecting
+`rdr2` both ways and comparing:
+
+| axis | vs. the wiki corpus | verdict |
+| --- | --- | --- |
+| coverage @2k / @5k / @10k | +0.9% / +0.5% / +0.4% | usable |
+| proper nouns | +5.1% | usable for real-world names only |
+| CEFR B2+ | -16.4% | biased low |
+| archaic per 1k | -45.0% | unusable |
+| mean sentence length | -25.9% | unusable |
+| subordination | -33.4% | unusable |
+
+Coverage survives because it counts a distribution and a few misheard words do
+not move it. Syntax does not, because the automatic track has no punctuation
+and the parser has nothing to split sentences on — the text is not simpler,
+it is unpunctuated. Archaism halves because recognition hears an archaic word
+as its modern neighbour, which is worst for exactly the games whose difficulty
+is archaic. The report prints nothing in those columns.
+
+The proper-noun result does not generalise. Red Dead's names are ordinary
+English ones; in Baldur's Gate 3 the recogniser drops invented names entirely
+(Shadowheart, Astarion and Lae'zel appear zero times in 44k words), which
+moves coverage in a direction this pipeline cannot determine. Fantasy rows
+carry that caveat.
+
+**Not collected:** Bloodborne, Demon's Souls and Tears of the Kingdom. No
+candidate video was both no-commentary and carried an English automatic
+track; availability runs at roughly one video in five, and these three drew
+none across 30+ candidates each.
 
 ## One source, one population
 

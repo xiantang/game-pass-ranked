@@ -61,6 +61,12 @@ def cmd_fetch(args) -> None:
     fetch_corpus.main(args.slugs or None)
 
 
+def cmd_captions(args) -> None:
+    import fetch_captions
+
+    fetch_captions.main(args.slugs or None)
+
+
 def _provenance() -> dict:
     out = {}
     for path in (ROOT / "corpus" / "raw").glob("*/provenance.json"):
@@ -173,7 +179,9 @@ def cmd_measure(args) -> None:
         if slug in prov:
             metrics["provenance"] = {
                 k: prov[slug][k] for k in
-                ("source", "host", "population", "pages", "lines", "words")
+                ("source", "host", "population", "pages", "lines", "words",
+                 "video", "channel", "track", "duration_hours", "words_per_hour",
+                 "words_per_minute", "asr_marker_pct")
                 if k in prov[slug]
             }
     (OUT / "measurements.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
@@ -284,6 +292,9 @@ def main() -> None:
     fetch = sub.add_parser("fetch")
     fetch.add_argument("slugs", nargs="*")
     fetch.set_defaults(fn=cmd_fetch)
+    captions = sub.add_parser("captions")
+    captions.add_argument("slugs", nargs="*")
+    captions.set_defaults(fn=cmd_captions)
     measure = sub.add_parser("measure")
     measure.add_argument("--anchor", help="slug of the game to calibrate against")
     measure.add_argument("--allow-mixed", action="store_true",
