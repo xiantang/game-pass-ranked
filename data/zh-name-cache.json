@@ -2489,5 +2489,17 @@
   "nhl26": null,
   "echoshift": null,
   "resogun": null,
-  "wwe2k26": null
+  "wwe2k26": null,
+  "shapeofdreams": {
+    "name": "梦之形",
+    "source": "steam"
+  },
+  "kernelhearts": {
+    "name": "内核之心",
+    "source": "steam"
+  },
+  "unchartedlegacyofthievescollection": {
+    "name": "UNCHARTED™: 盗贼传奇合辑",
+    "source": "steam"
+  }
 }

@@ -1,10 +1,10 @@
 {
   "service": "xgp",
   "market": "SG",
-  "fetchedAt": "2026-09-17T04:58:14.029Z",
-  "scoredAt": "2026-09-17T04:58:14.088Z",
-  "total": 807,
-  "scored": 680,
+  "fetchedAt": "2026-09-21T07:35:01.944Z",
+  "scoredAt": "2026-09-21T07:35:04.845Z",
+  "total": 809,
+  "scored": 681,
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -4448,13 +4448,13 @@
       "title": "Call of Duty®: Warzone™",
       "developer": null,
       "publisher": "Activision Publishing Inc.",
-      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features across the new Drone Labs POI in Verdansk, Endgame (for a limited time), Battle Royale, Black Ops Royale, and Resurgence.",
+      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
       "categories": [],
       "releaseDate": "2022-11-14T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.32046.13739535057760905.cd3d6e45-3ccc-4b13-80a5-0568cb1692ae.0a0c8972-422f-43f7-9079-f668009f7596",
+      "image": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNFG8BQRCXL",
       "titleZh": "使命召唤：战争地带",
-      "shortDescriptionZh": "欢迎来到《使命召唤®：战争地带™》，这是一个免费畅玩、规模庞大的竞技场。在“福尔丹斯克”的全新“无人机实验室”重要地点、限时开放的“最终任务”、“生存游戏”、“黑色行动生存游戏”以及重生模式中，体验紧张刺激的玩法与全新游戏机制。",
+      "shortDescriptionZh": "欢迎来到《使命召唤®：战争地带™》，这是一个免费畅玩、规模庞大的竞技场。体验刺激的游戏模式和全新游戏功能，包括“惊魂夜”重制版的宁湾镇、生存游戏、黑色行动生存游戏和重生模式。",
       "platforms": [
         "console",
         "pc"
@@ -5604,7 +5604,7 @@
       "title": "Crimson Skies®: High Road to Revenge™",
       "developer": "Microsoft Game Studios",
       "publisher": "Microsoft",
-      "shortDescription": "An Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: The online multiplayer, leaderboards and voice features of this game are no longer supported. This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Crimson Skies®: High Road to Revenge™ combines thrilling aerial combat with the swashbuckling style of a Holl…",
+      "shortDescription": "GAME-PLAY ALERT: The online multiplayer, leaderboards and voice features of this game are no longer supported. This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Crimson Skies®: High Road to Revenge™ combines thrilling aerial combat with the swashbuckling style of a Holl…",
       "categories": [
         "Racing & flying"
       ],
@@ -7798,10 +7798,10 @@
     {
       "productId": "9NK13T4QFPQW",
       "playAnywhere": false,
-      "title": "EA SPORTS FC™ 26 XBOX One",
+      "title": "EA SPORTS FC™ 26 Xbox One",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
-      "shortDescription": "Log in to EA SPORTS FC™ 26 by 16 September to get a 99 OVR Player Pick! Choose three 99 OVR Player Items from a pool of 20.",
+      "shortDescription": "The Club is Yours in EA SPORTS FC™ 26.\nPlay your way with an overhauled gameplay experience powered by Community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
       "categories": [
         "Sports",
         "Simulation"
@@ -7810,7 +7810,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.10782.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.31935413-8ff9-41fa-a5e8-b8a6eb8775c9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK13T4QFPQW",
       "titleZh": null,
-      "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
+      "shortDescriptionZh": "在《EA SPORTS FC™ 26》中，俱乐部由你主宰。\n随心畅玩，享受采纳社区反馈后焕然一新的游戏体验、为新赛季带来全新剧情的经理实时挑战，以及灵感源自足坛传奇的原型系统。",
       "platforms": [
         "console"
       ],
@@ -7834,10 +7834,10 @@
     {
       "productId": "9P9FTXPKQ35P",
       "playAnywhere": false,
-      "title": "EA SPORTS FC™ 26 XBOX Series X|S",
+      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
       "developer": "EA CANADA",
       "publisher": "Electronic Arts",
-      "shortDescription": "Log in to EA SPORTS FC™ 26 by 16 September to get a 99 OVR Player Pick! Choose three 99 OVR Player Items from a pool of 20.",
+      "shortDescription": "The Club is Yours in EA SPORTS FC™ 26.\nPlay your way with an overhauled gameplay experience powered by Community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
       "categories": [
         "Sports",
         "Simulation"
@@ -7846,7 +7846,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.10782.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.12c48214-554d-4f98-a995-c19b9101d1aa",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9FTXPKQ35P",
       "titleZh": null,
-      "shortDescriptionZh": "于 9 月 16 日前登录《EA SPORTS FC™ 26》，即可获得一次 99 总评球员挑选机会！从 20 件 99 总评球员物品中挑选 3 件获取。",
+      "shortDescriptionZh": "在《EA SPORTS FC™ 26》中，俱乐部由你主宰。\n随心畅玩，享受采纳社区反馈后焕然一新的游戏体验、为新赛季带来全新剧情的经理实时挑战，以及灵感源自足坛传奇的原型系统。",
       "platforms": [
         "console"
       ],
@@ -10064,7 +10064,7 @@
         "Strategy"
       ],
       "releaseDate": "2019-04-25T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.19309.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.e7460671-6dd2-47d7-af59-71118b6d060c",
+      "image": "https://store-images.s-microsoft.com/image/apps.8083.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.a1739f68-9454-40eb-ba60-81ec2d35e413",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BT5P2X999VH2",
       "titleZh": "堡垒之夜",
       "shortDescriptionZh": "Everything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.",
@@ -13062,6 +13062,32 @@
         "userReviewCount": 229
       },
       "titleZhSource": null
+    },
+    {
+      "productId": "9NXSNQR7CM1Q",
+      "playAnywhere": true,
+      "title": "Kernel Hearts",
+      "developer": "Ephemera Games",
+      "publisher": "Whitethorn Games",
+      "shortDescription": "Gather your allies. Eliminate Angels. Transform into a Magical Girl. Slay god.\n\nKernel Hearts is a Multiplayer Co-Op Roguelike Action RPG about four magical girls and their attempt to save a world that's drowning in ashes.",
+      "categories": [
+        "Action & adventure",
+        "Role playing",
+        "Other"
+      ],
+      "releaseDate": "2026-09-17T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.21502.14493835367297887.3d2ad750-4d36-4684-b869-351a4f2e7062.3f9f2883-857e-40ff-a44d-8aefcb6db8f6",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NXSNQR7CM1Q",
+      "titleZh": "内核之心",
+      "shortDescriptionZh": "集结同伴，消灭天使，变身魔法少女，诛杀天神。\n \n 《Kernel Hearts》是一款多人合作角色扮演类Rogue动作游戏，讲述了四名魔法少女如何试图拯救世界，令其免于被灰烬淹没的命运。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": null,
+      "titleZhSource": "steam"
     },
     {
       "productId": "9MXHL3TT792F",
@@ -19745,6 +19771,44 @@
       "xboxSeries": false,
       "metacritic": null,
       "titleZhSource": null
+    },
+    {
+      "productId": "9PK0DZ68LGC0",
+      "playAnywhere": true,
+      "title": "Shape of Dreams",
+      "developer": "Lizard Smoothie",
+      "publisher": "NEOWIZ",
+      "shortDescription": "Shape of Dreams delivers fast-paced top-down roguelite action with chaotic projectile-filled battles, fluid combat, and high-stakes co-op. Play solo or in up to 4-player co-op mode as you dodge overwhelming attacks and unleash devastating builds.",
+      "categories": [
+        "Action & adventure",
+        "Strategy",
+        "Role playing"
+      ],
+      "releaseDate": "2026-09-17T11:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.64297.14272457971400341.9e426def-5803-4abc-8dd4-76b9f9ab9f3d.91c496d2-789c-40fd-a35b-0dfa785817a6",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PK0DZ68LGC0",
+      "titleZh": "梦之形",
+      "shortDescriptionZh": "《梦之形》是一款结合了MOBA风格的动作Roguelike游戏。踏上梦境世界的冒险，编辑英雄的记忆，亲手打造你心仪的冠军。你可以独自面对所有挑战，或者与朋友们一起，在最多四人的合作游戏中共同作战。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 84,
+        "title": "Shape of Dreams",
+        "url": "https://www.metacritic.com/game/shape-of-dreams/",
+        "mustPlay": false,
+        "genres": [
+          "Action RPG"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-09-10",
+        "userScore": 7.6,
+        "userReviewCount": 27
+      },
+      "titleZhSource": "steam"
     },
     {
       "productId": "9N51NR4GX891",

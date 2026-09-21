@@ -12267,5 +12267,41 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "shape of dreams": {
+    "title": "Shape of Dreams",
+    "slug": "shape-of-dreams",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/shape-of-dreams/",
+    "releaseDate": "2025-09-10",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "kernel hearts": {
+    "title": "Kernel Hearts",
+    "slug": "kernel-hearts",
+    "score": null,
+    "url": "https://www.metacritic.com/game/kernel-hearts/",
+    "releaseDate": "2026-09-17",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "uncharted legacy of thieves collection": {
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "slug": "uncharted-legacy-of-thieves-collection",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/uncharted-legacy-of-thieves-collection/",
+    "releaseDate": "2022-01-28",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }
