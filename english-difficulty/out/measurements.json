@@ -1,0 +1,954 @@
+{
+  "bg3": {
+    "volume": {
+      "lines_total": 7006,
+      "lines_sampled": 3559,
+      "tokens": 20030,
+      "types": 3421,
+      "sentences": 267
+    },
+    "vocabulary": {
+      "coverage_2k": 88.16,
+      "coverage_3k": 91.04,
+      "coverage_5k": 93.91,
+      "coverage_10k": 96.42,
+      "coverage_20k": 98.31,
+      "beyond_top_band_pct": 0.4,
+      "cefr_pct": {
+        "A1": 56.92,
+        "A2": 16.51,
+        "B1": 11.59,
+        "B2": 5.7,
+        "C1": 0.79,
+        "C2": 0.48,
+        "unlisted": 8.02
+      },
+      "cefr_b2_plus_pct": 14.99,
+      "cefr_c_plus_pct": 1.27,
+      "cefr_unlisted_pct": 8.02,
+      "archaic_per_1k": 1.45,
+      "coinage_per_1k": 3.64,
+      "archaic_mean_score": 4.51,
+      "mattr": 0.538
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.06,
+      "distinct_per_1k": 20.12
+    },
+    "sentence": {
+      "mean_length": 75.02,
+      "median_length": 50,
+      "over_20_pct": 70.04,
+      "over_30_pct": 61.05,
+      "subordinate_per_sentence": 12.071,
+      "mean_tree_depth": 9.05,
+      "mean_dependency_distance": 4.82
+    },
+    "register": {
+      "contractions_per_1k": 49.48,
+      "first_second_person_per_1k": 93.71,
+      "interjections_per_1k": 9.54,
+      "question_pct": 0.0,
+      "fragment_pct": 4.49
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 8874,
+      "words": 43549,
+      "video": "Ecp0vOKReHA",
+      "channel": "Loopy Longplays",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 18.81,
+      "words_per_hour": 2315,
+      "words_per_minute": 95.7,
+      "asr_marker_pct": 2.42
+    }
+  },
+  "clair-obscur-33": {
+    "volume": {
+      "lines_total": 5995,
+      "lines_sampled": 3665,
+      "tokens": 18826,
+      "types": 2623,
+      "sentences": 3206
+    },
+    "vocabulary": {
+      "coverage_2k": 91.7,
+      "coverage_3k": 93.51,
+      "coverage_5k": 95.18,
+      "coverage_10k": 97.5,
+      "coverage_20k": 98.78,
+      "beyond_top_band_pct": 0.4,
+      "cefr_pct": {
+        "A1": 66.64,
+        "A2": 15.17,
+        "B1": 7.27,
+        "B2": 4.5,
+        "C1": 0.5,
+        "C2": 0.22,
+        "unlisted": 5.7
+      },
+      "cefr_b2_plus_pct": 10.92,
+      "cefr_c_plus_pct": 0.72,
+      "cefr_unlisted_pct": 5.7,
+      "archaic_per_1k": 0.48,
+      "coinage_per_1k": 4.36,
+      "archaic_mean_score": 5.78,
+      "mattr": 0.497
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.17,
+      "distinct_per_1k": 17.42
+    },
+    "sentence": {
+      "mean_length": 5.87,
+      "median_length": 5.0,
+      "over_20_pct": 1.28,
+      "over_30_pct": 0.28,
+      "subordinate_per_sentence": 0.47,
+      "mean_tree_depth": 3.65,
+      "mean_dependency_distance": 2.13
+    },
+    "register": {
+      "contractions_per_1k": 60.66,
+      "first_second_person_per_1k": 109.16,
+      "interjections_per_1k": 22.52,
+      "question_pct": 5.24,
+      "fragment_pct": 22.83
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 9471,
+      "words": 38560,
+      "video": "dHDoR_R6bDY",
+      "channel": "GameWalk Tutor",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 24.0,
+      "words_per_hour": 1607,
+      "words_per_minute": 74.9,
+      "asr_marker_pct": 0.04
+    }
+  },
+  "cyberpunk-2077": {
+    "volume": {
+      "lines_total": 2450,
+      "lines_sampled": 2450,
+      "tokens": 15124,
+      "types": 2782,
+      "sentences": 372
+    },
+    "vocabulary": {
+      "coverage_2k": 89.34,
+      "coverage_3k": 91.5,
+      "coverage_5k": 94.25,
+      "coverage_10k": 97.01,
+      "coverage_20k": 98.52,
+      "beyond_top_band_pct": 0.42,
+      "cefr_pct": {
+        "A1": 63.13,
+        "A2": 14.63,
+        "B1": 7.78,
+        "B2": 4.35,
+        "C1": 0.48,
+        "C2": 0.23,
+        "unlisted": 9.38
+      },
+      "cefr_b2_plus_pct": 14.44,
+      "cefr_c_plus_pct": 0.71,
+      "cefr_unlisted_pct": 9.38,
+      "archaic_per_1k": 0.13,
+      "coinage_per_1k": 10.98,
+      "archaic_mean_score": 4.0,
+      "mattr": 0.5244
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 5.46,
+      "distinct_per_1k": 28.23
+    },
+    "sentence": {
+      "mean_length": 40.66,
+      "median_length": 25.0,
+      "over_20_pct": 55.65,
+      "over_30_pct": 41.4,
+      "subordinate_per_sentence": 6.188,
+      "mean_tree_depth": 7.08,
+      "mean_dependency_distance": 4.37
+    },
+    "register": {
+      "contractions_per_1k": 48.93,
+      "first_second_person_per_1k": 81.26,
+      "interjections_per_1k": 17.98,
+      "question_pct": 0.0,
+      "fragment_pct": 7.26
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 3060,
+      "words": 16443,
+      "video": "UQ1bJOTV-Zw",
+      "channel": "arab games xd",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 5.25,
+      "words_per_hour": 3132,
+      "words_per_minute": 109.8,
+      "asr_marker_pct": 0.46
+    }
+  },
+  "ghost-of-tsushima": {
+    "volume": {
+      "lines_total": 4055,
+      "lines_sampled": 3462,
+      "tokens": 20018,
+      "types": 2383,
+      "sentences": 236
+    },
+    "vocabulary": {
+      "coverage_2k": 92.23,
+      "coverage_3k": 94.54,
+      "coverage_5k": 96.51,
+      "coverage_10k": 98.4,
+      "coverage_20k": 99.21,
+      "beyond_top_band_pct": 0.11,
+      "cefr_pct": {
+        "A1": 66.86,
+        "A2": 14.44,
+        "B1": 9.76,
+        "B2": 3.31,
+        "C1": 0.43,
+        "C2": 0.13,
+        "unlisted": 5.06
+      },
+      "cefr_b2_plus_pct": 8.93,
+      "cefr_c_plus_pct": 0.56,
+      "cefr_unlisted_pct": 5.06,
+      "archaic_per_1k": 0.15,
+      "coinage_per_1k": 4.4,
+      "archaic_mean_score": 4.82,
+      "mattr": 0.4947
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 5.03,
+      "distinct_per_1k": 16.93
+    },
+    "sentence": {
+      "mean_length": 84.82,
+      "median_length": 50.5,
+      "over_20_pct": 72.88,
+      "over_30_pct": 63.56,
+      "subordinate_per_sentence": 14.729,
+      "mean_tree_depth": 9.46,
+      "mean_dependency_distance": 5.24
+    },
+    "register": {
+      "contractions_per_1k": 53.6,
+      "first_second_person_per_1k": 108.2,
+      "interjections_per_1k": 4.65,
+      "question_pct": 0.0,
+      "fragment_pct": 3.39
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 4726,
+      "words": 24391,
+      "video": "fLLm9PZHRqY",
+      "channel": "Katana Longplays",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 8.48,
+      "words_per_hour": 2876,
+      "words_per_minute": 111.1,
+      "asr_marker_pct": 3.83
+    }
+  },
+  "god-of-war-2018": {
+    "volume": {
+      "lines_total": 4579,
+      "lines_sampled": 3246,
+      "tokens": 20004,
+      "types": 2433,
+      "sentences": 593
+    },
+    "vocabulary": {
+      "coverage_2k": 92.82,
+      "coverage_3k": 94.77,
+      "coverage_5k": 96.45,
+      "coverage_10k": 98.12,
+      "coverage_20k": 98.93,
+      "beyond_top_band_pct": 0.27,
+      "cefr_pct": {
+        "A1": 69.92,
+        "A2": 13.28,
+        "B1": 6.65,
+        "B2": 3.43,
+        "C1": 0.35,
+        "C2": 0.13,
+        "unlisted": 6.25
+      },
+      "cefr_b2_plus_pct": 10.16,
+      "cefr_c_plus_pct": 0.48,
+      "cefr_unlisted_pct": 6.25,
+      "archaic_per_1k": 0.3,
+      "coinage_per_1k": 6.0,
+      "archaic_mean_score": 4.75,
+      "mattr": 0.4772
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.01,
+      "distinct_per_1k": 14.15
+    },
+    "sentence": {
+      "mean_length": 33.73,
+      "median_length": 21,
+      "over_20_pct": 50.93,
+      "over_30_pct": 37.77,
+      "subordinate_per_sentence": 5.25,
+      "mean_tree_depth": 6.55,
+      "mean_dependency_distance": 3.78
+    },
+    "register": {
+      "contractions_per_1k": 45.19,
+      "first_second_person_per_1k": 105.28,
+      "interjections_per_1k": 19.95,
+      "question_pct": 0.0,
+      "fragment_pct": 7.25
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 5209,
+      "words": 29310,
+      "video": "WZtnh3sTUv0",
+      "channel": "Shirrako",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 10.24,
+      "words_per_hour": 2861,
+      "words_per_minute": 120.0,
+      "asr_marker_pct": 1.45
+    }
+  },
+  "jedi-survivor": {
+    "volume": {
+      "lines_total": 3883,
+      "lines_sampled": 3567,
+      "tokens": 20049,
+      "types": 2678,
+      "sentences": 449
+    },
+    "vocabulary": {
+      "coverage_2k": 91.83,
+      "coverage_3k": 94.0,
+      "coverage_5k": 95.61,
+      "coverage_10k": 97.68,
+      "coverage_20k": 99.1,
+      "beyond_top_band_pct": 0.2,
+      "cefr_pct": {
+        "A1": 66.42,
+        "A2": 15.01,
+        "B1": 8.2,
+        "B2": 3.56,
+        "C1": 0.41,
+        "C2": 0.08,
+        "unlisted": 6.32
+      },
+      "cefr_b2_plus_pct": 10.37,
+      "cefr_c_plus_pct": 0.49,
+      "cefr_unlisted_pct": 6.32,
+      "archaic_per_1k": 0.3,
+      "coinage_per_1k": 3.34,
+      "archaic_mean_score": 5.06,
+      "mattr": 0.5098
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 4.96,
+      "distinct_per_1k": 18.45
+    },
+    "sentence": {
+      "mean_length": 44.65,
+      "median_length": 25,
+      "over_20_pct": 55.01,
+      "over_30_pct": 44.54,
+      "subordinate_per_sentence": 7.664,
+      "mean_tree_depth": 7.31,
+      "mean_dependency_distance": 4.19
+    },
+    "register": {
+      "contractions_per_1k": 55.56,
+      "first_second_person_per_1k": 104.44,
+      "interjections_per_1k": 15.41,
+      "question_pct": 0.0,
+      "fragment_pct": 4.01
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 4629,
+      "words": 22760,
+      "video": "zKBZRkiFheg",
+      "channel": "FIRSTPLAYTHROUGHS",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 11.96,
+      "words_per_hour": 1903,
+      "words_per_minute": 100.0,
+      "asr_marker_pct": 2.03
+    }
+  },
+  "kcd2": {
+    "volume": {
+      "lines_total": 25914,
+      "lines_sampled": 2892,
+      "tokens": 19999,
+      "types": 2841,
+      "sentences": 476
+    },
+    "vocabulary": {
+      "coverage_2k": 92.65,
+      "coverage_3k": 94.32,
+      "coverage_5k": 96.15,
+      "coverage_10k": 98.04,
+      "coverage_20k": 99.01,
+      "beyond_top_band_pct": 0.33,
+      "cefr_pct": {
+        "A1": 66.78,
+        "A2": 13.87,
+        "B1": 8.19,
+        "B2": 3.82,
+        "C1": 0.29,
+        "C2": 0.18,
+        "unlisted": 6.88
+      },
+      "cefr_b2_plus_pct": 11.17,
+      "cefr_c_plus_pct": 0.47,
+      "cefr_unlisted_pct": 6.88,
+      "archaic_per_1k": 0.25,
+      "coinage_per_1k": 10.95,
+      "archaic_mean_score": 4.5,
+      "mattr": 0.4974
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.91,
+      "distinct_per_1k": 20.55
+    },
+    "sentence": {
+      "mean_length": 42.01,
+      "median_length": 25.0,
+      "over_20_pct": 56.3,
+      "over_30_pct": 43.91,
+      "subordinate_per_sentence": 6.326,
+      "mean_tree_depth": 7.28,
+      "mean_dependency_distance": 4.19
+    },
+    "register": {
+      "contractions_per_1k": 56.8,
+      "first_second_person_per_1k": 104.51,
+      "interjections_per_1k": 10.55,
+      "question_pct": 0.0,
+      "fragment_pct": 6.3
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 27591,
+      "words": 184415,
+      "video": "2jw9a9J1PgA",
+      "channel": "Gamer's Little Playground",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 35.98,
+      "words_per_hour": 5126,
+      "words_per_minute": 150.0,
+      "asr_marker_pct": 1.16
+    }
+  },
+  "persona-5-royal": {
+    "volume": {
+      "lines_total": 3513,
+      "lines_sampled": 3426,
+      "tokens": 19989,
+      "types": 2741,
+      "sentences": 2433
+    },
+    "vocabulary": {
+      "coverage_2k": 90.04,
+      "coverage_3k": 92.58,
+      "coverage_5k": 94.93,
+      "coverage_10k": 97.61,
+      "coverage_20k": 99.07,
+      "beyond_top_band_pct": 0.13,
+      "cefr_pct": {
+        "A1": 58.57,
+        "A2": 18.96,
+        "B1": 10.55,
+        "B2": 5.34,
+        "C1": 0.66,
+        "C2": 0.38,
+        "unlisted": 5.53
+      },
+      "cefr_b2_plus_pct": 11.91,
+      "cefr_c_plus_pct": 1.04,
+      "cefr_unlisted_pct": 5.53,
+      "archaic_per_1k": 1.0,
+      "coinage_per_1k": 0.95,
+      "archaic_mean_score": 4.59,
+      "mattr": 0.5028
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 2.81,
+      "distinct_per_1k": 9.51
+    },
+    "sentence": {
+      "mean_length": 8.22,
+      "median_length": 7,
+      "over_20_pct": 3.37,
+      "over_30_pct": 0.66,
+      "subordinate_per_sentence": 0.767,
+      "mean_tree_depth": 4.26,
+      "mean_dependency_distance": 2.33
+    },
+    "register": {
+      "contractions_per_1k": 57.03,
+      "first_second_person_per_1k": 90.1,
+      "interjections_per_1k": 10.91,
+      "question_pct": 15.04,
+      "fragment_pct": 15.62
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 4318,
+      "words": 21652,
+      "video": "ujELK2xYCt0",
+      "channel": "DismArchus",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 4.35,
+      "words_per_hour": 4980,
+      "words_per_minute": 121.0,
+      "asr_marker_pct": 0.6
+    }
+  },
+  "rdr2": {
+    "volume": {
+      "lines_total": 25965,
+      "lines_sampled": 3165,
+      "tokens": 18540,
+      "types": 2337,
+      "sentences": 3387
+    },
+    "vocabulary": {
+      "coverage_2k": 94.61,
+      "coverage_3k": 96.18,
+      "coverage_5k": 97.48,
+      "coverage_10k": 98.77,
+      "coverage_20k": 99.43,
+      "beyond_top_band_pct": 0.11,
+      "cefr_pct": {
+        "A1": 74.4,
+        "A2": 12.17,
+        "B1": 5.69,
+        "B2": 3.12,
+        "C1": 0.28,
+        "C2": 0.1,
+        "unlisted": 4.25
+      },
+      "cefr_b2_plus_pct": 7.75,
+      "cefr_c_plus_pct": 0.38,
+      "cefr_unlisted_pct": 4.25,
+      "archaic_per_1k": 0.22,
+      "coinage_per_1k": 0.86,
+      "archaic_mean_score": 4.58,
+      "mattr": 0.4858
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 4.54,
+      "distinct_per_1k": 20.77
+    },
+    "sentence": {
+      "mean_length": 5.47,
+      "median_length": 4,
+      "over_20_pct": 0.8,
+      "over_30_pct": 0.12,
+      "subordinate_per_sentence": 0.424,
+      "mean_tree_depth": 3.52,
+      "mean_dependency_distance": 2.14
+    },
+    "register": {
+      "contractions_per_1k": 61.65,
+      "first_second_person_per_1k": 120.98,
+      "interjections_per_1k": 26.11,
+      "question_pct": 5.55,
+      "fragment_pct": 28.14
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 30797,
+      "words": 172106,
+      "video": "zcIZAVdK8IY",
+      "channel": "Gamer Max Channel",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 35.74,
+      "words_per_hour": 4816,
+      "words_per_minute": 139.5,
+      "asr_marker_pct": 1.04
+    }
+  },
+  "re2-remake": {
+    "volume": {
+      "lines_total": 339,
+      "lines_sampled": 339,
+      "tokens": 2036,
+      "types": 565,
+      "sentences": 63
+    },
+    "vocabulary": {
+      "coverage_2k": 90.04,
+      "coverage_3k": 92.18,
+      "coverage_5k": 95.88,
+      "coverage_10k": 98.64,
+      "coverage_20k": 99.48,
+      "beyond_top_band_pct": 0.16,
+      "cefr_pct": {
+        "A1": 65.56,
+        "A2": 12.13,
+        "B1": 10.54,
+        "B2": 4.66,
+        "C1": 0.37,
+        "C2": 0.12,
+        "unlisted": 6.62
+      },
+      "cefr_b2_plus_pct": 11.77,
+      "cefr_c_plus_pct": 0.49,
+      "cefr_unlisted_pct": 6.62,
+      "archaic_per_1k": 0.0,
+      "coinage_per_1k": 6.88,
+      "archaic_mean_score": 0.0,
+      "mattr": 0.4528
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 5.16,
+      "distinct_per_1k": 22.59
+    },
+    "sentence": {
+      "mean_length": 32.32,
+      "median_length": 16,
+      "over_20_pct": 39.68,
+      "over_30_pct": 31.75,
+      "subordinate_per_sentence": 4.984,
+      "mean_tree_depth": 6.25,
+      "mean_dependency_distance": 3.86
+    },
+    "register": {
+      "contractions_per_1k": 71.22,
+      "first_second_person_per_1k": 103.14,
+      "interjections_per_1k": 12.28,
+      "question_pct": 0.0,
+      "fragment_pct": 7.94
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 752,
+      "words": 2476,
+      "video": "dD1M9_uGg5w",
+      "channel": "Good Games Lab",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 3.87,
+      "words_per_hour": 639,
+      "words_per_minute": 45.2,
+      "asr_marker_pct": 18.2
+    }
+  },
+  "re4-remake": {
+    "volume": {
+      "lines_total": 1848,
+      "lines_sampled": 1848,
+      "tokens": 9180,
+      "types": 1444,
+      "sentences": 1663
+    },
+    "vocabulary": {
+      "coverage_2k": 93.6,
+      "coverage_3k": 95.31,
+      "coverage_5k": 97.0,
+      "coverage_10k": 98.43,
+      "coverage_20k": 99.43,
+      "beyond_top_band_pct": 0.14,
+      "cefr_pct": {
+        "A1": 71.5,
+        "A2": 11.71,
+        "B1": 7.25,
+        "B2": 3.79,
+        "C1": 0.52,
+        "C2": 0.12,
+        "unlisted": 5.1
+      },
+      "cefr_b2_plus_pct": 9.53,
+      "cefr_c_plus_pct": 0.64,
+      "cefr_unlisted_pct": 5.1,
+      "archaic_per_1k": 0.44,
+      "coinage_per_1k": 1.31,
+      "archaic_mean_score": 4.44,
+      "mattr": 0.4754
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.17,
+      "distinct_per_1k": 13.94
+    },
+    "sentence": {
+      "mean_length": 5.52,
+      "median_length": 4,
+      "over_20_pct": 0.42,
+      "over_30_pct": 0.0,
+      "subordinate_per_sentence": 0.441,
+      "mean_tree_depth": 3.57,
+      "mean_dependency_distance": 1.96
+    },
+    "register": {
+      "contractions_per_1k": 64.16,
+      "first_second_person_per_1k": 118.74,
+      "interjections_per_1k": 24.84,
+      "question_pct": 11.18,
+      "fragment_pct": 32.05
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 3097,
+      "words": 11611,
+      "video": "yNsgy8nNKvE",
+      "channel": "Shayan gaming",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 9.07,
+      "words_per_hour": 1280,
+      "words_per_minute": 51.7,
+      "asr_marker_pct": 0.21
+    }
+  },
+  "spider-man-2": {
+    "volume": {
+      "lines_total": 9983,
+      "lines_sampled": 3234,
+      "tokens": 20051,
+      "types": 2771,
+      "sentences": 597
+    },
+    "vocabulary": {
+      "coverage_2k": 92.02,
+      "coverage_3k": 94.04,
+      "coverage_5k": 96.22,
+      "coverage_10k": 98.09,
+      "coverage_20k": 99.21,
+      "beyond_top_band_pct": 0.19,
+      "cefr_pct": {
+        "A1": 69.02,
+        "A2": 12.79,
+        "B1": 8.16,
+        "B2": 3.01,
+        "C1": 0.28,
+        "C2": 0.16,
+        "unlisted": 6.58
+      },
+      "cefr_b2_plus_pct": 10.03,
+      "cefr_c_plus_pct": 0.44,
+      "cefr_unlisted_pct": 6.58,
+      "archaic_per_1k": 0.15,
+      "coinage_per_1k": 3.74,
+      "archaic_mean_score": 4.21,
+      "mattr": 0.5014
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 4.9,
+      "distinct_per_1k": 20.15
+    },
+    "sentence": {
+      "mean_length": 33.59,
+      "median_length": 19,
+      "over_20_pct": 47.4,
+      "over_30_pct": 34.84,
+      "subordinate_per_sentence": 5.534,
+      "mean_tree_depth": 6.38,
+      "mean_dependency_distance": 3.93
+    },
+    "register": {
+      "contractions_per_1k": 58.1,
+      "first_second_person_per_1k": 98.85,
+      "interjections_per_1k": 18.25,
+      "question_pct": 0.0,
+      "fragment_pct": 7.54
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 10951,
+      "words": 63272,
+      "video": "DJ9ueNpFufI",
+      "channel": "Pumba Reborn",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 18.0,
+      "words_per_hour": 3516,
+      "words_per_minute": 122.0,
+      "asr_marker_pct": 0.94
+    }
+  },
+  "tlou-remastered": {
+    "volume": {
+      "lines_total": 4599,
+      "lines_sampled": 3495,
+      "tokens": 19970,
+      "types": 1959,
+      "sentences": 3980
+    },
+    "vocabulary": {
+      "coverage_2k": 95.51,
+      "coverage_3k": 96.62,
+      "coverage_5k": 97.79,
+      "coverage_10k": 98.9,
+      "coverage_20k": 99.5,
+      "beyond_top_band_pct": 0.04,
+      "cefr_pct": {
+        "A1": 76.68,
+        "A2": 11.02,
+        "B1": 4.86,
+        "B2": 3.22,
+        "C1": 0.21,
+        "C2": 0.05,
+        "unlisted": 3.96
+      },
+      "cefr_b2_plus_pct": 7.44,
+      "cefr_c_plus_pct": 0.26,
+      "cefr_unlisted_pct": 3.96,
+      "archaic_per_1k": 0.05,
+      "coinage_per_1k": 0.7,
+      "archaic_mean_score": 14.69,
+      "mattr": 0.4347
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 3.08,
+      "distinct_per_1k": 10.07
+    },
+    "sentence": {
+      "mean_length": 5.02,
+      "median_length": 4.0,
+      "over_20_pct": 0.43,
+      "over_30_pct": 0.0,
+      "subordinate_per_sentence": 0.407,
+      "mean_tree_depth": 3.35,
+      "mean_dependency_distance": 1.96
+    },
+    "register": {
+      "contractions_per_1k": 66.3,
+      "first_second_person_per_1k": 114.47,
+      "interjections_per_1k": 30.7,
+      "question_pct": 13.69,
+      "fragment_pct": 30.65
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 5362,
+      "words": 28442,
+      "video": "RV13xM9iDH0",
+      "channel": "MKIceAndFire",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 10.07,
+      "words_per_hour": 2826,
+      "words_per_minute": 104.2,
+      "asr_marker_pct": 1.1
+    }
+  },
+  "uncharted-4": {
+    "volume": {
+      "lines_total": 6117,
+      "lines_sampled": 3408,
+      "tokens": 18477,
+      "types": 2198,
+      "sentences": 3619
+    },
+    "vocabulary": {
+      "coverage_2k": 93.67,
+      "coverage_3k": 95.5,
+      "coverage_5k": 96.93,
+      "coverage_10k": 98.47,
+      "coverage_20k": 99.41,
+      "beyond_top_band_pct": 0.12,
+      "cefr_pct": {
+        "A1": 73.63,
+        "A2": 11.86,
+        "B1": 5.62,
+        "B2": 3.34,
+        "C1": 0.21,
+        "C2": 0.1,
+        "unlisted": 5.23
+      },
+      "cefr_b2_plus_pct": 8.88,
+      "cefr_c_plus_pct": 0.31,
+      "cefr_unlisted_pct": 5.23,
+      "archaic_per_1k": 0.16,
+      "coinage_per_1k": 0.87,
+      "archaic_mean_score": 5.99,
+      "mattr": 0.4588
+    },
+    "proper_nouns": {
+      "pct_of_tokens": 4.49,
+      "distinct_per_1k": 15.26
+    },
+    "sentence": {
+      "mean_length": 5.11,
+      "median_length": 4,
+      "over_20_pct": 0.91,
+      "over_30_pct": 0.06,
+      "subordinate_per_sentence": 0.378,
+      "mean_tree_depth": 3.47,
+      "mean_dependency_distance": 2.07
+    },
+    "register": {
+      "contractions_per_1k": 60.51,
+      "first_second_person_per_1k": 101.86,
+      "interjections_per_1k": 47.25,
+      "question_pct": 6.52,
+      "fragment_pct": 30.48
+    },
+    "provenance": {
+      "source": "youtube-captions",
+      "host": "youtube.com",
+      "population": "all-dialogue",
+      "pages": 1,
+      "lines": 7463,
+      "words": 38167,
+      "video": "1XaN6bp1qLs",
+      "channel": "Kirus Games",
+      "track": "en-orig (automatic speech recognition)",
+      "duration_hours": 9.53,
+      "words_per_hour": 4006,
+      "words_per_minute": 122.2,
+      "asr_marker_pct": 1.64
+    }
+  }
+}
