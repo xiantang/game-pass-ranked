@@ -4764,5 +4764,16 @@
     "score": 8.4,
     "reviewCount": 1798,
     "sentiment": "Generally favorable"
+  },
+  "dune-awakening": {
+    "score": 6.1,
+    "reviewCount": 248,
+    "sentiment": "Mixed or average"
+  },
+  "mad-king-redemption": null,
+  "well-dweller": {
+    "score": 8.6,
+    "reviewCount": 72,
+    "sentiment": "Generally favorable"
   }
 }

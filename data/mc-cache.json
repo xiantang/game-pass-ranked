@@ -12303,5 +12303,41 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "well dweller": {
+    "title": "Well Dweller",
+    "slug": "well-dweller",
+    "score": 91,
+    "url": "https://www.metacritic.com/game/well-dweller/",
+    "releaseDate": "2026-09-22",
+    "genres": [
+      "Metroidvania"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dune awakening": {
+    "title": "Dune: Awakening",
+    "slug": "dune-awakening",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/dune-awakening/",
+    "releaseDate": "2025-06-10",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mad king redemption": {
+    "title": "Mad King Redemption",
+    "slug": "mad-king-redemption",
+    "score": null,
+    "url": "https://www.metacritic.com/game/mad-king-redemption/",
+    "releaseDate": "TBA - Early Access",
+    "genres": [
+      "2D Beat-'Em-Up"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

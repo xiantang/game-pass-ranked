@@ -1,6 +1,6 @@
 {
   "market": "SG",
-  "fetchedAt": "2026-09-21T07:35:01.944Z",
+  "fetchedAt": "2026-09-28T08:10:15.423Z",
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -4870,6 +4870,30 @@
       "xboxSeries": true
     },
     {
+      "productId": "9PJ6FV3130QZ",
+      "playAnywhere": true,
+      "title": "Dune: Awakening",
+      "developer": "Funcom",
+      "publisher": "Funcom",
+      "shortDescription": "Dune: Awakening is a single- and multiplayer Open World Survival game with immersive adventure and RPG gameplay. Explore, build, craft, and unravel a cinematic Dune story as you rise from survival to greatness on the most legendary planet in the universe. Just remember: the sandworm always comes. ",
+      "categories": [
+        "Action & adventure",
+        "Role playing",
+        "Shooter"
+      ],
+      "releaseDate": "2026-09-22T12:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.58998.14221973547534254.c9400a22-a0eb-4428-bc72-11e2270ad849.fcbce16e-22b4-4a1a-ae75-75fa207548b5",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PJ6FV3130QZ",
+      "titleZh": "《Dune: Awakening 沙丘：觉醒》",
+      "shortDescriptionZh": "《Dune: Awakening 沙丘：觉醒》支持单人及多人模式，是一款开放世界生存游戏，融合了沉浸式冒险和角色扮演玩法。探索、建造、制作，在宇宙最传奇的星球上，从求生崛起为传奇，一步步揭开一段电影级别的沙丘故事。记住：沙虫从不缺席。\n",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9N436FQM30HX",
       "playAnywhere": false,
       "title": "EA SPORTS FC™ 25 Xbox One",
@@ -8942,6 +8966,29 @@
       "xboxSeries": true
     },
     {
+      "productId": "9N944N1WP67T",
+      "playAnywhere": true,
+      "title": "Mad King Redemption",
+      "developer": "Secret Mission Games",
+      "publisher": "Secret Mission Games",
+      "shortDescription": "Mad King Redemption is a unique blend of a traditional beat'em'up game with strong roguelite progression, mixed in a pixelated graphic style in a 2.5D world. Relieve the king from his madness while beating up corrupted enemies, in a fresh way at every run!",
+      "categories": [
+        "Action & adventure",
+        "Fighting"
+      ],
+      "releaseDate": "2026-08-23T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.56038.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.42b5ee39-b724-4340-b34e-39af9df10075",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N944N1WP67T",
+      "titleZh": null,
+      "shortDescriptionZh": "《轮回战纪》是一款清版战斗风格的roguelike动作游戏，你将扮演背负罪孽的战士，踏上救赎之路：不断挑战新的关卡，斩杀源源不断的敌人，解锁更强大的英雄以及终极神器，最终彻底击败疯王、拯救王国，完成属于自己的赎罪。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9NL9QN69HCL7",
       "playAnywhere": false,
       "title": "Madden NFL 25 Xbox One",
@@ -11908,7 +11955,7 @@
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "2025-06-19T10:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.56880.14036668029170653.4554f7c2-4515-49d2-8ebb-f9d385d870e2.8eed1f1e-64bd-423a-bf04-52ef4d89248a",
+      "image": "https://store-images.s-microsoft.com/image/apps.23695.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.550f1e51-e03b-4027-969c-bf934ee2597c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N5K7HWXL4Q6",
       "titleZh": null,
       "shortDescriptionZh": "《Rematch》是一款多人在线足球游戏。\n从沉浸式第三人称的视角中，控制队伍中的一名球员，并投入到激烈、快节奏的5v5竞赛中。与好友一起组队上场吧！",
@@ -12350,7 +12397,7 @@
         "Sports"
       ],
       "releaseDate": "2016-02-17T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.62884.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.8495fe9e-4ded-40c0-9f0d-468b534b7b54",
+      "image": "https://store-images.s-microsoft.com/image/apps.6066.65187692735347017.3990a461-2db8-41ef-8bf8-33d50ff2e82a.7bb9a856-df77-4e8b-a605-7863390a7aa0",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C125W9BG2K0V",
       "titleZh": null,
       "shortDescriptionZh": "免費遊玩 Rocket League！\r\n\r\n下載遊戲，在街機風格足球遊戲和車輛混戰的高效混合遊戲中進行競賽！解鎖 Rocket Pass 中的物品、攀升競賽級別、參加競技錦標賽、完成挑戰，並享受跨平台進度和更多內容！來一試身手吧！ ",
@@ -12903,7 +12950,7 @@
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.7730.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.f6ba881d-045a-41c8-96e6-8a4cbecd1e30",
+      "image": "https://store-images.s-microsoft.com/image/apps.63837.14402893629943553.7b95ed71-bdc1-4a75-bf6b-3e3bde680340.c72fb2d0-fe76-4138-9b8e-36162910bbc0",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NV8W1KJSQLL",
       "titleZh": "《神之浩劫2》",
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。 \n\n《神之浩劫2》由Unreal Engine 5打造，在这款传奇第三人称动作MOBA续作中，玩家将化身为神，并掀起战争的狂澜。如果你热衷于激烈的竞争、火爆的动作、技能驱动的战斗、回报满满的团队合作，或者热爱神话传说，那么你就能明白为什么超过4千万玩家都喜爱《神之浩劫》",
@@ -16885,6 +16932,30 @@
       "xboxSeries": false
     },
     {
+      "productId": "9PLH7R84GJWP",
+      "playAnywhere": true,
+      "title": "Well Dweller",
+      "developer": "Kyle Thompson",
+      "publisher": "Top Hat Studios, Inc.",
+      "shortDescription": "WELL DWELLER is a dark fairy-tale metroidvania made by the creators of Crypt Custodian and Islets!\n\n  Play as Glimmer - a tiny bird armed with a matchstick- who must burn the wicked queen to save his family. Explore a dark fairy-tale landscape and befriend the charming characters who reside in the kingdom’s underbelly. Battle terrifying beasts and gain new abilities to expand your map. Solve puzzles, discover secrets, and unravel the mysteries that lie in this rotted kingdom.",
+      "categories": [
+        "Action & adventure",
+        "Platformer",
+        "Role playing"
+      ],
+      "releaseDate": "2026-09-22T15:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.40917.14313416011451880.0dc13654-082f-4832-844b-343ef39821bf.85739feb-1ce4-4fed-bc5a-cc6e3f5fb96a",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PLH7R84GJWP",
+      "titleZh": null,
+      "shortDescriptionZh": "《黯井微光》是一款暗黑童话风格的类银河城游戏，由《冥界清道夫》（Crypt Custodian）和《Islets》的原班人马倾力打造。    \n\n在森林深处、井底之地，栖息着唯一敢于挑战女王的生灵。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。探索充满暗黑童话气息的世界，与居住在王国底层之中的迷人角色成为朋友。与可怖的怪兽激战，习得新能力，拓展你的地图。解开谜题，发现秘密，揭开这座腐朽王国中隐藏的神秘真相。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
       "productId": "9NGCFDHR2MV3",
       "playAnywhere": true,
       "title": "Wheel World",
@@ -17318,7 +17389,7 @@
         "Shooter"
       ],
       "releaseDate": "2026-05-26T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.14297.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.a1a8176a-7527-4528-9e63-74328094a01c",
+      "image": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N11JM7F5CXK",
       "titleZh": null,
       "shortDescriptionZh": "World of Tanks: HEAT是一款免费的PvP坦克射击游戏，融合了强大的英雄能力和火爆的团队战斗。驾驶可自定义坦克，施展特工技能，在兼具战术博弈与第一人称射击游戏风格激情的线上战斗中主宰战局。",

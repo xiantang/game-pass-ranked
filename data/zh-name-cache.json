@@ -2501,5 +2501,17 @@
   "unchartedlegacyofthievescollection": {
     "name": "UNCHARTED™: 盗贼传奇合辑",
     "source": "steam"
+  },
+  "duneawakening": {
+    "name": "沙丘：觉醒",
+    "source": "wikidata"
+  },
+  "madkingredemption": {
+    "name": "轮回战纪",
+    "source": "steam"
+  },
+  "welldweller": {
+    "name": "黯井微光 (",
+    "source": "steam"
   }
 }
