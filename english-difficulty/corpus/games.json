@@ -1,0 +1,389 @@
+{
+  "anchor": null,
+  "population": "all-dialogue",
+  "_anchor_note": "null = no personal baseline. Games are then read against the reference registers in out/ladder.json rather than as multiples of a game. Set this to a slug only if you want multipliers and an inferred working-vocabulary figure.",
+  "_population_note": "all-dialogue = main story, side content, companion and ambient lines. NOT item descriptions or documents (that is all-text). Comparing corpora collected under different populations is invalid, so `measure` refuses to build one table out of two.",
+  "_wiki_note": "Hosts verified reachable via discover. Only rdr2 and re4-remake actually carry game dialogue: ghost-of-tsushima, demons-souls, god-of-war-2018 and kcd2 have no dialogue category at all, totk has one page, and the bg3 host is the whole series wiki whose Dialogues category is empty of BG3.",
+  "_shared_wiki_note": "A wiki covering a whole series will hand back the wrong game's dialogue. Those entries carry shared_wiki: true and are REFUSED until game_filter or page_filter is set from what `discover` reports. game_filter selects category names; page_filter selects pages by their own categories, and by their parent page's for an `X/dialogues` subpage, which is the only thing that separates games filed in one flat category.",
+  "_load_note": "The `load` fields cannot be derived from a transcript and must be filled in by hand or left null. Nothing downstream invents them: a null stays null in the output.",
+  "games": {
+    "ghost-of-tsushima": {
+      "title": "Ghost of Tsushima",
+      "role": "anchor — reported comfortable",
+      "wiki": "ghostoftsushima.fandom.com",
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "fLLm9PZHRqY",
+        "_title": "Ghost of Tsushima Gameplay Walkthrough Longplay [Katana Longplays] 8.5h, no commentary"
+      }
+    },
+    "rdr2": {
+      "title": "Red Dead Redemption 2",
+      "role": "second baseline — reported comfortable",
+      "wiki": "reddead.fandom.com",
+      "shared_wiki": true,
+      "game_filter": null,
+      "page_filter": "Redemption (II|2)\\b",
+      "_filter_hint": "every game's dialogue sits in one flat `Dialogues` category, so only a page_filter separates them: the mission page above each `X/dialogues` subpage carries `Redemption II Missions`.",
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "zcIZAVdK8IY",
+        "_title": "Red Dead Redemption 2 - FULL GAME (4K 60FPS) Walkthrough No Commentary"
+      }
+    },
+    "re4-remake": {
+      "title": "Resident Evil 4 (2023)",
+      "role": "test",
+      "wiki": "residentevil.fandom.com",
+      "shared_wiki": true,
+      "game_filter": "^Resident Evil 4 remake\\b",
+      "_filter_hint": "the host carries the whole series, and the 2005 RE4 as well as the remake",
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "yNsgy8nNKvE",
+        "_title": "RESIDENT EVIL 4 REMAKE PS5 Walkthrough FULL GAME [Shayan gaming] 9.1h, no commentary"
+      }
+    },
+    "god-of-war-2018": {
+      "title": "God of War (2018)",
+      "role": "test",
+      "wiki": "godofwar.fandom.com",
+      "shared_wiki": true,
+      "game_filter": null,
+      "_filter_hint": "the host carries the Greek-era games and Ragnarök; their registers differ sharply",
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "WZtnh3sTUv0",
+        "_title": "GOD OF WAR Gameplay Walkthrough FULL GAME [Shirrako] 10.2h, no commentary"
+      }
+    },
+    "demons-souls": {
+      "title": "Demon's Souls",
+      "role": "test — expected high archaic register, low volume",
+      "wiki": "demonssouls.fandom.com",
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "HSWbNdI39EE",
+        "_title": "DEMON'S SOULS REMAKE PS5 Gameplay Walkthrough FULL GAME"
+      }
+    },
+    "totk": {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "role": "test — mostly unvoiced, so reading and listening must not be scored together",
+      "wiki": "zelda.fandom.com",
+      "shared_wiki": true,
+      "game_filter": null,
+      "_filter_hint": "the host carries every Zelda game; Breath of the Wild shares much of the setting and would contaminate badly",
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "v3CM4vwb2Kc",
+        "_title": "ZELDA: TEARS OF THE KINGDOM Full Gameplay Walkthrough / No Commentary"
+      }
+    },
+    "bg3": {
+      "title": "Baldur's Gate 3",
+      "role": "test — the one most likely to sit at the ceiling",
+      "wiki": "baldursgate3.fandom.com",
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "Ecp0vOKReHA",
+        "_title": "Baldur's Gate 3 - Act 1 Longplay [Loopy Longplays] 18.8h, no commentary — ACT 1 ONLY"
+      }
+    },
+    "kcd2": {
+      "title": "Kingdom Come: Deliverance II",
+      "role": "test — period register",
+      "wiki": "kingdomcomedeliverance.fandom.com",
+      "shared_wiki": true,
+      "game_filter": null,
+      "_filter_hint": "the host carries the first game too",
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "2jw9a9J1PgA",
+        "_title": "KINGDOM COME DELIVERANCE 2 Full Walkthrough [Gamer's Little Playground] 36h, no commentary"
+      }
+    },
+    "cyberpunk-2077": {
+      "title": "Cyberpunk 2077",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "UQ1bJOTV-Zw"
+      }
+    },
+    "persona-5-royal": {
+      "title": "Persona 5 Royal",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "ujELK2xYCt0"
+      }
+    },
+    "tlou-remastered": {
+      "title": "The Last of Us Remastered",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "RV13xM9iDH0"
+      }
+    },
+    "uncharted-4": {
+      "title": "UNCHARTED 4: A Thief's End",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "1XaN6bp1qLs"
+      }
+    },
+    "bloodborne": {
+      "title": "Bloodborne",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "re2-remake": {
+      "title": "Resident Evil 2 (2019)",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "dD1M9_uGg5w"
+      }
+    },
+    "spider-man-2": {
+      "title": "Marvel's Spider-Man 2",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "DJ9ueNpFufI"
+      }
+    },
+    "ghost-of-yotei": {
+      "title": "Ghost of Yōtei",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "tlou-part-2": {
+      "title": "The Last of Us Part II",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "mass-effect-2": {
+      "title": "Mass Effect 2",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "hades-2": {
+      "title": "Hades II",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "ori-wotw": {
+      "title": "Ori and the Will of the Wisps",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "_no_corpus": "no candidate video was both no-commentary and carried an English automatic caption track; 30+ candidates checked"
+    },
+    "clair-obscur-33": {
+      "title": "Clair Obscur: Expedition 33",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "dHDoR_R6bDY"
+      }
+    },
+    "jedi-survivor": {
+      "title": "Star Wars Jedi: Survivor",
+      "role": "test",
+      "wiki": null,
+      "shared_wiki": false,
+      "game_filter": null,
+      "load": {
+        "voiced_pct": null,
+        "words_per_hour": null,
+        "subtitles": null,
+        "missable_dialogue": null,
+        "accent_note": null
+      },
+      "captions": {
+        "video": "zKBZRkiFheg"
+      }
+    }
+  },
+  "_source_note": "Every corpus now comes from YouTube automatic captions of a no-commentary playthrough. Fandom could not supply this list: six of the eight wikis have no dialogue category, and the two that do gave 50k words for one game and 1.3k for another. The cost was measured by collecting rdr2 both ways — vocabulary coverage survives (+0.5%), syntax and archaism do not (-26%, -45%) — so caption corpora declare which axes they support and the report leaves the rest blank.",
+  "_uncollected_note": "Games with _no_corpus have no row in the report. Automatic captions exist for roughly one gameplay video in five, and these drew none. Three searches also returned the wrong game (Andromeda for Mass Effect 2, Part 1 for The Last of Us Part II, a part-video for Ghost of Yotei); candidates are checked by title and by character-name density in the fetched text before a corpus is kept."
+}
