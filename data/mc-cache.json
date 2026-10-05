@@ -12339,5 +12339,41 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "minecraft dungeons 2": {
+    "title": "Minecraft Dungeons II",
+    "slug": "minecraft-dungeons-ii",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
+    "releaseDate": "2026-09-29",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "metro last light redux": {
+    "title": "Metro: Last Light Redux",
+    "slug": "metro-last-light-redux",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/metro-last-light-redux/",
+    "releaseDate": "2014-08-25",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "metro 2033 redux": {
+    "title": "Metro: 2033 Redux",
+    "slug": "metro-2033-redux",
+    "score": 90,
+    "url": "https://www.metacritic.com/game/metro-2033-redux/",
+    "releaseDate": "2014-08-25",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

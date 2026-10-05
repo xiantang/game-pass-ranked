@@ -1,6 +1,6 @@
 {
   "market": "SG",
-  "fetchedAt": "2026-09-28T08:10:15.423Z",
+  "fetchedAt": "2026-10-05T08:14:46.836Z",
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -1436,29 +1436,6 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBLGGH43KZB",
       "titleZh": null,
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。\r\n\r\n探索并重塑遥远世界！《ASTRONEER》的舞台设定在淘金热潮兴起的 25 世纪。玩家必须探索外太空边境，冒着生命危险在艰难环境下勘探资源，寻找一夜暴富的机会。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9NC4WDL5KZBL",
-      "playAnywhere": true,
-      "title": "Atomfall",
-      "developer": "Rebellion",
-      "publisher": "Rebellion",
-      "shortDescription": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers.",
-      "categories": [
-        "Shooter",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-03-27T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.34329.13575061151050973.cebfa75f-b2f4-4dde-99fa-c709bab904af.9b26f97c-19cc-4602-8f8d-27a7ab70c8b0",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NC4WDL5KZBL",
-      "titleZh": null,
-      "shortDescriptionZh": "一场核灾难将英国的一部分地区夷为平地。《Atomfall》，一款全新的生存动作游戏，将会见证你在精美重建的景观中施展自己的探索、拾荒、制作、交易和战斗本领，并一路追寻答案。",
       "platforms": [
         "console",
         "pc"
@@ -5177,7 +5154,7 @@
         "Simulation"
       ],
       "releaseDate": "2021-04-08T13:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
+      "image": "https://store-images.s-microsoft.com/image/apps.61345.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.29102d0c-f57a-415d-ab4d-98abb74ad700",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NHKL695M9F2",
       "titleZh": null,
       "shortDescriptionZh": "在《从军》游戏中，玩家不仅能够操纵单名士兵在一线拼杀，更能指挥一整支小队达成战术目标——《从军》是一款多人在线小队射击游戏，忠实还原了风云激荡的 20 世纪多场著名战役的战斗情景。游戏中每场战斗的规模多达上百人，双方均有大量坦克与空战单位登场，打造独一无二的大战场体验！",
@@ -5201,7 +5178,7 @@
         "Simulation"
       ],
       "releaseDate": "2021-10-07T15:10:33.3403659Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4889.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.139b95cc-4784-4af1-823e-0c46920ce025",
+      "image": "https://store-images.s-microsoft.com/image/apps.61345.14212477956808574.da26f75d-69b4-4507-87ab-5c4d257304d3.80e17e30-f652-4151-a6a1-cad72d9d35b7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PF432CVQBXT",
       "titleZh": null,
       "shortDescriptionZh": "Enlisted is a squad-based first person MMO shooter covering key battles from World War II. The game carefully recreates weapons, military vehicles and the atmosphere of that era, while demonstrating really massive clashes of numerous soldiers, tanks and aircraft with artillery and naval support.",
@@ -6412,7 +6389,7 @@
         "Strategy"
       ],
       "releaseDate": "2019-04-25T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.8083.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.a1739f68-9454-40eb-ba60-81ec2d35e413",
+      "image": "https://store-images.s-microsoft.com/image/apps.17283.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.bd4108fb-c5af-4a9a-90c5-9a25a46d76a1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BT5P2X999VH2",
       "titleZh": null,
       "shortDescriptionZh": "Everything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.",
@@ -7756,7 +7733,7 @@
         "Role playing"
       ],
       "releaseDate": "2023-02-09T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.6642.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.012a86fe-8506-4e46-8e5a-1ec47e011f62",
+      "image": "https://store-images.s-microsoft.com/image/apps.11179.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.0d64da1c-8197-4d17-ba47-9e7494b62f6e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MT5NJ5W7B8Z",
       "titleZh": "霍格沃茨之遗",
       "shortDescriptionZh": "《霍格沃茨之遗》是一款沉浸式开放世界动作角色扮演游戏。这回，你将在魔法世界中扮演“你自己”，亲手书写属于自己的传奇。",
@@ -7779,7 +7756,7 @@
         "Role playing"
       ],
       "releaseDate": "2023-05-04T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.6642.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.46dc11ff-dcf6-425c-8aaf-5b474edd9def",
+      "image": "https://store-images.s-microsoft.com/image/apps.11179.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.5e9896f6-415e-4233-89da-d05cb61e48a6",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK4NTBFWW81",
       "titleZh": "《霍格沃茨之遗》Xbox One版",
       "shortDescriptionZh": "《霍格沃茨之遗》是一款沉浸式开放世界动作角色扮演游戏。这回，你将在魔法世界中扮演“你自己”，亲手书写属于自己的传奇。",
@@ -8540,48 +8517,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "BX7XFZ51XTW8",
-      "playAnywhere": false,
-      "title": "Lara Croft and the Guardian of Light",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "shortDescription": "Experience the first ever co-op action-adventure game featuring Lara Croft. Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2010-08-18T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.7455.63534390885266689.ca30eabf-228a-44d6-850d-48cfca22564f.c6172d93-f082-4dc4-9a7f-7ae96f2799ce",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BX7XFZ51XTW8",
-      "titleZh": null,
-      "shortDescriptionZh": "Experience the first ever co-op action-adventure game featuring Lara Croft. Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9NS37Q75LBCG",
-      "playAnywhere": false,
-      "title": "Lara Croft and the Guardian of Light (PC)",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "shortDescription": "Experience the first ever co-op action-adventure game featuring Lara Croft. Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-09-05T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.30416.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.9411324e-666c-4897-a8b9-db7cbe7cae69",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NS37Q75LBCG",
-      "titleZh": null,
-      "shortDescriptionZh": "Experience the first ever co-op action-adventure game featuring Lara Croft. Team up with a friend or go at it alone as you traverse and solve deadly traps, fight hordes of undead enemies, and collect over 60 artifacts and relics.  Lara Croft and the Guardian of Light offers fast-paced action and breathtaking visuals shown through an isometric view.",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
-    },
-    {
       "productId": "C3553MB4P5TT",
       "playAnywhere": false,
       "title": "Lara Croft and the Temple of Osiris",
@@ -8824,76 +8759,6 @@
         "pc"
       ],
       "xboxOne": false,
-      "xboxSeries": true
-    },
-    {
-      "productId": "C1H74N0TR8KT",
-      "playAnywhere": false,
-      "title": "Little Nightmares II Enhanced Edition",
-      "developer": "Tarsier Studios",
-      "publisher": "BANDAI NAMCO Entertainment America Inc.",
-      "shortDescription": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nTogether with his new friend Six, Mono sets out to discover the disturbing secrets of The Signal Tower, if they can make it past a gallery of new threats and enemies.",
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "releaseDate": "2021-02-10T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.1273.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.c0546c16-c1b2-4f91-921f-762c88c3ab54",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1H74N0TR8KT",
-      "titleZh": "小小梦魇2 强化版",
-      "shortDescriptionZh": "重回那令人着迷的恐怖世界──\r\n在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。\r\n\r\n摩诺将与新结交的朋友小六携手合作，揭发讯号塔暗藏的秘密……但必须先克服迎面而来的威胁与敌人。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9PBM67RXX3V8",
-      "playAnywhere": false,
-      "title": "Little Nightmares II Enhanced Edition - Windows",
-      "developer": "Tarsier Studios",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "shortDescription": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nTogether with new friend Six, Mono sets out to discover the disturbing secrets of The Signal Tower, if they can make it past a gallery of new threats and enemies. ",
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "releaseDate": "2025-07-01T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.29670.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.73fd1948-9741-42f4-89a8-3c6d093d797d",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PBM67RXX3V8",
-      "titleZh": "小小梦魇2 强化版 - Windows",
-      "shortDescriptionZh": "\"重回那令人着迷的恐怖世界──\n在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。\n\n摩诺将与新结交的朋友小六携手合作，揭发讯号塔暗藏的秘密……但必须先克服迎面而来的威胁与敌人。\"\n",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
-    },
-    {
-      "productId": "9N3M5D5ZSW34",
-      "playAnywhere": true,
-      "title": "Little Rocket Lab",
-      "developer": "Teenage Astronauts",
-      "publisher": "No More Robots",
-      "shortDescription": "Transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. Roll up your sleeves, it turns out that saving this town really IS rocket science!",
-      "categories": [
-        "Simulation",
-        "Role playing",
-        "Strategy",
-        "Family & kids",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-10-07T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.32936.14000344005974621.9729934f-27d2-4900-8aa2-53049eb44202.5ca80ddb-fffd-4d9b-9fde-76a41b9f9201",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N3M5D5ZSW34",
-      "titleZh": null,
-      "shortDescriptionZh": "改造童年的家园，建设气派的工厂，培养一辈子的友谊，然后展望九天，最终圆了家人的梦想，完成妈妈珍爱的火箭飞船。卷起袖子加油吧，挽救这个小镇真的像制造火箭一样，没有那么简单!",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
       "xboxSeries": true
     },
     {
@@ -9557,6 +9422,26 @@
       "xboxSeries": false
     },
     {
+      "productId": "9PM3J18QM4Q3",
+      "playAnywhere": true,
+      "title": "Minecraft Dungeons II",
+      "developer": "Mojang Studios / ‪Double Eleven Limited",
+      "publisher": "Xbox Game Studios",
+      "shortDescription": "The next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat stirs, ready to descend upon the land and its inhabitants to cause unspeakable mayhem. Become a hero and take on foes unlike anything you’ve faced before, journey through long‑forgotten locations, and clash with the forces of evil once more! ",
+      "categories": [],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.26573.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.fd3f91b2-3de0-4920-a853-4f5725b2495f",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PM3J18QM4Q3",
+      "titleZh": null,
+      "shortDescriptionZh": "Minecraft Dungeons 全新篇章，2026 年秋季开启！ 全新威胁已然苏醒，即将降临大陆与生灵之间，制造难以言喻的灾难。 化身英雄，迎战从未遭遇过的强敌，穿梭于被遗忘已久的秘境，再次与邪恶势力正面交锋！ ",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9NF0D13RPX5L",
       "playAnywhere": false,
       "title": "Minecraft Legends",
@@ -9800,25 +9685,6 @@
       ],
       "xboxOne": false,
       "xboxSeries": true
-    },
-    {
-      "productId": "9NVH8SJNX20S",
-      "playAnywhere": false,
-      "title": "MONOPOLY 2024",
-      "developer": null,
-      "publisher": "Ubisoft",
-      "shortDescription": "MONOPOLY® is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in a fully animated 3D city that transforms from sunlit days to stormy nights as you play.",
-      "categories": [],
-      "releaseDate": "2026-07-21T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.19874.14398698669674983.cc5a91f2-0bac-41fb-b41c-5530163b4e44.e2197124-85ca-4841-99b4-e940a729482c",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVH8SJNX20S",
-      "titleZh": null,
-      "shortDescriptionZh": "《MONOPOLY®》（地产大亨）带着全新外观和更棒的游戏体验回来啦。购买、销售，交易地产，让你的帝国在 3D 动画城市中不断壮大，在游玩期间，它还会从阳光明媚的白天转换为狂风暴雨的黑夜。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
     },
     {
       "productId": "9P0RGJND5SR0",
@@ -10264,6 +10130,25 @@
       ],
       "xboxOne": true,
       "xboxSeries": true
+    },
+    {
+      "productId": "9NVH8SJNX20S",
+      "playAnywhere": false,
+      "title": "NEW MONOPOLY®",
+      "developer": null,
+      "publisher": "Ubisoft",
+      "shortDescription": "MONOPOLY® is back with a fresh look and improved game experience. Buy, sell, trade properties, and grow your empire in a fully animated 3D city that transforms from sunlit days to stormy nights as you play.",
+      "categories": [],
+      "releaseDate": "2026-07-21T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.64235.14413018653132681.2d76bec8-c25a-469e-9cf1-eaaa965332ec.caaf0b02-181d-4f13-b640-5e572719e02c",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVH8SJNX20S",
+      "titleZh": null,
+      "shortDescriptionZh": "《MONOPOLY®》带着全新外观和更棒的游戏体验回来啦。购买、销售，交易地产，让你的帝国在 3D 动画城市中不断壮大，在游玩期间，它还会从阳光明媚的白天转换为狂风暴雨的黑夜。",
+      "platforms": [
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": false
     },
     {
       "productId": "9MZN3SMXN824",
@@ -12811,29 +12696,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "9P7PF6ZP3958",
-      "playAnywhere": true,
-      "title": "Sifu",
-      "developer": "Sloclap",
-      "publisher": "Sloclap, Kepler Interactive",
-      "shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.\r\n",
-      "categories": [
-        "Action & adventure",
-        "Fighting"
-      ],
-      "releaseDate": "2023-03-28T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.14154.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.51a702bd-7750-456c-b538-dc31b25c4f1f",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7PF6ZP3958",
-      "titleZh": null,
-      "shortDescriptionZh": "《Sifu》是一款拳拳到肉的第三人称动作格斗游戏，紧张刺激的功夫打斗机制 以及电影化的武术动作将引领你踏上一段复仇之旅。\r\n",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
       "productId": "BNKDKQXMXRR2",
       "playAnywhere": false,
       "title": "Skate 3",
@@ -13024,30 +12886,6 @@
         "pc"
       ],
       "xboxOne": false,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9N221ZTFGQB0",
-      "playAnywhere": true,
-      "title": "SOPA - Tale of the Stolen Potato",
-      "developer": "StudioBando, Inc.",
-      "publisher": "StudioBando, Inc.",
-      "shortDescription": "Miho steps into the pantry to fetch a potato for his grandma and falls into a magical world full of wonders. Meet quirky characters, venture through the depths of South America, and learn the importance of the things we pass along in this unforgettable emotional narrative adventure.",
-      "categories": [
-        "Other",
-        "Family & kids",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-10-07T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.45399.13960509830993635.c8e589d4-58bf-48a0-94b9-7be5647c6cf2.3a36e99d-25c5-4a37-8d16-025e9d1a8fde",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N221ZTFGQB0",
-      "titleZh": null,
-      "shortDescriptionZh": "Miho steps into the pantry to fetch a potato for his grandma and falls into a magical world full of wonders. Meet quirky characters, venture through the depths of South America, and learn the importance of the things we pass along in this unforgettable emotional narrative adventure.",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
       "xboxSeries": true
     },
     {
@@ -13994,28 +13832,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "9MWDJRQ1BXTC",
-      "playAnywhere": true,
-      "title": "SWORN",
-      "developer": "Windwalk Games",
-      "publisher": "Team17",
-      "shortDescription": "SWORN is a 1-4 player co-op action rogue-like. Explore and reclaim a fallen Camelot from the reign of a corrupted Arthur and his Knights of the round table.\n\nPlay Solo or Co-Op\n\nPlay solo or unite with friends to stand off against the Knights of the Round Table. Combine the strengths of your characters in surprising ways and master abilities to become knights worthy of standing off against Arthur ",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-09-23T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64072.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.9e92bee3-e2bf-4b07-9382-3f8347455466",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MWDJRQ1BXTC",
-      "titleZh": null,
-      "shortDescriptionZh": "SWORN是一款支持1-4名玩家合作的动作肉鸽游戏，玩家将共同探索并收复被腐化的亚瑟和他的圆桌骑士统治下倒塌的卡美洛。\n独自或合作游玩\n\n独自或与好友共同游玩，将角色的优势巧妙结合，掌握技能，并成为足以与亚瑟抗衡的骑士。\n\n探索没落的卡美洛\n\n游戏中玩家将与亚瑟传奇中熟悉的朋友和敌人相遇，发现阿瓦隆上蔓延黑暗的源头，并与梅林、尼姆女士等强大人物结交并学习。玩家将以灵魂锻造骑士之姿挥舞剑锋。\n\n驾驭精灵的力量\n\n玩家可以向精灵领主宣誓效忠，选择200多种独特的祝福，释放潜能。无论是使用泰坦妮娅的净化之火，还是选择奥伯龙的祝福，以风的狂怒打击敌人，玩家都将体验到身体与精神的力量。\n\n释放你的创造力\n\n在不断变化的卡美洛战场上，多样性蓬勃发展。玩家将祝福与角色、武器和能力结合，成为一名经验丰富的骑士。\n\n日就月将\n\n随着阿瓦洛尔之光的升级，您将日臻成熟，逐渐成为游戏中的冠军。然而，若您自信能直面",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true
-    },
-    {
       "productId": "9NBLHDB0WLHZ",
       "playAnywhere": true,
       "title": "Symphonia 𝄞",
@@ -14189,31 +14005,6 @@
         "pc"
       ],
       "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9MW1V43D3VZN",
-      "playAnywhere": true,
-      "title": "Terminull Brigade™",
-      "developer": "Pew Pew Games",
-      "publisher": "Level Infinite",
-      "shortDescription": "Terminull Brigade is a PvE looter shooter with roguelike elements set in a virtual multiverse.",
-      "categories": [
-        "Shooter",
-        "Action & adventure",
-        "Other",
-        "Role playing"
-      ],
-      "releaseDate": "2025-12-08T06:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.27991.13852618521586125.794367d4-7c0a-4882-abf5-d6a6cb1acacb.38253108-4809-44fe-8aef-d42ca967c44d",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW1V43D3VZN",
-      "titleZh": "矩阵: 零日危机™",
-      "shortDescriptionZh": "《矩阵：零日危机》是一款融合了虚拟多元世界题材的肉鸽刷宝射击PVE游戏。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
       "xboxSeries": true
     },
     {
@@ -16482,7 +16273,7 @@
         "Shooter",
         "Action & adventure"
       ],
-      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "releaseDate": "2026-11-04T00:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.20544.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.75e42099-ab23-4790-9d28-58ea2fa9077d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9K5QP9G3GL",
       "titleZh": "VOID/BREAKER (游戏预览版)",
@@ -17147,16 +16938,16 @@
       "title": "Wolfenstein 3D",
       "developer": "id Software",
       "publisher": "Bethesda Softworks",
-      "shortDescription": "You are OSA super agent B.J. Blazkowicz and you must escape from Castle Wolfenstein and defeat the twisted Nazi regime!",
+      "shortDescription": "World War II rages. The Nazis are planning to build an unstoppable, mutant army. On a mission to steal the secret plans, you were captured and imprisoned. Now, a lucky break gives you the chance to escape, but a maze of passages and trigger-happy Nazis stand in your way.",
       "categories": [
         "Action & adventure",
         "Shooter"
       ],
       "releaseDate": "2013-05-31T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.26169.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.cc46ae40-61c3-4243-94ea-788ebd8ab67f",
+      "image": "https://store-images.s-microsoft.com/image/apps.53556.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.be454e36-958e-43ec-a1de-de65a69e2cae",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BSXDD75Q561F",
       "titleZh": null,
-      "shortDescriptionZh": "You are OSA super agent B.J. Blazkowicz and you must escape from Castle Wolfenstein and defeat the twisted Nazi regime!",
+      "shortDescriptionZh": "《Wolfenstein 3D》由id Software于1992开发，是一款创造性的二战主题第一人称射击游戏，备受赞誉，开创了现代第一人称射击的先河。\n\n剧情\n\n二战肆虐，你的角色是盟军最信赖的特工William \"\"B.J.\"\" Blazkowicz。纳粹发起铁拳行动，准备打造一支无人可挡的变异军团。你接到任务，要去偷取这个秘密计划，但不幸被俘。现在你幸运地逃脱了，不过前方等待你的却是迷宫般的路线和嗜血的纳粹。\n\n特性\n\n- 体验原汁原味的现代第一人称射击游戏。\n- 享受堪称史上第一款的全3D第一人称射击游戏。\n- 与纳粹士兵、邪恶的科学家、变种人等作战。\n- 使用各种武器，包括刀、手枪和机关枪。 \n- 一路突出重围，完成六个关卡。\n\n内含《Spear of Destiny》扩展包\n\n在这个《Wolfenstein 3D》的外篇中，你要扮演盟军最宝贵的特工William “B.J.” ",
       "platforms": [
         "console"
       ],
@@ -17568,7 +17359,7 @@
         "Role playing"
       ],
       "releaseDate": "2026-07-09T20:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.60003.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.8af49ba9-303d-4b15-bd23-ebc7e47279fb",
+      "image": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P41GS5W1C6L",
       "titleZh": "鸣潮",
       "shortDescriptionZh": "《鸣潮》是一款跨平台开放世界动作游戏，主打高自由度的动作战斗玩法与丰富多样的开放世界探索。而你，在这个世界苏醒的漂泊者，将在找回记忆、寻找自我身份的同时结识无数的共鸣者同伴，并和伙伴一起踏上改变这个世界的旅途。",

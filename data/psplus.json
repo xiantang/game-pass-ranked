@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-09-28T08:10:19.053Z",
+  "fetchedAt": "2026-10-05T08:14:48.403Z",
   "games": [
     {
       "productId": "10007645",
@@ -1977,10 +1977,10 @@
         "ADVENTURE",
         "ADVENTURE"
       ],
-      "releaseDate": "2020-07-29T04:00:00Z",
+      "releaseDate": "2022-06-24T02:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2216/nbNXIr7w4moRpBuFCEw1tEci.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/234692",
-      "ps4": true,
+      "ps4": false,
       "ps5": true,
       "tier": 2,
       "lists": [
@@ -2203,26 +2203,6 @@
         "classics"
       ],
       "titleZh": "迪士尼亚特兰蒂斯：失落的帝国"
-    },
-    {
-      "productId": "10007631",
-      "title": "Disney•Pixar Buzz Lightyear of Star Command",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION",
-        "ADVENTURE"
-      ],
-      "releaseDate": "2023-12-19T00:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2521/48e4a4ba9b51dc69a334c7f5dd65d25de6803b23bfb9238a.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10007631",
-      "ps4": true,
-      "ps5": true,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": null
     },
     {
       "productId": "10007630",
@@ -3107,8 +3087,8 @@
         "ACTION",
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-09-28T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/f308c616a571f6b9d78f0fe91fc81255de25db2b23007b6d.png",
+      "releaseDate": "2023-09-27T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/68f65341451958a4e5a709eda046f82ca96d0d5611dd4334.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004920",
       "ps4": true,
       "ps5": true,
@@ -5135,6 +5115,25 @@
       "titleZh": null
     },
     {
+      "productId": "202807",
+      "title": "Metro 2033 Redux full game",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2014-08-26T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202807",
+      "ps4": true,
+      "ps5": false,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "Metro 2033 Redux 制品版"
+    },
+    {
       "productId": "231769",
       "title": "Metro Exodus",
       "developer": null,
@@ -5163,7 +5162,7 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2014-08-27T00:00:00Z",
+      "releaseDate": "2014-08-26T16:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP2047/CUSA00683_00/bVYSYLavzhXqvByWDXtPgKJNpIsFZXVs.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/202806",
       "ps4": true,
@@ -5173,6 +5172,25 @@
         "classics"
       ],
       "titleZh": "Metro Redux 制品版"
+    },
+    {
+      "productId": "226459",
+      "title": "Metro: Last Light Redux full game",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2014-08-26T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/xRBuhxOu8IbVAV32S8Ow9Eiv.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/226459",
+      "ps4": true,
+      "ps5": false,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "Metro: Last Light Redux 制品版"
     },
     {
       "productId": "10009198",
@@ -5671,7 +5689,7 @@
       "releaseDate": "2021-04-05T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/x11L6rvYTz3IvbuvlDnryUJO.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/227431",
-      "ps4": false,
+      "ps4": true,
       "ps5": true,
       "tier": 2,
       "lists": [
@@ -6823,8 +6841,8 @@
       "releaseDate": "2022-02-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1813/FHhoyE3vgSQ9MZqIlxK8XMT9.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001348",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -6993,8 +7011,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2021-06-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1906/OyFoipBrxdT15fukONDXZ551.png",
+      "releaseDate": "2021-07-26T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2602/jIRiYO758aoaUYTX77Wsx2lb.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001263",
       "ps4": true,
       "ps5": false,
@@ -10015,7 +10033,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2023-06-20T00:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004898",
       "ps4": true,
@@ -10034,7 +10052,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2022-05-22T18:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004899",
       "ps4": true,

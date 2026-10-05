@@ -2513,5 +2513,14 @@
   "welldweller": {
     "name": "黯井微光 (",
     "source": "steam"
+  },
+  "minecraftdungeonsii": null,
+  "metro2033redux": {
+    "name": "地铁2033 重制版",
+    "source": "steam"
+  },
+  "metrolastlightredux": {
+    "name": "地铁：最后的曙光 重制版",
+    "source": "steam"
   }
 }

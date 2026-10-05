@@ -4775,5 +4775,20 @@
     "score": 8.6,
     "reviewCount": 72,
     "sentiment": "Generally favorable"
+  },
+  "minecraft-dungeons-ii": {
+    "score": 8,
+    "reviewCount": 73,
+    "sentiment": "Generally favorable"
+  },
+  "metro-2033-redux": {
+    "score": 8.1,
+    "reviewCount": 2594,
+    "sentiment": "Generally favorable"
+  },
+  "metro-last-light-redux": {
+    "score": 7.9,
+    "reviewCount": 1210,
+    "sentiment": "Generally favorable"
   }
 }
