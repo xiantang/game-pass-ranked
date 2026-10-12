@@ -12375,5 +12375,77 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "forever ago": {
+    "title": "Forever Ago",
+    "slug": "forever-ago",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/forever-ago/",
+    "releaseDate": "2026-10-08",
+    "genres": [
+      "Third-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "neon abyss 2": {
+    "title": "Neon Abyss 2",
+    "slug": "neon-abyss-2",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/neon-abyss-2/",
+    "releaseDate": "2026-10-08",
+    "genres": [
+      "2D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "echo weaver": {
+    "title": "Echo Weaver",
+    "slug": "echo-weaver",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/echo-weaver/",
+    "releaseDate": "2026-10-08",
+    "genres": [
+      "Metroidvania"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "gears of war e day": {
+    "title": "Gears of War: E-Day",
+    "slug": "gears-of-war-e-day",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+    "releaseDate": "2026-10-06",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "hunt showdown 1896": {
+    "title": "Hunt: Showdown 1896",
+    "slug": "hunt-showdown-1896",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/hunt-showdown-1896/",
+    "releaseDate": "2024-08-15",
+    "genres": [
+      "Tactical FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "earth defense force world brothers 2": {
+    "title": "Earth Defense Force: World Brothers 2",
+    "slug": "earth-defense-force-world-brothers-2",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/earth-defense-force-world-brothers-2/",
+    "releaseDate": "2024-09-26",
+    "genres": [
+      "Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

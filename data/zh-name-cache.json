@@ -2522,5 +2522,16 @@
   "metrolastlightredux": {
     "name": "地铁：最后的曙光 重制版",
     "source": "steam"
+  },
+  "huntshowdown1896": {
+    "name": "恶灵猎杀：紧要关头",
+    "source": "wikidata"
+  },
+  "echoweaver": null,
+  "foreverago": null,
+  "gearsofwareday": null,
+  "neonabyss2": {
+    "name": "霓虹深渊2",
+    "source": "steam"
   }
 }

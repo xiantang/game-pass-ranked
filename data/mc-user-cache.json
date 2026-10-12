@@ -4790,5 +4790,27 @@
     "score": 7.9,
     "reviewCount": 1210,
     "sentiment": "Generally favorable"
+  },
+  "gears-of-war-e-day": {
+    "score": 8.7,
+    "reviewCount": 1381,
+    "sentiment": "Generally favorable"
+  },
+  "echo-weaver": null,
+  "neon-abyss-2": null,
+  "forever-ago": {
+    "score": 7.4,
+    "reviewCount": 7,
+    "sentiment": "Mixed or average"
+  },
+  "earth-defense-force-world-brothers-2": {
+    "score": 7,
+    "reviewCount": 7,
+    "sentiment": "Mixed or average"
+  },
+  "hunt-showdown-1896": {
+    "score": 7.5,
+    "reviewCount": 106,
+    "sentiment": "Generally favorable"
   }
 }

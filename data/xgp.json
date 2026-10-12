@@ -1,6 +1,6 @@
 {
   "market": "SG",
-  "fetchedAt": "2026-10-05T08:14:46.836Z",
+  "fetchedAt": "2026-10-12T08:32:36.690Z",
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -3689,7 +3689,7 @@
         "Other"
       ],
       "releaseDate": "2017-06-23T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.26358.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.c15ee693-0ff6-4945-963b-ad2295ce7941",
+      "image": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0N22P73QZ60",
       "titleZh": "黎明杀机",
       "shortDescriptionZh": "永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
@@ -3711,7 +3711,7 @@
         "Other"
       ],
       "releaseDate": "2019-10-31T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.57024.13756572830160292.0d9ecfc6-24df-4a81-9122-c427d59c4c3b.f0ad617d-7e00-49e4-b0a7-f08dd26a6b32",
+      "image": "https://store-images.s-microsoft.com/image/apps.35959.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.9f5402c2-ab24-433f-b30b-ef9d6c2d66f7",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NMS4SFNBGBH",
       "titleZh": null,
       "shortDescriptionZh": "永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
@@ -5119,6 +5119,29 @@
       "xboxSeries": true
     },
     {
+      "productId": "9N72DFC6GL91",
+      "playAnywhere": true,
+      "title": "Echo Weaver",
+      "developer": "Moonlight Kids",
+      "publisher": "Akupara Games",
+      "shortDescription": "Time is your greatest resource. Master a time loop Metroidvania where secrets are your only upgrades.  Explore what remains. Uncover the mystery. Perfect the loop.",
+      "categories": [
+        "Action & adventure",
+        "Platformer"
+      ],
+      "releaseDate": "2026-10-08T16:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.10430.14007070537305664.23c6e561-edd5-44ed-a3ad-86b6c1a5c1c1.e3ee97c9-cd7d-44f4-9171-b07a3c8daaab",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N72DFC6GL91",
+      "titleZh": null,
+      "shortDescriptionZh": "时间是你最宝贵的资源，唯有秘密能让你成长升级。畅玩这款知识型类银河战士恶魔城游戏，掌握正在崩解的时间循环。扮演最后一名织者，利用扭曲时间的异常，以所知所学打破循环。探索残存的一切，揭开谜团，完美驾驭循环。\n\n",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
       "productId": "9PDKDBQGG2N2",
       "playAnywhere": true,
       "title": "Egging On",
@@ -6375,6 +6398,28 @@
       "xboxSeries": true
     },
     {
+      "productId": "9NFB47H2SDRX",
+      "playAnywhere": true,
+      "title": "Forever Ago",
+      "developer": "Third Shift",
+      "publisher": "Annapurna Interactive",
+      "shortDescription": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.",
+      "categories": [
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-10-08T13:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.32369.13602461240998233.6f87298c-1315-45ca-95cb-f70de3689fc6.f3660ec0-09b3-43fa-ae60-bb898e75b5ee",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NFB47H2SDRX",
+      "titleZh": null,
+      "shortDescriptionZh": "在这款单人公路旅行冒险游戏中，遭逢悲惨变故的阿尔弗雷德踏上了北上之路。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "BT5P2X999VH2",
       "playAnywhere": true,
       "title": "Fortnite",
@@ -6655,6 +6700,29 @@
         "pc"
       ],
       "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9N4PT8HGCDHQ",
+      "playAnywhere": true,
+      "title": "Gears of War: E-Day",
+      "developer": "The Coalition",
+      "publisher": "Xbox Game Studios",
+      "shortDescription": "Experience the horror and brutality of Emergence Day. Join Marcus Fenix and Dominic Santiago as the Locust Horde erupts from below, igniting a desperate fight for survival. ",
+      "categories": [
+        "Shooter",
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-10-06T15:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.58579.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.0c0f53d8-d3af-4c48-a1a6-22b31c4ec463",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4PT8HGCDHQ",
+      "titleZh": null,
+      "shortDescriptionZh": "亲身感受事变日的恐怖与残酷。兽族部落从地底蜂拥而出，一场殊死求生之战就此打响，与 Marcus Fenix、Dominic Santiago 并肩作战吧。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
       "xboxSeries": true
     },
     {
@@ -9969,7 +10037,7 @@
         "Other"
       ],
       "releaseDate": "2023-07-13T21:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.40921.14085855469646025.41616b04-2f86-4370-acdd-c02f787b88cc.44cd311b-87dd-4296-b1f3-f0d4c73bb1e8",
+      "image": "https://store-images.s-microsoft.com/image/apps.21810.14085855469646025.79385fad-0738-4130-a98b-b6f34ec818c6.6a601f64-8784-4963-af2b-fbeb7cebefd5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P8SQQJ5T94B",
       "titleZh": null,
       "shortDescriptionZh": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 20 million players have already joined the fray, play free now!",
@@ -10104,6 +10172,30 @@
       "shortDescriptionZh": "与时间赛跑，智胜警察，参加每周排位赛，才能参加盛大赛事：Lakeshore 终极街头挑战大赛。用精准调校的定制赛车装满您的车库，并用您的风格和充满活力的全球音乐点亮街道。",
       "platforms": [
         "console"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9P5QV5XX8S9H",
+      "playAnywhere": true,
+      "title": "Neon Abyss 2",
+      "developer": "Veewo Games",
+      "publisher": "Kepler Interactive",
+      "shortDescription": "Take the plunge into the chaotic cybermyth, roguelike world of Neon Abyss 2! With immense variety of combat styles and limitless item synergies, every run delivers a dramatic and action-packed experience you won't forget.\n",
+      "categories": [
+        "Platformer",
+        "Action & adventure",
+        "Shooter"
+      ],
+      "releaseDate": "2026-10-08T07:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.11563.14568732908027610.68635d5d-3a83-401c-989b-7640ee69ed9c.34d576fc-b83b-46ab-939e-a06d96e8f02c",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P5QV5XX8S9H",
+      "titleZh": null,
+      "shortDescriptionZh": "四人联机 [ 赛博神话 ] 肉鸽！创新武器系统 + 无限道具叠加，用千奇百怪的组合杀穿众神！刀光与子弹炸裂满屏——爽！燥！永远出乎意料！\n",
+      "platforms": [
+        "console",
+        "pc"
       ],
       "xboxOne": false,
       "xboxSeries": true
@@ -10428,7 +10520,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-03-26T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64389.13514288515095406.3f7236b5-ddee-4494-adf3-12dbe4be4e57.5b73e318-a3d6-4ce1-a529-ebc6265a69ae",
+      "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBNFBQ546DT",
       "titleZh": "罗马之城 Nova Roma (游戏预览版)",
       "shortDescriptionZh": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
@@ -10674,7 +10766,7 @@
         "Shooter"
       ],
       "releaseDate": "2016-05-24T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
+      "image": "https://store-images.s-microsoft.com/image/apps.1998.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.4d665574-275b-45ec-9674-3485cf253a8c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1C4DZJPBC2V",
       "titleZh": "《守望先锋®》",
       "shortDescriptionZh": "《守望先锋》，一个值得为之奋战的未来！\n\n《守望先锋》是一款长期运营并不断演化的免费团队动作游戏，战场设定在光明的未来，每场对战都是一次5v5或6v6的终极乱斗。 ",
@@ -10696,7 +10788,7 @@
         "Shooter"
       ],
       "releaseDate": "2023-08-10T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.47151.14548245473193065.9c82be1a-823e-414c-80e7-be1aa2cecce1.dcee3fc6-0b79-488d-a428-3acdf879e6e3",
+      "image": "https://store-images.s-microsoft.com/image/apps.1998.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.4d665574-275b-45ec-9674-3485cf253a8c",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P36DQX6W9CS",
       "titleZh": null,
       "shortDescriptionZh": "《守望先锋》，一个值得为之奋战的未来！\n\n《守望先锋》是一款长期运营并不断演化的免费团队动作游戏，战场设定在光明的未来，每场对战都是一次5v5或6v6的终极乱斗。 ",
@@ -12812,7 +12904,7 @@
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.63837.14402893629943553.7b95ed71-bdc1-4a75-bf6b-3e3bde680340.c72fb2d0-fe76-4138-9b8e-36162910bbc0",
+      "image": "https://store-images.s-microsoft.com/image/apps.25253.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.3bd1beb4-cbc8-4159-9f66-48c6fb2f4159",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NV8W1KJSQLL",
       "titleZh": "《神之浩劫2》",
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。 \n\n《神之浩劫2》由Unreal Engine 5打造，在这款传奇第三人称动作MOBA续作中，玩家将化身为神，并掀起战争的狂澜。如果你热衷于激烈的竞争、火爆的动作、技能驱动的战斗、回报满满的团队合作，或者热爱神话传说，那么你就能明白为什么超过4千万玩家都喜爱《神之浩劫》",
@@ -13910,7 +14002,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-09-15T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64640.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.531a6e82-4e61-4f27-9dbb-46c1d6f94f7c",
+      "image": "https://store-images.s-microsoft.com/image/apps.58237.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.26b2bdaf-a722-4b21-bb40-d7dfdb82b2a9",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9GX5D8H9DW",
       "titleZh": "TCG卡牌店模拟器",
       "shortDescriptionZh": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
@@ -15042,7 +15134,7 @@
       "title": "theHunter: Call of the Wild™",
       "developer": "Expansive Worlds",
       "publisher": "Avalanche Studios",
-      "shortDescription": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+      "shortDescription": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
       "categories": [
         "Action & adventure",
         "Shooter",
@@ -15054,7 +15146,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.31673.63553167684393025.1b31f51e-c4c6-49b1-bf61-a2e65ea14c73.150d2a5d-49a6-4724-8e53-cb908f866746",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BXBJQ1932138",
       "titleZh": "猎人：荒野的召唤™",
-      "shortDescriptionZh": "在这个风光旖旎又栩栩如生的开放世界中，体验与众不同、身临其境的狩猎游戏——我们与游戏社区携手合作，定期更新。可选择投身于单人狩猎模式，或与好友分享终极狩猎体验。",
+      "shortDescriptionZh": "走进一个动态的开放世界，体验原汁原味的狩猎之旅，这里的一切都会因你的一举一动而做出反应。追踪猎物、随机应对突发遭遇，可独自探索或与好友同行，成为真正的狩猎大师。",
       "platforms": [
         "console"
       ],
@@ -15064,10 +15156,10 @@
     {
       "productId": "9NQV7C0G1040",
       "playAnywhere": false,
-      "title": "theHunter: Call of the Wild™ - Windows 10",
+      "title": "theHunter: Call of the Wild™",
       "developer": "Expansive Worlds",
       "publisher": "Avalanche Studios",
-      "shortDescription": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+      "shortDescription": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
       "categories": [
         "Action & adventure",
         "Shooter",
@@ -15078,8 +15170,8 @@
       "releaseDate": "2021-11-30T10:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.2768.13762125458177399.e3dc12bf-b35c-48a4-ae96-9cd3eda2895e.2b2888bb-89cd-4575-819d-cacd12368ccf",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NQV7C0G1040",
-      "titleZh": null,
-      "shortDescriptionZh": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+      "titleZh": "《猎人：荒野的召唤™》",
+      "shortDescriptionZh": "走进一个动态的开放世界，体验原汁原味的狩猎之旅，这里的一切都会因你的一举一动而做出反应。追踪猎物、随机应对突发遭遇，可独自探索或与好友同行，成为真正的狩猎大师。",
       "platforms": [
         "pc"
       ],
@@ -17157,7 +17249,7 @@
         "Shooter"
       ],
       "releaseDate": "2015-07-28T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
+      "image": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C57L9GR0HHB7",
       "titleZh": null,
       "shortDescriptionZh": "在World of Tanks Modern Armor中指挥超过1,000辆现代和传奇坦克。在15v15的团队对战中挑战自己的极限。选择冷战模式体验快节奏的现代化战斗，或者在二战模式中体验步步为营、强调战术的严谨战斗。",
@@ -17204,7 +17296,7 @@
         "Simulation"
       ],
       "releaseDate": "2017-11-03T18:08:36.1008660Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.32122.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.dc5a564a-271a-4d21-a59a-e133cb13084d",
+      "image": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK9K07FDPJV",
       "titleZh": null,
       "shortDescriptionZh": "Build a Fleet—Rule the Sea!\n\nKey Features:\n• Over 800 historical ships recreated in breathtaking, true-to-life detail.\n• Five different ship types—submarines, destroyers, cruisers, battleships, and aircraft carriers—all offering distinct gameplay challenges.\n• Tech Tree with 13 distinct nations and dozens of branches to explore.\n• Epic multiplayer naval battles between massive fleets across a mult",
@@ -17228,7 +17320,7 @@
         "Strategy"
       ],
       "releaseDate": "2019-08-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.15161.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.a900d566-737d-4c84-a3f2-16916236f4e8",
+      "image": "https://store-images.s-microsoft.com/image/apps.60607.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.24b4045e-7d64-4463-a2f1-6649df3a878e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1ZT6N30L1WH",
       "titleZh": null,
       "shortDescriptionZh": "在《战舰世界：传奇》中体验史诗海军行动，这是一款免费的全球多人在线游戏，指挥历史上最伟大的军舰征服大海！招募传奇指挥官，升级您的战舰，和来自全球的玩家合作或对战，争夺海上霸权。",
