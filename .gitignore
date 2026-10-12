@@ -2,3 +2,12 @@ node_modules/
 .DS_Store
 tmp/
 .env
+
+# game-english-corpus: third-party wordlists (regenerable) and raw game text
+# (copyrighted — never committed; see english-difficulty/README.md)
+english-difficulty/reference/
+english-difficulty/corpus/raw/
+english-difficulty/corpus/clean/
+__pycache__/
+*.pyc
+.venv/
