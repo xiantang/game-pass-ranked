@@ -2533,5 +2533,22 @@
   "neonabyss2": {
     "name": "霓虹深渊2",
     "source": "steam"
+  },
+  "beyondthesestars": {
+    "name": "繁星之海",
+    "source": "steam"
+  },
+  "blueyshappysnaps": null,
+  "deepdishdungeon": {
+    "name": "深馅地牢",
+    "source": "steam"
+  },
+  "chainedbeasts": {
+    "name": "链兽角斗",
+    "source": "steam"
+  },
+  "valormortis": {
+    "name": "不朽遗志",
+    "source": "steam"
   }
 }

@@ -12447,5 +12447,77 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "beyond these stars": {
+    "title": "Beyond These Stars",
+    "slug": "beyond-these-stars",
+    "score": null,
+    "url": "https://www.metacritic.com/game/beyond-these-stars/",
+    "releaseDate": "2026-10-16",
+    "genres": [
+      "Strategy"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "valor mortis": {
+    "title": "Valor Mortis",
+    "slug": "valor-mortis",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/valor-mortis/",
+    "releaseDate": "2026-10-13",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "deep dish dungeon": {
+    "title": "Deep Dish Dungeon",
+    "slug": "deep-dish-dungeon",
+    "score": null,
+    "url": "https://www.metacritic.com/game/deep-dish-dungeon/",
+    "releaseDate": "2026-10-13",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "battlefield 6": {
+    "title": "Battlefield 6",
+    "slug": "battlefield-6",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/battlefield-6/",
+    "releaseDate": "2025-10-10",
+    "genres": [
+      "Tactical FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "chained beasts": {
+    "title": "Chained Beasts",
+    "slug": "chained-beasts",
+    "score": null,
+    "url": "https://www.metacritic.com/game/chained-beasts/",
+    "releaseDate": "2026-10-15",
+    "genres": [
+      "Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "bluey s happy snaps": {
+    "title": "Bluey's Happy Snaps",
+    "slug": "blueys-happy-snaps",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/blueys-happy-snaps/",
+    "releaseDate": "2026-10-15",
+    "genres": [
+      "Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

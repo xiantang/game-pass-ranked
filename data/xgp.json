@@ -1,6 +1,6 @@
 {
   "market": "SG",
-  "fetchedAt": "2026-10-12T08:32:36.690Z",
+  "fetchedAt": "2026-10-19T07:16:02.107Z",
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -90,50 +90,6 @@
       ],
       "xboxOne": true,
       "xboxSeries": true
-    },
-    {
-      "productId": "9ND0JVB184XL",
-      "playAnywhere": false,
-      "title": "A Plague Tale: Requiem",
-      "developer": "Asobo Studio",
-      "publisher": "Focus Entertainment",
-      "shortDescription": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "categories": [
-        "Action & adventure",
-        "Role playing"
-      ],
-      "releaseDate": "2022-10-17T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9ND0JVB184XL",
-      "titleZh": null,
-      "shortDescriptionZh": "走进异象四起却令人屏息的残酷世界，踏上凄婉揪心的旅程。不惜一切代价，只为生存，拯救自己所爱的人，感受其中的纠结与痛苦。利用多种兵器、工具和非同寻常的能力，暗中偷袭抑或发动骇人攻势，",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9N97RC576957",
-      "playAnywhere": false,
-      "title": "A Plague Tale: Requiem - Windows",
-      "developer": "Asobo Studio",
-      "publisher": "Focus Entertainment",
-      "shortDescription": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
-      "categories": [
-        "Action & adventure",
-        "Role playing"
-      ],
-      "releaseDate": "2022-10-17T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4956.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.f27cfe2b-b8b2-47f3-a92e-0eebe096efa2",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N97RC576957",
-      "titleZh": "瘟疫传说: 安魂曲 (Windows)",
-      "shortDescriptionZh": "走进异象四起却令人屏息的残酷世界，踏上凄婉揪心的旅程。不惜一切代价，只为生存，拯救自己所爱的人，感受其中的纠结与痛苦。利用多种兵器、工具和非同寻常的能力，暗中偷袭抑或发动骇人攻势，",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
     },
     {
       "productId": "BWVBNCMF22ZK",
@@ -899,27 +855,6 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PJPZK79N5VG",
       "titleZh": "刺客教条：编年史 - 中国",
       "shortDescriptionZh": "在震摄人心的 16 世纪中华大地上，亲历刺客少芸与中国皇帝的恩怨情仇并搭配新颖的 2.5D 潜行游戏玩法：\n• 你所操作的刺客拥有独特的战斗技巧，拥有靴刀和绳镖等神秘装备。\n• 探索少芸的故事，了解中国兄弟会的最后一位刺客的传奇。\n• 穿行于伟大的帝国版图，潜入美丽的中国传统建筑。\n",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
-    },
-    {
-      "productId": "9N0QFT016SGV",
-      "playAnywhere": false,
-      "title": "Assassin’s Creed Chronicles: India",
-      "developer": "Climax Studio",
-      "publisher": "Ubisoft",
-      "shortDescription": "Embody Arbaaz in his quest for retribution through a colourful depiction of Colonial India in 2.5D stealth gameplay. \n\n• Travel across an amazing 19th Century India and its legendary landmarks. \n• Experience the thrill of a stealthy assassin with a unique set of skills and weapons such as the double kill moves and the chakram.\n• Discover a brand new mode with stealth, speed and assassination rooms",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2016-01-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.33447.13916503054786009.154bb28b-8729-4712-8c24-34d746f0c6b9.3906fcfc-8f0b-410d-a789-3234764a1dc8",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N0QFT016SGV",
-      "titleZh": "刺客教条：编年史 - 印度",
-      "shortDescriptionZh": "在这个描绘 19 世纪殖民印度的 2.5D 匿踪游戏中，追随「阿尔巴兹」（Arbaaz）踏上复仇之旅。\n\n• 游历 19 世纪精彩的印度及当地著名地标。\n• 用双重击杀招式和环刃（Chakram）等独特技巧与武器，体验刺客隐匿刺杀的快感。\n• 在匿踪、速度和暗杀三个独特的挑战之室里挑战崭新模式。 ",
       "platforms": [
         "pc"
       ],
@@ -1811,6 +1746,25 @@
       "xboxSeries": true
     },
     {
+      "productId": "9P2FF14JZLL3",
+      "playAnywhere": false,
+      "title": "Battlefield™ 6",
+      "developer": "Battlefield Studios",
+      "publisher": "Electronic Arts",
+      "shortDescription": "The Best Selling Shooter of 2025",
+      "categories": [],
+      "releaseDate": "2025-10-10T15:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.65490.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.c65ba007-7378-497e-b934-101230f24e82",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P2FF14JZLL3",
+      "titleZh": "战地风云™ 6",
+      "shortDescriptionZh": "2025 年最畅销射击游戏",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "BZKZFMQG2K2K",
       "playAnywhere": false,
       "title": "Battlefield™ Hardline",
@@ -2032,6 +1986,28 @@
       ],
       "xboxOne": true,
       "xboxSeries": true
+    },
+    {
+      "productId": "9N4ZMKC3GX4M",
+      "playAnywhere": false,
+      "title": "Beyond These Stars",
+      "developer": "Balancing Monkey Games",
+      "publisher": "Hooded Horse",
+      "shortDescription": "Build a city on the back of a Space Whale and learn to coexist as you journey through the stars. Manage intricate supply chains and the needs of your people as you build outposts, meet aliens, and uncover the mysteries of the universe.",
+      "categories": [
+        "Strategy",
+        "Simulation"
+      ],
+      "releaseDate": "2026-10-16T18:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.30358.13973446484510076.fbb744c0-e1b7-4091-8221-12cc3c2830c8.9dc01aed-c3b0-47eb-a3a8-1ef883a22a8b",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4ZMKC3GX4M",
+      "titleZh": "繁星之海 Beyond These Stars",
+      "shortDescriptionZh": "在一只太空鲸鱼的背上建造一座城市，并在星际之旅中学会共存。管理复杂的供应链和人民的需求，建立前哨站，遇见外星生物，揭示宇宙的奥秘。",
+      "platforms": [
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": false
     },
     {
       "productId": "9NTXGKBW2HSM",
@@ -2262,6 +2238,29 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N2J0FGV30DX",
       "titleZh": "布鲁伊: 电子游戏",
       "shortDescriptionZh": "在4个互动冒险中体验全新的故事，探索标志性的地点，玩电视剧里你最喜欢的游戏，也可以在本地多人游戏中与你的朋友和家人一起游戏。  ",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9NQVHHW88XW9",
+      "playAnywhere": true,
+      "title": "Bluey's Happy Snaps",
+      "developer": "Gameloft",
+      "publisher": "Gameloft",
+      "shortDescription": "Explore Bluey's world like never before! ",
+      "categories": [
+        "Action & adventure",
+        "Family & kids"
+      ],
+      "releaseDate": "2026-10-14T16:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.35599.13762188493241252.c9eed3d4-2711-40bb-b507-e4c31d9fe3e1.010ff7ff-e206-4830-ad42-9734bafe87c8",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NQVHHW88XW9",
+      "titleZh": null,
+      "shortDescriptionZh": "以全新方式探索布鲁伊的世界",
       "platforms": [
         "console",
         "pc"
@@ -2896,6 +2895,29 @@
       "xboxSeries": true
     },
     {
+      "productId": "9PKZRN4RJRC9",
+      "playAnywhere": true,
+      "title": "Chained Beasts",
+      "developer": "Featherweight Games",
+      "publisher": "Featherweight Games",
+      "shortDescription": "Fight chaotic battles chained to your friends in this 1-4 player co-op gladiator roguelike. Use your chains or the arena to beat up foes in creative ways and win the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+      "categories": [
+        "Action & adventure",
+        "Fighting"
+      ],
+      "releaseDate": "2026-10-15T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.60883.14257629622536824.7ae5f381-bcdf-4fa8-b97f-cc953530aeb5.cd3cfc9c-7767-44a0-a2a5-4d89e5f1b4bc",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PKZRN4RJRC9",
+      "titleZh": null,
+      "shortDescriptionZh": "《Chained Beasts》是一款支持1-4名玩家合作的角斗士Roguelike游戏。与好友以锁链相连，在混乱的战斗中并肩作战。利用锁链或竞技场，以创造性的方式击败敌人，赢得嗜血观众的欢呼。忍受身心创伤，击败可怕的首领，努力生存下去。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "BQ9Q620NC614",
       "playAnywhere": false,
       "title": "Child of Light",
@@ -3027,29 +3049,6 @@
       ],
       "xboxOne": false,
       "xboxSeries": false
-    },
-    {
-      "productId": "9PPT8K6GQHRZ",
-      "playAnywhere": true,
-      "title": "Clair Obscur: Expedition 33",
-      "developer": "Sandfall Interactive",
-      "publisher": "Kepler Interactive",
-      "shortDescription": "Lead the members of Expedition 33 on their quest to destroy the Paintress - so she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
-      "categories": [
-        "Role playing",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-04-24T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PPT8K6GQHRZ",
-      "titleZh": "光与影：33号远征队",
-      "shortDescriptionZh": "率领第33号远征队踏上消灭绘母的征途，竭尽全力夺下她绘就死亡的画刷。置身这款采用即时机制的回合制角色扮演游戏，探索奇妙世界，感受法兰西19世纪末“美好年代”时期的风采，对抗超乎想象的敌人。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true
     },
     {
       "productId": "9NKHKBQJSSC3",
@@ -3479,28 +3478,6 @@
         "pc"
       ],
       "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9NGZ1M3N98P2",
-      "playAnywhere": true,
-      "title": "Crime Scene Cleaner",
-      "developer": "President Studio S.A. ",
-      "publisher": "PlayWay S.A.",
-      "shortDescription": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.\n",
-      "categories": [
-        "Simulation"
-      ],
-      "releaseDate": "2025-04-17T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NGZ1M3N98P2",
-      "titleZh": null,
-      "shortDescriptionZh": "旦你和黑帮结盟，你将永远是他们的一员。至少他们会付你一份体面的薪水，而你所要做的就是在他们的肮脏工作之后收拾残局，你知道自己在做什么不见的光的事。所以你要清理犯罪现场，糊弄警察，为下一个任务做好准备。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
       "xboxSeries": true
     },
     {
@@ -3960,6 +3937,29 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P5Z4530318L",
       "titleZh": null,
       "shortDescriptionZh": "DEATHLOOP是一款次世代第一人称射击游戏，由屡获殊荣的Arkane里昂工作室开发。此工作室曾打造好评如潮的《Dishonored》系列。本游戏中，两名敌对刺客受困于黑礁岛神秘的时间循环，注定要永远重复同一天。对于柯尔特来说，唯有赶在时间重置之前刺杀八名关键目标，从而结束时间循环，他才有机会逃脱。从每次循环中汲取教训：不断尝试新路径、发掘信息并寻找新的武器和能力。不惜一切代价打破循环。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9PPF72ZH6RP8",
+      "playAnywhere": true,
+      "title": "Deep Dish Dungeon",
+      "developer": "Behold Studios",
+      "publisher": "Raw Fury AB",
+      "shortDescription": "A survival exploration game where you navigate through a puzzly, handcrafted dungeon, with metroidvania and crafting elements. Unravel the enigmas of the dungeon solo or online co-op multiplayer. ",
+      "categories": [
+        "Strategy",
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-10-13T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.42452.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.895b973c-6205-405e-be6d-00ace2e16503",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PPF72ZH6RP8",
+      "titleZh": null,
+      "shortDescriptionZh": "这款生存探索游戏中，银河恶魔城风味与制作要素巧妙融合。你将在精心设计的地牢中冒险解谜。既可单枪匹马，也能与好友联机组队，深入地牢深处，破解重重谜团。 ",
       "platforms": [
         "console",
         "pc"
@@ -4493,30 +4493,6 @@
         "pc"
       ],
       "xboxOne": false,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9N6V2181GHLM",
-      "playAnywhere": false,
-      "title": "Donut County",
-      "developer": "Ben Esposito",
-      "publisher": "Annapurna Interactive",
-      "shortDescription": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.\r\n\r\nThe PC version of this game does not support Xbox Live",
-      "categories": [
-        "Action & adventure",
-        "Family & kids",
-        "Puzzle & trivia"
-      ],
-      "releaseDate": "2018-12-18T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N6V2181GHLM",
-      "titleZh": null,
-      "shortDescriptionZh": "Donut County 是一款叙事型物理解谜游戏。在游戏中，玩家将扮演地上一个不断变大的地洞。让我们一起来认识各种可爱的角色、偷偷拿走他们的垃圾并丢进地洞里。\r\n\r\n本游戏的 PC 版本不支持 Xbox Live",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
       "xboxSeries": true
     },
     {
@@ -5279,50 +5255,6 @@
       ],
       "xboxOne": false,
       "xboxSeries": true
-    },
-    {
-      "productId": "9MW581HCJPM6",
-      "playAnywhere": false,
-      "title": "Evil West",
-      "developer": "Flying Wild Hog",
-      "publisher": "Focus Entertainment",
-      "shortDescription": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "categories": [
-        "Action & adventure",
-        "Shooter"
-      ],
-      "releaseDate": "2022-11-21T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW581HCJPM6",
-      "titleZh": null,
-      "shortDescriptionZh": "一股暗黑势力吞噬了‘古老西部’。即可单打独斗又可组团奇袭，玩家各凭本事、无所不用其极，激烈对战嗜血怪物。装备闪电充能护手，歼灭吸血鬼老巢，成为‘西大荒超级英雄’。",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9PC49MD70881",
-      "playAnywhere": false,
-      "title": "Evil West (Windows)",
-      "developer": "Flying Wild Hog",
-      "publisher": "Focus Entertainment",
-      "shortDescription": "A dark menace consumes the Old West. In solo or coop, fight with style in visceral, explosive combat against bloodthirsty monstrosities. Eradicate the vampiric hordes with your lightning-fueled gauntlet and become a Wild West Superhero.",
-      "categories": [
-        "Shooter",
-        "Action & adventure"
-      ],
-      "releaseDate": "2024-03-21T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PC49MD70881",
-      "titleZh": "暗邪西部 (Windows)",
-      "shortDescriptionZh": "一股暗黑势力吞噬了‘古老西部’。即可单打独斗又可组团奇袭，玩家各凭本事、无所不用其极，激烈对战嗜血怪物。装备闪电充能护手，歼灭吸血鬼老巢，成为‘西大荒超级英雄’。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
     },
     {
       "productId": "9PLVVTDHS1P0",
@@ -10509,28 +10441,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "9NBNFBQ546DT",
-      "playAnywhere": false,
-      "title": "Nova Roma (Game Preview)",
-      "developer": "Lion Shield",
-      "publisher": "Hooded Horse",
-      "shortDescription": "The glory of Rome is at your fingertips in this city-building game where you must appease the gods, enact laws, and develop complex supply chains to meet the needs of your citizens.",
-      "categories": [
-        "Strategy",
-        "Simulation"
-      ],
-      "releaseDate": "2026-03-26T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.38629.13514288515095406.cc3ca34d-704c-41f1-84c0-f3bbe3ce82ac.70ae0d17-df02-41a3-9cbd-a9c87176c566",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NBNFBQ546DT",
-      "titleZh": "罗马之城 Nova Roma (游戏预览版)",
-      "shortDescriptionZh": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
-    },
-    {
       "productId": "9PMX3SK2RMG4",
       "playAnywhere": false,
       "title": "OddBallers™",
@@ -10797,30 +10707,6 @@
       ],
       "xboxOne": false,
       "xboxSeries": false
-    },
-    {
-      "productId": "9PNKG0WBL61W",
-      "playAnywhere": true,
-      "title": "Pacific Drive",
-      "developer": "Ironwood Studios ",
-      "publisher": "Kepler Interactive",
-      "shortDescription": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
-      "categories": [
-        "Racing & flying",
-        "Role playing",
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-10-23T19:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.9028.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.479a98da-1b02-4315-86a1-a5df93ed489a",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PNKG0WBL61W",
-      "titleZh": null,
-      "shortDescriptionZh": "驾驶汽车在充斥着诡谲的奥林匹克禁区中求生，去废弃的研究基地搜刮一切可用资源，装备到赖以生存的旅行车，玩命驾驶争取存活。一场基于轮回的驾驶生存体验即将拉开帷幕……\n",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true
     },
     {
       "productId": "9NKV34XDW014",
@@ -11621,7 +11507,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-07-15T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64417.14075645230645496.92f4d4d6-ef85-4ef3-b4c4-345d84f35480.01ae191a-7900-4093-98cd-22b8e1c407e1",
+      "image": "https://store-images.s-microsoft.com/image/apps.46966.14075645230645496.c0a12691-ed46-4232-b7fd-f8ee8018a9d3.dfa3deb8-7116-48db-8b78-4605c3aa2094",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P9446P7D9TZ",
       "titleZh": "检疫区：最后一站",
       "shortDescriptionZh": "在一座濒临崩溃的城市里指挥检查站，筛查幸存者，管理紧缺资源，抵御不死者的入侵。你的每一个决定都举足轻重，一招不慎就可能让瘟疫肆虐入侵。",
@@ -11786,18 +11672,18 @@
       "productId": "C26K4DVGR45B",
       "playAnywhere": false,
       "title": "Rayman Legends",
-      "developer": "Ubisoft Montpellier",
+      "developer": null,
       "publisher": "Ubisoft",
-      "shortDescription": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
+      "shortDescription": "In this award-winning platforming adventure, run, jump, and slap through the colorful worlds of the Glade of Dreams, face epic bosses, and team up in 4-player local co-op.",
       "categories": [
         "Action & adventure",
         "Platformer"
       ],
       "releaseDate": "2014-09-23T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.25053.65843946604617087.4d3f1eaa-9f9b-4884-8da5-69d3fa77479f.c8e55bec-d1f6-4fe4-b3fa-13ac1e79814f",
+      "image": "https://store-images.s-microsoft.com/image/apps.29344.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.1f5224a7-58e0-4bee-86c3-b0772ac70ebb",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C26K4DVGR45B",
-      "titleZh": "雷曼传奇",
-      "shortDescriptionZh": "碎夢林地再次陷入了危機！在英雄們沉睡的這100年間，噩夢開始蔓延並繁衍，甚至創造出了比以前更加恐怖的怪獸！這些來自傳說的生物…龍，巨型蟾蜍，海怪，還有邪惡的摔角手。在小精靈莫菲的幫助下，雷曼和格羅伯從睡夢中醒來共同對抗噩夢的入侵並拯救被抓走的小小們！ 健康遊戲忠告 抵制不良遊戲，拒絕盜版遊戲。 注意自我保護，謹防受騙上當。 適度遊戲益腦，沉迷遊戲傷身。 合理安排時間，享受健康生活。",
+      "titleZh": "《雷射超人：傳奇》",
+      "shortDescriptionZh": "在這款屢獲殊榮的平台跳躍冒險遊戲中奔跑、跳躍、衝刺，穿梭色彩繽紛的碎夢林地，迎戰史詩級頭目，並在 4 人本機模式組隊遊玩。",
       "platforms": [
         "console"
       ],
@@ -13854,30 +13740,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "9N4M72L6KGC8",
-      "playAnywhere": true,
-      "title": "Superball",
-      "developer": "Pathea Games",
-      "publisher": "Logoi Games",
-      "shortDescription": "Superball is a multiplayer superpower sports game featuring 3v3 team-based combat in cyberpunk-themed stadiums. \nSelect your character, pass, kick and pave the way to victory!",
-      "categories": [
-        "Sports",
-        "Action & adventure",
-        "Multi-player Online Battle Arena"
-      ],
-      "releaseDate": "2025-10-28T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4M72L6KGC8",
-      "titleZh": "超级巴基球",
-      "shortDescriptionZh": "超级巴基球是一款赛博朋克背景的超能力英雄体育竞技游戏。\r\n好好利用英雄们的各式技能，你既可以秀翻全场，也能与队友打出行云流水的配合。去把球搞进对手球门，获取胜利吧。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
       "productId": "9NRH78B682L8",
       "playAnywhere": true,
       "title": "SUPERHOT: MIND CONTROL DELETE",
@@ -14235,28 +14097,6 @@
         "pc"
       ],
       "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "9PG0PMB5Q0GT",
-      "playAnywhere": true,
-      "title": "The Casting of Frank Stone™",
-      "developer": "Supermassive Games",
-      "publisher": "Behaviour Interactive",
-      "shortDescription": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.  ",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2024-09-03T16:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PG0PMB5Q0GT",
-      "titleZh": null,
-      "shortDescriptionZh": "弗兰克·斯通的阴影笼罩着雪松山，他的暴力过去永远地改变了这个小镇。正如一群年轻的朋友即将发现的那样，斯通的血腥传承影响深远，给家庭、世代甚至现实本身都留下了伤痕",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
       "xboxSeries": true
     },
     {
@@ -15863,27 +15703,6 @@
       "xboxSeries": true
     },
     {
-      "productId": "9PG0ZSTFBL1T",
-      "playAnywhere": false,
-      "title": "TRIALS OF THE BLOOD DRAGON",
-      "developer": "RedLynx",
-      "publisher": "Ubisoft",
-      "shortDescription": "The year is 2019. Roxanne and Slayter, the offspring of the legendary Rex Power Colt, are going to Vietnam War 4 to save freedom, and save the world. Discover an epic single player experience with the unique combination of competitive, precise, physics-based Trials gameplay- and rather less precise gun toting, balls swinging, neon-drenched Blood Dragon action. The future is back. Are you ready?\n",
-      "categories": [
-        "Platformer"
-      ],
-      "releaseDate": "2016-06-13T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.24854.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.a29863d8-9eb2-4177-b8f0-0eda06d2d9b9",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PG0ZSTFBL1T",
-      "titleZh": null,
-      "shortDescriptionZh": "现在是 2019 年，传奇威猛中士 Rex Colt 的子女 Roxanne 和 Slayter 将要投入第四次越南战争中拯救自由，并且拯救世界。准备迎接超精彩的单人游戏体验，结合竞赛、操控准确度和真实物理效果的《特技摩托赛》游戏方式，以及没那么精准的枪战、铁球乱甩和大发霓虹光的《血龙》动作风格。未来风又回来了，你准备好了吗？",
-      "platforms": [
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": false
-    },
-    {
       "productId": "9N3F9256SF8K",
       "playAnywhere": false,
       "title": "Trials Rising",
@@ -16175,6 +15994,30 @@
       ],
       "xboxOne": false,
       "xboxSeries": false
+    },
+    {
+      "productId": "9P861V1542BL",
+      "playAnywhere": true,
+      "title": "Valor Mortis",
+      "developer": "One More Level",
+      "publisher": "Lyrical Games",
+      "shortDescription": "Valor Mortis is a first-person action Souls-like from the creators of Ghostrunner. Rise from death as a former soldier of Napoleon’s army. Wield supernatural powers, battle horror monsters, and unravel a conspiracy that threatens all of humanity.",
+      "categories": [
+        "Action & adventure",
+        "Role playing",
+        "Shooter"
+      ],
+      "releaseDate": "2026-10-13T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.6950.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.57a42d9a-98d4-4d4d-98fd-56200c024d29",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P861V1542BL",
+      "titleZh": null,
+      "shortDescriptionZh": "《Valor Mortis》是一款第一人称魂类动作游戏，出自《Ghostrunner》创作者之手。起死回生，化身成为一名拿破仑军队的前士兵。掌握超自然力量，对战恐怖怪物，并揭露一场威胁全人类安危的惊天阴谋。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
     },
     {
       "productId": "9NKCCHCFTHV2",

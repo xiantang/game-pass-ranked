@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-10-12T08:32:38.670Z",
+  "fetchedAt": "2026-10-19T07:16:04.029Z",
   "games": [
     {
       "productId": "10007645",
@@ -73,8 +73,8 @@
       "releaseDate": "2023-01-18T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005843",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -813,8 +813,8 @@
       "categories": [
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-03-22T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/qiiQyVfE5FrUO1loLJZkn7t7.png",
+      "releaseDate": "2023-03-23T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/w3plTnuSWMWg5jJbIUe6UMLW.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005432",
       "ps4": true,
       "ps5": true,
@@ -2470,8 +2470,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2015-02-24T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP4108/CUSA01632_00/aYzsdKhQDOGr1T6wwKpbtvB9kAEC9SR0CV5OkJqk7f44jRHhNeGNXGImHagGwz8F.png",
+      "releaseDate": "2015-01-28T17:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/HP0106/CUSA01577_00/yT3jXoR0nGrmYz5Ujq8kbwom3tmLBwymAWGpl8PsrSZDOdxZJMMIDbaSo3Ggto57.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/221097",
       "ps4": true,
       "ps5": false,
@@ -3105,8 +3105,8 @@
         "ACTION",
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-09-27T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/68f65341451958a4e5a709eda046f82ca96d0d5611dd4334.png",
+      "releaseDate": "2023-09-28T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/f308c616a571f6b9d78f0fe91fc81255de25db2b23007b6d.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004920",
       "ps4": true,
       "ps5": true,
@@ -3862,20 +3862,18 @@
       "titleZh": "Horizon Zero Dawn™: Complete Edition"
     },
     {
-      "productId": "202006",
+      "productId": "10005940",
       "title": "Hotline Miami",
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ARCADE",
         "ACTION"
       ],
-      "releaseDate": "2022-05-22T16:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA00486_00/T1mmY3q3rilwXOL7WddwzgEChcdIJaAz.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/202006",
+      "releaseDate": "2023-10-23T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/31633b753add90ce0d9c17ba4ebad3969104e44e83e303d6.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10005940",
       "ps4": true,
-      "ps5": false,
+      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -3883,19 +3881,18 @@
       "titleZh": null
     },
     {
-      "productId": "202007",
+      "productId": "10006547",
       "title": "Hotline Miami 2: Wrong Number",
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ACTION"
       ],
-      "releaseDate": "2015-04-08T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA00368_00/yP39eJ1iXtexPMe5h7oURbNoZasv01tNikxmfplguWnWZsykd4NqoEhdMouTprgn.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/202007",
+      "releaseDate": "2023-10-23T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1322/1ce9388532d52e419851d9fd7d66d4884ffeb6b4de2f54af.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10006547",
       "ps4": true,
-      "ps5": false,
+      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -5712,7 +5709,7 @@
       "releaseDate": "2021-04-05T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/x11L6rvYTz3IvbuvlDnryUJO.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/227431",
-      "ps4": true,
+      "ps4": false,
       "ps5": true,
       "tier": 2,
       "lists": [
@@ -6864,8 +6861,8 @@
       "releaseDate": "2022-02-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1813/FHhoyE3vgSQ9MZqIlxK8XMT9.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001348",
-      "ps4": true,
-      "ps5": false,
+      "ps4": false,
+      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -7806,7 +7803,7 @@
         "HORROR"
       ],
       "releaseDate": "2025-08-14T09:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1516/e7de31353c4f10f9a9de88c2494e6ad3c366d47684ee3551.png",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1412/222e2b7c624a2025ec34a5a36fa61f3dbc77afddbf31e5fa.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005163",
       "ps4": false,
       "ps5": true,
@@ -8939,8 +8936,8 @@
       "releaseDate": "2023-09-27T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1010/e2ee324a5dbc72c45210b64452072da1df6e7d05146deca9.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10002494",
-      "ps4": true,
-      "ps5": false,
+      "ps4": false,
+      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -10092,7 +10089,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2022-05-22T18:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004900",
       "ps4": true,
