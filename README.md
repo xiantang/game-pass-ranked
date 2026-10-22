@@ -1,7 +1,8 @@
 # XGP × Metacritic
 
-A local page listing the whole Xbox Game Pass and PlayStation Plus catalogs, sortable by
-Metacritic score. Switch between the two at the top right.
+A local page listing the whole Xbox Game Pass and PlayStation Plus catalogs, plus every
+Nintendo Switch and Switch 2 game, sortable by Metacritic score. Switch between them at
+the top right.
 
 ```bash
 npm run build    # refresh the catalog + scores (a few minutes)
@@ -42,12 +43,25 @@ GitHub Pages, on a custom domain whose DNS lives in Cloudflare.
 | Match each title on Metacritic, attach critic + user scores | `scripts/fetch-metacritic.mjs` | `data/games.json` (+ `data/mc-cache.json`, `data/mc-user-cache.json`) |
 | Pull the PS Plus lists | `scripts/fetch-psplus.mjs` | `data/psplus.json` |
 | Same Metacritic pass for PS Plus | `scripts/fetch-metacritic.mjs psplus` | `data/psplus-games.json` |
+| Pull every Switch / Switch 2 base game from the US eShop search | `scripts/fetch-switch.mjs` | `data/switch.json` (git-ignored) |
+| Match against Metacritic's Switch / Switch 2 lists, keeping scored games only | `scripts/fetch-metacritic.mjs switch` | `data/switch-games.json` |
 | Render, filter and sort in the browser | `index.html` | — |
 
 Both APIs are the public JSON endpoints that xbox.com and metacritic.com call from their
 own front ends. No key of your own is needed.
 
-- `MARKET=US npm run build` fetches another store region (default `SG`).
+- `MARKET=US npm run build` fetches another Xbox / PS store region (default `SG`). Switch
+  is always the US eShop: nintendo.com's search index (Algolia) is per region, and only
+  the US one is used.
+- The eShop search returns at most 1000 hits per query, so `fetch-switch.mjs` splits the
+  catalog on facet values (`attr:value` / `NOT attr:value`) until each slice fits.
+  A Switch 2 Edition is a separate product; its title is stripped back to the base
+  game's, so both share one Metacritic entry and merge on the page.
+- Switch is not searched title by title: most of the ~19k eShop titles were never
+  reviewed, so a search each would take an hour. Instead `fetch-metacritic.mjs switch`
+  pulls Metacritic's browse lists for the two platforms (~2.3k scored games, user score
+  included) and runs the same matcher against them locally, in under a minute. Those
+  results stay out of the shared caches.
 - `data/mc-cache.json` is the lookup cache — keep it, and a re-run only queries
   Metacritic for titles it has not seen. Delete it to force a full refresh.
 
