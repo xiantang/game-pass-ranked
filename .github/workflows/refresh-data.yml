@@ -27,6 +27,12 @@ jobs:
         with:
           node-version: 22
 
+      # scripts/hltb.py searches HowLongToBeat through howlongtobeatpy.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r requirements.txt
+
       # opencc-js converts Traditional Chinese titles to Simplified.
       - run: npm ci
       - run: npm run build

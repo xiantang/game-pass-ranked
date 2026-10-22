@@ -42,12 +42,17 @@ GitHub Pages, on a custom domain whose DNS lives in Cloudflare.
 | Match each title on Metacritic, attach critic + user scores | `scripts/fetch-metacritic.mjs` | `data/games.json` (+ `data/mc-cache.json`, `data/mc-user-cache.json`) |
 | Pull the PS Plus lists | `scripts/fetch-psplus.mjs` | `data/psplus.json` |
 | Same Metacritic pass for PS Plus | `scripts/fetch-metacritic.mjs psplus` | `data/psplus-games.json` |
+| Attach HowLongToBeat play times (main story / extras / completionist hours) to both | `scripts/fetch-playtime.mjs` + `scripts/hltb.py` | `playtime` in both files (+ `data/hltb-cache.json`) |
 | Render, filter and sort in the browser | `index.html` | — |
 
-Both APIs are the public JSON endpoints that xbox.com and metacritic.com call from their
-own front ends. No key of your own is needed.
+The store and Metacritic APIs are the public JSON endpoints their own sites call from
+the front end, so they need no key of your own.
 
 - `MARKET=US npm run build` fetches another store region (default `SG`).
+- Play times need Python with `pip install -r requirements.txt` (howlongtobeatpy, which
+  tracks HLTB's own search call; HLTB has no public API). Point `HLTB_PYTHON` at another
+  interpreter, e.g. a venv. If the search breaks, the step re-applies
+  `data/hltb-cache.json`, so the build still passes and keeps the last known times.
 - `data/mc-cache.json` is the lookup cache — keep it, and a re-run only queries
   Metacritic for titles it has not seen. Delete it to force a full refresh.
 
