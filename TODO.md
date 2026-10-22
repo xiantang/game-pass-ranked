@@ -1,24 +1,24 @@
 # TODO
 
-## Play time from IGDB
+## Play time (HowLongToBeat)
 
 Goal: show how long each game takes, for the "时间紧，任务重，只玩精品" angle.
-HowLongToBeat is out: no public API, and its search is deliberately protected
-against scraping. IGDB (Twitch) has an official API with time-to-beat data.
 
-1. **Credentials** (owner): create a Twitch app at https://dev.twitch.tv/console
-   (2FA required, Confidential client). Put `IGDB_CLIENT_ID` / `IGDB_CLIENT_SECRET`
-   in a git-ignored `.env`, and in GitHub secrets via `gh secret set`.
-2. **Check coverage before building UI.** Match games by store ID through IGDB
-   `external_games` (Xbox product ID, PS Store ID), falling back to title + year.
-   Count how many games with a critic score of 80+ have time-to-beat data, then:
-   - 70%+: card label, play-time filter and sort, and a 只玩精品 preset
-     (critic 90+, user 8+, main story under 20h)
-   - 40–70%: card label only, no filter
-   - under 40%: drop IGDB and add an HLTB search link per game
-3. Games with no end (roguelikes, sandboxes, racing: Hades, Balatro, Minecraft,
-   Forza) must not be hidden by a play-time filter. Look at IGDB genres/themes for a
-   "drop in anytime" tag instead.
+Status (2026-10-23): card label shipped. `scripts/fetch-playtime.mjs` searches HLTB
+through howlongtobeatpy (`scripts/hltb.py`) and caches matches in
+`data/hltb-cache.json`. 97% of critic 80+ games (471/487) have a main-story time.
+IGDB was tried first and dropped: most games had 1–3 reports and the numbers were
+off (The Last of Us Remastered 6.7h, HLTB 14.7h).
+
+- [ ] Play-time filter and sort, and a 只玩精品 preset (critic 90+, user 8+, main
+  story under 20h). Coverage is high enough now.
+- [ ] Games with no end (roguelikes, sandboxes, racing: Hades, Balatro, Minecraft,
+  Forza) must not be hidden by a play-time filter. HLTB still gives them a "main"
+  time, so tag them from Metacritic genres instead.
+- [ ] Misses worth fixing by hand: Anno 1800, Diablo III Ultimate Evil Edition,
+  Crash Team Racing Nitro-Fueled, Metro 2033 Redux, WipEout Omega Collection.
+- [ ] howlongtobeatpy follows HLTB's private search call. When the weekly job
+  prints "search failed", bump the pinned version in `requirements.txt`.
 
 ## Chinese names
 

@@ -25,7 +25,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.4,
+        "extra": 2.2,
+        "complete": 2.8
+      }
     },
     {
       "productId": "10008945",
@@ -60,7 +65,12 @@
         "userScore": 7,
         "userReviewCount": 109
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3.8,
+        "extra": 5.5,
+        "complete": 12.9
+      }
     },
     {
       "productId": "10009366",
@@ -93,7 +103,12 @@
         "userScore": 6.5,
         "userReviewCount": 223
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8,
+        "extra": 10.3,
+        "complete": 13.7
+      }
     },
     {
       "productId": "10005843",
@@ -126,7 +141,12 @@
         "userScore": 7.9,
         "userReviewCount": 114
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10,
+        "extra": 10.8,
+        "complete": 12.3
+      }
     },
     {
       "productId": "232814",
@@ -147,7 +167,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10012483",
@@ -180,7 +201,12 @@
         "userScore": 8.3,
         "userReviewCount": 112
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 56,
+        "extra": 75.5,
+        "complete": 93.6
+      }
     },
     {
       "productId": "231468",
@@ -215,7 +241,12 @@
         "userScore": 6.2,
         "userReviewCount": 54
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.5,
+        "extra": 9,
+        "complete": 11.4
+      }
     },
     {
       "productId": "232658",
@@ -250,7 +281,12 @@
         "userScore": 7.4,
         "userReviewCount": 123
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 51,
+        "extra": 102.5,
+        "complete": 2000
+      }
     },
     {
       "productId": "206089",
@@ -285,7 +321,12 @@
         "userScore": 7.8,
         "userReviewCount": 250
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8,
+        "extra": 15.6,
+        "complete": 53.7
+      }
     },
     {
       "productId": "10011762",
@@ -306,7 +347,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10009035",
@@ -340,7 +382,12 @@
         "userScore": 7.4,
         "userReviewCount": 79
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.1,
+        "extra": 8.9,
+        "complete": 13.9
+      }
     },
     {
       "productId": "10003143",
@@ -375,7 +422,12 @@
         "userScore": 8,
         "userReviewCount": 616
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15.7,
+        "extra": 46,
+        "complete": 140.3
+      }
     },
     {
       "productId": "10001119",
@@ -396,7 +448,8 @@
       ],
       "titleZh": "纪元：变异 收藏版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10009923",
@@ -429,7 +482,12 @@
         "userScore": 7.5,
         "userReviewCount": 349
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14.3,
+        "extra": 20.1,
+        "complete": 22.3
+      }
     },
     {
       "productId": "233432",
@@ -462,7 +520,8 @@
         "userScore": 6.1,
         "userReviewCount": 60
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004810",
@@ -483,7 +542,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 2.4,
+        "extra": 4.1,
+        "complete": 5.9
+      }
     },
     {
       "productId": "10006482",
@@ -505,7 +569,8 @@
       ],
       "titleZh": "哔波猴学苑2：亲亲猜拳玩游戏！",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10004394",
@@ -539,7 +604,12 @@
         "userScore": 8.2,
         "userReviewCount": 181
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.1,
+        "extra": 9.7,
+        "complete": 11.2
+      }
     },
     {
       "productId": "10006481",
@@ -573,7 +643,12 @@
         "userScore": 8.2,
         "userReviewCount": 181
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.1,
+        "extra": 9.7,
+        "complete": 11.2
+      }
     },
     {
       "productId": "10002527",
@@ -607,7 +682,12 @@
         "userScore": 6.6,
         "userReviewCount": 56
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 24.9,
+        "extra": 28.4,
+        "complete": 46
+      }
     },
     {
       "productId": "10010252",
@@ -628,7 +708,12 @@
       ],
       "titleZh": "装甲内核",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.8,
+        "extra": 9.7,
+        "complete": 13.3
+      }
     },
     {
       "productId": "10010298",
@@ -649,7 +734,12 @@
       ],
       "titleZh": "机战佣兵 竞技场之王",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.2,
+        "extra": 5.7,
+        "complete": 12.8
+      }
     },
     {
       "productId": "10010297",
@@ -670,7 +760,12 @@
       ],
       "titleZh": "装甲内核：幻影计划",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.1,
+        "extra": 7,
+        "complete": 8
+      }
     },
     {
       "productId": "10008922",
@@ -705,7 +800,12 @@
         "userScore": 7.7,
         "userReviewCount": 508
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.7,
+        "extra": 8.5,
+        "complete": 14
+      }
     },
     {
       "productId": "200102",
@@ -739,7 +839,12 @@
         "userScore": 6,
         "userReviewCount": 183
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.1,
+        "extra": 9.2,
+        "complete": 17.9
+      }
     },
     {
       "productId": "205867",
@@ -773,7 +878,12 @@
         "userScore": 4.4,
         "userReviewCount": 113
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.6,
+        "extra": 7.3,
+        "complete": 14.3
+      }
     },
     {
       "productId": "212280",
@@ -807,7 +917,12 @@
         "userScore": 4.8,
         "userReviewCount": 76
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.5,
+        "extra": 7.9,
+        "complete": 14.6
+      }
     },
     {
       "productId": "229601",
@@ -843,7 +958,12 @@
         "userScore": 6.9,
         "userReviewCount": 6045
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 45.7,
+        "extra": 85.6,
+        "complete": 145.5
+      }
     },
     {
       "productId": "222066",
@@ -877,7 +997,12 @@
         "userScore": 7.3,
         "userReviewCount": 5150
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 30.2,
+        "extra": 52.6,
+        "complete": 85.8
+      }
     },
     {
       "productId": "230095",
@@ -911,7 +1036,12 @@
         "userScore": 7.2,
         "userReviewCount": 1016
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10.8,
+        "extra": 22.4,
+        "complete": 40
+      }
     },
     {
       "productId": "225519",
@@ -946,7 +1076,12 @@
         "userScore": 8.2,
         "userReviewCount": 625
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 51.2,
+        "extra": 72,
+        "complete": 107.5
+      }
     },
     {
       "productId": "200088",
@@ -982,7 +1117,12 @@
         "userScore": 6.1,
         "userReviewCount": 2509
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.2,
+        "extra": 35.2,
+        "complete": 79.6
+      }
     },
     {
       "productId": "10000237",
@@ -1016,7 +1156,12 @@
         "userScore": 6.1,
         "userReviewCount": 4187
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 61.3,
+        "extra": 99.5,
+        "complete": 153.2
+      }
     },
     {
       "productId": "200098",
@@ -1038,7 +1183,8 @@
       ],
       "titleZh": "刺客信条：自由的呐喊 独立资料片 制品版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "231856",
@@ -1072,7 +1218,12 @@
         "userScore": 5.8,
         "userReviewCount": 474
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 14.7,
+        "extra": 30.5,
+        "complete": 57
+      }
     },
     {
       "productId": "200089",
@@ -1107,7 +1258,12 @@
         "userScore": 8.4,
         "userReviewCount": 3383
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 23.4,
+        "extra": 41.1,
+        "complete": 62
+      }
     },
     {
       "productId": "10004865",
@@ -1142,7 +1298,12 @@
         "userScore": 7,
         "userReviewCount": 2827
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 16,
+        "extra": 23.1,
+        "complete": 30.9
+      }
     },
     {
       "productId": "212339",
@@ -1178,7 +1339,12 @@
         "userScore": 6.8,
         "userReviewCount": 3204
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 19,
+        "extra": 34,
+        "complete": 55.8
+      }
     },
     {
       "productId": "234902",
@@ -1211,7 +1377,12 @@
         "userScore": 7.4,
         "userReviewCount": 101
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.4,
+        "extra": 99.3,
+        "complete": 336.2
+      }
     },
     {
       "productId": "234630",
@@ -1246,7 +1417,12 @@
         "userScore": 7.2,
         "userReviewCount": 366
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 26.7,
+        "extra": 52.3,
+        "complete": 71
+      }
     },
     {
       "productId": "10005432",
@@ -1279,7 +1455,12 @@
         "userScore": 7.4,
         "userReviewCount": 110
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 33.8,
+        "extra": 61.6,
+        "complete": 81.7
+      }
     },
     {
       "productId": "10002689",
@@ -1302,7 +1483,12 @@
       ],
       "titleZh": "尘封大陆",
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 11.1,
+        "extra": 19.3,
+        "complete": 28.7
+      }
     },
     {
       "productId": "235179",
@@ -1336,7 +1522,12 @@
         "userScore": 7,
         "userReviewCount": 1158
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 23.7,
+        "extra": 43.7,
+        "complete": 84
+      }
     },
     {
       "productId": "233064",
@@ -1369,7 +1560,12 @@
         "userScore": 5.3,
         "userReviewCount": 597
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 12.1,
+        "extra": 23.2,
+        "complete": 97.6
+      }
     },
     {
       "productId": "10016190",
@@ -1403,7 +1599,12 @@
         "userScore": 8.1,
         "userReviewCount": 265
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 19.2,
+        "extra": 25,
+        "complete": 35.9
+      }
     },
     {
       "productId": "10006478",
@@ -1438,7 +1639,12 @@
         "userScore": 8,
         "userReviewCount": 31
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.6,
+        "extra": 8.9,
+        "complete": 14.2
+      }
     },
     {
       "productId": "10006098",
@@ -1471,7 +1677,12 @@
         "userScore": 7.6,
         "userReviewCount": 796
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 23,
+        "extra": 45.4,
+        "complete": 62
+      }
     },
     {
       "productId": "224815",
@@ -1506,7 +1717,12 @@
         "userScore": 7,
         "userReviewCount": 114
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 29.3,
+        "extra": 43.9,
+        "complete": 71.7
+      }
     },
     {
       "productId": "10013168",
@@ -1539,7 +1755,12 @@
         "userScore": null,
         "userReviewCount": null
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.5,
+        "extra": 5.5,
+        "complete": 16.2
+      }
     },
     {
       "productId": "233889",
@@ -1572,7 +1793,12 @@
         "userScore": 5.5,
         "userReviewCount": 46
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3,
+        "extra": 5.3,
+        "complete": 10.4
+      }
     },
     {
       "productId": "200599",
@@ -1606,7 +1832,12 @@
         "userScore": 8,
         "userReviewCount": 3511
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.7,
+        "extra": 12.4,
+        "complete": 28.4
+      }
     },
     {
       "productId": "10000494",
@@ -1640,7 +1871,12 @@
         "userScore": 7.2,
         "userReviewCount": 84
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.9,
+        "extra": 5,
+        "complete": 10.4
+      }
     },
     {
       "productId": "233032",
@@ -1675,7 +1911,12 @@
         "userScore": 6.1,
         "userReviewCount": 139
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 92.9,
+        "extra": 287.3,
+        "complete": 2060.5
+      }
     },
     {
       "productId": "10006483",
@@ -1708,7 +1949,12 @@
         "userScore": 5.1,
         "userReviewCount": 16
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 27,
+        "extra": 28.4,
+        "complete": 28.5
+      }
     },
     {
       "productId": "10011854",
@@ -1741,7 +1987,12 @@
         "userScore": 7.6,
         "userReviewCount": 196
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 32.2,
+        "extra": 46.7,
+        "complete": 73.7
+      }
     },
     {
       "productId": "10007264",
@@ -1774,7 +2025,12 @@
         "userScore": 8.2,
         "userReviewCount": 549
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 16.4,
+        "extra": 20.8,
+        "complete": 26.6
+      }
     },
     {
       "productId": "10011646",
@@ -1807,7 +2063,12 @@
         "userScore": 7.5,
         "userReviewCount": 29
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.1,
+        "extra": 14.6,
+        "complete": 14.7
+      }
     },
     {
       "productId": "10011076",
@@ -1828,7 +2089,12 @@
       ],
       "titleZh": "血兆：凯恩的遗产",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.3,
+        "extra": 15,
+        "complete": 17.1
+      }
     },
     {
       "productId": "200520",
@@ -1862,7 +2128,12 @@
         "userScore": 8.9,
         "userReviewCount": 14898
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 32.3,
+        "extra": 43.4,
+        "complete": 75.2
+      }
     },
     {
       "productId": "10012002",
@@ -1896,7 +2167,12 @@
         "userScore": 7.8,
         "userReviewCount": 1016
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.4,
+        "extra": 36.5,
+        "complete": 103.7
+      }
     },
     {
       "productId": "214367",
@@ -1930,7 +2206,12 @@
         "userScore": 6.9,
         "userReviewCount": 153
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 2.1,
+        "extra": 3.2,
+        "complete": 8.3
+      }
     },
     {
       "productId": "10004805",
@@ -1963,7 +2244,12 @@
         "userScore": 7.8,
         "userReviewCount": 277
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.7,
+        "extra": 5.2,
+        "complete": 7.3
+      }
     },
     {
       "productId": "233251",
@@ -1984,7 +2270,8 @@
       ],
       "titleZh": "巴士模拟器 21",
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": null
     },
     {
       "productId": "216117",
@@ -2007,7 +2294,8 @@
       ],
       "titleZh": "克苏鲁的呼唤：官方游戏",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": null
     },
     {
       "productId": "10000938",
@@ -2041,7 +2329,12 @@
         "userScore": 7,
         "userReviewCount": 231
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.6,
+        "extra": 6.2,
+        "complete": 7.3
+      }
     },
     {
       "productId": "233219",
@@ -2074,7 +2367,12 @@
         "userScore": 7,
         "userReviewCount": 187
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.8,
+        "extra": 22.3,
+        "complete": 51.4
+      }
     },
     {
       "productId": "229453",
@@ -2109,7 +2407,12 @@
         "userScore": 7.3,
         "userReviewCount": 229
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.7,
+        "extra": 8,
+        "complete": 10.7
+      }
     },
     {
       "productId": "234578",
@@ -2132,7 +2435,12 @@
       ],
       "titleZh": "喵咪斗恶龙2",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.5,
+        "extra": 9.6,
+        "complete": 12.6
+      }
     },
     {
       "productId": "10007859",
@@ -2167,7 +2475,12 @@
         "userScore": 7.7,
         "userReviewCount": 119
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.1,
+        "extra": 8.2,
+        "complete": 10.1
+      }
     },
     {
       "productId": "200740",
@@ -2201,7 +2514,12 @@
         "userScore": 8,
         "userReviewCount": 765
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.2,
+        "extra": 13.5,
+        "complete": 15.5
+      }
     },
     {
       "productId": "234762",
@@ -2235,7 +2553,12 @@
         "userScore": 5.8,
         "userReviewCount": 401
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.4,
+        "extra": 43.3,
+        "complete": 69.3
+      }
     },
     {
       "productId": "224821",
@@ -2270,7 +2593,12 @@
         "userScore": 8.6,
         "userReviewCount": 2693
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 27.7,
+        "extra": 71.8,
+        "complete": 180.9
+      }
     },
     {
       "productId": "10011288",
@@ -2303,7 +2631,12 @@
         "userScore": 7.3,
         "userReviewCount": 94
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 9.8,
+        "extra": 14.8,
+        "complete": 18.1
+      }
     },
     {
       "productId": "10005027",
@@ -2325,7 +2658,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "234471",
@@ -2360,7 +2694,12 @@
         "userScore": 7.4,
         "userReviewCount": 206
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.4,
+        "extra": 5.6,
+        "complete": 8
+      }
     },
     {
       "productId": "10004780",
@@ -2394,7 +2733,12 @@
         "userScore": 7.3,
         "userReviewCount": 70
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 7.2,
+        "extra": 10.4,
+        "complete": 15.2
+      }
     },
     {
       "productId": "231261",
@@ -2428,7 +2772,12 @@
         "userScore": 5.5,
         "userReviewCount": 293
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 39.6,
+        "extra": 117.9,
+        "complete": 194.6
+      }
     },
     {
       "productId": "233628",
@@ -2462,7 +2811,12 @@
         "userScore": 7.9,
         "userReviewCount": 547
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5,
+        "extra": 6.1,
+        "complete": 8.1
+      }
     },
     {
       "productId": "10010232",
@@ -2495,7 +2849,12 @@
         "userScore": 7.8,
         "userReviewCount": 63
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 12,
+        "extra": 15.9,
+        "complete": 24.7
+      }
     },
     {
       "productId": "10000438",
@@ -2516,7 +2875,8 @@
       ],
       "titleZh": "建筑模拟器",
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": null
     },
     {
       "productId": "234544",
@@ -2551,7 +2911,12 @@
         "userScore": 3.8,
         "userReviewCount": 58
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 13.8,
+        "extra": 15.5,
+        "complete": 82.3
+      }
     },
     {
       "productId": "10009298",
@@ -2584,7 +2949,12 @@
         "userScore": null,
         "userReviewCount": null
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.8,
+        "extra": null,
+        "complete": 4.9
+      }
     },
     {
       "productId": "10008698",
@@ -2617,7 +2987,12 @@
         "userScore": 7,
         "userReviewCount": 88
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 56.6,
+        "extra": 120.5,
+        "complete": 176.5
+      }
     },
     {
       "productId": "10008264",
@@ -2650,7 +3025,12 @@
         "userScore": 6.3,
         "userReviewCount": 35
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 12.4,
+        "extra": null,
+        "complete": 60
+      }
     },
     {
       "productId": "10004424",
@@ -2683,7 +3063,12 @@
         "userScore": 4.6,
         "userReviewCount": 163
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.7,
+        "extra": 18.1,
+        "complete": 46.5
+      }
     },
     {
       "productId": "10009392",
@@ -2716,7 +3101,12 @@
         "userScore": 7.9,
         "userReviewCount": 141
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 5.4,
+        "extra": 6.2,
+        "complete": 8.3
+      }
     },
     {
       "productId": "10001858",
@@ -2750,7 +3140,12 @@
         "userScore": 8.3,
         "userReviewCount": 1239
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 72.6,
+        "extra": 159.5,
+        "complete": 592.7
+      }
     },
     {
       "productId": "10000350",
@@ -2783,7 +3178,12 @@
         "userScore": 8,
         "userReviewCount": 2965
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.2,
+        "extra": 11.2,
+        "complete": 11.7
+      }
     },
     {
       "productId": "234567",
@@ -2816,7 +3216,12 @@
         "userScore": 7.3,
         "userReviewCount": 40104
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 26.2,
+        "extra": 63.2,
+        "complete": 109
+      }
     },
     {
       "productId": "10009597",
@@ -2849,7 +3254,12 @@
         "userScore": 6.3,
         "userReviewCount": 271
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 33.2,
+        "extra": 70.1,
+        "complete": 99.9
+      }
     },
     {
       "productId": "10010892",
@@ -2882,7 +3292,12 @@
         "userScore": 6.6,
         "userReviewCount": 58
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 20.1,
+        "extra": 46.8,
+        "complete": 98.4
+      }
     },
     {
       "productId": "10005947",
@@ -2915,7 +3330,12 @@
         "userScore": 8.3,
         "userReviewCount": 244
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8,
+        "extra": 8.7,
+        "complete": 12.2
+      }
     },
     {
       "productId": "229018",
@@ -2949,7 +3369,12 @@
         "userScore": 8.5,
         "userReviewCount": 12997
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 36.6,
+        "extra": 50.6,
+        "complete": 65.7
+      }
     },
     {
       "productId": "227319",
@@ -2984,7 +3409,12 @@
         "userScore": 5.5,
         "userReviewCount": 946
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 77.3,
+        "extra": 373.1,
+        "complete": 800.2
+      }
     },
     {
       "productId": "201061",
@@ -3018,7 +3448,12 @@
         "userScore": 7.2,
         "userReviewCount": 1239
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.3,
+        "extra": 26.7,
+        "complete": 39.9
+      }
     },
     {
       "productId": "10003340",
@@ -3052,7 +3487,8 @@
         "userScore": 7.3,
         "userReviewCount": 13
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "228997",
@@ -3085,7 +3521,12 @@
         "userScore": 7.3,
         "userReviewCount": 77
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 24.7,
+        "extra": 35,
+        "complete": 44.5
+      }
     },
     {
       "productId": "234585",
@@ -3118,7 +3559,12 @@
         "userScore": 8.1,
         "userReviewCount": 2653
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 38.2,
+        "extra": 59.7,
+        "complete": 111.7
+      }
     },
     {
       "productId": "234692",
@@ -3152,7 +3598,12 @@
         "userScore": 6.7,
         "userReviewCount": 202
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.2,
+        "extra": 6.2,
+        "complete": 8.1
+      }
     },
     {
       "productId": "10000368",
@@ -3185,7 +3636,12 @@
         "userScore": 8.3,
         "userReviewCount": 5093
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 24,
+        "extra": 32.7,
+        "complete": 60.3
+      }
     },
     {
       "productId": "231727",
@@ -3220,7 +3676,12 @@
         "userScore": 8.2,
         "userReviewCount": 839
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 26.7,
+        "extra": 37.1,
+        "complete": 65.1
+      }
     },
     {
       "productId": "221852",
@@ -3254,7 +3715,12 @@
         "userScore": 5.2,
         "userReviewCount": 3114
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 12.2,
+        "extra": 45.8,
+        "complete": 200.3
+      }
     },
     {
       "productId": "222727",
@@ -3287,7 +3753,12 @@
         "userScore": 8.7,
         "userReviewCount": 9428
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 12.1,
+        "extra": 15.7,
+        "complete": 32.2
+      }
     },
     {
       "productId": "200943",
@@ -3321,7 +3792,12 @@
         "userScore": 7.7,
         "userReviewCount": 1374
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.1,
+        "extra": 31,
+        "complete": 52.8
+      }
     },
     {
       "productId": "10013576",
@@ -3342,7 +3818,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 22.9,
+        "extra": 28.8,
+        "complete": 39.5
+      }
     },
     {
       "productId": "10005160",
@@ -3375,7 +3856,12 @@
         "userScore": 8.4,
         "userReviewCount": 145
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.6,
+        "extra": 8.5,
+        "complete": 10.2
+      }
     },
     {
       "productId": "201017",
@@ -3409,7 +3895,12 @@
         "userScore": 8.1,
         "userReviewCount": 2261
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.5,
+        "extra": 22.8,
+        "complete": 46.1
+      }
     },
     {
       "productId": "229481",
@@ -3443,7 +3934,12 @@
         "userScore": 7.2,
         "userReviewCount": 470
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.6,
+        "extra": 11.5,
+        "complete": 17.9
+      }
     },
     {
       "productId": "228538",
@@ -3477,7 +3973,12 @@
         "userScore": 7.9,
         "userReviewCount": 523
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 12.2,
+        "extra": 22,
+        "complete": 46.7
+      }
     },
     {
       "productId": "10007642",
@@ -3510,7 +4011,12 @@
         "userScore": 7.3,
         "userReviewCount": 27
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6,
+        "extra": 7.3,
+        "complete": 7.5
+      }
     },
     {
       "productId": "10007630",
@@ -3543,7 +4049,12 @@
         "userScore": 6.6,
         "userReviewCount": 17
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.6,
+        "extra": 5.7,
+        "complete": 7.1
+      }
     },
     {
       "productId": "10007632",
@@ -3576,7 +4087,8 @@
         "userScore": 6.3,
         "userReviewCount": 7
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "233884",
@@ -3610,7 +4122,12 @@
         "userScore": 8.2,
         "userReviewCount": 1690
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.6,
+        "extra": 16.4,
+        "complete": 27.2
+      }
     },
     {
       "productId": "234453",
@@ -3644,7 +4161,12 @@
         "userScore": 7.7,
         "userReviewCount": 1309
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.9,
+        "extra": 13.1,
+        "complete": 16.9
+      }
     },
     {
       "productId": "234454",
@@ -3678,7 +4200,12 @@
         "userScore": 7.7,
         "userReviewCount": 175
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.1,
+        "extra": 9.2,
+        "complete": 10.5
+      }
     },
     {
       "productId": "232624",
@@ -3712,7 +4239,12 @@
         "userScore": 8.5,
         "userReviewCount": 6558
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14.5,
+        "extra": 20.6,
+        "complete": 30
+      }
     },
     {
       "productId": "233883",
@@ -3746,7 +4278,12 @@
         "userScore": 7.9,
         "userReviewCount": 247
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7,
+        "extra": 9.8,
+        "complete": 14.1
+      }
     },
     {
       "productId": "232591",
@@ -3781,7 +4318,12 @@
         "userScore": 6.9,
         "userReviewCount": 38
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 16.1,
+        "extra": 24.1,
+        "complete": 35.7
+      }
     },
     {
       "productId": "206887",
@@ -3804,7 +4346,8 @@
       ],
       "titleZh": "梦想大创造",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": null
     },
     {
       "productId": "10005693",
@@ -3837,7 +4380,12 @@
         "userScore": 7.9,
         "userReviewCount": 738
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.7,
+        "extra": 12.9,
+        "complete": 20.9
+      }
     },
     {
       "productId": "10011397",
@@ -3870,7 +4418,12 @@
         "userScore": 8.3,
         "userReviewCount": 7
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 11.7,
+        "extra": null,
+        "complete": 19.1
+      }
     },
     {
       "productId": "10007196",
@@ -3904,7 +4457,12 @@
         "userScore": 7.7,
         "userReviewCount": 124
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 15.5,
+        "extra": 21.3,
+        "complete": 26
+      }
     },
     {
       "productId": "201129",
@@ -3938,7 +4496,12 @@
         "userScore": 8,
         "userReviewCount": 3048
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.3,
+        "extra": 36.7,
+        "complete": 64.6
+      }
     },
     {
       "productId": "232374",
@@ -3971,7 +4534,12 @@
         "userScore": 7.2,
         "userReviewCount": 3618
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 24.4,
+        "extra": 49.5,
+        "complete": 102.3
+      }
     },
     {
       "productId": "221097",
@@ -4004,7 +4572,12 @@
         "userScore": 6.7,
         "userReviewCount": 70
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10.5,
+        "extra": 61.9,
+        "complete": 294.8
+      }
     },
     {
       "productId": "229001",
@@ -4039,7 +4612,12 @@
         "userScore": 4.3,
         "userReviewCount": 196
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 29,
+        "extra": 102.3,
+        "complete": 148.2
+      }
     },
     {
       "productId": "216171",
@@ -4075,7 +4653,12 @@
         "userScore": 7,
         "userReviewCount": 51
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 2.5,
+        "extra": 3.8,
+        "complete": 8
+      }
     },
     {
       "productId": "222995",
@@ -4110,7 +4693,12 @@
         "userScore": 7.6,
         "userReviewCount": 59
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 30.2,
+        "extra": 55.6,
+        "complete": 161.9
+      }
     },
     {
       "productId": "232625",
@@ -4145,7 +4733,12 @@
         "userScore": 5.5,
         "userReviewCount": 46
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.5,
+        "extra": 17.6,
+        "complete": 26.9
+      }
     },
     {
       "productId": "10008165",
@@ -4178,7 +4771,8 @@
         "userScore": 7,
         "userReviewCount": 7
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10004656",
@@ -4211,7 +4805,12 @@
         "userScore": 5.8,
         "userReviewCount": 16
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.5,
+        "extra": 8.2,
+        "complete": 10.4
+      }
     },
     {
       "productId": "10012310",
@@ -4244,7 +4843,12 @@
         "userScore": 6.7,
         "userReviewCount": 243
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 13.1,
+        "extra": 14.3,
+        "complete": 18.8
+      }
     },
     {
       "productId": "10005031",
@@ -4277,7 +4881,8 @@
         "userScore": 7.5,
         "userReviewCount": 8
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10003484",
@@ -4310,7 +4915,12 @@
         "userScore": 7.2,
         "userReviewCount": 310
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 47.4,
+        "extra": 66.6,
+        "complete": 99.8
+      }
     },
     {
       "productId": "10002570",
@@ -4343,7 +4953,12 @@
         "userScore": 6.6,
         "userReviewCount": 64
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.3,
+        "extra": 7.1,
+        "complete": 15.2
+      }
     },
     {
       "productId": "10001730",
@@ -4377,7 +4992,12 @@
         "userScore": 7.6,
         "userReviewCount": 7
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 5.4,
+        "extra": 9.7,
+        "complete": 21.8
+      }
     },
     {
       "productId": "10008826",
@@ -4410,7 +5030,12 @@
         "userScore": 6,
         "userReviewCount": 308
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.9,
+        "extra": 20.7,
+        "complete": 29.7
+      }
     },
     {
       "productId": "201386",
@@ -4443,7 +5068,12 @@
         "userScore": 6.8,
         "userReviewCount": 186
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 1.5,
+        "extra": 3.5,
+        "complete": 8.6
+      }
     },
     {
       "productId": "234806",
@@ -4476,7 +5106,12 @@
         "userScore": 6.6,
         "userReviewCount": 476
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 1.9,
+        "extra": 3.3,
+        "complete": 11.3
+      }
     },
     {
       "productId": "209065",
@@ -4510,7 +5145,12 @@
         "userScore": 7.5,
         "userReviewCount": 183
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 16.6,
+        "extra": 37.2,
+        "complete": 72.6
+      }
     },
     {
       "productId": "10004411",
@@ -4543,7 +5183,12 @@
         "userScore": 7.5,
         "userReviewCount": 183
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.6,
+        "extra": 37.2,
+        "complete": 72.6
+      }
     },
     {
       "productId": "10004604",
@@ -4564,7 +5209,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10008790",
@@ -4598,7 +5244,8 @@
         "userScore": 5.4,
         "userReviewCount": 88
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": null
     },
     {
       "productId": "10011830",
@@ -4631,7 +5278,12 @@
         "userScore": 7.3,
         "userReviewCount": 135
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.6,
+        "extra": 35.9,
+        "complete": 169.9
+      }
     },
     {
       "productId": "231804",
@@ -4664,7 +5316,12 @@
         "userScore": 4.5,
         "userReviewCount": 43
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 34.3,
+        "extra": 37.5,
+        "complete": 40
+      }
     },
     {
       "productId": "201511",
@@ -4697,7 +5354,12 @@
         "userScore": 7.1,
         "userReviewCount": 8031
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 27.8,
+        "extra": 83.3,
+        "complete": 160.3
+      }
     },
     {
       "productId": "232248",
@@ -4730,7 +5392,12 @@
         "userScore": 2.9,
         "userReviewCount": 7201
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 36.5,
+        "extra": 118.9,
+        "complete": 317.9
+      }
     },
     {
       "productId": "10003269",
@@ -4764,7 +5431,12 @@
         "userScore": 8.1,
         "userReviewCount": 587
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 4.4,
+        "extra": 7.1,
+        "complete": 8.7
+      }
     },
     {
       "productId": "201624",
@@ -4799,7 +5471,12 @@
         "userScore": 7.7,
         "userReviewCount": 3703
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.8,
+        "extra": 31.2,
+        "complete": 46.9
+      }
     },
     {
       "productId": "221692",
@@ -4835,7 +5512,12 @@
         "userScore": 7,
         "userReviewCount": 3792
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 18.4,
+        "extra": 31,
+        "complete": 47.7
+      }
     },
     {
       "productId": "232910",
@@ -4871,7 +5553,12 @@
         "userScore": 4.9,
         "userReviewCount": 1081
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.4,
+        "extra": 18.3,
+        "complete": 28.9
+      }
     },
     {
       "productId": "201634",
@@ -4906,7 +5593,12 @@
         "userScore": 6.8,
         "userReviewCount": 1632
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15,
+        "extra": 23.7,
+        "complete": 36.4
+      }
     },
     {
       "productId": "231486",
@@ -4928,7 +5620,8 @@
       ],
       "titleZh": "极地战嚎 3：经典版 - 数码一般版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10002934",
@@ -4962,7 +5655,12 @@
         "userScore": 6.9,
         "userReviewCount": 96
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.4,
+        "extra": 6.1,
+        "complete": 9
+      }
     },
     {
       "productId": "233961",
@@ -4996,7 +5694,12 @@
         "userScore": 5.5,
         "userReviewCount": 2391
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 25.1,
+        "extra": 41.9,
+        "complete": 65.3
+      }
     },
     {
       "productId": "10009612",
@@ -5029,7 +5732,8 @@
         "userScore": 5.5,
         "userReviewCount": 94
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004920",
@@ -5063,7 +5767,12 @@
         "userScore": 8.1,
         "userReviewCount": 131
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 31.4,
+        "extra": 40,
+        "complete": 63.5
+      }
     },
     {
       "productId": "10012303",
@@ -5096,7 +5805,12 @@
         "userScore": 5.2,
         "userReviewCount": 120
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3.4,
+        "extra": 9.9,
+        "complete": 20.9
+      }
     },
     {
       "productId": "228744",
@@ -5129,7 +5843,12 @@
         "userScore": 8.2,
         "userReviewCount": 9444
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 32.3,
+        "extra": 41.1,
+        "complete": 85.7
+      }
     },
     {
       "productId": "10002100",
@@ -5163,7 +5882,12 @@
         "userScore": 8.3,
         "userReviewCount": 10314
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 38.3,
+        "extra": 59.5,
+        "complete": 82.4
+      }
     },
     {
       "productId": "10008409",
@@ -5184,7 +5908,8 @@
       ],
       "titleZh": "消防模拟：火苗燃动",
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": null
     },
     {
       "productId": "10009325",
@@ -5205,7 +5930,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 8.5,
+        "extra": 12.1,
+        "complete": 16
+      }
     },
     {
       "productId": "10004425",
@@ -5240,7 +5970,12 @@
         "userScore": 5,
         "userReviewCount": 239
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 8.9,
+        "extra": 15.4,
+        "complete": 21.5
+      }
     },
     {
       "productId": "10014519",
@@ -5273,7 +6008,12 @@
         "userScore": 2.9,
         "userReviewCount": 205
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 125.1,
+        "extra": 241.7,
+        "complete": 298
+      }
     },
     {
       "productId": "221694",
@@ -5308,7 +6048,12 @@
         "userScore": 6.1,
         "userReviewCount": 1428
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 7,
+        "extra": 10.9,
+        "complete": 18.3
+      }
     },
     {
       "productId": "232512",
@@ -5341,7 +6086,12 @@
         "userScore": 6.9,
         "userReviewCount": 177
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 12,
+        "extra": 34.9,
+        "complete": 72
+      }
     },
     {
       "productId": "10010950",
@@ -5362,7 +6112,12 @@
       ],
       "titleZh": "死魂曲",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 19.6,
+        "extra": 20.5,
+        "complete": 28.5
+      }
     },
     {
       "productId": "10008137",
@@ -5383,7 +6138,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 15,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "235227",
@@ -5416,7 +6176,12 @@
         "userScore": 8.4,
         "userReviewCount": 6122
       },
-      "titleZhSource": "override"
+      "titleZhSource": "override",
+      "playtime": {
+        "main": 25.1,
+        "extra": 46.3,
+        "complete": 62.5
+      }
     },
     {
       "productId": "10010578",
@@ -5437,7 +6202,12 @@
       ],
       "titleZh": "除灵派对",
       "metacritic": null,
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 10.3,
+        "extra": 10.6,
+        "complete": 11
+      }
     },
     {
       "productId": "10017591",
@@ -5470,7 +6240,12 @@
         "userScore": 7.7,
         "userReviewCount": 18
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3,
+        "extra": 4.3,
+        "complete": 8.5
+      }
     },
     {
       "productId": "227770",
@@ -5503,7 +6278,12 @@
         "userScore": 9,
         "userReviewCount": 31363
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 20.6,
+        "extra": 32.9,
+        "complete": 51
+      }
     },
     {
       "productId": "10001850",
@@ -5536,7 +6316,12 @@
         "userScore": 8.3,
         "userReviewCount": 17115
       },
-      "titleZhSource": "override"
+      "titleZhSource": "override",
+      "playtime": {
+        "main": 26.6,
+        "extra": 40.7,
+        "complete": 55.7
+      }
     },
     {
       "productId": "228618",
@@ -5570,7 +6355,12 @@
         "userScore": 8.4,
         "userReviewCount": 2004
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 10,
+        "extra": 11.1,
+        "complete": 18.7
+      }
     },
     {
       "productId": "10005103",
@@ -5604,7 +6394,12 @@
         "userScore": 8,
         "userReviewCount": 43
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 37.6,
+        "extra": 55.2,
+        "complete": 88.6
+      }
     },
     {
       "productId": "235061",
@@ -5638,7 +6433,12 @@
         "userScore": 5.9,
         "userReviewCount": 102
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 6.3,
+        "extra": 11.5,
+        "complete": 28
+      }
     },
     {
       "productId": "10007911",
@@ -5673,7 +6473,12 @@
         "userScore": 7.3,
         "userReviewCount": 61
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.7,
+        "extra": 83.5,
+        "complete": 593.4
+      }
     },
     {
       "productId": "229066",
@@ -5707,7 +6512,12 @@
         "userScore": 8.1,
         "userReviewCount": 461
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 15.6,
+        "extra": 32,
+        "complete": 132.1
+      }
     },
     {
       "productId": "201930",
@@ -5741,7 +6551,12 @@
         "userScore": 8.5,
         "userReviewCount": 17459
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 32.1,
+        "extra": 51.3,
+        "complete": 89.5
+      }
     },
     {
       "productId": "10008233",
@@ -5774,7 +6589,12 @@
         "userScore": 7.7,
         "userReviewCount": 176
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 42.2,
+        "extra": 54.4,
+        "complete": 69
+      }
     },
     {
       "productId": "10007237",
@@ -5795,7 +6615,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "221698",
@@ -5829,7 +6650,12 @@
         "userScore": 8.1,
         "userReviewCount": 754
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 19.1,
+        "extra": 32.9,
+        "complete": 52.1
+      }
     },
     {
       "productId": "226357",
@@ -5863,7 +6689,12 @@
         "userScore": 8.1,
         "userReviewCount": 547
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 9.9,
+        "extra": 13.2,
+        "complete": 17.3
+      }
     },
     {
       "productId": "10002038",
@@ -5896,7 +6727,12 @@
         "userScore": 7.4,
         "userReviewCount": 299
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.8,
+        "extra": 29.6,
+        "complete": 53.3
+      }
     },
     {
       "productId": "234650",
@@ -5930,7 +6766,12 @@
         "userScore": 8,
         "userReviewCount": 1042
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.6,
+        "extra": 4.1,
+        "complete": 6.5
+      }
     },
     {
       "productId": "10005231",
@@ -5963,7 +6804,12 @@
         "userScore": 8.8,
         "userReviewCount": 93
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 80.5,
+        "extra": 121,
+        "complete": 182.8
+      }
     },
     {
       "productId": "230279",
@@ -5984,7 +6830,8 @@
       ],
       "titleZh": "Harvest Moon: 希望之光特别版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "201902",
@@ -6018,7 +6865,12 @@
         "userScore": 8.4,
         "userReviewCount": 2996
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10,
+        "extra": 12.1,
+        "complete": 22.1
+      }
     },
     {
       "productId": "10005051",
@@ -6052,7 +6904,12 @@
         "userScore": 7.7,
         "userReviewCount": 480
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 21.7,
+        "extra": 28.7,
+        "complete": 33.9
+      }
     },
     {
       "productId": "10000657",
@@ -6085,7 +6942,12 @@
         "userScore": 7.5,
         "userReviewCount": 3031
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 31.9,
+        "extra": 65.1,
+        "complete": 88.2
+      }
     },
     {
       "productId": "231096",
@@ -6120,7 +6982,12 @@
         "userScore": 5.4,
         "userReviewCount": 574
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8,
+        "extra": 14.1,
+        "complete": 18.1
+      }
     },
     {
       "productId": "10007636",
@@ -6142,7 +7009,12 @@
       ],
       "titleZh": "海格力斯大冒险",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.2,
+        "extra": 14.2,
+        "complete": 16.3
+      }
     },
     {
       "productId": "232447",
@@ -6175,7 +7047,12 @@
         "userScore": 8,
         "userReviewCount": 6886
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 26.7,
+        "extra": 45.3,
+        "complete": 72.2
+      }
     },
     {
       "productId": "232654",
@@ -6210,7 +7087,12 @@
         "userScore": 9,
         "userReviewCount": 6335
       },
-      "titleZhSource": "override"
+      "titleZhSource": "override",
+      "playtime": {
+        "main": 27,
+        "extra": 41.6,
+        "complete": 65.6
+      }
     },
     {
       "productId": "221727",
@@ -6244,7 +7126,12 @@
         "userScore": 7.2,
         "userReviewCount": 895
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 28.9,
+        "extra": 52.1,
+        "complete": 75.6
+      }
     },
     {
       "productId": "10005940",
@@ -6277,7 +7164,12 @@
         "userScore": 8.5,
         "userReviewCount": 2780
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.2,
+        "extra": 7.3,
+        "complete": 15.2
+      }
     },
     {
       "productId": "10006547",
@@ -6310,7 +7202,12 @@
         "userScore": 7.9,
         "userReviewCount": 1207
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 8.8,
+        "extra": 12.9,
+        "complete": 33.9
+      }
     },
     {
       "productId": "227139",
@@ -6345,7 +7242,12 @@
         "userScore": 7.2,
         "userReviewCount": 359
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.3,
+        "extra": 12.4,
+        "complete": 26.4
+      }
     },
     {
       "productId": "233011",
@@ -6379,7 +7281,12 @@
         "userScore": 7.9,
         "userReviewCount": 165
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.7,
+        "extra": 16.1,
+        "complete": 17.8
+      }
     },
     {
       "productId": "232286",
@@ -6413,7 +7320,8 @@
         "userScore": 7.1,
         "userReviewCount": 14
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "234014",
@@ -6448,7 +7356,12 @@
         "userScore": 7.5,
         "userReviewCount": 106
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 55.8,
+        "extra": 321.5,
+        "complete": 630.8
+      }
     },
     {
       "productId": "234423",
@@ -6483,7 +7396,12 @@
         "userScore": 7.6,
         "userReviewCount": 687
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 25.4,
+        "extra": 41.2,
+        "complete": 62.3
+      }
     },
     {
       "productId": "10007635",
@@ -6517,7 +7435,12 @@
         "userScore": 6.4,
         "userReviewCount": 38
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.8,
+        "extra": 6.5,
+        "complete": 6.8
+      }
     },
     {
       "productId": "10008296",
@@ -6550,7 +7473,12 @@
         "userScore": 7,
         "userReviewCount": 430
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.1,
+        "extra": 4.5,
+        "complete": 5
+      }
     },
     {
       "productId": "202140",
@@ -6583,7 +7511,12 @@
         "userScore": 7.3,
         "userReviewCount": 1034
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.1,
+        "extra": 5.5,
+        "complete": 9.7
+      }
     },
     {
       "productId": "227147",
@@ -6616,7 +7549,12 @@
         "userScore": 7.8,
         "userReviewCount": 328
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 22.6,
+        "extra": 65.5,
+        "complete": 247.2
+      }
     },
     {
       "productId": "202184",
@@ -6651,7 +7589,12 @@
         "userScore": 8.8,
         "userReviewCount": 519
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.6,
+        "extra": 14.2,
+        "complete": 18.4
+      }
     },
     {
       "productId": "10007600",
@@ -6684,7 +7627,12 @@
         "userScore": 6.8,
         "userReviewCount": 96
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.1,
+        "extra": 10.2,
+        "complete": 11.5
+      }
     },
     {
       "productId": "10010137",
@@ -6717,7 +7665,12 @@
         "userScore": 8.8,
         "userReviewCount": 835
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.8,
+        "extra": 11.1,
+        "complete": 11.9
+      }
     },
     {
       "productId": "202185",
@@ -6752,7 +7705,12 @@
         "userScore": 8.3,
         "userReviewCount": 580
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.3,
+        "extra": 18.1,
+        "complete": 21.2
+      }
     },
     {
       "productId": "229131",
@@ -6785,7 +7743,12 @@
         "userScore": 8,
         "userReviewCount": 145
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.4,
+        "extra": 12.8,
+        "complete": 15.5
+      }
     },
     {
       "productId": "10007464",
@@ -6818,7 +7781,12 @@
         "userScore": 8.1,
         "userReviewCount": 118
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 31.4,
+        "extra": 39.7,
+        "complete": 48.8
+      }
     },
     {
       "productId": "10008415",
@@ -6839,7 +7807,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.2,
+        "extra": 4.8,
+        "complete": 5
+      }
     },
     {
       "productId": "10009010",
@@ -6860,7 +7833,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.2,
+        "extra": 3.2,
+        "complete": 4.5
+      }
     },
     {
       "productId": "10004413",
@@ -6881,7 +7859,12 @@
       ],
       "titleZh": "跳闪！ 阿罗哈男爵惊恐大作战之卷",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 1.6,
+        "extra": 2.2,
+        "complete": 2.3
+      }
     },
     {
       "productId": "10002577",
@@ -6915,7 +7898,12 @@
         "userScore": 7.3,
         "userReviewCount": 235
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6,
+        "extra": 36.1,
+        "complete": 108.3
+      }
     },
     {
       "productId": "10005028",
@@ -6937,7 +7925,12 @@
       ],
       "titleZh": "天地之门",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 20.2,
+        "extra": 22.6,
+        "complete": 23
+      }
     },
     {
       "productId": "10005847",
@@ -6971,7 +7964,12 @@
         "userScore": 7.3,
         "userReviewCount": 72
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 5.2,
+        "extra": 5.8,
+        "complete": 11.7
+      }
     },
     {
       "productId": "221915",
@@ -7005,7 +8003,12 @@
         "userScore": 7,
         "userReviewCount": 307
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.4,
+        "extra": 94.3,
+        "complete": 130.9
+      }
     },
     {
       "productId": "10006484",
@@ -7039,7 +8042,12 @@
         "userScore": 7.3,
         "userReviewCount": 113
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.5,
+        "extra": 9.2,
+        "complete": 37.2
+      }
     },
     {
       "productId": "202335",
@@ -7073,7 +8081,12 @@
         "userScore": 6.8,
         "userReviewCount": 2599
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.9,
+        "extra": 13.8,
+        "complete": 91.9
+      }
     },
     {
       "productId": "227410",
@@ -7108,7 +8121,12 @@
         "userScore": 8,
         "userReviewCount": 4349
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 42.8,
+        "extra": 81.3,
+        "complete": 136.5
+      }
     },
     {
       "productId": "10006210",
@@ -7141,7 +8159,12 @@
         "userScore": 8.7,
         "userReviewCount": 5122
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 55.6,
+        "extra": 101,
+        "complete": 147
+      }
     },
     {
       "productId": "202340",
@@ -7174,7 +8197,12 @@
         "userScore": 6.5,
         "userReviewCount": 1427
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10.4,
+        "extra": 12.3,
+        "complete": 38.2
+      }
     },
     {
       "productId": "10004410",
@@ -7195,7 +8223,12 @@
       ],
       "titleZh": "I.Q.：智能魔方",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.2,
+        "extra": 3,
+        "complete": 3.2
+      }
     },
     {
       "productId": "10004412",
@@ -7216,7 +8249,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10012698",
@@ -7249,7 +8283,12 @@
         "userScore": 7.6,
         "userReviewCount": 37
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 9.5,
+        "extra": 12.9,
+        "complete": 17.3
+      }
     },
     {
       "productId": "232460",
@@ -7271,7 +8310,8 @@
       ],
       "titleZh": "传奇小钓手 - 数码版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10007589",
@@ -7304,7 +8344,12 @@
         "userScore": 8,
         "userReviewCount": 186
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.8,
+        "extra": 17.9,
+        "complete": 29.7
+      }
     },
     {
       "productId": "202496",
@@ -7339,7 +8384,12 @@
         "userScore": 7,
         "userReviewCount": 362
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10.1,
+        "extra": 19.4,
+        "complete": 35.9
+      }
     },
     {
       "productId": "224875",
@@ -7372,7 +8422,12 @@
         "userScore": 8.4,
         "userReviewCount": 541
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15.3,
+        "extra": 24.4,
+        "complete": 48.5
+      }
     },
     {
       "productId": "231944",
@@ -7405,7 +8460,12 @@
         "userScore": 7.4,
         "userReviewCount": 270
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.4,
+        "extra": 18.6,
+        "complete": 41.6
+      }
     },
     {
       "productId": "10007722",
@@ -7438,7 +8498,12 @@
         "userScore": 5.8,
         "userReviewCount": 316
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 7.1,
+        "extra": 11,
+        "complete": 15.8
+      }
     },
     {
       "productId": "202450",
@@ -7472,7 +8537,12 @@
         "userScore": 7.3,
         "userReviewCount": 286
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.3,
+        "extra": 17.5,
+        "complete": 29.7
+      }
     },
     {
       "productId": "202494",
@@ -7506,7 +8576,12 @@
         "userScore": 7.2,
         "userReviewCount": 355
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.4,
+        "extra": 18.7,
+        "complete": 36.3
+      }
     },
     {
       "productId": "228782",
@@ -7540,7 +8615,12 @@
         "userScore": 6.1,
         "userReviewCount": 157
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.2,
+        "extra": 10,
+        "complete": 17.9
+      }
     },
     {
       "productId": "202454",
@@ -7573,7 +8653,12 @@
         "userScore": 6.9,
         "userReviewCount": 214
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.9,
+        "extra": 16.2,
+        "complete": 36.8
+      }
     },
     {
       "productId": "202508",
@@ -7608,7 +8693,12 @@
         "userScore": 6.1,
         "userReviewCount": 153
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.8,
+        "extra": 26,
+        "complete": 35.9
+      }
     },
     {
       "productId": "10008183",
@@ -7641,7 +8731,12 @@
         "userScore": 4.8,
         "userReviewCount": 944
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.1,
+        "extra": 14.4,
+        "complete": 20.8
+      }
     },
     {
       "productId": "10004462",
@@ -7674,7 +8769,12 @@
         "userScore": 8.5,
         "userReviewCount": 1003
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 57.1,
+        "extra": 83.9,
+        "complete": 118.4
+      }
     },
     {
       "productId": "10004655",
@@ -7707,7 +8807,12 @@
         "userScore": 7.5,
         "userReviewCount": 22
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.7,
+        "extra": 2.7,
+        "complete": 3.1
+      }
     },
     {
       "productId": "227868",
@@ -7740,7 +8845,12 @@
         "userScore": 8.1,
         "userReviewCount": 132
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.6,
+        "extra": 9,
+        "complete": 25
+      }
     },
     {
       "productId": "227869",
@@ -7773,7 +8883,12 @@
         "userScore": 8.3,
         "userReviewCount": 77
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.4,
+        "extra": 13.1,
+        "complete": 27.2
+      }
     },
     {
       "productId": "234290",
@@ -7807,7 +8922,12 @@
         "userScore": 7.2,
         "userReviewCount": 97
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.1,
+        "extra": 11.9,
+        "complete": 35.5
+      }
     },
     {
       "productId": "216665",
@@ -7840,7 +8960,12 @@
         "userScore": 8,
         "userReviewCount": 42
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 5.2,
+        "extra": 21.6,
+        "complete": 24.1
+      }
     },
     {
       "productId": "202615",
@@ -7873,7 +8998,12 @@
         "userScore": 6.4,
         "userReviewCount": 155
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.2,
+        "extra": 9.9,
+        "complete": 31.6
+      }
     },
     {
       "productId": "218717",
@@ -7896,7 +9026,12 @@
       ],
       "titleZh": "麻将",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.1,
+        "extra": 10.9,
+        "complete": 11.1
+      }
     },
     {
       "productId": "233202",
@@ -7931,7 +9066,12 @@
         "userScore": 6.6,
         "userReviewCount": 368
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.1,
+        "extra": 10.2,
+        "complete": 13
+      }
     },
     {
       "productId": "234665",
@@ -7964,7 +9104,12 @@
         "userScore": 8.4,
         "userReviewCount": 2687
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.6,
+        "extra": 20.4,
+        "complete": 26
+      }
     },
     {
       "productId": "10002456",
@@ -7997,7 +9142,12 @@
         "userScore": 8.6,
         "userReviewCount": 11731
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 17.2,
+        "extra": 23.9,
+        "complete": 28.6
+      }
     },
     {
       "productId": "10000762",
@@ -8030,7 +9180,12 @@
         "userScore": 8.7,
         "userReviewCount": 12000
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 17,
+        "extra": 25.6,
+        "complete": 36
+      }
     },
     {
       "productId": "10000649",
@@ -8063,7 +9218,12 @@
         "userScore": 7.6,
         "userReviewCount": 6167
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.8,
+        "extra": 12.5,
+        "complete": 18.6
+      }
     },
     {
       "productId": "224903",
@@ -8097,7 +9257,12 @@
         "userScore": 7.4,
         "userReviewCount": 66
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.9,
+        "extra": 7.4,
+        "complete": 13.8
+      }
     },
     {
       "productId": "234427",
@@ -8131,7 +9296,12 @@
         "userScore": 8,
         "userReviewCount": 779
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.2,
+        "extra": 10.8,
+        "complete": 15.6
+      }
     },
     {
       "productId": "10008138",
@@ -8164,7 +9334,12 @@
         "userScore": 8,
         "userReviewCount": 779
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.2,
+        "extra": 10.8,
+        "complete": 15.6
+      }
     },
     {
       "productId": "10009384",
@@ -8185,7 +9360,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.8,
+        "extra": 6.8,
+        "complete": 7.2
+      }
     },
     {
       "productId": "10005032",
@@ -8218,7 +9398,12 @@
         "userScore": 8.1,
         "userReviewCount": 110
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 9.6,
+        "extra": 10.7,
+        "complete": 10.7
+      }
     },
     {
       "productId": "202663",
@@ -8239,7 +9424,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10019857",
@@ -8272,7 +9458,12 @@
         "userScore": 7.3,
         "userReviewCount": 34
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 20.7,
+        "extra": 29.2,
+        "complete": 58.8
+      }
     },
     {
       "productId": "10000480",
@@ -8293,7 +9484,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.2,
+        "extra": 11.8,
+        "complete": 18.8
+      }
     },
     {
       "productId": "10008291",
@@ -8328,7 +9524,12 @@
         "userScore": 7,
         "userReviewCount": 77
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 5.3,
+        "extra": 6.4,
+        "complete": 9.8
+      }
     },
     {
       "productId": "202807",
@@ -8361,7 +9562,8 @@
         "userScore": 8.1,
         "userReviewCount": 2594
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": null
     },
     {
       "productId": "231769",
@@ -8396,7 +9598,12 @@
         "userScore": 8.2,
         "userReviewCount": 752
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 15.9,
+        "extra": 24,
+        "complete": 41.8
+      }
     },
     {
       "productId": "202806",
@@ -8429,7 +9636,12 @@
         "userScore": 8.1,
         "userReviewCount": 1097
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.1,
+        "extra": 23.1,
+        "complete": 51.9
+      }
     },
     {
       "productId": "226459",
@@ -8462,7 +9674,12 @@
         "userScore": 7.9,
         "userReviewCount": 1210
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 9.8,
+        "extra": 13.5,
+        "complete": 27.7
+      }
     },
     {
       "productId": "10009198",
@@ -8495,7 +9712,12 @@
         "userScore": 5.7,
         "userReviewCount": 36
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.6,
+        "extra": 3.9,
+        "complete": 7.2
+      }
     },
     {
       "productId": "10002216",
@@ -8517,7 +9739,12 @@
       ],
       "titleZh": "MONOPOLY狂乐派对",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.8,
+        "extra": 6,
+        "complete": 6.7
+      }
     },
     {
       "productId": "10007582",
@@ -8550,7 +9777,12 @@
         "userScore": 7.2,
         "userReviewCount": 50
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 33.4,
+        "extra": 48.7,
+        "complete": 86.1
+      }
     },
     {
       "productId": "10007583",
@@ -8583,7 +9815,12 @@
         "userScore": 8.1,
         "userReviewCount": 244
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 41.3,
+        "extra": 60.2,
+        "complete": 142.6
+      }
     },
     {
       "productId": "10008248",
@@ -8617,7 +9854,8 @@
         "userScore": 6.2,
         "userReviewCount": 12
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10010256",
@@ -8650,7 +9888,12 @@
         "userScore": 7.9,
         "userReviewCount": 147
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3.3,
+        "extra": 32.5,
+        "complete": 96.8
+      }
     },
     {
       "productId": "10000346",
@@ -8683,7 +9926,12 @@
         "userScore": 3.8,
         "userReviewCount": 9
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.7,
+        "extra": 10.1,
+        "complete": 10.9
+      }
     },
     {
       "productId": "10004427",
@@ -8717,7 +9965,8 @@
         "userScore": 7.3,
         "userReviewCount": 328
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": null
     },
     {
       "productId": "10004911",
@@ -8750,7 +9999,12 @@
         "userScore": 6.6,
         "userReviewCount": 1645
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 7.1,
+        "extra": 15.2,
+        "complete": 60.8
+      }
     },
     {
       "productId": "10010951",
@@ -8771,7 +10025,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3,
+        "extra": 4.3,
+        "complete": 6.3
+      }
     },
     {
       "productId": "10005104",
@@ -8793,7 +10052,12 @@
       ],
       "titleZh": "爆钻小英雄",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 1.1,
+        "extra": 3,
+        "complete": null
+      }
     },
     {
       "productId": "10008667",
@@ -8827,7 +10091,12 @@
         "userScore": 7,
         "userReviewCount": 41
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.5,
+        "extra": 5.7,
+        "complete": 6.6
+      }
     },
     {
       "productId": "10008721",
@@ -8849,7 +10118,8 @@
       ],
       "titleZh": "神秘之柱 X 坎塔拉",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10008521",
@@ -8883,7 +10153,12 @@
         "userScore": 8.2,
         "userReviewCount": 338
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.1,
+        "extra": 4.5,
+        "complete": 6.1
+      }
     },
     {
       "productId": "10008585",
@@ -8906,7 +10181,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10013857",
@@ -8939,7 +10215,12 @@
         "userScore": 7.9,
         "userReviewCount": 246
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.1,
+        "extra": 9.2,
+        "complete": 15
+      }
     },
     {
       "productId": "10005034",
@@ -8972,7 +10253,8 @@
         "userScore": 6.6,
         "userReviewCount": 11
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004267",
@@ -9005,7 +10287,12 @@
         "userScore": 7.9,
         "userReviewCount": 257
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.1,
+        "extra": 16.4,
+        "complete": 29.6
+      }
     },
     {
       "productId": "225235",
@@ -9039,7 +10326,8 @@
         "userScore": 5.7,
         "userReviewCount": 19
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10001519",
@@ -9072,7 +10360,12 @@
         "userScore": 7.2,
         "userReviewCount": 108
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 7.1,
+        "extra": 9.2,
+        "complete": 14.7
+      }
     },
     {
       "productId": "10003316",
@@ -9106,7 +10399,8 @@
         "userScore": 6.5,
         "userReviewCount": 6
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10005198",
@@ -9139,7 +10433,12 @@
         "userScore": 8.4,
         "userReviewCount": 167
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 15,
+        "extra": 15.5,
+        "complete": 15.6
+      }
     },
     {
       "productId": "10005197",
@@ -9172,7 +10471,12 @@
         "userScore": 8.7,
         "userReviewCount": 242
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.6,
+        "extra": 14.5,
+        "complete": 14.8
+      }
     },
     {
       "productId": "203202",
@@ -9193,7 +10497,8 @@
       ],
       "titleZh": "ODDWORLD: NEW 'N' TASTY 制品版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "227431",
@@ -9226,7 +10531,12 @@
         "userScore": 6.3,
         "userReviewCount": 297
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.8,
+        "extra": 27.1,
+        "complete": 32.6
+      }
     },
     {
       "productId": "10019710",
@@ -9259,7 +10569,12 @@
         "userScore": 8.4,
         "userReviewCount": 115
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.8,
+        "extra": 22.1,
+        "complete": 27.5
+      }
     },
     {
       "productId": "10002601",
@@ -9293,7 +10608,12 @@
         "userScore": 7,
         "userReviewCount": 88
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.1,
+        "extra": 16.3,
+        "complete": 46.3
+      }
     },
     {
       "productId": "10005802",
@@ -9314,7 +10634,8 @@
       ],
       "titleZh": "跨越我的尸体",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": null
     },
     {
       "productId": "227430",
@@ -9347,7 +10668,12 @@
         "userScore": 5.9,
         "userReviewCount": 47
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 17.3,
+        "extra": 20,
+        "complete": 22.9
+      }
     },
     {
       "productId": "224919",
@@ -9380,7 +10706,12 @@
         "userScore": 6.9,
         "userReviewCount": 1201
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.2,
+        "extra": 8.9,
+        "complete": 14
+      }
     },
     {
       "productId": "10000899",
@@ -9414,7 +10745,12 @@
         "userScore": 7.3,
         "userReviewCount": 194
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.4,
+        "extra": 25.5,
+        "complete": 28.3
+      }
     },
     {
       "productId": "10006027",
@@ -9447,7 +10783,8 @@
         "userScore": 5.8,
         "userReviewCount": 4
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "233719",
@@ -9480,7 +10817,12 @@
         "userScore": 3.2,
         "userReviewCount": 21
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 7.3,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "10006288",
@@ -9514,7 +10856,12 @@
         "userScore": 6.3,
         "userReviewCount": 328
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 21.5,
+        "extra": 32.2,
+        "complete": 47.5
+      }
     },
     {
       "productId": "10007599",
@@ -9547,7 +10894,12 @@
         "userScore": 7.5,
         "userReviewCount": 76
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 25.7,
+        "extra": 48.2,
+        "complete": 149.2
+      }
     },
     {
       "productId": "227969",
@@ -9582,7 +10934,12 @@
         "userScore": 8.4,
         "userReviewCount": 154
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14.3,
+        "extra": 19.2,
+        "complete": 24.9
+      }
     },
     {
       "productId": "235243",
@@ -9617,7 +10974,12 @@
         "userScore": 7.2,
         "userReviewCount": 80
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 19.8,
+        "extra": 28.2,
+        "complete": 46.4
+      }
     },
     {
       "productId": "10003238",
@@ -9650,7 +11012,12 @@
         "userScore": 7.7,
         "userReviewCount": 564
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 57.3,
+        "extra": 138.5,
+        "complete": 255.9
+      }
     },
     {
       "productId": "231136",
@@ -9672,7 +11039,12 @@
       ],
       "titleZh": "狗狗巡逻队出发救援",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 3.8,
+        "extra": 3.8,
+        "complete": 5.1
+      }
     },
     {
       "productId": "10002771",
@@ -9705,7 +11077,12 @@
         "userScore": 8.8,
         "userReviewCount": 6929
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 101.3,
+        "extra": 122.6,
+        "complete": 140.4
+      }
     },
     {
       "productId": "234529",
@@ -9738,7 +11115,12 @@
         "userScore": 8.8,
         "userReviewCount": 6929
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 101.3,
+        "extra": 122.6,
+        "complete": 140.4
+      }
     },
     {
       "productId": "10000598",
@@ -9772,7 +11154,12 @@
         "userScore": 7,
         "userReviewCount": 21
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 8,
+        "extra": 9.3,
+        "complete": 12
+      }
     },
     {
       "productId": "10005043",
@@ -9793,7 +11180,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.5,
+        "extra": 1.6,
+        "complete": 1.8
+      }
     },
     {
       "productId": "10009610",
@@ -9826,7 +11218,8 @@
         "userScore": 5.9,
         "userReviewCount": 84
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10009025",
@@ -9861,7 +11254,12 @@
         "userScore": 7.9,
         "userReviewCount": 262
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 35.6,
+        "extra": 61,
+        "complete": 104.2
+      }
     },
     {
       "productId": "10007566",
@@ -9882,7 +11280,12 @@
       ],
       "titleZh": "速速上菜！",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15,
+        "extra": 27,
+        "complete": 70.5
+      }
     },
     {
       "productId": "10000663",
@@ -9915,7 +11318,12 @@
         "userScore": 5.1,
         "userReviewCount": 79
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 14.4,
+        "extra": 20.5,
+        "complete": 22.2
+      }
     },
     {
       "productId": "10009028",
@@ -9936,7 +11344,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10005985",
@@ -9970,7 +11379,12 @@
         "userScore": 8.3,
         "userReviewCount": 1662
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 16.7,
+        "extra": 24.5,
+        "complete": 31.3
+      }
     },
     {
       "productId": "216605",
@@ -10005,7 +11419,12 @@
         "userScore": 8,
         "userReviewCount": 412
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.7,
+        "extra": 43.7,
+        "complete": 72.9
+      }
     },
     {
       "productId": "10016223",
@@ -10038,7 +11457,12 @@
         "userScore": 7,
         "userReviewCount": 29
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.3,
+        "extra": 13.7,
+        "complete": 15
+      }
     },
     {
       "productId": "10006276",
@@ -10071,7 +11495,12 @@
         "userScore": 6.8,
         "userReviewCount": 36
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 9.6,
+        "extra": 9.7,
+        "complete": 8.4
+      }
     },
     {
       "productId": "10005512",
@@ -10104,7 +11533,12 @@
         "userScore": 7.4,
         "userReviewCount": 33
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.3,
+        "extra": 9.8,
+        "complete": 13.9
+      }
     },
     {
       "productId": "233101",
@@ -10137,7 +11571,12 @@
         "userScore": 6.4,
         "userReviewCount": 15
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.5,
+        "extra": 1.8,
+        "complete": 3.2
+      }
     },
     {
       "productId": "10005099",
@@ -10170,7 +11609,12 @@
         "userScore": 8.6,
         "userReviewCount": 102
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.6,
+        "extra": 6,
+        "complete": 30.2
+      }
     },
     {
       "productId": "10002576",
@@ -10204,7 +11648,8 @@
         "userScore": 6.8,
         "userReviewCount": 30
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "203654",
@@ -10238,7 +11683,8 @@
         "userScore": 6.6,
         "userReviewCount": 14
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "229997",
@@ -10272,7 +11718,12 @@
         "userScore": 5.7,
         "userReviewCount": 988
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.6,
+        "extra": 19.2,
+        "complete": 32.3
+      }
     },
     {
       "productId": "203873",
@@ -10305,7 +11756,12 @@
         "userScore": 7,
         "userReviewCount": 73
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 66.3,
+        "extra": 110.3,
+        "complete": 112.2
+      }
     },
     {
       "productId": "10000875",
@@ -10338,7 +11794,12 @@
         "userScore": 7.3,
         "userReviewCount": 119
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 5,
+        "extra": 5.8,
+        "complete": 6.3
+      }
     },
     {
       "productId": "10007648",
@@ -10359,7 +11820,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.5,
+        "extra": 4.3,
+        "complete": 5
+      }
     },
     {
       "productId": "10000669",
@@ -10392,7 +11858,12 @@
         "userScore": 8.5,
         "userReviewCount": 4286
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11,
+        "extra": 14.5,
+        "complete": 18.1
+      }
     },
     {
       "productId": "10007644",
@@ -10425,7 +11896,12 @@
         "userScore": 7.6,
         "userReviewCount": 257
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.9,
+        "extra": 9.2,
+        "complete": 14.1
+      }
     },
     {
       "productId": "203902",
@@ -10459,7 +11935,12 @@
         "userScore": 8.7,
         "userReviewCount": 1323
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10,
+        "extra": 16.2,
+        "complete": 31.5
+      }
     },
     {
       "productId": "234774",
@@ -10494,7 +11975,8 @@
         "userScore": 6.8,
         "userReviewCount": 32
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "203666",
@@ -10527,7 +12009,12 @@
         "userScore": 7.5,
         "userReviewCount": 140
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 21.9,
+        "extra": 31.3,
+        "complete": 53.4
+      }
     },
     {
       "productId": "209441",
@@ -10562,7 +12049,12 @@
         "userScore": 9,
         "userReviewCount": 37168
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 50.8,
+        "extra": 84.6,
+        "complete": 195.9
+      }
     },
     {
       "productId": "10005150",
@@ -10596,7 +12088,12 @@
         "userScore": 8.9,
         "userReviewCount": 8896
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.9,
+        "extra": 15.5,
+        "complete": 36.7
+      }
     },
     {
       "productId": "10005151",
@@ -10630,7 +12127,12 @@
         "userScore": 8.7,
         "userReviewCount": 719
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.8,
+        "extra": 8.1,
+        "complete": 13.4
+      }
     },
     {
       "productId": "10005142",
@@ -10652,7 +12154,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "235235",
@@ -10686,7 +12189,12 @@
         "userScore": 8.4,
         "userReviewCount": 5193
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.9,
+        "extra": 12.9,
+        "complete": 38.4
+      }
     },
     {
       "productId": "10004653",
@@ -10719,7 +12227,12 @@
         "userScore": 7.9,
         "userReviewCount": 114
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.9,
+        "extra": 10.4,
+        "complete": 10.7
+      }
     },
     {
       "productId": "203706",
@@ -10752,7 +12265,12 @@
         "userScore": 7.8,
         "userReviewCount": 1046
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 2.1,
+        "extra": 6.2,
+        "complete": 17.1
+      }
     },
     {
       "productId": "10006133",
@@ -10785,7 +12303,12 @@
         "userScore": 7.5,
         "userReviewCount": 379
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.9,
+        "extra": 11.8,
+        "complete": 16.9
+      }
     },
     {
       "productId": "10000176",
@@ -10818,7 +12341,12 @@
         "userScore": 7.4,
         "userReviewCount": 4748
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 19.1,
+        "extra": 30.5,
+        "complete": 63.9
+      }
     },
     {
       "productId": "10000459",
@@ -10852,7 +12380,12 @@
         "userScore": 6.8,
         "userReviewCount": 257
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15.4,
+        "extra": 29.9,
+        "complete": 97.7
+      }
     },
     {
       "productId": "10015861",
@@ -10885,7 +12418,12 @@
         "userScore": 8.8,
         "userReviewCount": 5
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 1.1,
+        "extra": 2.5,
+        "complete": 4
+      }
     },
     {
       "productId": "10005097",
@@ -10906,7 +12444,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.3,
+        "extra": 15,
+        "complete": 21
+      }
     },
     {
       "productId": "10003386",
@@ -10940,7 +12483,12 @@
         "userScore": 7.9,
         "userReviewCount": 1709
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 25.3,
+        "extra": 53.2,
+        "complete": 67.5
+      }
     },
     {
       "productId": "221750",
@@ -10974,7 +12522,12 @@
         "userScore": 8,
         "userReviewCount": 2728
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 14.2,
+        "extra": 23.7,
+        "complete": 38.7
+      }
     },
     {
       "productId": "210671",
@@ -11008,7 +12561,8 @@
         "userScore": 4.6,
         "userReviewCount": 14
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10008668",
@@ -11042,7 +12596,12 @@
         "userScore": 7.9,
         "userReviewCount": 74
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 9.5,
+        "extra": 12.2,
+        "complete": 12.8
+      }
     },
     {
       "productId": "10000504",
@@ -11075,7 +12634,12 @@
         "userScore": 4.8,
         "userReviewCount": 20
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 25,
+        "extra": 27,
+        "complete": 49.1
+      }
     },
     {
       "productId": "10001348",
@@ -11108,7 +12672,12 @@
         "userScore": 7,
         "userReviewCount": 42
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 7.5,
+        "extra": 26.9,
+        "complete": 103.8
+      }
     },
     {
       "productId": "10008324",
@@ -11129,7 +12698,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10002870",
@@ -11162,7 +12732,12 @@
         "userScore": 8.3,
         "userReviewCount": 93
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 37.6,
+        "extra": 80.2,
+        "complete": 157.1
+      }
     },
     {
       "productId": "10017405",
@@ -11183,7 +12758,12 @@
       ],
       "titleZh": "符文世界：龙之荒野",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 34.3,
+        "extra": 60.6,
+        "complete": 99.7
+      }
     },
     {
       "productId": "235029",
@@ -11204,7 +12784,12 @@
       ],
       "titleZh": "人中之龙7 光与暗的去向",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 46.1,
+        "extra": 68,
+        "complete": 102.8
+      }
     },
     {
       "productId": "10008577",
@@ -11237,7 +12822,8 @@
         "userScore": 5.5,
         "userReviewCount": 31
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10000177",
@@ -11270,7 +12856,12 @@
         "userScore": 8.2,
         "userReviewCount": 872
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.1,
+        "extra": 17.1,
+        "complete": 34.2
+      }
     },
     {
       "productId": "229323",
@@ -11304,7 +12895,12 @@
         "userScore": 8.3,
         "userReviewCount": 104
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 30.7,
+        "extra": 35.3,
+        "complete": 50.2
+      }
     },
     {
       "productId": "10003231",
@@ -11338,7 +12934,12 @@
         "userScore": 4.7,
         "userReviewCount": 155
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.4,
+        "extra": 22.2,
+        "complete": 29.5
+      }
     },
     {
       "productId": "10001263",
@@ -11371,7 +12972,12 @@
         "userScore": 7.3,
         "userReviewCount": 70
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 18,
+        "extra": 41.1,
+        "complete": 115.7
+      }
     },
     {
       "productId": "10001697",
@@ -11406,7 +13012,12 @@
         "userScore": 7.4,
         "userReviewCount": 54
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6,
+        "extra": 7.1,
+        "complete": 8.3
+      }
     },
     {
       "productId": "10007598",
@@ -11439,7 +13050,12 @@
         "userScore": 7,
         "userReviewCount": 90
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.4,
+        "extra": 9.3,
+        "complete": 11.9
+      }
     },
     {
       "productId": "10001738",
@@ -11462,7 +13078,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.4,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "10004240",
@@ -11496,7 +13117,12 @@
         "userScore": 6.1,
         "userReviewCount": 55
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.5,
+        "extra": 42.8,
+        "complete": 50.7
+      }
     },
     {
       "productId": "204156",
@@ -11531,7 +13157,12 @@
         "userScore": 7.3,
         "userReviewCount": 175
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3.1,
+        "extra": 7.4,
+        "complete": 15.4
+      }
     },
     {
       "productId": "225857",
@@ -11565,7 +13196,12 @@
         "userScore": 7.9,
         "userReviewCount": 3687
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 7.2,
+        "extra": 9.7,
+        "complete": 28
+      }
     },
     {
       "productId": "231844",
@@ -11598,7 +13234,12 @@
         "userScore": 7.3,
         "userReviewCount": 2569
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.7,
+        "extra": 23,
+        "complete": 38.9
+      }
     },
     {
       "productId": "10005529",
@@ -11631,7 +13272,12 @@
         "userScore": 9,
         "userReviewCount": 5210
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.1,
+        "extra": 18.8,
+        "complete": 32.4
+      }
     },
     {
       "productId": "10014385",
@@ -11664,7 +13310,12 @@
         "userScore": 7,
         "userReviewCount": 61
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.1,
+        "extra": 7.2,
+        "complete": 11.8
+      }
     },
     {
       "productId": "225700",
@@ -11699,7 +13350,12 @@
         "userScore": 3.3,
         "userReviewCount": 778
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 27.4,
+        "extra": 44.8,
+        "complete": 68.5
+      }
     },
     {
       "productId": "10011230",
@@ -11732,7 +13388,12 @@
         "userScore": 8.1,
         "userReviewCount": 7
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.9,
+        "extra": 4.7,
+        "complete": null
+      }
     },
     {
       "productId": "10009203",
@@ -11765,7 +13426,12 @@
         "userScore": 7.5,
         "userReviewCount": 102
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.2,
+        "extra": 16.7,
+        "complete": 22.1
+      }
     },
     {
       "productId": "10010691",
@@ -11798,7 +13464,12 @@
         "userScore": 8.9,
         "userReviewCount": 479
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14.9,
+        "extra": 16.2,
+        "complete": 17.2
+      }
     },
     {
       "productId": "10010692",
@@ -11831,7 +13502,12 @@
         "userScore": 8.8,
         "userReviewCount": 321
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 12.7,
+        "extra": 14.8,
+        "complete": 15.4
+      }
     },
     {
       "productId": "10010296",
@@ -11852,7 +13528,8 @@
       ],
       "titleZh": "狡狐大冒险",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": null
     },
     {
       "productId": "234363",
@@ -11886,7 +13563,12 @@
         "userScore": 6.6,
         "userReviewCount": 314
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.9,
+        "extra": 20.4,
+        "complete": 41.9
+      }
     },
     {
       "productId": "10008716",
@@ -11920,7 +13602,12 @@
         "userScore": 5.8,
         "userReviewCount": 166
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.1,
+        "extra": 14,
+        "complete": 31.2
+      }
     },
     {
       "productId": "10009300",
@@ -11953,7 +13640,12 @@
         "userScore": null,
         "userReviewCount": null
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.5,
+        "extra": 8,
+        "complete": 10.7
+      }
     },
     {
       "productId": "10007617",
@@ -11987,7 +13679,12 @@
         "userScore": 5.9,
         "userReviewCount": 156
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.7,
+        "extra": 4.1,
+        "complete": 4.5
+      }
     },
     {
       "productId": "10008755",
@@ -12020,7 +13717,12 @@
         "userScore": 8.8,
         "userReviewCount": 1203
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.3,
+        "extra": 11.6,
+        "complete": 28.8
+      }
     },
     {
       "productId": "10016210",
@@ -12041,7 +13743,12 @@
       ],
       "titleZh": "灵魂能力III",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.4,
+        "extra": 14.3,
+        "complete": 69
+      }
     },
     {
       "productId": "10005102",
@@ -12074,7 +13781,12 @@
         "userScore": 7.2,
         "userReviewCount": 63
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.2,
+        "extra": 25.1,
+        "complete": 194.8
+      }
     },
     {
       "productId": "216489",
@@ -12108,7 +13820,12 @@
         "userScore": 7.8,
         "userReviewCount": 934
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 18.2,
+        "extra": 22.6,
+        "complete": 28.2
+      }
     },
     {
       "productId": "10002535",
@@ -12142,7 +13859,12 @@
         "userScore": 6,
         "userReviewCount": 43
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 19,
+        "extra": 74.1,
+        "complete": 382.5
+      }
     },
     {
       "productId": "227988",
@@ -12176,7 +13898,12 @@
         "userScore": 5.6,
         "userReviewCount": 139
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 8.2,
+        "extra": 10.8,
+        "complete": 16.9
+      }
     },
     {
       "productId": "232966",
@@ -12211,7 +13938,8 @@
         "userScore": 4.1,
         "userReviewCount": 7
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10002043",
@@ -12244,7 +13972,8 @@
         "userScore": null,
         "userReviewCount": null
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004921",
@@ -12277,7 +14006,8 @@
         "userScore": 6.1,
         "userReviewCount": 9
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004910",
@@ -12298,7 +14028,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10005323",
@@ -12332,7 +14063,12 @@
         "userScore": 5.6,
         "userReviewCount": 3494
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.4,
+        "extra": 36.5,
+        "complete": 66.4
+      }
     },
     {
       "productId": "10004922",
@@ -12353,7 +14089,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10010584",
@@ -12386,7 +14123,12 @@
         "userScore": 6.8,
         "userReviewCount": 30
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.5,
+        "extra": 6.9,
+        "complete": 10.5
+      }
     },
     {
       "productId": "204269",
@@ -12421,7 +14163,12 @@
         "userScore": 7.7,
         "userReviewCount": 62
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8,
+        "extra": 10.7,
+        "complete": 15.9
+      }
     },
     {
       "productId": "204271",
@@ -12456,7 +14203,12 @@
         "userScore": 6.9,
         "userReviewCount": 20
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.9,
+        "extra": 7.5,
+        "complete": 9.1
+      }
     },
     {
       "productId": "204268",
@@ -12491,7 +14243,8 @@
         "userScore": 6.6,
         "userReviewCount": 28
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "231957",
@@ -12525,7 +14278,12 @@
         "userScore": 7.7,
         "userReviewCount": 263
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 14.8,
+        "extra": 25.5,
+        "complete": 53.9
+      }
     },
     {
       "productId": "221765",
@@ -12560,7 +14318,12 @@
         "userScore": 6.5,
         "userReviewCount": 389
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.9,
+        "extra": 24.3,
+        "complete": 38.1
+      }
     },
     {
       "productId": "10013520",
@@ -12581,7 +14344,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10005163",
@@ -12616,7 +14380,12 @@
         "userScore": 7.5,
         "userReviewCount": 537
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4.6,
+        "extra": 5.7,
+        "complete": 8.1
+      }
     },
     {
       "productId": "10006487",
@@ -12649,7 +14418,12 @@
         "userScore": 7,
         "userReviewCount": 45
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 25,
+        "extra": 73.9,
+        "complete": 106.5
+      }
     },
     {
       "productId": "10002035",
@@ -12682,7 +14456,12 @@
         "userScore": 7.8,
         "userReviewCount": 91
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 30.6,
+        "extra": 76.8,
+        "complete": 166.7
+      }
     },
     {
       "productId": "10003254",
@@ -12715,7 +14494,12 @@
         "userScore": 6.9,
         "userReviewCount": 98
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 45.1,
+        "extra": 78.2,
+        "complete": 142.9
+      }
     },
     {
       "productId": "10011028",
@@ -12736,7 +14520,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004813",
@@ -12769,7 +14554,12 @@
         "userScore": 5.6,
         "userReviewCount": 14
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3,
+        "extra": 10.5,
+        "complete": 17.9
+      }
     },
     {
       "productId": "233784",
@@ -12803,7 +14593,12 @@
         "userScore": 6,
         "userReviewCount": 26
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 19.1,
+        "extra": 31.2,
+        "complete": 34.5
+      }
     },
     {
       "productId": "10011227",
@@ -12836,7 +14631,12 @@
         "userScore": 8.3,
         "userReviewCount": 370
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 2.8,
+        "extra": 3.9,
+        "complete": 9.3
+      }
     },
     {
       "productId": "10001404",
@@ -12869,7 +14669,12 @@
         "userScore": 8.3,
         "userReviewCount": 216
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.4,
+        "extra": 14.3,
+        "complete": 16.1
+      }
     },
     {
       "productId": "10004395",
@@ -12902,7 +14707,12 @@
         "userScore": 8.4,
         "userReviewCount": 293
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 9.9,
+        "extra": 10.6,
+        "complete": 13.3
+      }
     },
     {
       "productId": "10004603",
@@ -12923,7 +14733,12 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 9.5,
+        "extra": 9.7,
+        "complete": 11.1
+      }
     },
     {
       "productId": "10005946",
@@ -12956,7 +14771,12 @@
         "userScore": 8.3,
         "userReviewCount": 109
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.4,
+        "extra": 7.9,
+        "complete": 9
+      }
     },
     {
       "productId": "10004652",
@@ -12989,7 +14809,12 @@
         "userScore": 7.6,
         "userReviewCount": 94
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.9,
+        "extra": 8.1,
+        "complete": 11.7
+      }
     },
     {
       "productId": "10004651",
@@ -13022,7 +14847,12 @@
         "userScore": 7.8,
         "userReviewCount": 81
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.9,
+        "extra": 9.5,
+        "complete": 11.5
+      }
     },
     {
       "productId": "10002568",
@@ -13055,7 +14885,12 @@
         "userScore": 6.7,
         "userReviewCount": 85
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 4.6,
+        "extra": 5.4,
+        "complete": 8
+      }
     },
     {
       "productId": "215974",
@@ -13090,7 +14925,12 @@
         "userScore": 7.9,
         "userReviewCount": 336
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 8.1,
+        "extra": 11.1,
+        "complete": 18.6
+      }
     },
     {
       "productId": "10015791",
@@ -13123,7 +14963,12 @@
         "userScore": 8.8,
         "userReviewCount": 1402
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 1.9,
+        "extra": 11.4,
+        "complete": 33.2
+      }
     },
     {
       "productId": "10005101",
@@ -13156,7 +15001,12 @@
         "userScore": 7.5,
         "userReviewCount": 362
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.7,
+        "extra": 15.1,
+        "complete": 23.9
+      }
     },
     {
       "productId": "10015859",
@@ -13177,7 +15027,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10005100",
@@ -13198,7 +15049,8 @@
       ],
       "titleZh": "铁拳2",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10001023",
@@ -13231,7 +15083,8 @@
         "userScore": 5.7,
         "userReviewCount": 104
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "205080",
@@ -13264,7 +15117,12 @@
         "userScore": 8.4,
         "userReviewCount": 1367
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 51.7,
+        "extra": 92.9,
+        "complete": 205.3
+      }
     },
     {
       "productId": "10003910",
@@ -13297,7 +15155,12 @@
         "userScore": 3.9,
         "userReviewCount": 162
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 30.4,
+        "extra": 52,
+        "complete": 85.4
+      }
     },
     {
       "productId": "232708",
@@ -13330,7 +15193,12 @@
         "userScore": 7.5,
         "userReviewCount": 392
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3.3,
+        "extra": 8.3,
+        "complete": 64.1
+      }
     },
     {
       "productId": "10007988",
@@ -13363,7 +15231,12 @@
         "userScore": 7.6,
         "userReviewCount": 266
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.5,
+        "extra": 2.8,
+        "complete": 4.1
+      }
     },
     {
       "productId": "10008245",
@@ -13396,7 +15269,12 @@
         "userScore": 5.7,
         "userReviewCount": 249
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.3,
+        "extra": 7.5,
+        "complete": 27.9
+      }
     },
     {
       "productId": "227552",
@@ -13430,7 +15308,12 @@
         "userScore": 5.8,
         "userReviewCount": 674
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 21.6,
+        "extra": 46.2,
+        "complete": 78.9
+      }
     },
     {
       "productId": "10002313",
@@ -13464,7 +15347,12 @@
         "userScore": 7.1,
         "userReviewCount": 742
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 22,
+        "extra": 36.7,
+        "complete": 43.7
+      }
     },
     {
       "productId": "204861",
@@ -13498,7 +15386,12 @@
         "userScore": 5.7,
         "userReviewCount": 2853
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 48.3,
+        "extra": 211.4,
+        "complete": 605.5
+      }
     },
     {
       "productId": "230955",
@@ -13532,7 +15425,12 @@
         "userScore": 8.3,
         "userReviewCount": 1170
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 25.9,
+        "extra": 110.7,
+        "complete": 203.6
+      }
     },
     {
       "productId": "228861",
@@ -13567,7 +15465,12 @@
         "userScore": 7.8,
         "userReviewCount": 1713
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 13.4,
+        "extra": 18.4,
+        "complete": 28.5
+      }
     },
     {
       "productId": "10011105",
@@ -13588,7 +15491,12 @@
       ],
       "titleZh": "8号出口",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 0.7,
+        "extra": 1,
+        "complete": 1.2
+      }
     },
     {
       "productId": "231167",
@@ -13623,7 +15531,12 @@
         "userScore": 7.1,
         "userReviewCount": 77
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.5,
+        "extra": 2.6,
+        "complete": 2.7
+      }
     },
     {
       "productId": "10002666",
@@ -13656,7 +15569,12 @@
         "userScore": 7.8,
         "userReviewCount": 284
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.6,
+        "extra": 8,
+        "complete": 12.1
+      }
     },
     {
       "productId": "204826",
@@ -13690,7 +15608,12 @@
         "userScore": 7.8,
         "userReviewCount": 2486
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.9,
+        "extra": 13.1,
+        "complete": 25.9
+      }
     },
     {
       "productId": "228639",
@@ -13712,7 +15635,8 @@
       ],
       "titleZh": "最后生还者 Left Behind 单独版",
       "metacritic": null,
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "10002694",
@@ -13745,7 +15669,12 @@
         "userScore": 8.2,
         "userReviewCount": 6738
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14.3,
+        "extra": 18,
+        "complete": 24.5
+      }
     },
     {
       "productId": "230079",
@@ -13779,7 +15708,12 @@
         "userScore": 7.6,
         "userReviewCount": 5030
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 23.1,
+        "extra": 28.5,
+        "complete": 45.2
+      }
     },
     {
       "productId": "228638",
@@ -13813,7 +15747,12 @@
         "userScore": 9.2,
         "userReviewCount": 22590
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 14.7,
+        "extra": 18.6,
+        "complete": 33.7
+      }
     },
     {
       "productId": "10004605",
@@ -13846,7 +15785,12 @@
         "userScore": 8.7,
         "userReviewCount": 427
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 45.9,
+        "extra": 57.2,
+        "complete": 61.5
+      }
     },
     {
       "productId": "204880",
@@ -13879,7 +15823,12 @@
         "userScore": 6.9,
         "userReviewCount": 240
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.6,
+        "extra": 11.4,
+        "complete": 17.5
+      }
     },
     {
       "productId": "10008445",
@@ -13912,7 +15861,12 @@
         "userScore": 6.8,
         "userReviewCount": 202
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 36.3,
+        "extra": 47.3,
+        "complete": 62.1
+      }
     },
     {
       "productId": "10001568",
@@ -13947,7 +15901,12 @@
         "userScore": 7.5,
         "userReviewCount": 134
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 4,
+        "extra": 4.1,
+        "complete": 4.2
+      }
     },
     {
       "productId": "10013971",
@@ -13982,7 +15941,12 @@
         "userScore": 7.5,
         "userReviewCount": 146
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 10.4,
+        "extra": 14.1,
+        "complete": 22.4
+      }
     },
     {
       "productId": "234411",
@@ -14016,7 +15980,12 @@
         "userScore": 3.6,
         "userReviewCount": 125
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 37.4,
+        "extra": 38,
+        "complete": null
+      }
     },
     {
       "productId": "216542",
@@ -14051,7 +16020,12 @@
         "userScore": 6.6,
         "userReviewCount": 448
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 20.9,
+        "extra": 28.9,
+        "complete": 49.8
+      }
     },
     {
       "productId": "232357",
@@ -14085,7 +16059,12 @@
         "userScore": 7,
         "userReviewCount": 255
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 20.4,
+        "extra": 27.8,
+        "complete": 38.9
+      }
     },
     {
       "productId": "10004172",
@@ -14119,7 +16098,12 @@
         "userScore": 8.4,
         "userReviewCount": 254
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 20.4,
+        "extra": 31.7,
+        "complete": 38.1
+      }
     },
     {
       "productId": "217462",
@@ -14154,7 +16138,12 @@
         "userScore": 6.4,
         "userReviewCount": 167
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.6,
+        "extra": 27.3,
+        "complete": 45.3
+      }
     },
     {
       "productId": "10007126",
@@ -14187,7 +16176,12 @@
         "userScore": 7.1,
         "userReviewCount": 182
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.8,
+        "extra": 25.7,
+        "complete": 39.3
+      }
     },
     {
       "productId": "228868",
@@ -14221,7 +16215,12 @@
         "userScore": 6.4,
         "userReviewCount": 226
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 24.6,
+        "extra": 78.2,
+        "complete": 172
+      }
     },
     {
       "productId": "204538",
@@ -14254,7 +16253,12 @@
         "userScore": 6.2,
         "userReviewCount": 930
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11,
+        "extra": 22.1,
+        "complete": 44.2
+      }
     },
     {
       "productId": "10003699",
@@ -14287,7 +16291,12 @@
         "userScore": 7.5,
         "userReviewCount": 124
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 11.3,
+        "extra": 20.2,
+        "complete": 47.4
+      }
     },
     {
       "productId": "10007618",
@@ -14321,7 +16330,12 @@
         "userScore": 5.4,
         "userReviewCount": 28
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 6.8,
+        "extra": 8.9,
+        "complete": 9.8
+      }
     },
     {
       "productId": "10007620",
@@ -14355,7 +16369,12 @@
         "userScore": 5.8,
         "userReviewCount": 29
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 7.4,
+        "extra": 12.2,
+        "complete": 12.3
+      }
     },
     {
       "productId": "10003778",
@@ -14388,7 +16407,12 @@
         "userScore": 6.4,
         "userReviewCount": 193
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.2,
+        "extra": 10.7,
+        "complete": 15.7
+      }
     },
     {
       "productId": "10016535",
@@ -14409,7 +16433,12 @@
       ],
       "titleZh": "火线危机",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 1.1,
+        "extra": 2.2,
+        "complete": 2.2
+      }
     },
     {
       "productId": "10011401",
@@ -14442,7 +16471,12 @@
         "userScore": 7.2,
         "userReviewCount": 92
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 1.5,
+        "extra": 5,
+        "complete": 7.6
+      }
     },
     {
       "productId": "10002494",
@@ -14475,7 +16509,12 @@
         "userScore": 6.9,
         "userReviewCount": 18
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 15.9,
+        "extra": 17.5,
+        "complete": 21.1
+      }
     },
     {
       "productId": "233112",
@@ -14511,7 +16550,12 @@
         "userScore": 3.6,
         "userReviewCount": 1314
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 23.4,
+        "extra": 55.4,
+        "complete": 99.1
+      }
     },
     {
       "productId": "203897",
@@ -14546,7 +16590,12 @@
         "userScore": 7,
         "userReviewCount": 1720
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 3.3,
+        "extra": 28,
+        "complete": 186.9
+      }
     },
     {
       "productId": "233592",
@@ -14580,7 +16629,12 @@
         "userScore": 5.2,
         "userReviewCount": 217
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 13.6,
+        "extra": 46.4,
+        "complete": 61.1
+      }
     },
     {
       "productId": "204941",
@@ -14616,7 +16670,12 @@
         "userScore": 7,
         "userReviewCount": 2804
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 24.3,
+        "extra": 48,
+        "complete": 86.1
+      }
     },
     {
       "productId": "232391",
@@ -14650,7 +16709,12 @@
         "userScore": 6.3,
         "userReviewCount": 1839
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 26.1,
+        "extra": 48.5,
+        "complete": 103.5
+      }
     },
     {
       "productId": "212740",
@@ -14684,7 +16748,12 @@
         "userScore": 8.2,
         "userReviewCount": 2577
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.3,
+        "extra": 15.5,
+        "complete": 20.9
+      }
     },
     {
       "productId": "10013616",
@@ -14717,7 +16786,12 @@
         "userScore": 8.2,
         "userReviewCount": 2577
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 11.3,
+        "extra": 15.5,
+        "complete": 20.9
+      }
     },
     {
       "productId": "10010747",
@@ -14750,7 +16824,12 @@
         "userScore": 8,
         "userReviewCount": 232
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.2,
+        "extra": 9.1,
+        "complete": 14.9
+      }
     },
     {
       "productId": "10000393",
@@ -14785,7 +16864,12 @@
         "userScore": 5.1,
         "userReviewCount": 49
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 3,
+        "extra": 8.1,
+        "complete": 11.1
+      }
     },
     {
       "productId": "205023",
@@ -14819,7 +16903,12 @@
         "userScore": 7.5,
         "userReviewCount": 261
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 14,
+        "extra": 35.2,
+        "complete": 130
+      }
     },
     {
       "productId": "229520",
@@ -14853,7 +16942,12 @@
         "userScore": 6.1,
         "userReviewCount": 40
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 1.5,
+        "extra": 2,
+        "complete": 2.1
+      }
     },
     {
       "productId": "203938",
@@ -14887,7 +16981,12 @@
         "userScore": 7,
         "userReviewCount": 343
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.8,
+        "extra": 22.2,
+        "complete": 114.2
+      }
     },
     {
       "productId": "216382",
@@ -14921,7 +17020,12 @@
         "userScore": 5.7,
         "userReviewCount": 38
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 3.2,
+        "extra": 4.7,
+        "complete": 7.8
+      }
     },
     {
       "productId": "228851",
@@ -14957,7 +17061,12 @@
         "userScore": 6.3,
         "userReviewCount": 109
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 17.6,
+        "extra": 32.6,
+        "complete": 85.8
+      }
     },
     {
       "productId": "10008366",
@@ -14990,7 +17099,12 @@
         "userScore": 7.8,
         "userReviewCount": 323
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 6.1,
+        "extra": 8.8,
+        "complete": 11.3
+      }
     },
     {
       "productId": "10008368",
@@ -15011,7 +17125,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10013708",
@@ -15032,7 +17147,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10013707",
@@ -15053,7 +17169,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10001458",
@@ -15086,7 +17203,12 @@
         "userScore": 7.2,
         "userReviewCount": 93
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 27.2,
+        "extra": 49.9,
+        "complete": 66.5
+      }
     },
     {
       "productId": "234969",
@@ -15119,7 +17241,8 @@
         "userScore": 7,
         "userReviewCount": 20
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10009660",
@@ -15152,7 +17275,12 @@
         "userScore": 8,
         "userReviewCount": 81
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 45.7,
+        "extra": 62.8,
+        "complete": 95.9
+      }
     },
     {
       "productId": "10008192",
@@ -15185,7 +17313,8 @@
         "userScore": 6.7,
         "userReviewCount": 12
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "205354",
@@ -15218,7 +17347,12 @@
         "userScore": 8.7,
         "userReviewCount": 18160
       },
-      "titleZhSource": "override"
+      "titleZhSource": "override",
+      "playtime": {
+        "main": 15.1,
+        "extra": 18,
+        "complete": 31.4
+      }
     },
     {
       "productId": "205353",
@@ -15252,7 +17386,12 @@
         "userScore": 8.6,
         "userReviewCount": 4199
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 27.4,
+        "extra": 33.1,
+        "complete": 65.4
+      }
     },
     {
       "productId": "10005244",
@@ -15286,7 +17425,12 @@
         "userScore": 7.2,
         "userReviewCount": 114
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.4,
+        "extra": 9.3,
+        "complete": 13.7
+      }
     },
     {
       "productId": "217373",
@@ -15320,7 +17464,8 @@
         "userScore": 6.5,
         "userReviewCount": 66
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10007897",
@@ -15353,7 +17498,12 @@
         "userScore": 6.9,
         "userReviewCount": 663
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 8,
+        "extra": 9.4,
+        "complete": 18.9
+      }
     },
     {
       "productId": "205132",
@@ -15376,7 +17526,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10000039",
@@ -15411,7 +17562,12 @@
         "userScore": 7.7,
         "userReviewCount": 436
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 3,
+        "extra": 4.1,
+        "complete": 6.2
+      }
     },
     {
       "productId": "10007965",
@@ -15446,7 +17602,12 @@
         "userScore": 7,
         "userReviewCount": 299
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 50.7,
+        "extra": 67.7,
+        "complete": 85.7
+      }
     },
     {
       "productId": "205194",
@@ -15481,7 +17642,12 @@
         "userScore": 8.3,
         "userReviewCount": 913
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 6.6,
+        "extra": 7.4,
+        "complete": 9.2
+      }
     },
     {
       "productId": "10010458",
@@ -15516,7 +17682,12 @@
         "userScore": 8.1,
         "userReviewCount": 1007
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 16.4,
+        "extra": 30.2,
+        "complete": 58.5
+      }
     },
     {
       "productId": "205200",
@@ -15550,7 +17721,12 @@
         "userScore": 6.8,
         "userReviewCount": 1048
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.8,
+        "extra": 29.5,
+        "complete": 41.5
+      }
     },
     {
       "productId": "10004312",
@@ -15583,7 +17759,12 @@
         "userScore": 6.5,
         "userReviewCount": 132
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 1.5,
+        "extra": 1.7,
+        "complete": 2.2
+      }
     },
     {
       "productId": "10011396",
@@ -15616,7 +17797,12 @@
         "userScore": 7.9,
         "userReviewCount": 53
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.6,
+        "extra": 4.8,
+        "complete": 6.9
+      }
     },
     {
       "productId": "10003330",
@@ -15650,7 +17836,12 @@
         "userScore": 7.9,
         "userReviewCount": 1640
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.4,
+        "extra": 15.7,
+        "complete": 64.8
+      }
     },
     {
       "productId": "233226",
@@ -15685,7 +17876,12 @@
         "userScore": 5.2,
         "userReviewCount": 149
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.1,
+        "extra": 17.1,
+        "complete": 39.1
+      }
     },
     {
       "productId": "10012449",
@@ -15719,7 +17915,12 @@
         "userScore": 7.7,
         "userReviewCount": 41
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.5,
+        "extra": 14.3,
+        "complete": 35.3
+      }
     },
     {
       "productId": "216759",
@@ -15753,7 +17954,12 @@
         "userScore": 7.5,
         "userReviewCount": 2827
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 19.5,
+        "extra": 31.8,
+        "complete": 46.7
+      }
     },
     {
       "productId": "232581",
@@ -15789,7 +17995,12 @@
         "userScore": 5.8,
         "userReviewCount": 1033
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 18.2,
+        "extra": 33.2,
+        "complete": 50.3
+      }
     },
     {
       "productId": "205264",
@@ -15824,7 +18035,12 @@
         "userScore": 6.8,
         "userReviewCount": 4590
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 19.6,
+        "extra": 33.3,
+        "complete": 62.8
+      }
     },
     {
       "productId": "234709",
@@ -15857,7 +18073,12 @@
         "userScore": 4.3,
         "userReviewCount": 86
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.1,
+        "extra": 10.2,
+        "complete": 14.5
+      }
     },
     {
       "productId": "221804",
@@ -15891,7 +18112,8 @@
         "userScore": 6.6,
         "userReviewCount": 30
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": null
     },
     {
       "productId": "234315",
@@ -15924,7 +18146,12 @@
         "userScore": 6.1,
         "userReviewCount": 53
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 8.8,
+        "extra": 13.1,
+        "complete": 27.2
+      }
     },
     {
       "productId": "10004409",
@@ -15945,7 +18172,12 @@
       ],
       "titleZh": "荒野兵器",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 29.6,
+        "extra": 32.6,
+        "complete": 36.7
+      }
     },
     {
       "productId": "10005513",
@@ -15966,7 +18198,12 @@
       ],
       "titleZh": "PSone复刻版狂野历险2",
       "metacritic": null,
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 41.6,
+        "extra": 46.2,
+        "complete": 86.9
+      }
     },
     {
       "productId": "10011231",
@@ -15999,7 +18236,12 @@
         "userScore": 6.7,
         "userReviewCount": 25
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 27.6,
+        "extra": 31.5,
+        "complete": 37.9
+      }
     },
     {
       "productId": "227255",
@@ -16032,7 +18274,8 @@
         "userScore": 8.2,
         "userReviewCount": 341
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004448",
@@ -16066,7 +18309,12 @@
         "userScore": 5.5,
         "userReviewCount": 22
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 14,
+        "extra": 21.1,
+        "complete": 23.1
+      }
     },
     {
       "productId": "10004116",
@@ -16101,7 +18349,12 @@
         "userScore": 6.7,
         "userReviewCount": 701
       },
-      "titleZhSource": "steam"
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 25.3,
+        "extra": 34.1,
+        "complete": 46.5
+      }
     },
     {
       "productId": "205293",
@@ -16135,7 +18388,12 @@
         "userScore": 7.6,
         "userReviewCount": 829
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 5.9,
+        "extra": 8.5,
+        "complete": 15.9
+      }
     },
     {
       "productId": "232887",
@@ -16170,7 +18428,12 @@
         "userScore": 2.6,
         "userReviewCount": 1122
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9.2,
+        "extra": 14.7,
+        "complete": 32.6
+      }
     },
     {
       "productId": "229533",
@@ -16205,7 +18468,12 @@
         "userScore": 7.4,
         "userReviewCount": 2129
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 10.8,
+        "extra": 17.1,
+        "complete": 33.8
+      }
     },
     {
       "productId": "230658",
@@ -16239,7 +18507,12 @@
         "userScore": 6.3,
         "userReviewCount": 511
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "10004898",
@@ -16260,7 +18533,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004899",
@@ -16293,7 +18567,12 @@
         "userScore": 6.4,
         "userReviewCount": 8
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 8.3,
+        "extra": 15.3,
+        "complete": 26
+      }
     },
     {
       "productId": "10008316",
@@ -16314,7 +18593,8 @@
       ],
       "titleZh": null,
       "metacritic": null,
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "10004900",
@@ -16347,7 +18627,12 @@
         "userScore": 8.5,
         "userReviewCount": 32
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9,
+        "extra": 18.6,
+        "complete": 24.4
+      }
     },
     {
       "productId": "10004982",
@@ -16381,7 +18666,12 @@
         "userScore": 7.1,
         "userReviewCount": 65
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 15,
+        "extra": 27.5,
+        "complete": 53.8
+      }
     },
     {
       "productId": "10015300",
@@ -16414,7 +18704,12 @@
         "userScore": 3.6,
         "userReviewCount": 183
       },
-      "titleZhSource": null
+      "titleZhSource": null,
+      "playtime": {
+        "main": 14.5,
+        "extra": 19.2,
+        "complete": 21.3
+      }
     },
     {
       "productId": "216773",
@@ -16448,7 +18743,12 @@
         "userScore": 7.5,
         "userReviewCount": 1979
       },
-      "titleZhSource": "wikidata"
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 33.2,
+        "extra": 48.2,
+        "complete": 89.5
+      }
     },
     {
       "productId": "235238",
@@ -16481,7 +18781,12 @@
         "userScore": 8.2,
         "userReviewCount": 1288
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 46.1,
+        "extra": 68,
+        "complete": 102.8
+      }
     },
     {
       "productId": "10001817",
@@ -16514,7 +18819,12 @@
         "userScore": 5.5,
         "userReviewCount": 27
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 8,
+        "extra": 15.6,
+        "complete": 21
+      }
     },
     {
       "productId": "221809",
@@ -16547,7 +18857,12 @@
         "userScore": 8.6,
         "userReviewCount": 403
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 37.1,
+        "extra": 50.6,
+        "complete": 69.4
+      }
     },
     {
       "productId": "205514",
@@ -16581,7 +18896,12 @@
         "userScore": 7.7,
         "userReviewCount": 808
       },
-      "titleZhSource": "store"
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 11.7,
+        "extra": 14.8,
+        "complete": 20.6
+      }
     }
   ]
 }

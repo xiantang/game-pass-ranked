@@ -99,6 +99,7 @@
   .tag { border: 1px solid var(--line); border-radius: 5px; padding: 0 5px; font-size: 11px; }
   .tag.tier-2 { color: #79b8ff; border-color: #24476e; }
   .tag.tier-3 { color: #e3b341; border-color: #6b5317; }
+  .tag.time { color: var(--accent); }
   .links { margin-top: auto; padding: 0 11px 11px; display: flex; gap: 8px; font-size: 12px; }
   .links a { color: var(--muted); border-bottom: 1px solid transparent; }
   .links a:hover { color: var(--accent); border-color: var(--accent); }
@@ -195,6 +196,7 @@
   .fcard .ftags span { border: 1px solid var(--line); border-radius: .5cqw; padding: 0 .6cqw; }
   .fcard .ftags .tier-2 { color: #79b8ff; border-color: #24476e; }
   .fcard .ftags .tier-3 { color: #e3b341; border-color: #6b5317; }
+  .fcard .ftags .time { color: var(--accent); }
   .frame-foot { display: flex; justify-content: space-between; margin-top: 2cqw; font-size: 1.7cqw; color: var(--muted); }
   .frame-foot b { color: var(--text); font-weight: 600; }
 </style>
@@ -310,6 +312,7 @@ const I18N = {
     anyUser: '不限玩家评分', user8: '8.0+ · 玩家力荐',
     criticScoreTip: '媒体评分（满分 100）',
     userScoreTip: (n) => '玩家评分（满分 10）' + (n != null ? ` · ${n} 条评价` : ''),
+    playtime: (h) => `主线 ${h}`, playtimeTip: 'HowLongToBeat 玩家统计的主线通关时长',
     thUser: '玩家',
     playOn: '可玩平台',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
@@ -333,7 +336,7 @@ const I18N = {
       `共 ${total} 款中的 ${n} 款` + (scoredOnly ? '（有 Metacritic 评分）' : '') + (since ? ` · ${since} 年及以后` : ''),
     empty: '没有符合条件的游戏',
     store: '商店', mc: 'Metacritic', mcShort: 'M 站',
-    thRank: '#', thScore: '评分', thTitle: '游戏', thStudio: '开发商', thYear: '年份', thPlat: '平台', thLinks: '链接',
+    thRank: '#', thScore: '评分', thTitle: '游戏', thStudio: '开发商', thYear: '年份', thTime: '主线', thPlat: '平台', thLinks: '链接',
     footer: {
       xgp: '目录来自微软 Game Pass 公开接口 · 媒体与玩家评分来自 Metacritic · 游戏按名称匹配，少数可能缺失或指向重制版 · 中文名来自商店、Steam 与 Wikidata，统一为简体。运行 <code>npm run build</code> 可刷新数据。',
       psplus: '目录来自 playstation.com 的 PS Plus 游戏查找接口 · Essential 为每月游戏（每月轮换），Extra 加游戏目录与 Ubisoft Classics，Premium 再加经典目录 · 评分来自 Metacritic，按名称匹配 · 中文名来自商店、Steam 与 Wikidata，统一为简体。运行 <code>npm run build</code> 可刷新数据。',
@@ -358,6 +361,7 @@ const I18N = {
     anyUser: 'Any user score', user8: '8.0+ · Player favourite',
     criticScoreTip: 'Critic score (out of 100)',
     userScoreTip: (n) => 'User score (out of 10)' + (n != null ? ` · ${n} ratings` : ''),
+    playtime: (h) => `Main ${h}`, playtimeTip: 'Main story length, from HowLongToBeat player reports',
     thUser: 'Users',
     playOn: 'Play on',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
@@ -381,7 +385,7 @@ const I18N = {
       `${n} of ${total} titles` + (scoredOnly ? ' with a Metacritic score' : '') + (since ? ` · released ${since} or later` : ''),
     empty: 'Nothing matches those filters.',
     store: 'Store', mc: 'Metacritic', mcShort: 'MC',
-    thRank: '#', thScore: 'Score', thTitle: 'Title', thStudio: 'Studio', thYear: 'Year', thPlat: 'Platform', thLinks: 'Links',
+    thRank: '#', thScore: 'Score', thTitle: 'Title', thStudio: 'Studio', thYear: 'Year', thTime: 'Main', thPlat: 'Platform', thLinks: 'Links',
     footer: {
       xgp: "Catalog from Microsoft's public Game Pass catalog API · critic and user scores from Metacritic · titles are matched by name, so a handful may be missing or point at a re-release. Regenerate with <code>npm run build</code>.",
       psplus: "Catalog from playstation.com's PS Plus game finder · Essential is the monthly games (they rotate), Extra adds the Game Catalog and Ubisoft Classics, Premium adds the Classics Catalog · scores from Metacritic, matched by name. Regenerate with <code>npm run build</code>.",
@@ -437,6 +441,10 @@ const year = (d) => (d ? String(d).slice(0, 4) : '');
 // The user score is a 0-10 scale; Metacritic's own thresholds are 7.5 / 5.0.
 const userBand = (u) => u == null ? 'none' : u >= 7.5 ? 'good' : u >= 5 ? 'mixed' : 'bad';
 const fmtUser = (u) => (u == null ? '–' : u.toFixed(1));
+// Under 10h to the half hour, longer runs to the hour: "<1h", "7.5h", "32h".
+const fmtHours = (h) => (h < 1 ? '<1h' : h < 10 ? `${Math.round(h * 2) / 2}h` : `${Math.round(h)}h`);
+const timeTag = (g) => g.playtime?.main
+  ? `<span class="tag time" title="${t.playtimeTip}">${t.playtime(fmtHours(g.playtime.main))}</span>` : '';
 
 const gameYear = (g) => Number(year(g.metacritic?.releaseDate) || year(g.releaseDate)) || null;
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -514,6 +522,7 @@ function renderGrid(list) {
         <div class="sub">
           ${g.developer ? `<span class="dev">${esc(g.developer)}</span>` : ''}
           ${g.year ? `<span class="tag">${g.year}</span>` : ''}
+          ${timeTag(g)}
           ${tierTag(g)}
           ${deviceTags(g).map((t) => `<span class="tag">${t}</span>`).join('')}
         </div>
@@ -529,7 +538,7 @@ function renderGrid(list) {
 function renderList(list) {
   return `<div class="table-wrap"><table><thead><tr>
       <th class="num">${t.thRank}</th><th>${t.thScore}</th><th>${t.thUser}</th><th>${t.thTitle}</th>
-      <th class="studio">${t.thStudio}</th><th>${t.thYear}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
+      <th class="studio">${t.thStudio}</th><th>${t.thYear}</th><th>${t.thTime}</th><th>${t.thPlat}</th><th>${t.thLinks}</th>
     </tr></thead><tbody>${list.map((g, i) => {
     const s = g.metacritic?.score ?? null;
     const u = g.metacritic?.userScore ?? null;
@@ -540,6 +549,7 @@ function renderList(list) {
       <td>${esc(displayTitle(g))}</td>
       <td class="studio" style="color:var(--muted)">${esc(g.developer || '')}</td>
       <td style="color:var(--muted)">${g.year ?? ''}</td>
+      <td style="color:var(--muted)">${g.playtime?.main ? fmtHours(g.playtime.main) : ''}</td>
       <td style="color:var(--muted)">${tierTag(g)} ${deviceTags(g).join(' · ')}</td>
       <td><span class="links" style="padding:0">
         <a href="${esc(g.storeUrl)}" target="_blank" rel="noopener">${t.store}</a>
@@ -578,6 +588,7 @@ function renderShare(list) {
       const tags = [g.year, ...deviceTags(g).filter((d) => d !== 'XPA')].filter(Boolean)
         .map((x) => `<span>${x}</span>`).join('');
       const tier = g.tier ? `<span class="tier-${g.tier}">${t.tierName[g.tier]}</span>` : '';
+      const time = g.playtime?.main ? `<span class="time">${t.playtime(fmtHours(g.playtime.main))}</span>` : '';
       return `<div class="fcard">
         <div class="fart">
           ${g.image ? `<img crossorigin="anonymous" src="${esc(shareCover(g))}" alt="">` : ''}
@@ -589,7 +600,7 @@ function renderShare(list) {
         </div>
         <div class="fbody">
           <div class="fname">${esc(displayTitle(g))}</div>
-          <div class="ftags">${tier}${tags}</div>
+          <div class="ftags">${tier}${time}${tags}</div>
         </div>
       </div>`;
     }).join('');
