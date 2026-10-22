@@ -1,5 +1,5 @@
-// Adds HowLongToBeat play times to both scored catalogs (data/games.json and
-// data/psplus-games.json) as `playtime: { main, extra, complete }` in hours.
+// Adds HowLongToBeat play times to every scored catalog (data/games.json,
+// psplus-games.json, switch-games.json) as `playtime: { main, extra, complete }` in hours.
 //
 // The search itself runs in scripts/hltb.py (howlongtobeatpy, see requirements.txt);
 // this side picks the right result with the same rules as the Metacritic match.
@@ -13,10 +13,13 @@ import { createInterface } from 'node:readline';
 import { normalize, sameEntry, sameStart, similarity } from './match.mjs';
 
 const CACHE_PATH = new URL('../data/hltb-cache.json', import.meta.url);
-const FILES = ['games.json', 'psplus-games.json'];
+const FILES = ['games.json', 'psplus-games.json', 'switch-games.json'];
 const PYTHON = process.env.HLTB_PYTHON || 'python3';
 // Fewer reports than this and one odd run decides the number.
 const MIN_REPORTS = 3;
+// A search takes ~2.4s, so cap one run well inside the weekly job's 60 minutes; the
+// rest wait for the next run. Raise it locally to fill a new catalog in one go.
+const LIMIT = Number(process.env.HLTB_LIMIT) || 800;
 
 const readJson = async (name) => JSON.parse(await readFile(new URL(`../data/${name}`, import.meta.url), 'utf8'));
 const yearOf = (d) => Number(String(d || '').slice(0, 4)) || null;
@@ -73,6 +76,9 @@ for (const { games } of datasets) {
   }
 }
 
+const skipped = Math.max(0, todo.size - LIMIT);
+for (const key of [...todo.keys()].slice(LIMIT)) todo.delete(key);
+
 if (todo.size) {
   // Metacritic's title is the cleanest name we have; the store title is the
   // second try for the ones it misses.
@@ -109,6 +115,7 @@ if (todo.size) {
     pending = new Map([...missed].filter(([key]) => !(key in cache)));
   }
   await saveCache();
+  if (skipped) console.log(`  ${skipped} more titles left for the next run (HLTB_LIMIT=${LIMIT})`);
 }
 
 const playtimeOf = (g) => {

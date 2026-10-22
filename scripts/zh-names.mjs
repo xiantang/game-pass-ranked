@@ -1,4 +1,4 @@
-// Gives every game in data/games.json and data/psplus-games.json a Simplified Chinese
+// Gives every game in data/games.json, psplus-games.json and switch-games.json a Simplified Chinese
 // title where one exists, and converts the ones the stores ship in Traditional.
 //
 // The stores only publish a Chinese title for about 40% of the catalog, so missing
@@ -16,6 +16,8 @@ import OpenCC from 'opencc-js';
 const FILES = [
   { file: 'games.json', raw: 'xgp.json' },
   { file: 'psplus-games.json', raw: 'psplus.json' },
+  // The US eShop has no Chinese titles, so Switch names come from the lookups alone.
+  { file: 'switch-games.json', raw: null },
 ];
 const CACHE_PATH = new URL('../data/zh-name-cache.json', import.meta.url);
 // Hand-written names, keyed by English title (Metacritic's or the store's). They win
@@ -185,7 +187,7 @@ const datasets = await Promise.all(FILES.map(async ({ file, raw }) => ({
   file,
   url: new URL(`../data/${file}`, import.meta.url),
   data: await readData(file),
-  storeZh: new Map((await readData(raw)).games.map((g) => [g.productId, g.titleZh])),
+  storeZh: new Map(raw ? (await readData(raw)).games.map((g) => [g.productId, g.titleZh]) : []),
 })));
 const storeZhOf = new Map(datasets.flatMap(({ data, storeZh }) =>
   data.games.map((g) => [g, storeZh.get(g.productId) || null])));

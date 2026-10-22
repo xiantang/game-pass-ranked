@@ -210,6 +210,7 @@
       <div class="seg lang" id="service">
         <button data-v="xgp" aria-pressed="false">Xbox Game Pass</button>
         <button data-v="psplus" aria-pressed="false">PS Plus</button>
+        <button data-v="switch" aria-pressed="false">Switch</button>
       </div>
       <div class="seg" id="lang">
         <button data-v="zh" aria-pressed="false">中文</button>
@@ -237,6 +238,9 @@
         <label data-service="psplus"><input type="checkbox" value="ps5"> <span data-i18n="devPs5"></span></label>
         <label data-service="psplus"><input type="checkbox" value="ps5Native"> <span data-i18n="devPs5Native"></span></label>
         <label data-service="psplus"><input type="checkbox" value="ps4"> <span data-i18n="devPs4"></span></label>
+        <label data-service="switch"><input type="checkbox" value="switch2"> <span data-i18n="devSwitch2"></span></label>
+        <label data-service="switch"><input type="checkbox" value="switch2Native"> <span data-i18n="devSwitch2Native"></span></label>
+        <label data-service="switch"><input type="checkbox" value="switch1"> <span data-i18n="devSwitch1"></span></label>
       </div>
       <select id="tier" data-service="psplus">
         <option value="0" data-i18n="tierAny"></option>
@@ -294,6 +298,7 @@ const I18N = {
     title: {
       xgp: 'Xbox Game Pass 游戏库 · 按 <span>Metacritic</span> 评分排序',
       psplus: 'PlayStation Plus 游戏库 · 按 <span>Metacritic</span> 评分排序',
+      switch: 'Nintendo Switch 游戏 · 按 <span>Metacritic</span> 评分排序',
     },
     tierAny: '我的会员：全部档位',
     tierEssential: '我有 Essential（一档）', tierExtra: '我有 Extra（二档）', tierPremium: '我有 Premium（三档）',
@@ -306,19 +311,21 @@ const I18N = {
     sortNewest: '最新发售', sortOldest: '最早发售', sortTitle: '名称 A–Z',
     anyUser: '不限玩家评分', user8: '8.0+ · 玩家力荐',
     criticScoreTip: '媒体评分（满分 100）',
-    userScoreTip: (n) => `玩家评分（满分 10）· ${n ?? 0} 条评价`,
+    userScoreTip: (n) => '玩家评分（满分 10）' + (n != null ? ` · ${n} 条评价` : ''),
     playtime: (h) => `主线 ${h}`, playtimeTip: 'HowLongToBeat 玩家统计的主线通关时长',
     thUser: '玩家',
     playOn: '可玩平台',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
     devPs5: 'PS5（含兼容 PS4）', devPs5Native: 'PS5 原生', devPs4: 'PS4',
+    ns2Edition: 'NS2 版',
+    devSwitch2: 'Switch 2（含兼容 Switch）', devSwitch2Native: 'Switch 2 原生 / 2 代版', devSwitch1: 'Switch',
     devHandheld: '掌机', devXpa: 'Play Anywhere',
     handheldHint: '微软官网的「掌机」筛选直接复用 PC 目录，结果与 Windows PC 相同',
     anyScore: '不限评分', score90: '90+ · 普遍赞誉', score75: '75+ · 好评',
     anyYear: '不限年份', since: (y) => `${y} 年及以后`,
     shareOn: '生成分享图', shareOff: '← 返回', shareHint: '每张 3:4、12 款游戏，1080×1440，可直接发小红书 / 小黑盒。按 Esc 返回。',
     shareAll: '下载全部', shareOne: (i) => `下载第 ${i} 张`, shareBusy: '生成中…', shareFail: '生成图片失败，可以改用截图',
-    shareService: { xgp: 'XGP', psplus: 'PS Plus' },
+    shareService: { xgp: 'XGP', psplus: 'PS Plus', switch: 'Switch' },
     shareTier: { 1: '一档 Essential', 2: '二档 Extra', 3: '三档 Premium' },
     shareCritic: (n) => `媒体评分 ${n}+`, shareUser: (n) => `玩家评分 ${n}+`, shareSince: (y) => `${y} 年后`,
     shareQuery: (q) => `搜索「${q}」`, shareHeading: (parts) => parts.join(' · '),
@@ -333,12 +340,14 @@ const I18N = {
     footer: {
       xgp: '目录来自微软 Game Pass 公开接口 · 媒体与玩家评分来自 Metacritic · 游戏按名称匹配，少数可能缺失或指向重制版 · 中文名来自商店、Steam 与 Wikidata，统一为简体。运行 <code>npm run build</code> 可刷新数据。',
       psplus: '目录来自 playstation.com 的 PS Plus 游戏查找接口 · Essential 为每月游戏（每月轮换），Extra 加游戏目录与 Ubisoft Classics，Premium 再加经典目录 · 评分来自 Metacritic，按名称匹配 · 中文名来自商店、Steam 与 Wikidata，统一为简体。运行 <code>npm run build</code> 可刷新数据。',
+      switch: '目录来自 nintendo.com 美服 eShop 的搜索接口，只收录在 Metacritic 有评分的游戏（不含 DLC 与升级包）· Switch 2 版与原版合并显示，标为「NS2 版」· 评分来自 Metacritic，按名称匹配 · 中文名来自 Steam 与 Wikidata。运行 <code>npm run build</code> 可刷新数据。',
     },
   },
   en: {
     title: {
       xgp: 'Xbox Game Pass, ranked by <span>Metacritic</span>',
       psplus: 'PlayStation Plus, ranked by <span>Metacritic</span>',
+      switch: 'Nintendo Switch, ranked by <span>Metacritic</span>',
     },
     tierAny: 'My plan: any tier',
     tierEssential: 'I have Essential', tierExtra: 'I have Extra', tierPremium: 'I have Premium',
@@ -351,19 +360,21 @@ const I18N = {
     sortNewest: 'Newest first', sortOldest: 'Oldest first', sortTitle: 'Title A–Z',
     anyUser: 'Any user score', user8: '8.0+ · Player favourite',
     criticScoreTip: 'Critic score (out of 100)',
-    userScoreTip: (n) => `User score (out of 10) · ${n ?? 0} ratings`,
+    userScoreTip: (n) => 'User score (out of 10)' + (n != null ? ` · ${n} ratings` : ''),
     playtime: (h) => `Main ${h}`, playtimeTip: 'Main story length, from HowLongToBeat player reports',
     thUser: 'Users',
     playOn: 'Play on',
     devSeries: 'Xbox Series X|S', devOne: 'Xbox One', devPc: 'Windows PC',
     devPs5: 'PS5 (incl. PS4 games)', devPs5Native: 'PS5 native', devPs4: 'PS4',
+    ns2Edition: 'NS2 Edition',
+    devSwitch2: 'Switch 2 (incl. Switch games)', devSwitch2Native: 'Switch 2 native / 2 Edition', devSwitch1: 'Switch',
     devHandheld: 'Handhelds', devXpa: 'Play Anywhere',
     handheldHint: "Xbox serves the Handhelds facet from the PC catalog, so it matches Windows PC",
     anyScore: 'Any score', score90: '90+ · Universal acclaim', score75: '75+ · Generally favorable',
     anyYear: 'Any year', since: (y) => `${y} or newer`,
     shareOn: 'Share images', shareOff: '← Back', shareHint: 'Each frame is 3:4 (1080×1440) with 12 games. Press Esc to go back.',
     shareAll: 'Download all', shareOne: (i) => `Download image ${i}`, shareBusy: 'Rendering…', shareFail: 'Could not render the image; take a screenshot instead',
-    shareService: { xgp: 'Game Pass', psplus: 'PS Plus' },
+    shareService: { xgp: 'Game Pass', psplus: 'PS Plus', switch: 'Switch' },
     shareTier: { 1: 'Essential', 2: 'Extra', 3: 'Premium' },
     shareCritic: (n) => `Critics ${n}+`, shareUser: (n) => `Users ${n}+`, shareSince: (y) => `${y}+`,
     shareQuery: (q) => `“${q}”`, shareHeading: (parts) => parts.join(' · '),
@@ -378,6 +389,7 @@ const I18N = {
     footer: {
       xgp: "Catalog from Microsoft's public Game Pass catalog API · critic and user scores from Metacritic · titles are matched by name, so a handful may be missing or point at a re-release. Regenerate with <code>npm run build</code>.",
       psplus: "Catalog from playstation.com's PS Plus game finder · Essential is the monthly games (they rotate), Extra adds the Game Catalog and Ubisoft Classics, Premium adds the Classics Catalog · scores from Metacritic, matched by name. Regenerate with <code>npm run build</code>.",
+      switch: "Catalog from nintendo.com's US eShop search, limited to games Metacritic has scored (no DLC or upgrade packs) · a Switch 2 Edition is folded into its base game and tagged \"NS2 Edition\" · scores from Metacritic, matched by name. Regenerate with <code>npm run build</code>.",
     },
   },
 };
@@ -396,7 +408,7 @@ state.share = false;
 // Default to 2010 onward: older titles are a pick-"any year" opt-in, not the first view.
 state.since = 2010;
 
-const SERVICE_DATA = { xgp: 'data/games.json', psplus: 'data/psplus-games.json' };
+const SERVICE_DATA = { xgp: 'data/games.json', psplus: 'data/psplus-games.json', switch: 'data/switch-games.json' };
 const datasets = {};
 
 // xbox.com's own facets. "handheld" is not a distinct catalog flag there — the
@@ -412,6 +424,11 @@ const PLAY_ON = {
   ps5: (g) => g.ps5 || g.ps4,
   ps5Native: (g) => g.ps5,
   ps4: (g) => g.ps4,
+  // Same idea for Nintendo: Switch 2 runs Switch games, and a Switch 2 Edition
+  // counts as native.
+  switch2: (g) => g.switch2 || g.switch1,
+  switch2Native: (g) => g.switch2 || g.switch2Edition,
+  switch1: (g) => g.switch1,
 };
 let games = [];
 
@@ -477,6 +494,9 @@ function deviceTags(g) {
   if (g.playAnywhere) tags.push('XPA');
   if (g.ps5) tags.push('PS5');
   if (g.ps4) tags.push('PS4');
+  if (g.switch2Edition) tags.push(t.ns2Edition);
+  else if (g.switch2) tags.push('NS2');
+  if (g.switch1) tags.push('NS');
   return tags;
 }
 
@@ -603,9 +623,10 @@ function renderShare(list) {
 
 // Covers must be CORS-readable to be drawn into a downloaded PNG. Xbox's CDN allows
 // that (and resizes with ?w=); PlayStation's does not, so PS covers are served
-// from this site's covers/ps/ (see scripts/fetch-covers.mjs).
-const shareCover = (g) => state.service === 'psplus'
-  ? `covers/ps/${g.coverId ?? g.productId}.jpg`
+// from this site's covers/ps/ (see scripts/fetch-covers.mjs). Nintendo's allows it
+// and the URL is already sized (see scripts/fetch-switch.mjs).
+const shareCover = (g) => state.service === 'psplus' ? `covers/ps/${g.coverId ?? g.productId}.jpg`
+  : state.service === 'switch' ? g.image
   : `${g.image}?w=300`;
 
 // modern-screenshot is vendored and only loaded the first time someone downloads.
@@ -707,7 +728,7 @@ function prepare(data) {
     prev.platforms = [...new Set([...prev.platforms, ...(g.platforms || [])])];
     // coverId follows the image, so share mode finds the matching covers/ps/ file.
     if (!prev.image && g.image) { prev.image = g.image; prev.coverId = g.productId; }
-    for (const f of ['xboxOne', 'xboxSeries', 'playAnywhere', 'ps4', 'ps5']) prev[f] ||= g[f];
+    for (const f of ['xboxOne', 'xboxSeries', 'playAnywhere', 'ps4', 'ps5', 'switch1', 'switch2', 'switch2Edition']) prev[f] ||= g[f];
     if (g.tier) prev.tier = Math.min(prev.tier, g.tier);
     if (!prev.titleZh && g.titleZh) prev.titleZh = g.titleZh;
     if (prev.title.length > g.title.length) {

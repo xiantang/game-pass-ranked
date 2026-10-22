@@ -1,10 +1,11 @@
 // Looks up each catalog title on Metacritic's public search backend and writes the
 // scored catalog: `node fetch-metacritic.mjs` reads data/xgp.json into data/games.json,
-// `node fetch-metacritic.mjs psplus` reads data/psplus.json into data/psplus-games.json.
+// `node fetch-metacritic.mjs psplus` reads data/psplus.json into data/psplus-games.json,
+// `node fetch-metacritic.mjs switch` reads data/switch.json into data/switch-games.json.
 // Results are cached in data/mc-cache.json (shared by both services, keyed by title)
 // so re-runs only hit the network for titles that are new.
 import { readFile, writeFile } from 'node:fs/promises';
-import { normalize, sameEntry, sameStart, similarity } from './match.mjs';
+import { flat, normalize, sameEntry, sameStart, similarity } from './match.mjs';
 
 const API_KEY = process.env.MC_API_KEY || '1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u';
 const CACHE_PATH = new URL('../data/mc-cache.json', import.meta.url);
@@ -13,9 +14,13 @@ const CONCURRENCY = 6;
 const SERVICES = {
   xgp: { input: 'xgp.json', output: 'games.json' },
   psplus: { input: 'psplus.json', output: 'psplus-games.json' },
+  // The whole eShop is ~19k titles, mostly unscored; the page only needs the scored
+  // ones. Matched against Metacritic's Switch / Switch 2 lists, not searched one by one.
+  switch: { input: 'switch.json', output: 'switch-games.json', scoredOnly: true, platformIds: [1500000124, 1500000154] },
 };
 const SERVICE = process.argv[2] || 'xgp';
 if (!SERVICES[SERVICE]) throw new Error(`Unknown service "${SERVICE}" (expected ${Object.keys(SERVICES).join(' | ')})`);
+const PLATFORM_IDS = SERVICES[SERVICE].platformIds;
 
 async function search(query, tries = 4) {
   const url = `https://backend.metacritic.com/finder/metacritic/search/${encodeURIComponent(query)}/web` +
@@ -87,9 +92,92 @@ async function userScore(slug, tries = 3) {
   }
 }
 
+// Metacritic's browse pages list a platform's scored games, user score included,
+// 50 at a time. For a store as large as the eShop (~19k titles, most never
+// reviewed), matching against those lists locally takes seconds where a search
+// per title takes an hour.
+async function platformList(id, tries = 4) {
+  const items = [];
+  for (let offset = 0; ; offset += 50) {
+    const url = `https://backend.metacritic.com/finder/metacritic/web?sortBy=-metaScore&productType=games` +
+      `&gamePlatformIds=${id}&offset=${offset}&limit=50&apiKey=${API_KEY}`;
+    let data;
+    for (let i = 0; i < tries; i++) {
+      try {
+        const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0', accept: 'application/json' } });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        data = (await res.json()).data;
+        break;
+      } catch (err) {
+        if (i === tries - 1) throw err;
+        await new Promise((r) => setTimeout(r, 800 * 2 ** i));
+      }
+    }
+    items.push(...data.items);
+    if (data.items.length < 50 || items.length >= data.totalResults) return items;
+  }
+}
+
+// Builds the same title cache and user-score cache the search path does, in memory
+// only: a title missing from these lists has no Switch score, which says nothing
+// about its Xbox or PS entry in the shared cache files.
+async function matchPlatformLists(games) {
+  const bySlug = new Map();
+  for (const id of PLATFORM_IDS) {
+    const items = await platformList(id);
+    console.log(`  platform ${id}: ${items.length} scored games`);
+    for (const it of items) if (!bySlug.has(it.slug)) bySlug.set(it.slug, it);
+  }
+  // sameStart() only passes a candidate that contains the query's first word, or
+  // whose flattened title starts like the query's, so index on both.
+  const index = new Map();
+  const add = (k, it) => { if (!index.has(k)) index.set(k, new Set()); index.get(k).add(it); };
+  for (const it of bySlug.values()) {
+    const words = flat(normalize(it.title)).split(' ');
+    for (const w of words) add(`w:${w}`, it);
+    add(`p:${words.join('').slice(0, 2)}`, it);
+  }
+  const candidates = (q) => {
+    const words = flat(q).split(' ');
+    return [...new Set([...(index.get(`w:${words[0]}`) || []), ...(index.get(`p:${words.join('').slice(0, 2)}`) || [])])];
+  };
+
+  const cache = {}, userCache = {};
+  for (const game of games) {
+    const key = normalize(game.title);
+    if (key in cache) continue;
+    const storeYear = Number(String(game.releaseDate || '').slice(0, 4)) || null;
+    const queries = [{ q: key, weight: 1 }];
+    for (const variant of [game.title, game.title.split(/ [-–—] /)[0], game.title.split(':')[0]]) {
+      const q = normalize(variant);
+      if (q && !queries.some((x) => x.q === q)) queries.push({ q, weight: 0.97 });
+    }
+    const match = bestMatch(queries, [...new Set(queries.flatMap(({ q }) => candidates(q)))], storeYear);
+    cache[key] = match
+      ? {
+          title: match.item.title,
+          slug: match.item.slug,
+          score: match.item.criticScoreSummary?.score || null,
+          url: `https://www.metacritic.com/game/${match.item.slug}/`,
+          releaseDate: match.item.releaseDate || null,
+          genres: (match.item.genres || []).map((g) => g.name).filter(Boolean),
+          mustPlay: !!match.item.mustPlay,
+          confidence: Number(match.score.toFixed(3)),
+        }
+      : null;
+    if (match) {
+      const score = match.item.userScore?.score;
+      // The lists carry no user review count.
+      userCache[match.item.slug] = score ? { score, reviewCount: null, sentiment: null } : null;
+    }
+  }
+  return { cache, userCache };
+}
+
 const catalog = JSON.parse(await readFile(new URL(`../data/${SERVICES[SERVICE].input}`, import.meta.url), 'utf8'));
-let cache = {};
-try { cache = JSON.parse(await readFile(CACHE_PATH, 'utf8')); } catch {}
+const fromLists = PLATFORM_IDS ? await matchPlatformLists(catalog.games) : null;
+let cache = fromLists?.cache ?? {};
+if (!fromLists) try { cache = JSON.parse(await readFile(CACHE_PATH, 'utf8')); } catch {}
 
 const queue = [...catalog.games];
 let done = 0, hits = 0, misses = 0, fromCache = 0;
@@ -146,11 +234,11 @@ console.log(`Looking up ${catalog.games.length} titles on Metacritic...`);
 await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 process.stdout.write(`\r  ${done}/${catalog.games.length} matched=${hits} unmatched=${misses} (cached ${fromCache})\n`);
 
-await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2));
+if (!fromLists) await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2));
 
 // --- phase 2: user scores, keyed by slug so console/PC SKUs share one lookup ---
-let userCache = {};
-try { userCache = JSON.parse(await readFile(USER_CACHE_PATH, 'utf8')); } catch {}
+let userCache = fromLists?.userCache ?? {};
+if (!fromLists) try { userCache = JSON.parse(await readFile(USER_CACHE_PATH, 'utf8')); } catch {}
 
 const slugs = [...new Set(Object.values(cache).filter(Boolean).map((m) => m.slug))]
   .filter((slug) => !(slug in userCache));
@@ -198,7 +286,7 @@ await writeFile(
     scoredAt: new Date().toISOString(),
     total: games.length,
     scored: scored.length,
-    games,
+    games: SERVICES[SERVICE].scoredOnly ? scored : games,
   }, null, 2),
 );
 const withUser = scored.filter((g) => g.metacritic.userScore != null).length;
