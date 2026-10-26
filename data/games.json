@@ -1,10 +1,10 @@
 {
   "service": "xgp",
   "market": "SG",
-  "fetchedAt": "2026-10-19T07:16:02.107Z",
-  "scoredAt": "2026-10-19T07:16:03.439Z",
-  "total": 800,
-  "scored": 673,
+  "fetchedAt": "2026-10-26T07:22:41.824Z",
+  "scoredAt": "2026-10-26T07:22:46.790Z",
+  "total": 801,
+  "scored": 674,
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -96,7 +96,7 @@
         "Role playing"
       ],
       "releaseDate": "2025-08-14T13:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.37106.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.acc6db61-934b-417f-8c9f-189d5944d361",
+      "image": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNM7PKZN3JF",
       "titleZh": "九王 9 Kings",
       "shortDescriptionZh": "一款快节奏的王国建造类Roguelike游戏，数百张独特卡牌，数千种疯狂构筑，突破游戏规则……与九王史诗对决、赢得战斗、扩展帝国，成就众王之王！",
@@ -279,7 +279,7 @@
       "playAnywhere": true,
       "title": "Abyssus",
       "developer": "DoubleMoose Games",
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "shortDescription": "Choose your loadout, blast through the corrupted denizens of a sunken civilization, and wield godly powers in Abyssus – a fast-paced 1-to-4 players FPS and roguelite brinepunk adventure.",
       "categories": [
         "Shooter"
@@ -3554,7 +3554,7 @@
     },
     {
       "productId": "9NJWFF2KHL6H",
-      "playAnywhere": false,
+      "playAnywhere": true,
       "title": "Ben 10: Power Trip",
       "developer": "PHL Collective",
       "publisher": "Outright Games Ltd",
@@ -7979,6 +7979,46 @@
       }
     },
     {
+      "productId": "9P7S9F02293J",
+      "playAnywhere": true,
+      "title": "Dodo Duckie",
+      "developer": "BornMonkie",
+      "publisher": "BornMonkie",
+      "shortDescription": "You’re a DUCK! with one special cap that gives you the power to switch between 2D and 3D. Use it to explore, switch perspectives, solve puzzles and save your chicken friends.",
+      "categories": [
+        "Action & adventure",
+        "Platformer",
+        "Family & kids",
+        "Puzzle & trivia"
+      ],
+      "releaseDate": "2026-07-23T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.25990.14101741972261561.9e10f950-0892-454b-9313-97bca79aa676.8670253d-aac4-4976-8dbb-f4dddb211c62",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P7S9F02293J",
+      "titleZh": "渡渡鸭与折叠世界",
+      "shortDescriptionZh": "You’re a DUCK! with one special cap that gives you the power to switch between 2D and 3D. Use it to explore, switch perspectives, solve puzzles and save your chicken friends.",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 81,
+        "title": "Dodo Duckie!",
+        "url": "https://www.metacritic.com/game/dodo-duckie/",
+        "mustPlay": false,
+        "genres": [
+          "3D Platformer"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-07-23",
+        "userScore": 9.7,
+        "userReviewCount": 7
+      },
+      "titleZhSource": "steam",
+      "playtime": null
+    },
+    {
       "productId": "9P8XKV2D5DZ5",
       "playAnywhere": true,
       "title": "Dome Keeper",
@@ -11455,7 +11495,7 @@
         "Shooter"
       ],
       "releaseDate": "2025-04-29T10:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.4169.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.c00b62a2-662c-4456-80dd-e5dc2313c55b",
+      "image": "https://store-images.s-microsoft.com/image/apps.16868.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.3e3a1229-cf14-4c88-af69-ef4ea095b75a",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW715J1P29D",
       "titleZh": "界外狂潮",
       "shortDescriptionZh": "《界外狂潮》是一款全新的多人战术射击游戏，玩家将化身能力各异的界外之子，通过碎片卡改写战斗规则，逆转战场局势——此刻，规则由你定义！\n\n捏碎规则，出奇制胜 \n投身于界外狂潮的战斗，用海量碎片卡彻底打破战场法则！\n调转枪口，痛击队友？先别急——对友军开枪就能提升攻速，战友情，此刻无需多言；\n生命垂危，亟需治疗？不要紧——下蹲生蛋，吃掉即可恢复血量，“打鸡血”，从未如此具象！\n卡组间配合与克制的极致博弈，为经典爆破模式注入全新战术维度。\n所有卡牌，永久免费。即刻加入，体验界外战场的无限可能！ \n\n界外之子，破界来袭 \n火箭狂人、陷阱大师、隐形刺客、机甲天才……\n界外之子们风格各异，不同技能，让你应对界外战场各种突发状况。 \n每赛季持续更新！\n\n打破平局，以一挑五 \n比赛平局，苦战加时？不如来场激动人心的“点球大战”！\n选择上兵伐谋，田忌赛马？还是做个真正勇士，以一敌五？\n枪法与意识的纯粹对决，",
@@ -20786,17 +20826,17 @@
       "title": "REMATCH",
       "developer": "Sloclap",
       "publisher": "Sloclap, Kepler Interactive",
-      "shortDescription": "Rematch is an online multiplayer football game. \nControl one player on your team and compete in fast-paced 5v5 matches from an immersive third-person perspective. Team up with your friends and join the action!",
+      "shortDescription": "Control one player in fast-paced online football matches from an immersive third-person perspective. Team up with friends in teams of 3, 4 or 5, show off your skills, and make every move count.",
       "categories": [
         "Sports",
         "Action & adventure",
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "2025-06-19T10:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23695.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.550f1e51-e03b-4027-969c-bf934ee2597c",
+      "image": "https://store-images.s-microsoft.com/image/apps.51500.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.af638a10-8481-45d3-9a46-0be4a02a01d5",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N5K7HWXL4Q6",
       "titleZh": "开球!",
-      "shortDescriptionZh": "《Rematch》是一款多人在线足球游戏。\n从沉浸式第三人称的视角中，控制队伍中的一名球员，并投入到激烈、快节奏的5v5竞赛中。与好友一起组队上场吧！",
+      "shortDescriptionZh": "以沉浸式第三人称视角操控一名球员，投身节奏飞快的在线足球比赛。与好友组成3人、4人或5人球队，秀出球技，让每一次操作都发挥关键作用。",
       "platforms": [
         "console",
         "pc"
@@ -25140,7 +25180,7 @@
       "shortDescription": "Every legend starts somewhere and in The Elder Scrolls Online, it starts with you. Join millions of players in an online, fantasy RPG set in a vast living Elder Scrolls world. ",
       "categories": [],
       "releaseDate": "2017-06-06T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.23436.69742768075920623.827baea2-0e15-46be-a422-347ee95ca314.67ea9750-0855-448f-834e-28f835084b32",
+      "image": "https://store-images.s-microsoft.com/image/apps.35238.69742768075920623.908ff79c-313a-4bed-acc5-deeed45673cd.c5660162-b0d2-4ee4-be4e-968529430fe4",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BRKX5CRMRTC2",
       "titleZh": "上古卷轴Online",
       "shortDescriptionZh": "包含《上古卷轴OL》基础版游戏以及《晨风》、《帝都》、《奥辛纽姆》、《盗贼公会》与《黑暗兄弟会》冒险。",
@@ -25421,7 +25461,7 @@
         "Shooter"
       ],
       "releaseDate": "2023-12-08T04:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.61064.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.4b09caf9-a9b4-4196-bb25-85ec20849310",
+      "image": "https://store-images.s-microsoft.com/image/apps.64644.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.713c07d0-8c65-4b9a-b897-7fa57beb0215",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PGD71CMDS0Z",
       "titleZh": "最终决战",
       "shortDescriptionZh": "《THE FINALS》是一档顶尖的虚拟格斗游戏节目，你和你的战队要在这里争夺荣誉、财富和慷慨的赛季赞助方的支持。这是一款免费、团队合作、第一人称射击游戏，选手们可以在虚拟竞技场中展开激烈的较量，这些竞技场不仅依照真实世界的著名地点所设计，还可以肆意改造或破坏。",
@@ -30000,7 +30040,7 @@
         "Shooter"
       ],
       "releaseDate": "2026-05-26T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
+      "image": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N11JM7F5CXK",
       "titleZh": null,
       "shortDescriptionZh": "World of Tanks: HEAT是一款免费的PvP坦克射击游戏，融合了强大的英雄能力和火爆的团队战斗。驾驶可自定义坦克，施展特工技能，在兼具战术博弈与第一人称射击游戏风格激情的线上战斗中主宰战局。",
@@ -30389,7 +30429,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2025-06-05T22:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.22806.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.681170dd-5c61-42ed-b68e-f25aa46d0e5c",
+      "image": "https://store-images.s-microsoft.com/image/apps.62467.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.14b194b5-8632-4c40-bcf7-7082df3db95d",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4X0WFZ2STM",
       "titleZh": "绝区零",
       "shortDescriptionZh": "踏上一段后末世冒险，探索危机四伏的空洞及文明最后一座灯塔背后的谜团。",

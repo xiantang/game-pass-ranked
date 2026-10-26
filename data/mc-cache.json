@@ -12519,5 +12519,125 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "dodo duckie": {
+    "title": "Dodo Duckie!",
+    "slug": "dodo-duckie",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/dodo-duckie/",
+    "releaseDate": "2026-07-23",
+    "genres": [
+      "3D Platformer"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mycopunk": {
+    "title": "Mycopunk",
+    "slug": "mycopunk",
+    "score": null,
+    "url": "https://www.metacritic.com/game/mycopunk/",
+    "releaseDate": "2026-10-20",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "poppy playtime chapter 2": {
+    "title": "Poppy Playtime: Chapter 2",
+    "slug": "poppy-playtime-chapter-2",
+    "score": null,
+    "url": "https://www.metacritic.com/game/poppy-playtime-chapter-2/",
+    "releaseDate": "2024-09-20",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "horizon forbidden west": {
+    "title": "Horizon Forbidden West",
+    "slug": "horizon-forbidden-west",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/horizon-forbidden-west/",
+    "releaseDate": "2022-02-18",
+    "genres": [
+      "Open-World Action"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mafia the old country": {
+    "title": "Mafia: The Old Country",
+    "slug": "mafia-the-old-country",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/mafia-the-old-country/",
+    "releaseDate": "2025-08-08",
+    "genres": [
+      "Linear Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "monster energy supercross 25 the official video game": {
+    "title": "Monster Energy Supercross 25 - The Official Video Game",
+    "slug": "monster-energy-supercross-25-the-official-video",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/monster-energy-supercross-25-the-official-video/",
+    "releaseDate": "2025-04-10",
+    "genres": [
+      "Racing Sim"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "rollercoaster tycoon 3": {
+    "title": "RollerCoaster Tycoon 3: Complete Edition",
+    "slug": "rollercoaster-tycoon-3-complete-edition",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/rollercoaster-tycoon-3-complete-edition/",
+    "releaseDate": "2020-09-24",
+    "genres": [
+      "Tycoon"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the midnight walk": {
+    "title": "The Midnight Walk",
+    "slug": "the-midnight-walk",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/the-midnight-walk/",
+    "releaseDate": "2025-05-08",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tales of arise beyond the dawn": {
+    "title": "Tales of Arise: Beyond the Dawn",
+    "slug": "tales-of-arise-beyond-the-dawn",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/tales-of-arise-beyond-the-dawn/",
+    "releaseDate": "2023-11-09",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "dino crisis 2": {
+    "title": "Dino Crisis 2",
+    "slug": "dino-crisis-2",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/dino-crisis-2/",
+    "releaseDate": "2000-09-29",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

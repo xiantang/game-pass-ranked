@@ -1,4 +1,13 @@
 {
+  "140": {
+    "id": 14421,
+    "name": "140",
+    "main": 1.2,
+    "extra": 2.3,
+    "complete": 5.2,
+    "count": 340,
+    "confidence": 1
+  },
   "1000xresist": {
     "id": 143595,
     "name": "1000xRESIST",
@@ -8796,5 +8805,6860 @@
   "metro 2033 redux": null,
   "spelunker hd": null,
   "star wars racer revenge": null,
-  "wipeout omega collection": null
+  "wipeout omega collection": null,
+  "dodo duckie": {
+    "id": 172173,
+    "name": "Dodo Duckie!",
+    "main": 4,
+    "extra": 4,
+    "complete": 6,
+    "count": 1,
+    "confidence": 1
+  },
+  "dino crisis 2": {
+    "id": 2562,
+    "name": "Dino Crisis 2",
+    "main": 5.3,
+    "extra": 8.1,
+    "complete": 17.5,
+    "count": 184,
+    "confidence": 1
+  },
+  "horizon forbidden west": {
+    "id": 79775,
+    "name": "Horizon Forbidden West",
+    "main": 28.7,
+    "extra": 62.9,
+    "complete": 89.8,
+    "count": 554,
+    "confidence": 1
+  },
+  "mafia the old country": {
+    "id": 155658,
+    "name": "Mafia: The Old Country",
+    "main": 12.2,
+    "extra": 14.7,
+    "complete": 24.4,
+    "count": 503,
+    "confidence": 1
+  },
+  "monster energy supercross 25 the official video game": {
+    "id": 177236,
+    "name": "Monster Energy Supercross 25 - The Official Video Game",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "mycopunk": {
+    "id": 167555,
+    "name": "Mycopunk",
+    "main": null,
+    "extra": 60.6,
+    "complete": 79,
+    "count": 0,
+    "confidence": 1
+  },
+  "rollercoaster tycoon 3": {
+    "id": 83478,
+    "name": "RollerCoaster Tycoon 3: Complete Edition",
+    "main": 20.5,
+    "extra": 57.5,
+    "complete": 190,
+    "count": 4,
+    "confidence": 1
+  },
+  "the midnight walk": {
+    "id": 157305,
+    "name": "The Midnight Walk",
+    "main": 5.1,
+    "extra": 6.1,
+    "complete": 7.5,
+    "count": 51,
+    "confidence": 1
+  },
+  "hack g u last recode": {
+    "id": 48459,
+    "name": ".hack//G.U. Last Recode",
+    "main": 51.7,
+    "extra": 88.8,
+    "complete": 127.9,
+    "count": 35,
+    "confidence": 1
+  },
+  "#drive": {
+    "id": 97250,
+    "name": "#DRIVE",
+    "main": null,
+    "extra": 16.8,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "1 2 switch": {
+    "id": 43478,
+    "name": "1-2-Switch",
+    "main": 1.4,
+    "extra": 2.2,
+    "complete": 2.9,
+    "count": 32,
+    "confidence": 1
+  },
+  "12 is better than 6": {
+    "id": 25033,
+    "name": "12 is Better Than 6",
+    "main": 4.5,
+    "extra": 5.7,
+    "complete": 6.5,
+    "count": 124,
+    "confidence": 1
+  },
+  "13 sentinels aegis rim": {
+    "id": 30314,
+    "name": "13 Sentinels: Aegis Rim",
+    "main": 30.7,
+    "extra": 36.3,
+    "complete": 38.4,
+    "count": 393,
+    "confidence": 1
+  },
+  "1979 revolution black friday": {
+    "id": 36527,
+    "name": "1979 Revolution: Black Friday",
+    "main": 2.1,
+    "extra": 2.9,
+    "complete": 6.1,
+    "count": 100,
+    "confidence": 1
+  },
+  "198x": {
+    "id": 57338,
+    "name": "198X",
+    "main": 1.6,
+    "extra": 1.7,
+    "complete": 2.3,
+    "count": 295,
+    "confidence": 1
+  },
+  "20xx": {
+    "id": 25226,
+    "name": "20XX",
+    "main": 6,
+    "extra": 13.8,
+    "complete": 40.5,
+    "count": 82,
+    "confidence": 1
+  },
+  "3000th duel": {
+    "id": 72836,
+    "name": "3000th Duel",
+    "main": 14.6,
+    "extra": 15.2,
+    "complete": 22.2,
+    "count": 7,
+    "confidence": 1
+  },
+  "30xx": {
+    "id": 75576,
+    "name": "30XX",
+    "main": 5.1,
+    "extra": 15.5,
+    "complete": 80.5,
+    "count": 12,
+    "confidence": 1
+  },
+  "80 days": {
+    "id": 21838,
+    "name": "80 Days",
+    "main": 3.1,
+    "extra": 8.2,
+    "complete": 42.4,
+    "count": 162,
+    "confidence": 1
+  },
+  "9 monkeys of shaolin": {
+    "id": 71374,
+    "name": "9 Monkeys of Shaolin",
+    "main": 4.1,
+    "extra": 5.3,
+    "complete": 7.3,
+    "count": 26,
+    "confidence": 1
+  },
+  "911 operator": {
+    "id": 41512,
+    "name": "911 Operator",
+    "main": 6.3,
+    "extra": 10.3,
+    "complete": 20.9,
+    "count": 137,
+    "confidence": 1
+  },
+  "a fold apart": {
+    "id": 77338,
+    "name": "A Fold Apart",
+    "main": 2.6,
+    "extra": 2.7,
+    "complete": 2.9,
+    "count": 15,
+    "confidence": 1
+  },
+  "a gummy s life": {
+    "id": 116348,
+    "name": "A Gummy's Life",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "a hat in time": {
+    "id": 130,
+    "name": "A Hat in Time",
+    "main": 9.4,
+    "extra": 15.1,
+    "complete": 19.1,
+    "count": 547,
+    "confidence": 1
+  },
+  "a highland song": {
+    "id": 118793,
+    "name": "A Highland Song",
+    "main": 3.8,
+    "extra": 5,
+    "complete": 26.5,
+    "count": 44,
+    "confidence": 1
+  },
+  "a knight s quest": {
+    "id": 73227,
+    "name": "A Knight's Quest",
+    "main": 15,
+    "extra": 22.3,
+    "complete": 37.7,
+    "count": 1,
+    "confidence": 1
+  },
+  "a little golf journey": {
+    "id": 94104,
+    "name": "A Little Golf Journey",
+    "main": 5.2,
+    "extra": 10.5,
+    "complete": 17.5,
+    "count": 8,
+    "confidence": 1
+  },
+  "a musical story": {
+    "id": 93628,
+    "name": "A Musical Story",
+    "main": 2.2,
+    "extra": 3.2,
+    "complete": 7.8,
+    "count": 34,
+    "confidence": 1
+  },
+  "a robot named fight": {
+    "id": 48832,
+    "name": "A Robot Named Fight!",
+    "main": 3.7,
+    "extra": 10.2,
+    "complete": 28.1,
+    "count": 10,
+    "confidence": 1
+  },
+  "a short hike": {
+    "id": 66152,
+    "name": "A Short Hike",
+    "main": 1.5,
+    "extra": 2.2,
+    "complete": 4.7,
+    "count": 1503,
+    "confidence": 1
+  },
+  "a train all aboard tourism": {
+    "id": 89608,
+    "name": "A-Train: All Aboard! Tourism",
+    "main": 65,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "absolute drift": {
+    "id": 28913,
+    "name": "Absolute Drift",
+    "main": 2.7,
+    "extra": 4.6,
+    "complete": 9.2,
+    "count": 84,
+    "confidence": 1
+  },
+  "ace angler fishing spirits": {
+    "id": 114132,
+    "name": "Ace Angler: Fishing Spirits",
+    "main": 8.4,
+    "extra": 17,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "ace attorney investigations collection": {
+    "id": 152373,
+    "name": "Ace Attorney Investigations Collection",
+    "main": 47.3,
+    "extra": 51.9,
+    "complete": 61.8,
+    "count": 53,
+    "confidence": 1
+  },
+  "aces of the luftwaffe squadron": {
+    "id": 58557,
+    "name": "Aces of the Luftwaffe: Squadron",
+    "main": 4.2,
+    "extra": 6.8,
+    "complete": 31.8,
+    "count": 6,
+    "confidence": 1
+  },
+  "acorn tactics": {
+    "id": 54674,
+    "name": "Acorn Tactics",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "actraiser renaissance": {
+    "id": 98275,
+    "name": "ActRaiser Renaissance",
+    "main": 17.7,
+    "extra": 19.2,
+    "complete": 36.6,
+    "count": 16,
+    "confidence": 1
+  },
+  "adore": {
+    "id": 84567,
+    "name": "Adore",
+    "main": 9,
+    "extra": null,
+    "complete": 41.4,
+    "count": 2,
+    "confidence": 1
+  },
+  "advance wars 1 2 re boot camp": {
+    "id": 94079,
+    "name": "Advance Wars 1+2: Re-Boot Camp",
+    "main": 38.7,
+    "extra": 62.6,
+    "complete": 79.7,
+    "count": 60,
+    "confidence": 1
+  },
+  "aegis defenders": {
+    "id": 20851,
+    "name": "Aegis Defenders",
+    "main": 9.9,
+    "extra": 12,
+    "complete": 20,
+    "count": 26,
+    "confidence": 1
+  },
+  "aer memories of old": {
+    "id": 50133,
+    "name": "AER: Memories of Old",
+    "main": 3.1,
+    "extra": 3.9,
+    "complete": 4.4,
+    "count": 299,
+    "confidence": 1
+  },
+  "aeterna noctis": {
+    "id": 95982,
+    "name": "Aeterna Noctis",
+    "main": 31.4,
+    "extra": 44,
+    "complete": 53.6,
+    "count": 10,
+    "confidence": 1
+  },
+  "aeternoblade 2 infinity": {
+    "id": 71545,
+    "name": "AeternoBlade II",
+    "main": 16,
+    "extra": 20.5,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "aew fight forever": {
+    "id": 129181,
+    "name": "AEW: Fight Forever",
+    "main": 4.1,
+    "extra": 10.5,
+    "complete": 22.4,
+    "count": 22,
+    "confidence": 1
+  },
+  "afterimage": {
+    "id": 106113,
+    "name": "Afterimage",
+    "main": 25.2,
+    "extra": 34.4,
+    "complete": 43.8,
+    "count": 46,
+    "confidence": 1
+  },
+  "afterlove ep": {
+    "id": 101502,
+    "name": "Afterlove EP",
+    "main": 7.1,
+    "extra": 8.1,
+    "complete": null,
+    "count": 11,
+    "confidence": 1
+  },
+  "afterparty": {
+    "id": 57456,
+    "name": "Afterparty",
+    "main": 5.7,
+    "extra": 6.8,
+    "complete": 13.6,
+    "count": 161,
+    "confidence": 1
+  },
+  "ageless": {
+    "id": 81140,
+    "name": "Ageless",
+    "main": 10,
+    "extra": 11.3,
+    "complete": 16.4,
+    "count": 9,
+    "confidence": 1
+  },
+  "agent a a puzzle in disguise": {
+    "id": 39290,
+    "name": "Agent A: A Puzzle in Disguise",
+    "main": 4.3,
+    "extra": 4.5,
+    "complete": 5.7,
+    "count": 166,
+    "confidence": 1
+  },
+  "aggelos": {
+    "id": 58014,
+    "name": "Aggelos",
+    "main": 8.2,
+    "extra": 8.3,
+    "complete": 9.3,
+    "count": 20,
+    "confidence": 1
+  },
+  "ai the somnium files nirvana initiative": {
+    "id": 94740,
+    "name": "AI: The Somnium Files - nirvanA Initiative",
+    "main": 26.3,
+    "extra": 31.2,
+    "complete": 36.1,
+    "count": 139,
+    "confidence": 1
+  },
+  "aka": {
+    "id": 112001,
+    "name": "Aka",
+    "main": 5.4,
+    "extra": 6.4,
+    "complete": 7.5,
+    "count": 8,
+    "confidence": 1
+  },
+  "akane": {
+    "id": 61746,
+    "name": "Akane",
+    "main": 5,
+    "extra": 7.9,
+    "complete": 8.7,
+    "count": 9,
+    "confidence": 1
+  },
+  "akiba s trip hellbound and debriefed": {
+    "id": 87872,
+    "name": "Akiba's Trip: Hellbound & Debriefed",
+    "main": 10.1,
+    "extra": 17.8,
+    "complete": 39.3,
+    "count": 18,
+    "confidence": 1
+  },
+  "akka arrh": {
+    "id": 118249,
+    "name": "Akka Arrh",
+    "main": 2.6,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "alba a wildlife adventure": {
+    "id": 86015,
+    "name": "Alba: A Wildlife Adventure",
+    "main": 2.6,
+    "extra": 3.3,
+    "complete": 3.9,
+    "count": 166,
+    "confidence": 1
+  },
+  "alder s blood": {
+    "id": 76568,
+    "name": "Alder's Blood",
+    "main": 18.6,
+    "extra": 36.1,
+    "complete": 41.6,
+    "count": 2,
+    "confidence": 1
+  },
+  "alex kidd in miracle world dx": {
+    "id": 90799,
+    "name": "Alex Kidd in Miracle World DX",
+    "main": 3.1,
+    "extra": 3.6,
+    "complete": 5.5,
+    "count": 86,
+    "confidence": 1
+  },
+  "alien isolation": {
+    "id": 16638,
+    "name": "Alien: Isolation",
+    "main": 18.3,
+    "extra": 22.5,
+    "complete": 34.1,
+    "count": 1154,
+    "confidence": 1
+  },
+  "all star fruit racing": {
+    "id": 53965,
+    "name": "All-Star Fruit Racing",
+    "main": 4.6,
+    "extra": 19.9,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "alwa s legacy": {
+    "id": 77859,
+    "name": "Alwa's Legacy",
+    "main": 7.7,
+    "extra": 9.3,
+    "complete": 13.6,
+    "count": 25,
+    "confidence": 1
+  },
+  "amnesia collection": {
+    "id": 49734,
+    "name": "Amnesia: Collection",
+    "main": 13.7,
+    "extra": 14.2,
+    "complete": 23.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "amnesia memories": {
+    "id": 29333,
+    "name": "Amnesia: Memories",
+    "main": 7.8,
+    "extra": 23.5,
+    "complete": 34.5,
+    "count": 40,
+    "confidence": 1
+  },
+  "and roger": {
+    "id": 160371,
+    "name": "and Roger",
+    "main": 1.1,
+    "extra": 1.2,
+    "complete": 1.3,
+    "count": 142,
+    "confidence": 1
+  },
+  "angry video game nerd i and 2": {
+    "id": 84577,
+    "name": "Angry Video Game Nerd I & II Deluxe",
+    "main": 4.3,
+    "extra": 4.5,
+    "complete": 10.9,
+    "count": 15,
+    "confidence": 1
+  },
+  "animal crossing new horizons": {
+    "id": 68240,
+    "name": "Animal Crossing: New Horizons",
+    "main": 60.8,
+    "extra": 153.7,
+    "complete": 426.3,
+    "count": 722,
+    "confidence": 1
+  },
+  "animal well": {
+    "id": 109108,
+    "name": "Animal Well",
+    "main": 7.1,
+    "extra": 11.5,
+    "complete": 17.7,
+    "count": 528,
+    "confidence": 1
+  },
+  "anonymous;code": {
+    "id": 107444,
+    "name": "Anonymous;Code",
+    "main": 14.6,
+    "extra": 20.4,
+    "complete": 21.4,
+    "count": 16,
+    "confidence": 1
+  },
+  "another code recollection": {
+    "id": 137787,
+    "name": "Another Code: Recollection",
+    "main": 14.7,
+    "extra": 16.5,
+    "complete": 17.8,
+    "count": 59,
+    "confidence": 1
+  },
+  "another eden begins": {
+    "id": 181657,
+    "name": "Another Eden Begins",
+    "main": null,
+    "extra": null,
+    "complete": 100,
+    "count": 0,
+    "confidence": 1
+  },
+  "aokana four rhythms across the blue": {
+    "id": 70918,
+    "name": "Aokana - Four Rhythms Across the Blue",
+    "main": 24.2,
+    "extra": 39.3,
+    "complete": 42.2,
+    "count": 21,
+    "confidence": 1
+  },
+  "ape out": {
+    "id": 56938,
+    "name": "Ape Out",
+    "main": 2.2,
+    "extra": 3,
+    "complete": 9.5,
+    "count": 560,
+    "confidence": 1
+  },
+  "apex legends": {
+    "id": 64753,
+    "name": "Apex Legends",
+    "main": 33.2,
+    "extra": 85.1,
+    "complete": 152.9,
+    "count": 47,
+    "confidence": 1
+  },
+  "apollo justice ace attorney trilogy": {
+    "id": 130050,
+    "name": "Apollo Justice: Ace Attorney Trilogy",
+    "main": 90.8,
+    "extra": 95.7,
+    "complete": 107.6,
+    "count": 35,
+    "confidence": 1
+  },
+  "aqua kitty udx": {
+    "id": 63593,
+    "name": "Aqua Kitty UDX",
+    "main": 3,
+    "extra": 4.1,
+    "complete": 8,
+    "count": 3,
+    "confidence": 1
+  },
+  "arc of alchemist": {
+    "id": 67660,
+    "name": "Arc of Alchemist",
+    "main": 10.1,
+    "extra": 12.1,
+    "complete": 19,
+    "count": 4,
+    "confidence": 1
+  },
+  "arcade classics collection": {
+    "id": 68690,
+    "name": "Arcade Classics Anniversary Collection",
+    "main": 7,
+    "extra": null,
+    "complete": 7.2,
+    "count": 1,
+    "confidence": 1
+  },
+  "arcade spirits": {
+    "id": 65086,
+    "name": "Arcade Spirits",
+    "main": 8.3,
+    "extra": 11.2,
+    "complete": 17.7,
+    "count": 26,
+    "confidence": 1
+  },
+  "arcade spirits the new challengers": {
+    "id": 65086,
+    "name": "Arcade Spirits",
+    "main": 8.3,
+    "extra": 11.2,
+    "complete": 17.7,
+    "count": 26,
+    "confidence": 1
+  },
+  "arena of valor": {
+    "id": 51726,
+    "name": "Arena of Valor",
+    "main": 0.3,
+    "extra": 30,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "arietta of spirits": {
+    "id": 77860,
+    "name": "Arietta of Spirits",
+    "main": 3.8,
+    "extra": 4.6,
+    "complete": 6.9,
+    "count": 45,
+    "confidence": 1
+  },
+  "arise a simple story": {
+    "id": 70900,
+    "name": "Arise: A Simple Story",
+    "main": 4.1,
+    "extra": 4.6,
+    "complete": 7.2,
+    "count": 101,
+    "confidence": 1
+  },
+  "ark survival evolved": {
+    "id": 26629,
+    "name": "ARK: Survival Evolved",
+    "main": 66.8,
+    "extra": 313.7,
+    "complete": 920.3,
+    "count": 52,
+    "confidence": 1
+  },
+  "armello": {
+    "id": 23761,
+    "name": "Armello",
+    "main": 2.1,
+    "extra": 21.3,
+    "complete": 91.1,
+    "count": 46,
+    "confidence": 1
+  },
+  "arms": {
+    "id": 42834,
+    "name": "Arms",
+    "main": 1.8,
+    "extra": 18.1,
+    "complete": 89,
+    "count": 96,
+    "confidence": 1
+  },
+  "arranger a role puzzling adventure": {
+    "id": 145871,
+    "name": "Arranger: A Role-Puzzling Adventure",
+    "main": 6,
+    "extra": 6.8,
+    "complete": 7.6,
+    "count": 45,
+    "confidence": 1
+  },
+  "art of rally": {
+    "id": 83381,
+    "name": "art of rally",
+    "main": 16.2,
+    "extra": 19.5,
+    "complete": 30.5,
+    "count": 97,
+    "confidence": 1
+  },
+  "ary and the secret of seasons": {
+    "id": 68135,
+    "name": "Ary and the Secret of Seasons",
+    "main": 9,
+    "extra": 12.9,
+    "complete": 18,
+    "count": 14,
+    "confidence": 1
+  },
+  "arzette the jewel of faramore": {
+    "id": 131618,
+    "name": "Arzette: The Jewel of Faramore",
+    "main": 3.4,
+    "extra": 4.2,
+    "complete": 5.4,
+    "count": 27,
+    "confidence": 1
+  },
+  "aspire ina s tale": {
+    "id": 101585,
+    "name": "Aspire: Ina's Tale",
+    "main": 3,
+    "extra": 3.3,
+    "complete": 3.9,
+    "count": 33,
+    "confidence": 1
+  },
+  "assassin s creed shadows": {
+    "id": 145003,
+    "name": "Assassin's Creed Shadows",
+    "main": 36.4,
+    "extra": 64.9,
+    "complete": 99.7,
+    "count": 206,
+    "confidence": 1
+  },
+  "assassin s creed the rebel collection": {
+    "id": 75040,
+    "name": "Assassin's Creed: The Rebel Collection",
+    "main": 36.4,
+    "extra": 72.6,
+    "complete": 107.8,
+    "count": 8,
+    "confidence": 1
+  },
+  "astalon tears of the earth": {
+    "id": 93066,
+    "name": "Astalon: Tears of the Earth",
+    "main": 11.7,
+    "extra": 16.2,
+    "complete": 20.5,
+    "count": 22,
+    "confidence": 1
+  },
+  "astlibra revision": {
+    "id": 109511,
+    "name": "ASTLIBRA Revision",
+    "main": 39.2,
+    "extra": 63.2,
+    "complete": 67.6,
+    "count": 17,
+    "confidence": 1
+  },
+  "astral chain": {
+    "id": 64993,
+    "name": "Astral Chain",
+    "main": 20.6,
+    "extra": 28.2,
+    "complete": 81.2,
+    "count": 548,
+    "confidence": 1
+  },
+  "astria ascending": {
+    "id": 94109,
+    "name": "Astria Ascending",
+    "main": 24,
+    "extra": 47,
+    "complete": 91.8,
+    "count": 10,
+    "confidence": 1
+  },
+  "astro bears party": {
+    "id": 50969,
+    "name": "Astro Bears Party",
+    "main": 1.2,
+    "extra": 2,
+    "complete": 5,
+    "count": 8,
+    "confidence": 1
+  },
+  "astro duel": {
+    "id": 42014,
+    "name": "Astro Duel",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "atari 50 the celebration": {
+    "id": 116251,
+    "name": "Atari 50: The Anniversary Celebration",
+    "main": 6.1,
+    "extra": 12.5,
+    "complete": 20.5,
+    "count": 25,
+    "confidence": 1
+  },
+  "atari flashback classics": {
+    "id": 64293,
+    "name": "Atari Flashback Classics",
+    "main": 20,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "atari mania": {
+    "id": 115021,
+    "name": "Atari Mania",
+    "main": 4.5,
+    "extra": 4.5,
+    "complete": 4.7,
+    "count": 2,
+    "confidence": 1
+  },
+  "atelier lulua ~the scion of arland~": {
+    "id": 67462,
+    "name": "Atelier Lulua: The Scion of Arland",
+    "main": 32.9,
+    "extra": 48.2,
+    "complete": 54.9,
+    "count": 17,
+    "confidence": 1
+  },
+  "atelier lydie and suelle the alchemists and the mysterious paintings dx": {
+    "id": 54844,
+    "name": "Atelier Lydie & Suelle: The Alchemists and The Mysterious Paintings",
+    "main": 39.8,
+    "extra": 57.1,
+    "complete": 82.6,
+    "count": 16,
+    "confidence": 1
+  },
+  "atelier marie remake the alchemist of salburg": {
+    "id": 124436,
+    "name": "Atelier Marie Remake: The Alchemist of Salburg",
+    "main": 8.4,
+    "extra": 13.7,
+    "complete": 33.7,
+    "count": 39,
+    "confidence": 1
+  },
+  "atelier mysterious trilogy pack": {
+    "id": 99288,
+    "name": "Atelier Mysterious Trilogy Deluxe Pack",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "atelier resleriana the red alchemist and the white guardian": {
+    "id": 157446,
+    "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+    "main": 30,
+    "extra": 38.8,
+    "complete": 42.2,
+    "count": 6,
+    "confidence": 1
+  },
+  "atelier ryza 2 lost legends and the secret fairy dx": {
+    "id": 81096,
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "main": 33.5,
+    "extra": 51.6,
+    "complete": 69.1,
+    "count": 49,
+    "confidence": 1
+  },
+  "atelier ryza 3 alchemist of the end and the secret key dx": {
+    "id": 113571,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "main": 33.8,
+    "extra": 61.6,
+    "complete": 81.7,
+    "count": 26,
+    "confidence": 1
+  },
+  "atelier ryza secret trilogy pack": {
+    "id": 170868,
+    "name": "Atelier Ryza Secret Trilogy Deluxe Pack",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "atelier ryza ever darkness and the secret hideout dx": {
+    "id": 71350,
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "main": 27.8,
+    "extra": 42.1,
+    "complete": 59.8,
+    "count": 152,
+    "confidence": 1
+  },
+  "atelier sophie 2 the alchemist of the mysterious dream": {
+    "id": 98841,
+    "name": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+    "main": 44,
+    "extra": 56.7,
+    "complete": 67.7,
+    "count": 28,
+    "confidence": 1
+  },
+  "atelier yumia the alchemist of memories and the envisioned land": {
+    "id": 156002,
+    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+    "main": 30.2,
+    "extra": 51.6,
+    "complete": 61.6,
+    "count": 22,
+    "confidence": 1
+  },
+  "atomicrops": {
+    "id": 68636,
+    "name": "Atomicrops",
+    "main": 5.9,
+    "extra": 31.6,
+    "complete": 54.8,
+    "count": 21,
+    "confidence": 1
+  },
+  "atomik rungunjumpgun": {
+    "id": 41049,
+    "name": "RunGunJumpGun",
+    "main": 7,
+    "extra": null,
+    "complete": 11.1,
+    "count": 4,
+    "confidence": 1
+  },
+  "atone heart of the elder tree": {
+    "id": 70710,
+    "name": "ATONE: Heart of the Elder Tree",
+    "main": 5,
+    "extra": 5,
+    "complete": 12.6,
+    "count": 8,
+    "confidence": 1
+  },
+  "attack on titan 2": {
+    "id": 52505,
+    "name": "Attack on Titan 2",
+    "main": 17,
+    "extra": 31.6,
+    "complete": 90.2,
+    "count": 78,
+    "confidence": 1
+  },
+  "automachef": {
+    "id": 69296,
+    "name": "Automachef",
+    "main": 25,
+    "extra": 35.4,
+    "complete": 44.6,
+    "count": 6,
+    "confidence": 1
+  },
+  "aviary attorney": {
+    "id": 33180,
+    "name": "Aviary Attorney",
+    "main": 4.5,
+    "extra": 6.2,
+    "complete": 8.1,
+    "count": 142,
+    "confidence": 1
+  },
+  "axiom verge": {
+    "id": 25024,
+    "name": "Axiom Verge",
+    "main": 10.7,
+    "extra": 13.4,
+    "complete": 17.2,
+    "count": 467,
+    "confidence": 1
+  },
+  "axiom verge 2": {
+    "id": 72785,
+    "name": "Axiom Verge 2",
+    "main": 8.6,
+    "extra": 11.4,
+    "complete": 15.3,
+    "count": 68,
+    "confidence": 1
+  },
+  "ayo the clown": {
+    "id": 95040,
+    "name": "Ayo the Clown",
+    "main": 6.6,
+    "extra": 7.9,
+    "complete": 21.1,
+    "count": 5,
+    "confidence": 1
+  },
+  "azkend 2 the world beneath": {
+    "id": 14416,
+    "name": "Azkend 2: The World Beneath",
+    "main": 5.2,
+    "extra": 7.3,
+    "complete": 20,
+    "count": 13,
+    "confidence": 1
+  },
+  "azure striker gunvolt 3": {
+    "id": 108998,
+    "name": "Azure Striker Gunvolt 3",
+    "main": 4.4,
+    "extra": 6.7,
+    "complete": 14.1,
+    "count": 23,
+    "confidence": 1
+  },
+  "azure striker gunvolt striker pack": {
+    "id": 40867,
+    "name": "Azure Striker Gunvolt: Striker Pack",
+    "main": 9.4,
+    "extra": 15.7,
+    "complete": 26.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "baba is you": {
+    "id": 52538,
+    "name": "Baba Is You",
+    "main": 7.5,
+    "extra": 21.2,
+    "complete": 46,
+    "count": 131,
+    "confidence": 1
+  },
+  "bad north": {
+    "id": 55056,
+    "name": "Bad North",
+    "main": 6.1,
+    "extra": 9.3,
+    "complete": 21.5,
+    "count": 175,
+    "confidence": 1
+  },
+  "bakeru": {
+    "id": 141602,
+    "name": "Bakeru",
+    "main": 11.3,
+    "extra": 16.5,
+    "complete": 17.8,
+    "count": 13,
+    "confidence": 1
+  },
+  "balan wonderworld": {
+    "id": 81120,
+    "name": "Balan Wonderworld",
+    "main": 11.4,
+    "extra": 15.9,
+    "complete": 35.9,
+    "count": 36,
+    "confidence": 1
+  },
+  "baldur s gate dark alliance 2": {
+    "id": 813,
+    "name": "Baldur's Gate: Dark Alliance II",
+    "main": 12.1,
+    "extra": 16.6,
+    "complete": 47.5,
+    "count": 31,
+    "confidence": 1
+  },
+  "bandle tale a league of legends story": {
+    "id": 137788,
+    "name": "Bandle Tale: A League of Legends Story",
+    "main": 27.4,
+    "extra": 33.1,
+    "complete": 33.5,
+    "count": 13,
+    "confidence": 1
+  },
+  "banner of the maid": {
+    "id": 75538,
+    "name": "Banner of the Maid",
+    "main": 32.2,
+    "extra": 44.1,
+    "complete": 54.3,
+    "count": 8,
+    "confidence": 1
+  },
+  "banner saga 2": {
+    "id": 28018,
+    "name": "The Banner Saga 2",
+    "main": 11.3,
+    "extra": 15.3,
+    "complete": 25.8,
+    "count": 207,
+    "confidence": 1
+  },
+  "banner saga 3": {
+    "id": 54142,
+    "name": "The Banner Saga 3",
+    "main": 9.7,
+    "extra": 13.6,
+    "complete": 20.4,
+    "count": 151,
+    "confidence": 1
+  },
+  "baseball riot": {
+    "id": 34617,
+    "name": "Baseball Riot",
+    "main": 4.4,
+    "extra": null,
+    "complete": 6.2,
+    "count": 3,
+    "confidence": 1
+  },
+  "bastion": {
+    "id": 869,
+    "name": "Bastion",
+    "main": 6.2,
+    "extra": 9.3,
+    "complete": 20.6,
+    "count": 2437,
+    "confidence": 1
+  },
+  "baten kaitos i and 2 hd remaster": {
+    "id": 124010,
+    "name": "Baten Kaitos I & II HD Remaster",
+    "main": 53.3,
+    "extra": 106.1,
+    "complete": 196.6,
+    "count": 12,
+    "confidence": 1
+  },
+  "batman the telltale series": {
+    "id": 38801,
+    "name": "Batman: The Telltale Series",
+    "main": 8.4,
+    "extra": 9.1,
+    "complete": 9.4,
+    "count": 888,
+    "confidence": 1
+  },
+  "battle brothers a turn based tactical rpg": {
+    "id": 26823,
+    "name": "Battle Brothers",
+    "main": 32.3,
+    "extra": 56.2,
+    "complete": 99.8,
+    "count": 16,
+    "confidence": 1
+  },
+  "battle chef brigade": {
+    "id": 40696,
+    "name": "Battle Chef Brigade",
+    "main": 9.1,
+    "extra": 10.2,
+    "complete": 11.7,
+    "count": 108,
+    "confidence": 1
+  },
+  "battle princess madelyn": {
+    "id": 53073,
+    "name": "Battle Princess Madelyn",
+    "main": 5.5,
+    "extra": 9.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "battle princess madelyn royal": {
+    "id": 53073,
+    "name": "Battle Princess Madelyn",
+    "main": 5.5,
+    "extra": 9.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "battlefield waltz": {
+    "id": 153293,
+    "name": "Battlefield Waltz",
+    "main": 10,
+    "extra": 23.9,
+    "complete": 29.8,
+    "count": 1,
+    "confidence": 1
+  },
+  "bayonetta": {
+    "id": 966,
+    "name": "Bayonetta",
+    "main": 11.6,
+    "extra": 15.5,
+    "complete": 41.8,
+    "count": 2443,
+    "confidence": 1
+  },
+  "bayonetta 2": {
+    "id": 967,
+    "name": "Bayonetta 2",
+    "main": 9.1,
+    "extra": 12.4,
+    "complete": 47.2,
+    "count": 1073,
+    "confidence": 1
+  },
+  "bayonetta 3": {
+    "id": 51276,
+    "name": "Bayonetta 3",
+    "main": 13.1,
+    "extra": 18.7,
+    "complete": 47.5,
+    "count": 364,
+    "confidence": 1
+  },
+  "bayonetta origins cereza and the lost demon": {
+    "id": 118219,
+    "name": "Bayonetta Origins: Cereza and the Lost Demon",
+    "main": 13.6,
+    "extra": 18.1,
+    "complete": 32.7,
+    "count": 64,
+    "confidence": 1
+  },
+  "beacon pines": {
+    "id": 94111,
+    "name": "Beacon Pines",
+    "main": 5.6,
+    "extra": 6.2,
+    "complete": 6.7,
+    "count": 135,
+    "confidence": 1
+  },
+  "bear and breakfast": {
+    "id": 94162,
+    "name": "Bear and Breakfast",
+    "main": 21.9,
+    "extra": 26.4,
+    "complete": 36,
+    "count": 15,
+    "confidence": 1
+  },
+  "beat cop": {
+    "id": 41028,
+    "name": "Beat Cop",
+    "main": 8,
+    "extra": 10.4,
+    "complete": 15.8,
+    "count": 76,
+    "confidence": 1
+  },
+  "beautiful desolation": {
+    "id": 74941,
+    "name": "Beautiful Desolation",
+    "main": 10.9,
+    "extra": 13.5,
+    "complete": 17.2,
+    "count": 14,
+    "confidence": 1
+  },
+  "bee simulator the hive": {
+    "id": 68268,
+    "name": "Bee Simulator",
+    "main": 3,
+    "extra": 5.3,
+    "complete": 10.4,
+    "count": 52,
+    "confidence": 1
+  },
+  "berserk boy": {
+    "id": 106973,
+    "name": "Berserk Boy",
+    "main": 4.2,
+    "extra": 7.3,
+    "complete": 12,
+    "count": 12,
+    "confidence": 1
+  },
+  "best friend forever": {
+    "id": 81975,
+    "name": "Best Friend Forever",
+    "main": null,
+    "extra": 3.3,
+    "complete": 9.7,
+    "count": 0,
+    "confidence": 1
+  },
+  "beyond blue": {
+    "id": 77495,
+    "name": "Beyond Blue",
+    "main": 2.7,
+    "extra": 4,
+    "complete": 5.2,
+    "count": 84,
+    "confidence": 1
+  },
+  "beyond good and evil 20th": {
+    "id": 1018,
+    "name": "Beyond Good & Evil",
+    "main": 10.8,
+    "extra": 12.2,
+    "complete": 13.2,
+    "count": 324,
+    "confidence": 1
+  },
+  "big brain academy brain vs brain": {
+    "id": 98868,
+    "name": "Big Brain Academy: Brain vs. Brain",
+    "main": 1,
+    "extra": 5.5,
+    "complete": 6,
+    "count": 13,
+    "confidence": 1
+  },
+  "big walk": {
+    "id": 141831,
+    "name": "Big Walk",
+    "main": 12,
+    "extra": 14.1,
+    "complete": 19.6,
+    "count": 149,
+    "confidence": 1
+  },
+  "biomotor unitron": {
+    "id": 1057,
+    "name": "Biomotor Unitron",
+    "main": 7.7,
+    "extra": 10.5,
+    "complete": null,
+    "count": 6,
+    "confidence": 1
+  },
+  "biomutant": {
+    "id": 48568,
+    "name": "Biomutant",
+    "main": 13,
+    "extra": 24.5,
+    "complete": 42.4,
+    "count": 135,
+    "confidence": 1
+  },
+  "bioshock the collection": {
+    "id": 42529,
+    "name": "BioShock: The Collection",
+    "main": 35.1,
+    "extra": 49.1,
+    "complete": 67,
+    "count": 45,
+    "confidence": 1
+  },
+  "birushana rising flower of genpei": {
+    "id": 88105,
+    "name": "Birushana: Rising Flower of Genpei",
+    "main": 9.7,
+    "extra": 30.9,
+    "complete": 50.5,
+    "count": 5,
+    "confidence": 1
+  },
+  "birushana winds of fate": {
+    "id": 108313,
+    "name": "Birushana: Winds of Fate",
+    "main": 3.8,
+    "extra": 24.2,
+    "complete": 24.9,
+    "count": 1,
+    "confidence": 1
+  },
+  "black future 88": {
+    "id": 69842,
+    "name": "Black Future '88",
+    "main": 5.3,
+    "extra": 7.4,
+    "complete": 10,
+    "count": 5,
+    "confidence": 1
+  },
+  "blade runner": {
+    "id": 1121,
+    "name": "Blade Runner",
+    "main": 7.3,
+    "extra": 10.6,
+    "complete": 21.2,
+    "count": 73,
+    "confidence": 1
+  },
+  "blade strangers": {
+    "id": 60268,
+    "name": "Blade Strangers",
+    "main": 2,
+    "extra": 5.1,
+    "complete": 17.1,
+    "count": 9,
+    "confidence": 1
+  },
+  "bladechimera": {
+    "id": 140748,
+    "name": "Blade Chimera",
+    "main": 7.6,
+    "extra": 9.2,
+    "complete": 12.6,
+    "count": 25,
+    "confidence": 1
+  },
+  "bladed fury": {
+    "id": 63192,
+    "name": "Bladed Fury",
+    "main": 3.2,
+    "extra": 3.7,
+    "complete": 6.9,
+    "count": 62,
+    "confidence": 1
+  },
+  "blades of time": {
+    "id": 1124,
+    "name": "Blades of Time",
+    "main": 9.1,
+    "extra": 10.3,
+    "complete": 15.3,
+    "count": 82,
+    "confidence": 1
+  },
+  "blair witch": {
+    "id": 68319,
+    "name": "Blair Witch",
+    "main": 5.2,
+    "extra": 6,
+    "complete": 10.2,
+    "count": 331,
+    "confidence": 1
+  },
+  "blanc": {
+    "id": 109844,
+    "name": "Blanc",
+    "main": 2,
+    "extra": 2.1,
+    "complete": 2.8,
+    "count": 95,
+    "confidence": 1
+  },
+  "blasphemous": {
+    "id": 62047,
+    "name": "Blasphemous",
+    "main": 14,
+    "extra": 20,
+    "complete": 31.6,
+    "count": 614,
+    "confidence": 1
+  },
+  "blaster master zero": {
+    "id": 44243,
+    "name": "Blaster Master Zero",
+    "main": 6.3,
+    "extra": 8.2,
+    "complete": 10.1,
+    "count": 109,
+    "confidence": 1
+  },
+  "blaster master zero 2": {
+    "id": 65818,
+    "name": "Blaster Master Zero 2",
+    "main": 8.1,
+    "extra": 9.7,
+    "complete": 10.4,
+    "count": 26,
+    "confidence": 1
+  },
+  "blazblue centralfiction special": {
+    "id": 41446,
+    "name": "BlazBlue: Central Fiction",
+    "main": 10.4,
+    "extra": 23.5,
+    "complete": 76.1,
+    "count": 30,
+    "confidence": 1
+  },
+  "blazblue cross tag battle": {
+    "id": 52504,
+    "name": "BlazBlue: Cross Tag Battle",
+    "main": 4.1,
+    "extra": 8.4,
+    "complete": 11.6,
+    "count": 55,
+    "confidence": 1
+  },
+  "blazing beaks": {
+    "id": 52479,
+    "name": "Blazing Beaks",
+    "main": 15.4,
+    "extra": 19.5,
+    "complete": 49.1,
+    "count": 20,
+    "confidence": 1
+  },
+  "blazing chrome": {
+    "id": 65494,
+    "name": "Blazing Chrome",
+    "main": 2.4,
+    "extra": 4.2,
+    "complete": 9.1,
+    "count": 112,
+    "confidence": 1
+  },
+  "bleed": {
+    "id": 1165,
+    "name": "Bleed",
+    "main": 1.5,
+    "extra": 3.6,
+    "complete": 12.1,
+    "count": 190,
+    "confidence": 1
+  },
+  "bleed 2": {
+    "id": 43520,
+    "name": "Bleed 2",
+    "main": 1.1,
+    "extra": 3.4,
+    "complete": 10.8,
+    "count": 136,
+    "confidence": 1
+  },
+  "bleed arcade arena shooter": {
+    "id": 1165,
+    "name": "Bleed",
+    "main": 1.5,
+    "extra": 3.6,
+    "complete": 12.1,
+    "count": 190,
+    "confidence": 1
+  },
+  "bloodroots": {
+    "id": 68373,
+    "name": "Bloodroots",
+    "main": 5.2,
+    "extra": 6.5,
+    "complete": 8,
+    "count": 76,
+    "confidence": 1
+  },
+  "bloodstained curse of the moon": {
+    "id": 56678,
+    "name": "Bloodstained: Curse of the Moon",
+    "main": 2.2,
+    "extra": 4.7,
+    "complete": 10.1,
+    "count": 632,
+    "confidence": 1
+  },
+  "bloodstained curse of the moon 2": {
+    "id": 80675,
+    "name": "Bloodstained: Curse of the Moon 2",
+    "main": 4.5,
+    "extra": 9.8,
+    "complete": 16.1,
+    "count": 87,
+    "confidence": 1
+  },
+  "bloodstained ritual of the night": {
+    "id": 26266,
+    "name": "Bloodstained: Ritual of the Night",
+    "main": 14,
+    "extra": 20.7,
+    "complete": 35.6,
+    "count": 484,
+    "confidence": 1
+  },
+  "blossom tales 2 the minotaur prince": {
+    "id": 112716,
+    "name": "Blossom Tales II: The Minotaur Prince",
+    "main": 8.1,
+    "extra": 12.3,
+    "complete": 16.8,
+    "count": 10,
+    "confidence": 1
+  },
+  "blossom tales the sleeping king": {
+    "id": 45023,
+    "name": "Blossom Tales: The Sleeping King",
+    "main": 7.5,
+    "extra": 9.4,
+    "complete": 13.6,
+    "count": 89,
+    "confidence": 1
+  },
+  "blue fire": {
+    "id": 80162,
+    "name": "Blue Fire",
+    "main": 9.9,
+    "extra": 12.3,
+    "complete": 13.5,
+    "count": 43,
+    "confidence": 1
+  },
+  "blue reflection quartet": {
+    "id": 183791,
+    "name": "Blue Reflection Quartet",
+    "main": null,
+    "extra": 33.3,
+    "complete": 55,
+    "count": 0,
+    "confidence": 1
+  },
+  "blue reflection second light": {
+    "id": 98557,
+    "name": "Blue Reflection: Second Light",
+    "main": 33.9,
+    "extra": 45.3,
+    "complete": 60.5,
+    "count": 12,
+    "confidence": 1
+  },
+  "bluey s quest for the gold pen": {
+    "id": 176136,
+    "name": "Bluey's Quest for the Gold Pen",
+    "main": 3,
+    "extra": null,
+    "complete": 8.1,
+    "count": 4,
+    "confidence": 1
+  },
+  "bob help them": {
+    "id": 127594,
+    "name": "Bob Help Them",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "bomb chicken": {
+    "id": 58540,
+    "name": "Bomb Chicken",
+    "main": 4.8,
+    "extra": 6,
+    "complete": 6.8,
+    "count": 20,
+    "confidence": 1
+  },
+  "bomb rush cyberfunk": {
+    "id": 81093,
+    "name": "Bomb Rush Cyberfunk",
+    "main": 10.1,
+    "extra": 13.4,
+    "complete": 23.3,
+    "count": 196,
+    "confidence": 1
+  },
+  "bomber crew": {
+    "id": 51082,
+    "name": "Bomber Crew",
+    "main": 15.5,
+    "extra": 18.7,
+    "complete": 26,
+    "count": 29,
+    "confidence": 1
+  },
+  "bombslinger": {
+    "id": 47093,
+    "name": "Bombslinger",
+    "main": 1.5,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "bookbound brigade": {
+    "id": 75224,
+    "name": "Bookbound Brigade",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "boomerang 10": {
+    "id": 92437,
+    "name": "Boomerang X",
+    "main": 2.3,
+    "extra": 3.1,
+    "complete": 3.8,
+    "count": 115,
+    "confidence": 1
+  },
+  "born of bread": {
+    "id": 91798,
+    "name": "Born of Bread",
+    "main": 13.6,
+    "extra": 20,
+    "complete": 25.9,
+    "count": 5,
+    "confidence": 1
+  },
+  "born of bread the baker": {
+    "id": 91798,
+    "name": "Born of Bread",
+    "main": 13.6,
+    "extra": 20,
+    "complete": 25.9,
+    "count": 5,
+    "confidence": 1
+  },
+  "botany manor": {
+    "id": 116071,
+    "name": "Botany Manor",
+    "main": 3.5,
+    "extra": 4,
+    "complete": 4.1,
+    "count": 125,
+    "confidence": 1
+  },
+  "boxboy boxgirl": {
+    "id": 66122,
+    "name": "BOXBOY! + BOXGIRL!",
+    "main": 5.9,
+    "extra": 9.5,
+    "complete": 18,
+    "count": 28,
+    "confidence": 1
+  },
+  "boyfriend dungeon": {
+    "id": 76606,
+    "name": "Boyfriend Dungeon",
+    "main": 5.4,
+    "extra": 8.5,
+    "complete": 11.3,
+    "count": 66,
+    "confidence": 1
+  },
+  "bravely default flying fairy hd remaster": {
+    "id": 14968,
+    "name": "Bravely Default",
+    "main": 54.3,
+    "extra": 74.7,
+    "complete": 97.2,
+    "count": 297,
+    "confidence": 1
+  },
+  "bravely default 2": {
+    "id": 72838,
+    "name": "Bravely Default II",
+    "main": 49.9,
+    "extra": 69.8,
+    "complete": 90.1,
+    "count": 117,
+    "confidence": 1
+  },
+  "brawlout": {
+    "id": 44847,
+    "name": "Brawlout",
+    "main": 2,
+    "extra": 13.2,
+    "complete": 40,
+    "count": 8,
+    "confidence": 1
+  },
+  "breakout recharged": {
+    "id": 106450,
+    "name": "Breakout: Recharged",
+    "main": 2,
+    "extra": 5,
+    "complete": 7.4,
+    "count": 2,
+    "confidence": 1
+  },
+  "bridge function Object() { [native code] } portal": {
+    "id": 51365,
+    "name": "Bridge Constructor Portal",
+    "main": 13.1,
+    "extra": 16.6,
+    "complete": 21.4,
+    "count": 37,
+    "confidence": 1
+  },
+  "bridge function Object() { [native code] }": {
+    "id": 51365,
+    "name": "Bridge Constructor Portal",
+    "main": 13.1,
+    "extra": 16.6,
+    "complete": 21.4,
+    "count": 37,
+    "confidence": 1
+  },
+  "bridge function Object() { [native code] } the walking dead": {
+    "id": 51365,
+    "name": "Bridge Constructor Portal",
+    "main": 13.1,
+    "extra": 16.6,
+    "complete": 21.4,
+    "count": 37,
+    "confidence": 1
+  },
+  "brigandine abyss": {
+    "id": 181974,
+    "name": "Brigandine Abyss",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "brigandine the legend of runersia": {
+    "id": 80520,
+    "name": "Brigandine: The Legend of Runersia",
+    "main": 26.8,
+    "extra": 49.7,
+    "complete": 127.3,
+    "count": 16,
+    "confidence": 1
+  },
+  "bright memory infinite gold": {
+    "id": 75383,
+    "name": "Bright Memory: Infinite",
+    "main": 2.1,
+    "extra": 2.7,
+    "complete": 6,
+    "count": 399,
+    "confidence": 1
+  },
+  "broken sword 5 the serpent s curse": {
+    "id": 24028,
+    "name": "Broken Sword 5: The Serpent's Curse",
+    "main": 11.1,
+    "extra": 13.1,
+    "complete": 13.3,
+    "count": 113,
+    "confidence": 1
+  },
+  "brothers a tale of two sons": {
+    "id": 12660,
+    "name": "Brothers: A Tale of Two Sons",
+    "main": 3.1,
+    "extra": 3.5,
+    "complete": 4,
+    "count": 2329,
+    "confidence": 1
+  },
+  "bubble bobble 4 friends the baron is back": {
+    "id": 103346,
+    "name": "Bubble Bobble 4 Friends",
+    "main": 1.5,
+    "extra": 3.6,
+    "complete": 6,
+    "count": 20,
+    "confidence": 1
+  },
+  "bubsy 4d": {
+    "id": 172955,
+    "name": "Bubsy 4D",
+    "main": 3.6,
+    "extra": 5.1,
+    "complete": 7.7,
+    "count": 21,
+    "confidence": 1
+  },
+  "bug fables the everlasting sapling": {
+    "id": 72078,
+    "name": "Bug Fables: The Everlasting Sapling",
+    "main": 25.5,
+    "extra": 36.6,
+    "complete": 51.6,
+    "count": 79,
+    "confidence": 1
+  },
+  "bugsnax": {
+    "id": 80122,
+    "name": "Bugsnax",
+    "main": 7.9,
+    "extra": 11.7,
+    "complete": 15.5,
+    "count": 195,
+    "confidence": 1
+  },
+  "bulb boy": {
+    "id": 31451,
+    "name": "Bulb Boy",
+    "main": 2,
+    "extra": 2.3,
+    "complete": 2.7,
+    "count": 105,
+    "confidence": 1
+  },
+  "burgertime party": {
+    "id": 97360,
+    "name": "BurgerTime Party!",
+    "main": 3.5,
+    "extra": 12,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "burly men at sea": {
+    "id": 40597,
+    "name": "Burly Men at Sea",
+    "main": 0.5,
+    "extra": 1.1,
+    "complete": 2.5,
+    "count": 131,
+    "confidence": 1
+  },
+  "bury me my love": {
+    "id": 51754,
+    "name": "Bury me, my Love",
+    "main": 2.2,
+    "extra": 4.5,
+    "complete": 13.1,
+    "count": 54,
+    "confidence": 1
+  },
+  "bustafellows": {
+    "id": 86361,
+    "name": "BUSTAFELLOWS",
+    "main": 13.9,
+    "extra": 29.6,
+    "complete": 32,
+    "count": 11,
+    "confidence": 1
+  },
+  "butcher": {
+    "id": 40350,
+    "name": "Butcher",
+    "main": 3.1,
+    "extra": 4.9,
+    "complete": 10.5,
+    "count": 43,
+    "confidence": 1
+  },
+  "button city": {
+    "id": 93369,
+    "name": "Button City",
+    "main": 5.5,
+    "extra": 7.4,
+    "complete": 9.9,
+    "count": 7,
+    "confidence": 1
+  },
+  "cake bash": {
+    "id": 85367,
+    "name": "Cake Bash",
+    "main": 1,
+    "extra": 4.6,
+    "complete": 5.7,
+    "count": 2,
+    "confidence": 1
+  },
+  "calico": {
+    "id": 85354,
+    "name": "Calico",
+    "main": 4.1,
+    "extra": 5.8,
+    "complete": 6.7,
+    "count": 19,
+    "confidence": 1
+  },
+  "call of juarez gunslinger": {
+    "id": 1487,
+    "name": "Call of Juarez: Gunslinger",
+    "main": 5.1,
+    "extra": 7,
+    "complete": 14.1,
+    "count": 1436,
+    "confidence": 1
+  },
+  "candle the power of the flame": {
+    "id": 39748,
+    "name": "Candle: The Power of the Flame",
+    "main": 7.7,
+    "extra": 8.3,
+    "complete": 9.1,
+    "count": 19,
+    "confidence": 1
+  },
+  "candleman": {
+    "id": 43451,
+    "name": "Candleman",
+    "main": 4.4,
+    "extra": 6.4,
+    "complete": 7.2,
+    "count": 18,
+    "confidence": 1
+  },
+  "capcom arcade 2nd stadium": {
+    "id": 110892,
+    "name": "Capcom Arcade 2nd Stadium",
+    "main": 0.4,
+    "extra": 44.4,
+    "complete": 114,
+    "count": 1,
+    "confidence": 1
+  },
+  "capcom arcade stadium": {
+    "id": 88756,
+    "name": "Capcom Arcade Stadium",
+    "main": 1.4,
+    "extra": 10.3,
+    "complete": 29.1,
+    "count": 2,
+    "confidence": 1
+  },
+  "capcom beat em up": {
+    "id": 61708,
+    "name": "Capcom Beat 'Em Up Bundle",
+    "main": 7.1,
+    "extra": 8.3,
+    "complete": 11,
+    "count": 29,
+    "confidence": 1
+  },
+  "capcom fighting collection": {
+    "id": 102816,
+    "name": "Capcom Fighting Collection",
+    "main": 6.8,
+    "extra": 12.2,
+    "complete": 33.3,
+    "count": 13,
+    "confidence": 1
+  },
+  "capcom fighting collection 2": {
+    "id": 156018,
+    "name": "Capcom Fighting Collection 2",
+    "main": 6.9,
+    "extra": 15.6,
+    "complete": 35.6,
+    "count": 2,
+    "confidence": 1
+  },
+  "captain toad treasure tracker": {
+    "id": 19217,
+    "name": "Captain Toad: Treasure Tracker",
+    "main": 7.1,
+    "extra": 11.4,
+    "complete": 19.5,
+    "count": 435,
+    "confidence": 1
+  },
+  "card shark": {
+    "id": 81948,
+    "name": "Card Shark",
+    "main": 7.5,
+    "extra": 8.3,
+    "complete": 10,
+    "count": 79,
+    "confidence": 1
+  },
+  "carnival games": {
+    "id": 184206,
+    "name": "Carnival Games",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "carrion": {
+    "id": 68169,
+    "name": "Carrion",
+    "main": 4.6,
+    "extra": 5.5,
+    "complete": 6.3,
+    "count": 569,
+    "confidence": 1
+  },
+  "carto": {
+    "id": 80570,
+    "name": "Carto",
+    "main": 5.5,
+    "extra": 6.2,
+    "complete": 6.6,
+    "count": 317,
+    "confidence": 1
+  },
+  "castle of heart": {
+    "id": 65271,
+    "name": "Castle of Heart",
+    "main": 6.1,
+    "extra": 6.3,
+    "complete": 7.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "castle of heart retold": {
+    "id": 65271,
+    "name": "Castle of Heart",
+    "main": 6.1,
+    "extra": 6.3,
+    "complete": 7.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "castlestorm": {
+    "id": 12391,
+    "name": "CastleStorm",
+    "main": 7,
+    "extra": 10.4,
+    "complete": 20.6,
+    "count": 37,
+    "confidence": 1
+  },
+  "castlevania advance collection": {
+    "id": 98279,
+    "name": "Castlevania Advance Collection",
+    "main": 22.2,
+    "extra": 31.6,
+    "complete": 46.6,
+    "count": 27,
+    "confidence": 1
+  },
+  "castlevania collection": {
+    "id": 67286,
+    "name": "Castlevania Anniversary Collection",
+    "main": 22.5,
+    "extra": 27.5,
+    "complete": 30.5,
+    "count": 45,
+    "confidence": 1
+  },
+  "castlevania collections": {
+    "id": 67286,
+    "name": "Castlevania Anniversary Collection",
+    "main": 22.5,
+    "extra": 27.5,
+    "complete": 30.5,
+    "count": 45,
+    "confidence": 1
+  },
+  "castlevania dominus collection": {
+    "id": 155989,
+    "name": "Castlevania Dominus Collection",
+    "main": 27.5,
+    "extra": 32,
+    "complete": 46.3,
+    "count": 15,
+    "confidence": 1
+  },
+  "castlevania belmont s curse": {
+    "id": 181987,
+    "name": "Castlevania: Belmont's Curse",
+    "main": 11.3,
+    "extra": 19.3,
+    "complete": 22.7,
+    "count": 34,
+    "confidence": 1
+  },
+  "cat cafe manager": {
+    "id": 106823,
+    "name": "Cat Cafe Manager",
+    "main": 9.9,
+    "extra": 11,
+    "complete": 14.2,
+    "count": 18,
+    "confidence": 1
+  },
+  "cat girl without salad amuse bouche": {
+    "id": 37758,
+    "name": "Cat Girl Without Salad: Amuse-Bouche",
+    "main": 0.9,
+    "extra": 1.1,
+    "complete": 1.6,
+    "count": 14,
+    "confidence": 1
+  },
+  "cat quest the fur tastic trilogy": {
+    "id": 48142,
+    "name": "Cat Quest",
+    "main": 5.7,
+    "extra": 8,
+    "complete": 10.7,
+    "count": 396,
+    "confidence": 1
+  },
+  "catherine full body": {
+    "id": 58042,
+    "name": "Catherine: Full Body",
+    "main": 11.7,
+    "extra": 17.5,
+    "complete": 92.5,
+    "count": 556,
+    "confidence": 1
+  },
+  "cattails": {
+    "id": 52107,
+    "name": "Cattails",
+    "main": 15.2,
+    "extra": 30.6,
+    "complete": 58.4,
+    "count": 11,
+    "confidence": 1
+  },
+  "cattails wildwood story": {
+    "id": 52107,
+    "name": "Cattails",
+    "main": 15.2,
+    "extra": 30.6,
+    "complete": 58.4,
+    "count": 11,
+    "confidence": 1
+  },
+  "catto s post office": {
+    "id": 171869,
+    "name": "Catto's Post Office",
+    "main": 0.7,
+    "extra": 0.8,
+    "complete": 1.1,
+    "count": 21,
+    "confidence": 1
+  },
+  "caveman warriors": {
+    "id": 54675,
+    "name": "Caveman Warriors",
+    "main": 3.5,
+    "extra": 4,
+    "complete": 10,
+    "count": 3,
+    "confidence": 1
+  },
+  "cavern of dreams": {
+    "id": 113764,
+    "name": "Cavern of Dreams",
+    "main": 4.7,
+    "extra": 6.4,
+    "complete": 7.2,
+    "count": 26,
+    "confidence": 1
+  },
+  "celeste": {
+    "id": 42818,
+    "name": "Celeste",
+    "main": 8.3,
+    "extra": 14.7,
+    "complete": 39.2,
+    "count": 3583,
+    "confidence": 1
+  },
+  "centipede recharged": {
+    "id": 98572,
+    "name": "Centipede: Recharged",
+    "main": 2.1,
+    "extra": 3,
+    "complete": 3.8,
+    "count": 4,
+    "confidence": 1
+  },
+  "chained echoes": {
+    "id": 82601,
+    "name": "Chained Echoes",
+    "main": 35.3,
+    "extra": 45.3,
+    "complete": 55.9,
+    "count": 130,
+    "confidence": 1
+  },
+  "chants of sennaar": {
+    "id": 106929,
+    "name": "Chants of Sennaar",
+    "main": 9.1,
+    "extra": 9.8,
+    "complete": 10.1,
+    "count": 319,
+    "confidence": 1
+  },
+  "chaos;head noah": {
+    "id": 116104,
+    "name": "Chaos;Head Noah",
+    "main": 28.3,
+    "extra": 41.9,
+    "complete": 45.9,
+    "count": 62,
+    "confidence": 1
+  },
+  "chaos;head noah chaos;child double pack": {
+    "id": 108855,
+    "name": "Chaos;Head Noah / Chaos;Child Double Pack",
+    "main": 125.4,
+    "extra": 140.9,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "chess ultra": {
+    "id": 50294,
+    "name": "Chess Ultra",
+    "main": 2,
+    "extra": 7,
+    "complete": 14,
+    "count": 7,
+    "confidence": 1
+  },
+  "chicory a colorful tale": {
+    "id": 71074,
+    "name": "Chicory: A Colorful Tale",
+    "main": 9.2,
+    "extra": 12.9,
+    "complete": 20.6,
+    "count": 144,
+    "confidence": 1
+  },
+  "children of morta": {
+    "id": 22534,
+    "name": "Children of Morta",
+    "main": 14.2,
+    "extra": 18.8,
+    "complete": 28.4,
+    "count": 254,
+    "confidence": 1
+  },
+  "chocobo gp": {
+    "id": 98274,
+    "name": "Chocobo GP",
+    "main": 3,
+    "extra": 8.1,
+    "complete": 22.6,
+    "count": 23,
+    "confidence": 1
+  },
+  "chocobo s mystery dungeon every buddy": {
+    "id": 65842,
+    "name": "Chocobo's Mystery Dungeon: Every Buddy!",
+    "main": 30.9,
+    "extra": 48.8,
+    "complete": 95.5,
+    "count": 17,
+    "confidence": 1
+  },
+  "chromagun": {
+    "id": 34815,
+    "name": "ChromaGun",
+    "main": 3.7,
+    "extra": 3.7,
+    "complete": 4,
+    "count": 17,
+    "confidence": 1
+  },
+  "chrono cross the radical dreamers": {
+    "id": 1704,
+    "name": "Chrono Cross",
+    "main": 34.3,
+    "extra": 42,
+    "complete": 65,
+    "count": 190,
+    "confidence": 1
+  },
+  "cinders": {
+    "id": 12152,
+    "name": "Cinders",
+    "main": 3.6,
+    "extra": 6.1,
+    "complete": 7.5,
+    "count": 56,
+    "confidence": 1
+  },
+  "circus electrique": {
+    "id": 113213,
+    "name": "Circus Electrique",
+    "main": 18.2,
+    "extra": 26.1,
+    "complete": 37.9,
+    "count": 8,
+    "confidence": 1
+  },
+  "citadelum": {
+    "id": 150595,
+    "name": "Citadelum",
+    "main": 8.2,
+    "extra": null,
+    "complete": 30.9,
+    "count": 2,
+    "confidence": 1
+  },
+  "cities skylines expanded": {
+    "id": 24640,
+    "name": "Cities: Skylines",
+    "main": 27.7,
+    "extra": 71.8,
+    "complete": 180.9,
+    "count": 155,
+    "confidence": 1
+  },
+  "cities skylines nintendo switch": {
+    "id": 24640,
+    "name": "Cities: Skylines",
+    "main": 27.7,
+    "extra": 71.8,
+    "complete": 180.9,
+    "count": 155,
+    "confidence": 1
+  },
+  "citizen sleeper": {
+    "id": 94117,
+    "name": "Citizen Sleeper",
+    "main": 7,
+    "extra": 10.5,
+    "complete": 13.6,
+    "count": 291,
+    "confidence": 1
+  },
+  "citizen sleeper helion collection": {
+    "id": 94117,
+    "name": "Citizen Sleeper",
+    "main": 7,
+    "extra": 10.5,
+    "complete": 13.6,
+    "count": 291,
+    "confidence": 1
+  },
+  "citizens unite earth 10 space": {
+    "id": 94438,
+    "name": "Citizens Unite!: Earth x Space",
+    "main": 52.2,
+    "extra": 60,
+    "complete": 70,
+    "count": 2,
+    "confidence": 1
+  },
+  "city of brass": {
+    "id": 51203,
+    "name": "City Of Brass",
+    "main": 4.5,
+    "extra": 12.5,
+    "complete": 26.3,
+    "count": 20,
+    "confidence": 1
+  },
+  "claybook": {
+    "id": 54144,
+    "name": "Claybook",
+    "main": 3.5,
+    "extra": null,
+    "complete": 4.2,
+    "count": 2,
+    "confidence": 1
+  },
+  "clea 2": {
+    "id": 96248,
+    "name": "Clea 2",
+    "main": 5.9,
+    "extra": 9.1,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "clive n wrench": {
+    "id": 102076,
+    "name": "Clive 'N' Wrench",
+    "main": 7.1,
+    "extra": 9,
+    "complete": 11.2,
+    "count": 3,
+    "confidence": 1
+  },
+  "clive barker s hellraiser revival": {
+    "id": 171499,
+    "name": "Clive Barker's Hellraiser: Revival",
+    "main": 8.3,
+    "extra": 12.3,
+    "complete": 16.4,
+    "count": 37,
+    "confidence": 1
+  },
+  "clockwork aquario": {
+    "id": 96374,
+    "name": "Clockwork Aquario",
+    "main": 0.7,
+    "extra": 1,
+    "complete": 4.2,
+    "count": 15,
+    "confidence": 1
+  },
+  "close to the sun": {
+    "id": 66966,
+    "name": "Close To The Sun",
+    "main": 4.1,
+    "extra": 5.2,
+    "complete": 6.1,
+    "count": 151,
+    "confidence": 1
+  },
+  "cloud gardens": {
+    "id": 82150,
+    "name": "Cloud Gardens",
+    "main": 5.5,
+    "extra": 10.5,
+    "complete": 19.4,
+    "count": 5,
+    "confidence": 1
+  },
+  "cloudpunk": {
+    "id": 62579,
+    "name": "Cloudpunk",
+    "main": 8.9,
+    "extra": 11.5,
+    "complete": 15.3,
+    "count": 120,
+    "confidence": 1
+  },
+  "clubhouse games 51 worldwide classics": {
+    "id": 76853,
+    "name": "Clubhouse Games: 51 Worldwide Classics",
+    "main": 8.3,
+    "extra": 25.5,
+    "complete": 55.2,
+    "count": 32,
+    "confidence": 1
+  },
+  "clustertruck": {
+    "id": 40215,
+    "name": "Clustertruck",
+    "main": 3.6,
+    "extra": 5.6,
+    "complete": 8.3,
+    "count": 272,
+    "confidence": 1
+  },
+  "cobra kai the karate kid saga continues": {
+    "id": 86840,
+    "name": "Cobra Kai: The Karate Kid Saga Continues",
+    "main": 9.9,
+    "extra": 17.1,
+    "complete": 29.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "code of princess ex": {
+    "id": 1781,
+    "name": "Code of Princess",
+    "main": 5.2,
+    "extra": 8.4,
+    "complete": 14.5,
+    "count": 68,
+    "confidence": 1
+  },
+  "collection of mana": {
+    "id": 68247,
+    "name": "Collection of Mana",
+    "main": 63.2,
+    "extra": 66.7,
+    "complete": 90.4,
+    "count": 7,
+    "confidence": 1
+  },
+  "collection of saga final fantasy legend": {
+    "id": 82732,
+    "name": "Collection of SaGa: Final Fantasy Legend",
+    "main": 38.1,
+    "extra": 42,
+    "complete": 51.8,
+    "count": 2,
+    "confidence": 1
+  },
+  "colors live": {
+    "id": 88180,
+    "name": "Colors Live",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "commandos 2 hd remaster": {
+    "id": 1867,
+    "name": "Commandos 2: Men of Courage",
+    "main": 21.4,
+    "extra": 33.5,
+    "complete": 34.9,
+    "count": 29,
+    "confidence": 1
+  },
+  "constance": {
+    "id": 134815,
+    "name": "Constance",
+    "main": 7.2,
+    "extra": 10.4,
+    "complete": 13,
+    "count": 44,
+    "confidence": 1
+  },
+  "function Object() { [native code] } plus": {
+    "id": 51365,
+    "name": "Bridge Constructor Portal",
+    "main": 13.1,
+    "extra": 16.6,
+    "complete": 21.4,
+    "count": 37,
+    "confidence": 1
+  },
+  "contra collection": {
+    "id": 68415,
+    "name": "Contra Anniversary Collection",
+    "main": 7.9,
+    "extra": 10.8,
+    "complete": 16,
+    "count": 12,
+    "confidence": 1
+  },
+  "contra operation galuga": {
+    "id": 137796,
+    "name": "Contra: Operation Galuga",
+    "main": 2.2,
+    "extra": 5.1,
+    "complete": 15.6,
+    "count": 63,
+    "confidence": 1
+  },
+  "control cloud": {
+    "id": 82054,
+    "name": "Control: Ultimate Edition",
+    "main": 12.7,
+    "extra": 25.2,
+    "complete": 38.7,
+    "count": 790,
+    "confidence": 1
+  },
+  "coromon": {
+    "id": 89679,
+    "name": "Coromon",
+    "main": 24.9,
+    "extra": 33.3,
+    "complete": 51.3,
+    "count": 60,
+    "confidence": 1
+  },
+  "cosmic star heroine": {
+    "id": 44714,
+    "name": "Cosmic Star Heroine",
+    "main": 12.1,
+    "extra": 16.9,
+    "complete": 17.4,
+    "count": 76,
+    "confidence": 1
+  },
+  "cotton 100%": {
+    "id": 18058,
+    "name": "Maerchen Adventure Cotton 100%",
+    "main": 1,
+    "extra": 2.4,
+    "complete": 5.7,
+    "count": 21,
+    "confidence": 1
+  },
+  "cotton fantasy": {
+    "id": 102111,
+    "name": "Cotton Fantasy",
+    "main": 1.1,
+    "extra": 2.6,
+    "complete": 6.1,
+    "count": 19,
+    "confidence": 1
+  },
+  "cotton reboot": {
+    "id": 1950,
+    "name": "Cotton: Fantastic Night Dreams",
+    "main": 1,
+    "extra": 2.5,
+    "complete": 4.8,
+    "count": 53,
+    "confidence": 1
+  },
+  "cozy grove": {
+    "id": 86018,
+    "name": "Cozy Grove",
+    "main": 73.2,
+    "extra": 100.9,
+    "complete": 142.7,
+    "count": 20,
+    "confidence": 1
+  },
+  "cozy grove camp spirit": {
+    "id": 86018,
+    "name": "Cozy Grove",
+    "main": 73.2,
+    "extra": 100.9,
+    "complete": 142.7,
+    "count": 20,
+    "confidence": 1
+  },
+  "crash drive 3": {
+    "id": 98268,
+    "name": "Crash Drive 3",
+    "main": 3,
+    "extra": 5,
+    "complete": 37.5,
+    "count": 1,
+    "confidence": 1
+  },
+  "creature in the well": {
+    "id": 68145,
+    "name": "Creature in the Well",
+    "main": 4.3,
+    "extra": 5.8,
+    "complete": 6.3,
+    "count": 30,
+    "confidence": 1
+  },
+  "creepy tale ingrid penance": {
+    "id": 75872,
+    "name": "Creepy Tale",
+    "main": 1.7,
+    "extra": 2,
+    "complete": 2,
+    "count": 67,
+    "confidence": 1
+  },
+  "creepy tale snow child": {
+    "id": 75872,
+    "name": "Creepy Tale",
+    "main": 1.7,
+    "extra": 2,
+    "complete": 2,
+    "count": 67,
+    "confidence": 1
+  },
+  "creepy tale some other place": {
+    "id": 75872,
+    "name": "Creepy Tale",
+    "main": 1.7,
+    "extra": 2,
+    "complete": 2,
+    "count": 67,
+    "confidence": 1
+  },
+  "crime o clock": {
+    "id": 127271,
+    "name": "Crime O'Clock",
+    "main": 12.7,
+    "extra": 18.7,
+    "complete": 20.5,
+    "count": 8,
+    "confidence": 1
+  },
+  "crimsonland": {
+    "id": 2031,
+    "name": "Crimsonland",
+    "main": 4.1,
+    "extra": 9.3,
+    "complete": 20.8,
+    "count": 51,
+    "confidence": 1
+  },
+  "cris tales": {
+    "id": 68209,
+    "name": "Cris Tales",
+    "main": 22.2,
+    "extra": 26,
+    "complete": 31.3,
+    "count": 32,
+    "confidence": 1
+  },
+  "crisis core final fantasy 7 reunion": {
+    "id": 109435,
+    "name": "Crisis Core: Final Fantasy VII Reunion",
+    "main": 13.9,
+    "extra": 21.1,
+    "complete": 46.4,
+    "count": 536,
+    "confidence": 1
+  },
+  "crisis core final fantasy 7 reunion contents": {
+    "id": 109435,
+    "name": "Crisis Core: Final Fantasy VII Reunion",
+    "main": 13.9,
+    "extra": 21.1,
+    "complete": 46.4,
+    "count": 536,
+    "confidence": 1
+  },
+  "cronos the new dawn": {
+    "id": 158246,
+    "name": "Cronos: The New Dawn",
+    "main": 14.9,
+    "extra": 18.9,
+    "complete": 29,
+    "count": 167,
+    "confidence": 1
+  },
+  "crosscode": {
+    "id": 24970,
+    "name": "CrossCode",
+    "main": 35.7,
+    "extra": 55.4,
+    "complete": 79.4,
+    "count": 90,
+    "confidence": 1
+  },
+  "crossing souls": {
+    "id": 25103,
+    "name": "Crossing Souls",
+    "main": 8.8,
+    "extra": 9,
+    "complete": 10.7,
+    "count": 61,
+    "confidence": 1
+  },
+  "crown trick": {
+    "id": 72106,
+    "name": "Crown Trick",
+    "main": 15.9,
+    "extra": 26.3,
+    "complete": 38.5,
+    "count": 28,
+    "confidence": 1
+  },
+  "crymachina": {
+    "id": 124771,
+    "name": "CRYMACHINA",
+    "main": 15.3,
+    "extra": 19.1,
+    "complete": 28.8,
+    "count": 14,
+    "confidence": 1
+  },
+  "crypt of the necrodancer nintendo switch": {
+    "id": 20810,
+    "name": "Crypt of the NecroDancer",
+    "main": 13.9,
+    "extra": 26.2,
+    "complete": 393.4,
+    "count": 150,
+    "confidence": 1
+  },
+  "crysis trilogy": {
+    "id": 101566,
+    "name": "Crysis Remastered Trilogy",
+    "main": 22.7,
+    "extra": 25.7,
+    "complete": 30.6,
+    "count": 8,
+    "confidence": 1
+  },
+  "crystal crisis": {
+    "id": 67579,
+    "name": "Crystal Crisis",
+    "main": 2.1,
+    "extra": 5.1,
+    "complete": 12.4,
+    "count": 12,
+    "confidence": 1
+  },
+  "crystar": {
+    "id": 62343,
+    "name": "Crystar",
+    "main": 22.8,
+    "extra": 33.8,
+    "complete": 48.2,
+    "count": 34,
+    "confidence": 1
+  },
+  "culdcept begins": {
+    "id": 181658,
+    "name": "Culdcept BEGINS",
+    "main": 18.9,
+    "extra": 22,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "cult of the lamb": {
+    "id": 97313,
+    "name": "Cult of the Lamb",
+    "main": 14.7,
+    "extra": 20.2,
+    "complete": 30.3,
+    "count": 749,
+    "confidence": 1
+  },
+  "cultist simulator initiate": {
+    "id": 53548,
+    "name": "Cultist Simulator",
+    "main": 19.4,
+    "extra": 41,
+    "complete": 109.7,
+    "count": 26,
+    "confidence": 1
+  },
+  "cuphead": {
+    "id": 21680,
+    "name": "Cuphead",
+    "main": 10.6,
+    "extra": 16.1,
+    "complete": 28.1,
+    "count": 1170,
+    "confidence": 1
+  },
+  "curious expedition": {
+    "id": 25102,
+    "name": "Curious Expedition",
+    "main": 6,
+    "extra": 16,
+    "complete": 49.4,
+    "count": 20,
+    "confidence": 1
+  },
+  "curious expedition 2": {
+    "id": 86391,
+    "name": "Curious Expedition 2",
+    "main": 8.7,
+    "extra": 10.7,
+    "complete": null,
+    "count": 7,
+    "confidence": 1
+  },
+  "curse of the dead gods": {
+    "id": 75585,
+    "name": "Curse of the Dead Gods",
+    "main": 20.9,
+    "extra": 38.9,
+    "complete": 83.4,
+    "count": 61,
+    "confidence": 1
+  },
+  "curse of the sea rats": {
+    "id": 109022,
+    "name": "Curse of the Sea Rats",
+    "main": 6.9,
+    "extra": 9.1,
+    "complete": 13.4,
+    "count": 6,
+    "confidence": 1
+  },
+  "cursed to golf": {
+    "id": 93251,
+    "name": "Cursed to Golf",
+    "main": 6.6,
+    "extra": 7.1,
+    "complete": 10.1,
+    "count": 50,
+    "confidence": 1
+  },
+  "cyanide and happiness freakpocalypse": {
+    "id": 78612,
+    "name": "Cyanide & Happiness: Freakpocalypse",
+    "main": 4,
+    "extra": 7.1,
+    "complete": 10.9,
+    "count": 11,
+    "confidence": 1
+  },
+  "cyber shadow": {
+    "id": 42816,
+    "name": "Cyber Shadow",
+    "main": 8.6,
+    "extra": 10.1,
+    "complete": 12.2,
+    "count": 169,
+    "confidence": 1
+  },
+  "cycle 28": {
+    "id": 63148,
+    "name": "Cycle 28",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "d topia": {
+    "id": 174906,
+    "name": "D-topia",
+    "main": 6.6,
+    "extra": 8.5,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "daemon 10 machina": {
+    "id": 57532,
+    "name": "Daemon X Machina",
+    "main": 15.1,
+    "extra": 22.6,
+    "complete": 63.1,
+    "count": 79,
+    "confidence": 1
+  },
+  "daemon 10 machina titanic scion": {
+    "id": 129498,
+    "name": "Daemon X Machina: Titanic Scion",
+    "main": 16.8,
+    "extra": 30.3,
+    "complete": 56.1,
+    "count": 14,
+    "confidence": 1
+  },
+  "dandara trials of fear": {
+    "id": 52985,
+    "name": "Dandara",
+    "main": 6.8,
+    "extra": 9.5,
+    "complete": 12.8,
+    "count": 99,
+    "confidence": 1
+  },
+  "dandy dungeon legend of brave yamada": {
+    "id": 48440,
+    "name": "Dandy Dungeon: Legend of Brave Yamada",
+    "main": 9.6,
+    "extra": 15,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "danganronpa s summer camp": {
+    "id": 94166,
+    "name": "Danganronpa S: Ultimate Summer Camp",
+    "main": 11.8,
+    "extra": 24.4,
+    "complete": 95.8,
+    "count": 4,
+    "confidence": 1
+  },
+  "danmaku unlimited 3": {
+    "id": 50072,
+    "name": "Danmaku Unlimited 3",
+    "main": 1.6,
+    "extra": 5.7,
+    "complete": null,
+    "count": 12,
+    "confidence": 1
+  },
+  "darius cozmic collection console": {
+    "id": 110916,
+    "name": "Darius Cozmic Collection: Console",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "dark deity": {
+    "id": 94190,
+    "name": "Dark Deity",
+    "main": 23,
+    "extra": 30.9,
+    "complete": 37.2,
+    "count": 41,
+    "confidence": 1
+  },
+  "dark scrolls": {
+    "id": 183371,
+    "name": "Dark Scrolls",
+    "main": 3,
+    "extra": 9.4,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "dark souls": {
+    "id": 56677,
+    "name": "Dark Souls: Remastered",
+    "main": 29.2,
+    "extra": 44,
+    "complete": 68.3,
+    "count": 976,
+    "confidence": 1
+  },
+  "darkest dungeon": {
+    "id": 22535,
+    "name": "Darkest Dungeon",
+    "main": 56.4,
+    "extra": 85,
+    "complete": 128.4,
+    "count": 156,
+    "confidence": 1
+  },
+  "darkestville castle": {
+    "id": 50478,
+    "name": "Darkestville Castle",
+    "main": 5.1,
+    "extra": 6.7,
+    "complete": 6.7,
+    "count": 13,
+    "confidence": 1
+  },
+  "darksiders genesis": {
+    "id": 68043,
+    "name": "Darksiders: Genesis",
+    "main": 14.2,
+    "extra": 20.4,
+    "complete": 31.5,
+    "count": 192,
+    "confidence": 1
+  },
+  "darksiders 2 deathinitive": {
+    "id": 31632,
+    "name": "Darksiders II: Deathinitive Edition",
+    "main": 19.7,
+    "extra": 29.8,
+    "complete": 53.2,
+    "count": 260,
+    "confidence": 1
+  },
+  "darksiders 3": {
+    "id": 45524,
+    "name": "Darksiders III",
+    "main": 14.2,
+    "extra": 19,
+    "complete": 31.6,
+    "count": 311,
+    "confidence": 1
+  },
+  "darksiders warmastered": {
+    "id": 2243,
+    "name": "Darksiders",
+    "main": 17.1,
+    "extra": 20.4,
+    "complete": 28,
+    "count": 1071,
+    "confidence": 1
+  },
+  "darkwood": {
+    "id": 20102,
+    "name": "Darkwood",
+    "main": 18.3,
+    "extra": 27.4,
+    "complete": 40.8,
+    "count": 63,
+    "confidence": 1
+  },
+  "darq": {
+    "id": 69726,
+    "name": "DARQ",
+    "main": 2.1,
+    "extra": 3.4,
+    "complete": 4.5,
+    "count": 227,
+    "confidence": 1
+  },
+  "date night bowling": {
+    "id": 84029,
+    "name": "Date Night Bowling",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "dave the diver": {
+    "id": 115577,
+    "name": "Dave The Diver",
+    "main": 25.1,
+    "extra": 34.1,
+    "complete": 51.8,
+    "count": 337,
+    "confidence": 1
+  },
+  "dawn of the monsters": {
+    "id": 104996,
+    "name": "Dawn of the Monsters",
+    "main": 5.9,
+    "extra": 11.3,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "dc super hero girls teen power": {
+    "id": 88747,
+    "name": "DC Super Hero Girls: Teen Power",
+    "main": 5.7,
+    "extra": 17.5,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "de blob": {
+    "id": 2295,
+    "name": "de Blob",
+    "main": 8.2,
+    "extra": 12,
+    "complete": 21.9,
+    "count": 56,
+    "confidence": 1
+  },
+  "de mambo": {
+    "id": 47601,
+    "name": "De Mambo",
+    "main": 3,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "dead cells": {
+    "id": 45727,
+    "name": "Dead Cells",
+    "main": 14.1,
+    "extra": 32.3,
+    "complete": 91.9,
+    "count": 740,
+    "confidence": 1
+  },
+  "dead or school": {
+    "id": 65302,
+    "name": "Dead or School",
+    "main": 20.8,
+    "extra": 23.6,
+    "complete": 26.2,
+    "count": 7,
+    "confidence": 1
+  },
+  "deadly premonition 2 a blessing in disguise": {
+    "id": 74736,
+    "name": "Deadly Premonition 2: A Blessing in Disguise",
+    "main": 19.8,
+    "extra": 29.7,
+    "complete": 38,
+    "count": 55,
+    "confidence": 1
+  },
+  "deadly premonition origins": {
+    "id": 2351,
+    "name": "Deadly Premonition",
+    "main": 18.4,
+    "extra": 23.5,
+    "complete": 36.2,
+    "count": 188,
+    "confidence": 1
+  },
+  "death come true": {
+    "id": 74431,
+    "name": "Death Come True",
+    "main": 2.1,
+    "extra": 2.4,
+    "complete": 3,
+    "count": 48,
+    "confidence": 1
+  },
+  "death road to canada": {
+    "id": 39413,
+    "name": "Death Road to Canada",
+    "main": 5.9,
+    "extra": 22.5,
+    "complete": 122.6,
+    "count": 49,
+    "confidence": 1
+  },
+  "death squared": {
+    "id": 47424,
+    "name": "Death Squared",
+    "main": 6.1,
+    "extra": 8.1,
+    "complete": 10,
+    "count": 37,
+    "confidence": 1
+  },
+  "death s door": {
+    "id": 90590,
+    "name": "Death's Door",
+    "main": 9.2,
+    "extra": 12,
+    "complete": 15.9,
+    "count": 823,
+    "confidence": 1
+  },
+  "death s gambit afterlife": {
+    "id": 98455,
+    "name": "Death's Gambit: Afterlife",
+    "main": 14.1,
+    "extra": 20.2,
+    "complete": 40.2,
+    "count": 39,
+    "confidence": 1
+  },
+  "decarnation": {
+    "id": 128537,
+    "name": "Decarnation",
+    "main": 5.5,
+    "extra": 6.2,
+    "complete": 7,
+    "count": 41,
+    "confidence": 1
+  },
+  "deiland pocket planet": {
+    "id": 91398,
+    "name": "Deiland: Pocket Planet Edition",
+    "main": null,
+    "extra": 14.9,
+    "complete": 19.3,
+    "count": 0,
+    "confidence": 1
+  },
+  "deltarune": {
+    "id": 98168,
+    "name": "Deltarune",
+    "main": 27.6,
+    "extra": 35.4,
+    "complete": 53.3,
+    "count": 11,
+    "confidence": 1
+  },
+  "demon slayer kimetsu no yaiba sweep the board": {
+    "id": 137749,
+    "name": "Demon Slayer: Kimetsu no Yaiba - Sweep the Board!",
+    "main": 8.1,
+    "extra": 11.2,
+    "complete": 15,
+    "count": 2,
+    "confidence": 1
+  },
+  "demon slayer kimetsu no yaiba the hinokami chronicles": {
+    "id": 98594,
+    "name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles",
+    "main": 7.6,
+    "extra": 10.1,
+    "complete": 17.7,
+    "count": 100,
+    "confidence": 1
+  },
+  "demon slayer kimetsu no yaiba the hinokami chronicles 2": {
+    "id": 160453,
+    "name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2",
+    "main": 7.2,
+    "extra": 10.6,
+    "complete": 17.7,
+    "count": 13,
+    "confidence": 1
+  },
+  "demon turf": {
+    "id": 84030,
+    "name": "Demon Turf",
+    "main": 14.1,
+    "extra": 19.2,
+    "complete": 32.6,
+    "count": 28,
+    "confidence": 1
+  },
+  "demon turf neon splash": {
+    "id": 84030,
+    "name": "Demon Turf",
+    "main": 14.1,
+    "extra": 19.2,
+    "complete": 32.6,
+    "count": 28,
+    "confidence": 1
+  },
+  "demonschool": {
+    "id": 109270,
+    "name": "Demonschool",
+    "main": 31,
+    "extra": 37.3,
+    "complete": 39.7,
+    "count": 3,
+    "confidence": 1
+  },
+  "depixtion": {
+    "id": 86234,
+    "name": "Depixtion",
+    "main": 45,
+    "extra": 66.5,
+    "complete": 70.7,
+    "count": 1,
+    "confidence": 1
+  },
+  "deru the art of cooperation": {
+    "id": 72420,
+    "name": "DERU - The Art of Cooperation",
+    "main": 3.2,
+    "extra": null,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "desert child": {
+    "id": 63173,
+    "name": "Desert Child",
+    "main": 2.9,
+    "extra": 4.1,
+    "complete": 6.8,
+    "count": 16,
+    "confidence": 1
+  },
+  "destiny connect tick tock travelers": {
+    "id": 71415,
+    "name": "Destiny Connect: Tick-Tock Travelers",
+    "main": 17.3,
+    "extra": 18,
+    "complete": 25,
+    "count": 12,
+    "confidence": 1
+  },
+  "destropolis": {
+    "id": 100847,
+    "name": "Destropolis",
+    "main": 0.4,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "destroy all humans": {
+    "id": 68042,
+    "name": "Destroy All Humans!",
+    "main": 7.6,
+    "extra": 10.4,
+    "complete": 14.5,
+    "count": 304,
+    "confidence": 1
+  },
+  "detective gallo": {
+    "id": 56986,
+    "name": "Detective Gallo",
+    "main": 4.8,
+    "extra": 5.1,
+    "complete": 5.7,
+    "count": 10,
+    "confidence": 1
+  },
+  "detective pikachu returns": {
+    "id": 130452,
+    "name": "Detective Pikachu Returns",
+    "main": 12.1,
+    "extra": 14.3,
+    "complete": 14.4,
+    "count": 45,
+    "confidence": 1
+  },
+  "detention": {
+    "id": 42946,
+    "name": "Detention",
+    "main": 3.3,
+    "extra": 3.9,
+    "complete": 4.2,
+    "count": 248,
+    "confidence": 1
+  },
+  "devil may cry": {
+    "id": 2496,
+    "name": "Devil May Cry",
+    "main": 6.2,
+    "extra": 8.4,
+    "complete": 19,
+    "count": 1158,
+    "confidence": 1
+  },
+  "devil may cry 2": {
+    "id": 2497,
+    "name": "Devil May Cry 2",
+    "main": 4.8,
+    "extra": 7,
+    "complete": 18.6,
+    "count": 526,
+    "confidence": 1
+  },
+  "devil may cry 5 devil hunter": {
+    "id": 83154,
+    "name": "Devil May Cry 5: Special Edition",
+    "main": 10.4,
+    "extra": 17,
+    "complete": 84.9,
+    "count": 195,
+    "confidence": 1
+  },
+  "devious dungeon": {
+    "id": 18669,
+    "name": "Devious Dungeon",
+    "main": 6.1,
+    "extra": 5.9,
+    "complete": 6.3,
+    "count": 11,
+    "confidence": 1
+  },
+  "dex": {
+    "id": 21172,
+    "name": "Dex",
+    "main": 11.1,
+    "extra": 13.6,
+    "complete": 17.1,
+    "count": 23,
+    "confidence": 1
+  },
+  "diablo 3 eternal collection": {
+    "id": 62129,
+    "name": "Diablo III: Eternal Collection",
+    "main": 20.4,
+    "extra": 39.5,
+    "complete": 227.6,
+    "count": 145,
+    "confidence": 1
+  },
+  "dice legacy": {
+    "id": 94123,
+    "name": "Dice Legacy",
+    "main": 7.5,
+    "extra": 17.8,
+    "complete": 45.8,
+    "count": 9,
+    "confidence": 1
+  },
+  "digimon story time stranger": {
+    "id": 163819,
+    "name": "Digimon Story: Time Stranger",
+    "main": 41.8,
+    "extra": 60.4,
+    "complete": 76.6,
+    "count": 79,
+    "confidence": 1
+  },
+  "digimon survive": {
+    "id": 67657,
+    "name": "Digimon Survive",
+    "main": 31,
+    "extra": 40.7,
+    "complete": 72.5,
+    "count": 94,
+    "confidence": 1
+  },
+  "digimon world next order": {
+    "id": 43350,
+    "name": "Digimon World: Next Order",
+    "main": 43.5,
+    "extra": 55.6,
+    "complete": 110.4,
+    "count": 54,
+    "confidence": 1
+  },
+  "dimension drive": {
+    "id": 45812,
+    "name": "Dimension Drive",
+    "main": 4,
+    "extra": null,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "disaster report 4 summer memories": {
+    "id": 74345,
+    "name": "Disaster Report 4: Summer Memories",
+    "main": 10,
+    "extra": 14,
+    "complete": 15.1,
+    "count": 27,
+    "confidence": 1
+  },
+  "disc jam": {
+    "id": 35883,
+    "name": "Disc Jam",
+    "main": 3.8,
+    "extra": 6.5,
+    "complete": 9.4,
+    "count": 6,
+    "confidence": 1
+  },
+  "disc room": {
+    "id": 84473,
+    "name": "Disc Room",
+    "main": 3,
+    "extra": 4.5,
+    "complete": 8.9,
+    "count": 118,
+    "confidence": 1
+  },
+  "discounty": {
+    "id": 140258,
+    "name": "Discounty",
+    "main": 18.2,
+    "extra": 20.3,
+    "complete": 23.1,
+    "count": 25,
+    "confidence": 1
+  },
+  "disgaea 1": {
+    "id": 61660,
+    "name": "Disgaea 1 Complete",
+    "main": 36.2,
+    "extra": 58.4,
+    "complete": 120.6,
+    "count": 45,
+    "confidence": 1
+  },
+  "disgaea 4": {
+    "id": 71701,
+    "name": "Disgaea 4 Complete+",
+    "main": 35.7,
+    "extra": 65.3,
+    "complete": 143.1,
+    "count": 29,
+    "confidence": 1
+  },
+  "disgaea 6 defiance of destiny": {
+    "id": 83171,
+    "name": "Disgaea 6: Defiance of Destiny",
+    "main": 27.2,
+    "extra": 48.3,
+    "complete": 85.9,
+    "count": 23,
+    "confidence": 1
+  },
+  "disgaea 7": {
+    "id": 187669,
+    "name": "Disgaea 7 Complete",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "disgaea 7 vows of the virtueless": {
+    "id": 125953,
+    "name": "Disgaea 7: Vows of the Virtueless",
+    "main": 26.2,
+    "extra": 54.8,
+    "complete": 101.9,
+    "count": 19,
+    "confidence": 1
+  },
+  "disgaea mayhem": {
+    "id": 182546,
+    "name": "Disgaea Mayhem",
+    "main": 6.2,
+    "extra": 13.8,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "disney classic games aladdin and the lion king": {
+    "id": 73131,
+    "name": "Disney Classic Games: Aladdin and The Lion King",
+    "main": 4.3,
+    "extra": 4.4,
+    "complete": 7.4,
+    "count": 20,
+    "confidence": 1
+  },
+  "disney epic mickey rebrushed": {
+    "id": 145872,
+    "name": "Disney Epic Mickey: Rebrushed",
+    "main": 10.3,
+    "extra": 14,
+    "complete": 23.1,
+    "count": 52,
+    "confidence": 1
+  },
+  "disney illusion island": {
+    "id": 124051,
+    "name": "Disney Illusion Island",
+    "main": 7.1,
+    "extra": 8.8,
+    "complete": 11.9,
+    "count": 53,
+    "confidence": 1
+  },
+  "disney magical world 2 enchanted": {
+    "id": 101088,
+    "name": "Disney Magical World 2: Enchanted Edition",
+    "main": 21,
+    "extra": 27.1,
+    "complete": 80,
+    "count": 1,
+    "confidence": 1
+  },
+  "disney tsum tsum festival": {
+    "id": 72899,
+    "name": "Disney Tsum Tsum Festival",
+    "main": 40.2,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "dispatch": {
+    "id": 160618,
+    "name": "Dispatch",
+    "main": 8.6,
+    "extra": 10.3,
+    "complete": 20.3,
+    "count": 1757,
+    "confidence": 1
+  },
+  "do not feed the monkeys": {
+    "id": 62048,
+    "name": "Do Not Feed the Monkeys",
+    "main": 3.8,
+    "extra": 7.8,
+    "complete": 18,
+    "count": 138,
+    "confidence": 1
+  },
+  "do not feed the monkeys 2099": {
+    "id": 62048,
+    "name": "Do Not Feed the Monkeys",
+    "main": 3.8,
+    "extra": 7.8,
+    "complete": 18,
+    "count": 138,
+    "confidence": 1
+  },
+  "dodgeball academia": {
+    "id": 94477,
+    "name": "Dodgeball Academia",
+    "main": 10.5,
+    "extra": 12.1,
+    "complete": 13.1,
+    "count": 51,
+    "confidence": 1
+  },
+  "dokapon kingdom connect": {
+    "id": 2665,
+    "name": "Dokapon Kingdom",
+    "main": 25.1,
+    "extra": 29.2,
+    "complete": 40.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "doki doki literature club plus": {
+    "id": 93892,
+    "name": "Doki Doki Literature Club Plus!",
+    "main": 4.6,
+    "extra": 8.1,
+    "complete": 14.6,
+    "count": 359,
+    "confidence": 1
+  },
+  "donkey kong bananza": {
+    "id": 166252,
+    "name": "Donkey Kong Bananza",
+    "main": 19,
+    "extra": 30.3,
+    "complete": 49.8,
+    "count": 448,
+    "confidence": 1
+  },
+  "donkey kong country returns hd": {
+    "id": 2689,
+    "name": "Donkey Kong Country Returns",
+    "main": 11.2,
+    "extra": 16.7,
+    "complete": 28.4,
+    "count": 496,
+    "confidence": 1
+  },
+  "donkey kong country tropical freeze": {
+    "id": 2691,
+    "name": "Donkey Kong Country: Tropical Freeze",
+    "main": 10.4,
+    "extra": 18.4,
+    "complete": 31.6,
+    "count": 705,
+    "confidence": 1
+  },
+  "doomsday vault": {
+    "id": 79847,
+    "name": "Doomsday Vault",
+    "main": null,
+    "extra": 3.7,
+    "complete": 4.2,
+    "count": 0,
+    "confidence": 1
+  },
+  "doraemon story of seasons": {
+    "id": 71182,
+    "name": "Doraemon: Story of Seasons",
+    "main": 63.6,
+    "extra": 67,
+    "complete": 110.2,
+    "count": 9,
+    "confidence": 1
+  },
+  "doraemon story of seasons friends of the great kingdom": {
+    "id": 115638,
+    "name": "Doraemon: Story of Seasons - Friends of the Great Kingdom",
+    "main": 32.8,
+    "extra": 48.2,
+    "complete": 77,
+    "count": 2,
+    "confidence": 1
+  },
+  "dorfromantik": {
+    "id": 79440,
+    "name": "Dorfromantik",
+    "main": 5.2,
+    "extra": 18.8,
+    "complete": 59.4,
+    "count": 52,
+    "confidence": 1
+  },
+  "dosa divas": {
+    "id": 169294,
+    "name": "Dosa Divas",
+    "main": 9,
+    "extra": 10,
+    "complete": 10.5,
+    "count": 1,
+    "confidence": 1
+  },
+  "double cross": {
+    "id": 64059,
+    "name": "Double Cross",
+    "main": 5.7,
+    "extra": 7.2,
+    "complete": 10.2,
+    "count": 8,
+    "confidence": 1
+  },
+  "double dragon and kunio kun retro brawler": {
+    "id": 87370,
+    "name": "Double Dragon & Kunio-kun: Retro Brawler Bundle",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "double dragon gaiden rise of the dragons": {
+    "id": 128171,
+    "name": "Double Dragon Gaiden: Rise of the Dragons",
+    "main": 2.2,
+    "extra": 5.2,
+    "complete": 11,
+    "count": 44,
+    "confidence": 1
+  },
+  "double kick heroes": {
+    "id": 53061,
+    "name": "Double Kick Heroes",
+    "main": 3.4,
+    "extra": 4.5,
+    "complete": 6.3,
+    "count": 28,
+    "confidence": 1
+  },
+  "downwell": {
+    "id": 31178,
+    "name": "Downwell",
+    "main": 6.4,
+    "extra": 11.8,
+    "complete": 14.8,
+    "count": 121,
+    "confidence": 1
+  },
+  "drag 10 drive": {
+    "id": 166256,
+    "name": "Drag x Drive",
+    "main": 2.3,
+    "extra": null,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "dragon ball fighterz": {
+    "id": 48211,
+    "name": "Dragon Ball FighterZ",
+    "main": 12,
+    "extra": 22.4,
+    "complete": 51.1,
+    "count": 235,
+    "confidence": 1
+  },
+  "dragon marked for death advanced attackers": {
+    "id": 64735,
+    "name": "Dragon Marked for Death",
+    "main": 16.2,
+    "extra": 25.5,
+    "complete": 40.7,
+    "count": 7,
+    "confidence": 1
+  },
+  "dragon marked for death frontline fighters": {
+    "id": 64735,
+    "name": "Dragon Marked for Death",
+    "main": 16.2,
+    "extra": 25.5,
+    "complete": 40.7,
+    "count": 7,
+    "confidence": 1
+  },
+  "dragon quest": {
+    "id": 2833,
+    "name": "Dragon Quest",
+    "main": 9.1,
+    "extra": 10.3,
+    "complete": 11,
+    "count": 375,
+    "confidence": 1
+  },
+  "dragon quest hd 2d erdrick trilogy collection": {
+    "id": 2833,
+    "name": "Dragon Quest",
+    "main": 9.1,
+    "extra": 10.3,
+    "complete": 11,
+    "count": 375,
+    "confidence": 1
+  },
+  "dragon quest builders": {
+    "id": 39386,
+    "name": "Dragon Quest Builders",
+    "main": 37.4,
+    "extra": 52.6,
+    "complete": 65.9,
+    "count": 57,
+    "confidence": 1
+  },
+  "dragon quest builders 2": {
+    "id": 64365,
+    "name": "Dragon Quest Builders 2",
+    "main": 54.9,
+    "extra": 74.4,
+    "complete": 127.3,
+    "count": 113,
+    "confidence": 1
+  },
+  "dragon quest heroes torneko‘s mystery dungeon classic hd": {
+    "id": 191050,
+    "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
+    "main": 11.1,
+    "extra": 16.2,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "dragon quest i and 2 hd 2d remake": {
+    "id": 152376,
+    "name": "Dragon Quest I & II HD-2D Remake",
+    "main": 33.3,
+    "extra": 48.2,
+    "complete": 62.4,
+    "count": 48,
+    "confidence": 1
+  },
+  "dragon quest 2 luminaries of the legendary line": {
+    "id": 2837,
+    "name": "Dragon Quest II: Luminaries of the Legendary Line",
+    "main": 16.4,
+    "extra": 17.7,
+    "complete": 19.1,
+    "count": 192,
+    "confidence": 1
+  },
+  "dragon quest 3 hd 2d remake": {
+    "id": 92790,
+    "name": "Dragon Quest III HD-2D Remake",
+    "main": 32.8,
+    "extra": 43.9,
+    "complete": 66.3,
+    "count": 188,
+    "confidence": 1
+  },
+  "dragon quest 3 the seeds of salvation": {
+    "id": 2838,
+    "name": "Dragon Quest III: The Seeds of Salvation",
+    "main": 28.6,
+    "extra": 33.7,
+    "complete": 35.4,
+    "count": 127,
+    "confidence": 1
+  },
+  "dragon quest monsters the dark prince": {
+    "id": 130448,
+    "name": "Dragon Quest Monsters: The Dark Prince",
+    "main": 41.9,
+    "extra": 58.3,
+    "complete": 78.3,
+    "count": 44,
+    "confidence": 1
+  },
+  "dragon quest treasures": {
+    "id": 109851,
+    "name": "Dragon Quest Treasures",
+    "main": 21.5,
+    "extra": 29.3,
+    "complete": 57.3,
+    "count": 40,
+    "confidence": 1
+  },
+  "dragon quest 7 reimagined": {
+    "id": 174350,
+    "name": "Dragon Quest VII Reimagined",
+    "main": 42.4,
+    "extra": 57,
+    "complete": 77.2,
+    "count": 66,
+    "confidence": 1
+  },
+  "dragon quest 11 s echoes of an elusive age": {
+    "id": 69743,
+    "name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+    "main": 57.7,
+    "extra": 89.7,
+    "complete": 129.6,
+    "count": 678,
+    "confidence": 1
+  },
+  "dragon question": {
+    "id": 2833,
+    "name": "Dragon Quest",
+    "main": 9.1,
+    "extra": 10.3,
+    "complete": 11,
+    "count": 375,
+    "confidence": 1
+  },
+  "dragon s dogma dark arisen": {
+    "id": 2846,
+    "name": "Dragon's Dogma: Dark Arisen",
+    "main": 32.8,
+    "extra": 53,
+    "complete": 113.4,
+    "count": 391,
+    "confidence": 1
+  },
+  "drawn to life two realms": {
+    "id": 86105,
+    "name": "Drawn To Life: Two Realms",
+    "main": 9.4,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "dreamscaper": {
+    "id": 78530,
+    "name": "Dreamscaper",
+    "main": 14.8,
+    "extra": 29.1,
+    "complete": 42.4,
+    "count": 25,
+    "confidence": 1
+  },
+  "duck detective the secret salami": {
+    "id": 141777,
+    "name": "Duck Detective: The Secret Salami",
+    "main": 2.1,
+    "extra": 2.3,
+    "complete": 2.3,
+    "count": 170,
+    "confidence": 1
+  },
+  "duck game": {
+    "id": 26915,
+    "name": "Duck Game",
+    "main": 3.5,
+    "extra": 3.6,
+    "complete": 125.3,
+    "count": 14,
+    "confidence": 1
+  },
+  "dungeon encounters": {
+    "id": 98479,
+    "name": "Dungeon Encounters",
+    "main": 28,
+    "extra": 40.8,
+    "complete": 48.8,
+    "count": 7,
+    "confidence": 1
+  },
+  "dungeon munchies": {
+    "id": 68732,
+    "name": "Dungeon Munchies",
+    "main": 8.5,
+    "extra": 9.1,
+    "complete": 11.8,
+    "count": 10,
+    "confidence": 1
+  },
+  "dungeons of dreadrock": {
+    "id": 105268,
+    "name": "Dungeons of Dreadrock",
+    "main": 5.2,
+    "extra": 5.7,
+    "complete": 5.4,
+    "count": 29,
+    "confidence": 1
+  },
+  "dungeons of dreadrock 2 the dead king s secret": {
+    "id": 160966,
+    "name": "Dungeons of Dreadrock 2 - The Dead King's Secret",
+    "main": 6.1,
+    "extra": 6.8,
+    "complete": 7,
+    "count": 2,
+    "confidence": 1
+  },
+  "dusk": {
+    "id": 50829,
+    "name": "DUSK",
+    "main": 7.5,
+    "extra": 9.7,
+    "complete": 16.8,
+    "count": 387,
+    "confidence": 1
+  },
+  "dusk diver 2": {
+    "id": 98932,
+    "name": "Dusk Diver 2",
+    "main": 13.7,
+    "extra": 26.2,
+    "complete": 29.4,
+    "count": 3,
+    "confidence": 1
+  },
+  "duskfade": {
+    "id": 163170,
+    "name": "Duskfade",
+    "main": 10.7,
+    "extra": 15,
+    "complete": 22.4,
+    "count": 12,
+    "confidence": 1
+  },
+  "dynasty warriors 3": {
+    "id": 174947,
+    "name": "Dynasty Warriors 3: Complete Edition Remastered",
+    "main": 5.4,
+    "extra": null,
+    "complete": 85.5,
+    "count": 4,
+    "confidence": 1
+  },
+  "dynasty warriors 8 xtreme legends": {
+    "id": 19081,
+    "name": "Dynasty Warriors 8: Xtreme Legends - Complete Edition",
+    "main": 21.2,
+    "extra": 58.6,
+    "complete": 127.7,
+    "count": 25,
+    "confidence": 1
+  },
+  "dynasty warriors 9 empires": {
+    "id": 101754,
+    "name": "Dynasty Warriors 9: Empires",
+    "main": 15.3,
+    "extra": null,
+    "complete": 51.6,
+    "count": 7,
+    "confidence": 1
+  },
+  "dynasty warriors origins": {
+    "id": 151303,
+    "name": "Dynasty Warriors: Origins",
+    "main": 33.4,
+    "extra": 46.3,
+    "complete": 95.8,
+    "count": 51,
+    "confidence": 1
+  },
+  "earth atlantis": {
+    "id": 49684,
+    "name": "Earth Atlantis",
+    "main": 3.8,
+    "extra": 5,
+    "complete": 6,
+    "count": 8,
+    "confidence": 1
+  },
+  "earth defense force world brothers": {
+    "id": 90547,
+    "name": "Earth Defense Force: World Brothers",
+    "main": 12.5,
+    "extra": 15,
+    "complete": null,
+    "count": 8,
+    "confidence": 1
+  },
+  "earthlock": {
+    "id": 40345,
+    "name": "Earthlock",
+    "main": 22.1,
+    "extra": 29.7,
+    "complete": 33.9,
+    "count": 21,
+    "confidence": 1
+  },
+  "earthnight": {
+    "id": 73070,
+    "name": "EarthNight",
+    "main": 2.4,
+    "extra": 6.9,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "eastward": {
+    "id": 45165,
+    "name": "Eastward",
+    "main": 20.2,
+    "extra": 25,
+    "complete": 33.9,
+    "count": 188,
+    "confidence": 1
+  },
+  "easy come easy golf": {
+    "id": 113570,
+    "name": "Easy Come Easy Golf",
+    "main": 8.5,
+    "extra": 20,
+    "complete": 25,
+    "count": 2,
+    "confidence": 1
+  },
+  "efootball kick off": {
+    "id": 181688,
+    "name": "eFootball Kick-Off!",
+    "main": 7,
+    "extra": 15.4,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "eiyuden chronicle rising": {
+    "id": 93968,
+    "name": "Eiyuden Chronicle: Rising",
+    "main": 12.5,
+    "extra": 16.2,
+    "complete": 19.9,
+    "count": 103,
+    "confidence": 1
+  },
+  "el shaddai ascension of the metatron hd remaster": {
+    "id": 3067,
+    "name": "El Shaddai: Ascension of the Metatron",
+    "main": 8.5,
+    "extra": 10.4,
+    "complete": 14.7,
+    "count": 103,
+    "confidence": 1
+  },
+  "elli": {
+    "id": 66206,
+    "name": "Elli",
+    "main": 5.4,
+    "extra": 6.2,
+    "complete": 11.1,
+    "count": 4,
+    "confidence": 1
+  },
+  "elrentaros wanderings": {
+    "id": 149974,
+    "name": "Elrentaros Wanderings",
+    "main": 14.3,
+    "extra": 40,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "embers of mirrim": {
+    "id": 46200,
+    "name": "Embers of Mirrim",
+    "main": 2.5,
+    "extra": 5,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "embracelet": {
+    "id": 83780,
+    "name": "Embracelet",
+    "main": 3.8,
+    "extra": 4.4,
+    "complete": 5,
+    "count": 11,
+    "confidence": 1
+  },
+  "empire of sin": {
+    "id": 68365,
+    "name": "Empire of Sin",
+    "main": 15.1,
+    "extra": 27.8,
+    "complete": 81.7,
+    "count": 19,
+    "confidence": 1
+  },
+  "ender lilies quietus of the knights": {
+    "id": 87524,
+    "name": "ENDER LILIES: Quietus of the Knights",
+    "main": 12.4,
+    "extra": 18.6,
+    "complete": 20.9,
+    "count": 227,
+    "confidence": 1
+  },
+  "ender magnolia bloom in the mist": {
+    "id": 145828,
+    "name": "Ender Magnolia: Bloom in the Mist",
+    "main": 17.4,
+    "extra": 20.4,
+    "complete": 21.5,
+    "count": 51,
+    "confidence": 1
+  },
+  "endless ocean luminous": {
+    "id": 145832,
+    "name": "Endless Ocean: Luminous",
+    "main": 37.7,
+    "extra": 46,
+    "complete": 50,
+    "count": 2,
+    "confidence": 1
+  },
+  "enter the gungeon": {
+    "id": 35549,
+    "name": "Enter the Gungeon",
+    "main": 22.5,
+    "extra": 62.8,
+    "complete": 159.9,
+    "count": 208,
+    "confidence": 1
+  },
+  "eqqo": {
+    "id": 76016,
+    "name": "EQQO",
+    "main": 3.2,
+    "extra": 3.5,
+    "complete": 4.1,
+    "count": 10,
+    "confidence": 1
+  },
+  "etherborn": {
+    "id": 69038,
+    "name": "Etherborn",
+    "main": 2.2,
+    "extra": 2.8,
+    "complete": 3.9,
+    "count": 88,
+    "confidence": 1
+  },
+  "etrange overlord": {
+    "id": 174692,
+    "name": "Etrange Overlord",
+    "main": 11,
+    "extra": 14.5,
+    "complete": 15.1,
+    "count": 3,
+    "confidence": 1
+  },
+  "etrian odyssey origins collection": {
+    "id": 149486,
+    "name": "Etrian Odyssey Origins Collection",
+    "main": 85,
+    "extra": 247.5,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "evan s remains": {
+    "id": 79146,
+    "name": "Evan's Remains",
+    "main": 3,
+    "extra": 3.4,
+    "complete": 3.6,
+    "count": 132,
+    "confidence": 1
+  },
+  "evergate": {
+    "id": 82422,
+    "name": "Evergate",
+    "main": 5.5,
+    "extra": 8.3,
+    "complete": 10.1,
+    "count": 11,
+    "confidence": 1
+  },
+  "everhood": {
+    "id": 89436,
+    "name": "Everhood",
+    "main": 6.6,
+    "extra": 9.6,
+    "complete": 22,
+    "count": 242,
+    "confidence": 1
+  },
+  "everhood 2": {
+    "id": 130045,
+    "name": "Everhood 2",
+    "main": 9.2,
+    "extra": 12,
+    "complete": 22,
+    "count": 15,
+    "confidence": 1
+  },
+  "everybody s golf hot shots": {
+    "id": 165832,
+    "name": "Everybody's Golf: Hot Shots",
+    "main": 20.9,
+    "extra": 122,
+    "complete": 134,
+    "count": 5,
+    "confidence": 1
+  },
+  "everything": {
+    "id": 45196,
+    "name": "Everything",
+    "main": 2.9,
+    "extra": 5.6,
+    "complete": 18.8,
+    "count": 97,
+    "confidence": 1
+  },
+  "exception": {
+    "id": 69320,
+    "name": "Exception",
+    "main": 3,
+    "extra": 5.5,
+    "complete": 7.7,
+    "count": 3,
+    "confidence": 1
+  },
+  "exit the gungeon": {
+    "id": 70703,
+    "name": "Exit the Gungeon",
+    "main": 4.3,
+    "extra": 12.1,
+    "complete": 34.1,
+    "count": 32,
+    "confidence": 1
+  },
+  "f zero 99": {
+    "id": 137794,
+    "name": "F-Zero 99",
+    "main": 4.8,
+    "extra": 12.5,
+    "complete": null,
+    "count": 19,
+    "confidence": 1
+  },
+  "f i s t forged in shadow torch": {
+    "id": 83127,
+    "name": "F.I.S.T.: Forged In Shadow Torch",
+    "main": 12.5,
+    "extra": 16.7,
+    "complete": 20.2,
+    "count": 89,
+    "confidence": 1
+  },
+  "fading afternoon": {
+    "id": 136416,
+    "name": "Fading Afternoon",
+    "main": 5.5,
+    "extra": 6.5,
+    "complete": 18.8,
+    "count": 8,
+    "confidence": 1
+  },
+  "fae farm": {
+    "id": 113544,
+    "name": "Fae Farm",
+    "main": 31.2,
+    "extra": 48.8,
+    "complete": 87.8,
+    "count": 13,
+    "confidence": 1
+  },
+  "faeria": {
+    "id": 35873,
+    "name": "Faeria",
+    "main": 11.8,
+    "extra": 41.7,
+    "complete": 125.2,
+    "count": 10,
+    "confidence": 1
+  },
+  "fairy fencer f advent dark force": {
+    "id": 38952,
+    "name": "Fairy Fencer F: Advent Dark Force",
+    "main": 25.1,
+    "extra": 41.1,
+    "complete": 64.8,
+    "count": 42,
+    "confidence": 1
+  },
+  "fairy tail": {
+    "id": 71737,
+    "name": "Fairy Tail",
+    "main": 23.5,
+    "extra": 30.9,
+    "complete": 46,
+    "count": 43,
+    "confidence": 1
+  },
+  "fairy tail dungeons": {
+    "id": 71737,
+    "name": "Fairy Tail",
+    "main": 23.5,
+    "extra": 30.9,
+    "complete": 46,
+    "count": 43,
+    "confidence": 1
+  },
+  "fallen legion rise to glory": {
+    "id": 60703,
+    "name": "Fallen Legion: Rise to Glory",
+    "main": 12.7,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "famicom detective club the girl who stands behind": {
+    "id": 88770,
+    "name": "Famicom Detective Club: The Girl Who Stands Behind",
+    "main": 6.9,
+    "extra": 7.2,
+    "complete": 7.8,
+    "count": 90,
+    "confidence": 1
+  },
+  "famicom detective club the missing heir": {
+    "id": 88759,
+    "name": "Famicom Detective Club: The Missing Heir",
+    "main": 7.6,
+    "extra": 8.9,
+    "complete": 9.1,
+    "count": 90,
+    "confidence": 1
+  },
+  "fantasian neo dimension": {
+    "id": 152394,
+    "name": "Fantasian",
+    "main": 35.4,
+    "extra": 68.4,
+    "complete": 77.3,
+    "count": 10,
+    "confidence": 1
+  },
+  "fantasy hero ～unsigned legacy～": {
+    "id": 23037,
+    "name": "Fantasy Hero: Unsigned Legacy",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "fantasy life i the girl who steals time": {
+    "id": 124025,
+    "name": "Fantasy Life i: The Girl Who Steals Time",
+    "main": 34,
+    "extra": 59.9,
+    "complete": 138.4,
+    "count": 86,
+    "confidence": 1
+  },
+  "fantasy strike": {
+    "id": 48179,
+    "name": "Fantasy Strike",
+    "main": 1.6,
+    "extra": null,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "farmagia": {
+    "id": 152384,
+    "name": "Farmagia",
+    "main": 32,
+    "extra": 53.4,
+    "complete": 74.7,
+    "count": 1,
+    "confidence": 1
+  },
+  "farming simulator 20": {
+    "id": 121931,
+    "name": "Farming Simulator 20",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "fashion dreamer": {
+    "id": 127700,
+    "name": "Fashion Dreamer",
+    "main": 9.9,
+    "extra": 54.2,
+    "complete": 297.8,
+    "count": 14,
+    "confidence": 1
+  },
+  "fashion police squad": {
+    "id": 96587,
+    "name": "Fashion Police Squad",
+    "main": 4.6,
+    "extra": 6.2,
+    "complete": 9.8,
+    "count": 59,
+    "confidence": 1
+  },
+  "fast fusion": {
+    "id": 166285,
+    "name": "Fast Fusion",
+    "main": 2.6,
+    "extra": 6.2,
+    "complete": 15.7,
+    "count": 31,
+    "confidence": 1
+  },
+  "fast rmx": {
+    "id": 44138,
+    "name": "Fast RMX",
+    "main": 3.9,
+    "extra": 12.2,
+    "complete": 23.3,
+    "count": 49,
+    "confidence": 1
+  },
+  "fatal frame 2 crimson butterfly remake": {
+    "id": 174356,
+    "name": "Fatal Frame II: Crimson Butterfly Remake",
+    "main": 12.5,
+    "extra": 16.5,
+    "complete": 39.6,
+    "count": 58,
+    "confidence": 1
+  },
+  "fatal frame maiden of black water": {
+    "id": 31231,
+    "name": "Fatal Frame: Maiden of Black Water",
+    "main": 14.9,
+    "extra": 18.6,
+    "complete": 44.4,
+    "count": 100,
+    "confidence": 1
+  },
+  "fatal frame mask of the lunar eclipse": {
+    "id": 3398,
+    "name": "Fatal Frame: Mask of the Lunar Eclipse",
+    "main": 12.4,
+    "extra": 14.3,
+    "complete": 27.9,
+    "count": 75,
+    "confidence": 1
+  },
+  "fatal fury first contact": {
+    "id": 3403,
+    "name": "Fatal Fury: First Contact",
+    "main": 0.4,
+    "extra": 2.7,
+    "complete": 3.9,
+    "count": 31,
+    "confidence": 1
+  },
+  "fate extella link": {
+    "id": 65589,
+    "name": "Fate/Extella Link",
+    "main": 10,
+    "extra": 19.5,
+    "complete": 43,
+    "count": 37,
+    "confidence": 1
+  },
+  "fate extella the umbral star": {
+    "id": 43007,
+    "name": "Fate/Extella: The Umbral Star",
+    "main": 20.3,
+    "extra": 37.7,
+    "complete": 77.2,
+    "count": 45,
+    "confidence": 1
+  },
+  "feather": {
+    "id": 68038,
+    "name": "Feather",
+    "main": 0.5,
+    "extra": 0.6,
+    "complete": 0.6,
+    "count": 21,
+    "confidence": 1
+  },
+  "felix the cat": {
+    "id": 144147,
+    "name": "Felix the Cat",
+    "main": 1.5,
+    "extra": null,
+    "complete": 1.9,
+    "count": 3,
+    "confidence": 1
+  },
+  "felix the reaper": {
+    "id": 70967,
+    "name": "Felix The Reaper",
+    "main": 4.8,
+    "extra": 7.6,
+    "complete": 10.5,
+    "count": 46,
+    "confidence": 1
+  },
+  "fez": {
+    "id": 3435,
+    "name": "Fez",
+    "main": 6,
+    "extra": 8.3,
+    "complete": 11.7,
+    "count": 557,
+    "confidence": 1
+  },
+  "fight crab": {
+    "id": 81474,
+    "name": "Fight Crab",
+    "main": 3.1,
+    "extra": 5.3,
+    "complete": 8.8,
+    "count": 4,
+    "confidence": 1
+  },
+  "fight n rage": {
+    "id": 49758,
+    "name": "Fight'N Rage",
+    "main": 2.3,
+    "extra": 10,
+    "complete": 41.7,
+    "count": 67,
+    "confidence": 1
+  },
+  "fimbul": {
+    "id": 65336,
+    "name": "Fimbul",
+    "main": 3,
+    "extra": null,
+    "complete": 4,
+    "count": 6,
+    "confidence": 1
+  },
+  "final fantasy crystal chronicles": {
+    "id": 66498,
+    "name": "Final Fantasy Crystal Chronicles: Remastered Edition",
+    "main": 17.3,
+    "extra": 43.2,
+    "complete": 93.2,
+    "count": 24,
+    "confidence": 1
+  },
+  "final fantasy 9": {
+    "id": 3505,
+    "name": "Final Fantasy IX",
+    "main": 37.9,
+    "extra": 51.8,
+    "complete": 81.5,
+    "count": 974,
+    "confidence": 1
+  },
+  "final fantasy resonance": {
+    "id": 187293,
+    "name": "Final Fantasy Resonance",
+    "main": null,
+    "extra": 48.2,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "final fantasy 7": {
+    "id": 3521,
+    "name": "Final Fantasy VII",
+    "main": 36,
+    "extra": 48.5,
+    "complete": 78.5,
+    "count": 1499,
+    "confidence": 1
+  },
+  "final fantasy 7 rebirth": {
+    "id": 109434,
+    "name": "Final Fantasy VII Rebirth",
+    "main": 48.5,
+    "extra": 91.4,
+    "complete": 160.6,
+    "count": 446,
+    "confidence": 1
+  },
+  "final fantasy 7 remake intergrade": {
+    "id": 57686,
+    "name": "Final Fantasy VII Remake",
+    "main": 32.3,
+    "extra": 41.1,
+    "complete": 85.7,
+    "count": 1969,
+    "confidence": 1
+  },
+  "final fantasy 8": {
+    "id": 3524,
+    "name": "Final Fantasy VIII",
+    "main": 38.2,
+    "extra": 52.2,
+    "complete": 73.3,
+    "count": 561,
+    "confidence": 1
+  },
+  "final fantasy 10 10 2 hd remaster": {
+    "id": 16449,
+    "name": "Final Fantasy X/X-2 HD Remaster",
+    "main": 50.4,
+    "extra": 80,
+    "complete": 162.4,
+    "count": 188,
+    "confidence": 1
+  },
+  "final fantasy 12 the zodiac age": {
+    "id": 37832,
+    "name": "Final Fantasy XII: The Zodiac Age",
+    "main": 40.6,
+    "extra": 62.4,
+    "complete": 105.6,
+    "count": 415,
+    "confidence": 1
+  },
+  "final fantasy xv pocket hd": {
+    "id": 53142,
+    "name": "Final Fantasy XV: Pocket Edition",
+    "main": 15.9,
+    "extra": 16.5,
+    "complete": 22.5,
+    "count": 35,
+    "confidence": 1
+  },
+  "fire emblem engage": {
+    "id": 113547,
+    "name": "Fire Emblem Engage",
+    "main": 40.8,
+    "extra": 64.9,
+    "complete": 91.4,
+    "count": 236,
+    "confidence": 1
+  },
+  "fire emblem warriors": {
+    "id": 42836,
+    "name": "Fire Emblem Warriors",
+    "main": 12.5,
+    "extra": 33.9,
+    "complete": 214.3,
+    "count": 304,
+    "confidence": 1
+  },
+  "fire emblem warriors three hopes": {
+    "id": 103829,
+    "name": "Fire Emblem Warriors: Three Hopes",
+    "main": 38.3,
+    "extra": 56.3,
+    "complete": 136,
+    "count": 111,
+    "confidence": 1
+  },
+  "fire emblem fortune s weave": {
+    "id": 174355,
+    "name": "Fire Emblem: Fortune's Weave",
+    "main": 78.5,
+    "extra": 123.2,
+    "complete": 169.7,
+    "count": 15,
+    "confidence": 1
+  },
+  "fire emblem three houses": {
+    "id": 46453,
+    "name": "Fire Emblem: Three Houses",
+    "main": 49.3,
+    "extra": 76.6,
+    "complete": 210.9,
+    "count": 1293,
+    "confidence": 1
+  },
+  "fire tonight": {
+    "id": 94201,
+    "name": "Fire Tonight",
+    "main": 0.8,
+    "extra": 1,
+    "complete": 1.3,
+    "count": 12,
+    "confidence": 1
+  },
+  "fitness boxing 3 your personal trainer": {
+    "id": 156026,
+    "name": "Fitness Boxing 3: Your Personal Trainer",
+    "main": 6.3,
+    "extra": 8.8,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "fitness boxing feat hatsune miku": {
+    "id": 147272,
+    "name": "Fitness Boxing feat. Hatsune Miku",
+    "main": 11.4,
+    "extra": 38.5,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "fitness circuit": {
+    "id": 141541,
+    "name": "Fitness Circuit",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "five nights at freddy s help wanted": {
+    "id": 67410,
+    "name": "Five Nights at Freddy's: Help Wanted",
+    "main": 10.9,
+    "extra": 11.5,
+    "complete": 16.2,
+    "count": 14,
+    "confidence": 1
+  },
+  "flat heroes": {
+    "id": 42805,
+    "name": "Flat Heroes",
+    "main": 4.9,
+    "extra": 12.9,
+    "complete": 28.1,
+    "count": 21,
+    "confidence": 1
+  },
+  "fledgling heroes": {
+    "id": 73216,
+    "name": "Fledgling Heroes",
+    "main": 1.5,
+    "extra": 2.5,
+    "complete": 3,
+    "count": 1,
+    "confidence": 1
+  },
+  "flinthook": {
+    "id": 45351,
+    "name": "Flinthook",
+    "main": 18.6,
+    "extra": 24.5,
+    "complete": 54.8,
+    "count": 5,
+    "confidence": 1
+  },
+  "flip wars": {
+    "id": 96561,
+    "name": "Flip Wars",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "flipping death": {
+    "id": 59794,
+    "name": "Flipping Death",
+    "main": 5.8,
+    "extra": 7.2,
+    "complete": 8.4,
+    "count": 24,
+    "confidence": 1
+  },
+  "flood of light": {
+    "id": 51092,
+    "name": "Flood of Light",
+    "main": 5.1,
+    "extra": 5.2,
+    "complete": 8.8,
+    "count": 11,
+    "confidence": 1
+  },
+  "floor kids": {
+    "id": 51655,
+    "name": "Floor Kids",
+    "main": 3,
+    "extra": 3.5,
+    "complete": 4,
+    "count": 15,
+    "confidence": 1
+  },
+  "fly together": {
+    "id": 101563,
+    "name": "Fly Together!",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "football manager touch 2018": {
+    "id": 51135,
+    "name": "Football Manager Touch 2018",
+    "main": 32.7,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "forager": {
+    "id": 62412,
+    "name": "Forager",
+    "main": 15.6,
+    "extra": 24.9,
+    "complete": 42.8,
+    "count": 140,
+    "confidence": 1
+  },
+  "foregone": {
+    "id": 68371,
+    "name": "Foregone",
+    "main": 7.1,
+    "extra": 10,
+    "complete": 17.5,
+    "count": 28,
+    "confidence": 1
+  },
+  "fox n forests": {
+    "id": 57003,
+    "name": "FOX n FORESTS",
+    "main": 6.8,
+    "extra": 7.2,
+    "complete": 7.5,
+    "count": 2,
+    "confidence": 1
+  },
+  "framed collection": {
+    "id": 56523,
+    "name": "FRAMED Collection",
+    "main": 2.8,
+    "extra": 3,
+    "complete": 3.3,
+    "count": 118,
+    "confidence": 1
+  },
+  "freedom planet": {
+    "id": 21672,
+    "name": "Freedom Planet",
+    "main": 4.8,
+    "extra": 9.2,
+    "complete": 23.4,
+    "count": 190,
+    "confidence": 1
+  },
+  "freedom planet 2": {
+    "id": 55662,
+    "name": "Freedom Planet 2",
+    "main": 10,
+    "extra": 13.5,
+    "complete": 25.9,
+    "count": 28,
+    "confidence": 1
+  },
+  "frogun": {
+    "id": 96283,
+    "name": "Frogun",
+    "main": 5.5,
+    "extra": 9.2,
+    "complete": 19.2,
+    "count": 27,
+    "confidence": 1
+  },
+  "front mission 1st remake": {
+    "id": 117885,
+    "name": "Front Mission 1st: Remake",
+    "main": 24.8,
+    "extra": 39.2,
+    "complete": 56.6,
+    "count": 18,
+    "confidence": 1
+  },
+  "front mission 2 remake": {
+    "id": 128494,
+    "name": "Front Mission 2: Remake",
+    "main": 51.4,
+    "extra": 57.5,
+    "complete": 64.2,
+    "count": 5,
+    "confidence": 1
+  },
+  "front mission 3 remake": {
+    "id": 168851,
+    "name": "Front Mission 3: Remake",
+    "main": 28.3,
+    "extra": 45.1,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "fuga melodies of steel": {
+    "id": 96313,
+    "name": "Fuga: Melodies of Steel",
+    "main": 19,
+    "extra": 24.3,
+    "complete": 36.7,
+    "count": 100,
+    "confidence": 1
+  },
+  "fuga melodies of steel 2": {
+    "id": 127711,
+    "name": "Fuga: Melodies of Steel 2",
+    "main": 20.5,
+    "extra": 23.7,
+    "complete": 35.5,
+    "count": 30,
+    "confidence": 1
+  },
+  "full metal furies": {
+    "id": 52480,
+    "name": "Full Metal Furies",
+    "main": 11.1,
+    "extra": 17.1,
+    "complete": 27.3,
+    "count": 15,
+    "confidence": 1
+  },
+  "furi": {
+    "id": 30957,
+    "name": "Furi",
+    "main": 5.5,
+    "extra": 7.6,
+    "complete": 18.3,
+    "count": 619,
+    "confidence": 1
+  },
+  "fury unleashed": {
+    "id": 46993,
+    "name": "Fury Unleashed",
+    "main": 7.5,
+    "extra": 16,
+    "complete": 28.9,
+    "count": 37,
+    "confidence": 1
+  },
+  "gal guardians demon purge": {
+    "id": 125205,
+    "name": "Gal Guardians: Demon Purge",
+    "main": 8.3,
+    "extra": 11.1,
+    "complete": 19.1,
+    "count": 28,
+    "confidence": 1
+  },
+  "gal metal": {
+    "id": 62954,
+    "name": "Gal Metal",
+    "main": 3.8,
+    "extra": 5.4,
+    "complete": null,
+    "count": 9,
+    "confidence": 1
+  },
+  "gal gun 2": {
+    "id": 55568,
+    "name": "Gal*Gun 2",
+    "main": 5.3,
+    "extra": 10.3,
+    "complete": 24.4,
+    "count": 36,
+    "confidence": 1
+  },
+  "gal gun double peace": {
+    "id": 39066,
+    "name": "Gal*Gun: Double Peace",
+    "main": 3.7,
+    "extra": 14.6,
+    "complete": 36.8,
+    "count": 80,
+    "confidence": 1
+  },
+  "gal gun returns": {
+    "id": 83540,
+    "name": "Gal*Gun Returns",
+    "main": 2.1,
+    "extra": 9.5,
+    "complete": 41.8,
+    "count": 23,
+    "confidence": 1
+  },
+  "galaxy champions tv": {
+    "id": 71152,
+    "name": "Galaxy Champions TV",
+    "main": 1.3,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "game builder garage": {
+    "id": 91915,
+    "name": "Game Builder Garage",
+    "main": 8.8,
+    "extra": 13,
+    "complete": 15,
+    "count": 11,
+    "confidence": 1
+  },
+  "gamedec": {
+    "id": 70865,
+    "name": "Gamedec",
+    "main": 10.7,
+    "extra": 15.2,
+    "complete": 20.3,
+    "count": 74,
+    "confidence": 1
+  },
+  "garage": {
+    "id": 116340,
+    "name": "My Garage",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 0.833
+  },
+  "garage bad dream adventure": {
+    "id": 116340,
+    "name": "My Garage",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 0.833
+  },
+  "garden story": {
+    "id": 77541,
+    "name": "Garden Story",
+    "main": 10.8,
+    "extra": 14.4,
+    "complete": 19.1,
+    "count": 31,
+    "confidence": 1
+  },
+  "gargoyles": {
+    "id": 131632,
+    "name": "Gargoyles Remastered",
+    "main": 2.6,
+    "extra": null,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "gato roboto": {
+    "id": 67569,
+    "name": "Gato Roboto",
+    "main": 3.4,
+    "extra": 3.9,
+    "complete": 4.4,
+    "count": 294,
+    "confidence": 1
+  },
+  "gear club unlimited": {
+    "id": 59331,
+    "name": "Gear.Club Unlimited",
+    "main": 25.2,
+    "extra": null,
+    "complete": 38.3,
+    "count": 13,
+    "confidence": 1
+  },
+  "gear club unlimited 2": {
+    "id": 65272,
+    "name": "Gear.Club Unlimited 2",
+    "main": 19.8,
+    "extra": 27.2,
+    "complete": 37.1,
+    "count": 6,
+    "confidence": 1
+  },
+  "gear club unlimited 3": {
+    "id": 178883,
+    "name": "Gear.Club Unlimited 3",
+    "main": 20,
+    "extra": 23,
+    "complete": 25,
+    "count": 1,
+    "confidence": 1
+  },
+  "gekido kintaro s revenge": {
+    "id": 3870,
+    "name": "Gekido Advance: Kintaro's Revenge",
+    "main": 3.5,
+    "extra": null,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "gerda a flame in winter": {
+    "id": 101451,
+    "name": "Gerda: A Flame in Winter",
+    "main": 6.4,
+    "extra": 7.8,
+    "complete": 10.7,
+    "count": 24,
+    "confidence": 1
+  },
+  "getsufumaden undying moon": {
+    "id": 92382,
+    "name": "GetsuFumaDen: Undying Moon",
+    "main": 7.5,
+    "extra": 15.3,
+    "complete": 35.5,
+    "count": 11,
+    "confidence": 1
+  },
+  "ghost trick phantom detective": {
+    "id": 3916,
+    "name": "Ghost Trick: Phantom Detective",
+    "main": 12.1,
+    "extra": 12.8,
+    "complete": 13.3,
+    "count": 474,
+    "confidence": 1
+  },
+  "ghostbusters the video game": {
+    "id": 67957,
+    "name": "Ghostbusters: The Video Game - Remastered",
+    "main": 7.5,
+    "extra": 8.6,
+    "complete": 12.9,
+    "count": 133,
+    "confidence": 1
+  },
+  "ghostrunner": {
+    "id": 69898,
+    "name": "Ghostrunner",
+    "main": 7.1,
+    "extra": 9.3,
+    "complete": 14.6,
+    "count": 980,
+    "confidence": 1
+  },
+  "ghosts n goblins resurrection": {
+    "id": 87808,
+    "name": "Ghosts 'n Goblins Resurrection",
+    "main": 6.7,
+    "extra": 6.8,
+    "complete": 9.8,
+    "count": 44,
+    "confidence": 1
+  },
+  "giana sisters twisted dreams owltimate": {
+    "id": 62410,
+    "name": "Giana Sisters: Twisted Dreams - Owltimate Edition",
+    "main": 9.7,
+    "extra": 10.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "gibbon beyond the trees": {
+    "id": 104782,
+    "name": "Gibbon: Beyond the Trees",
+    "main": 1.4,
+    "extra": 2.3,
+    "complete": 5.9,
+    "count": 62,
+    "confidence": 1
+  },
+  "gigantosaurus the game": {
+    "id": 90289,
+    "name": "Gigantosaurus: The Game",
+    "main": 5.3,
+    "extra": 7.6,
+    "complete": 12,
+    "count": 6,
+    "confidence": 1
+  },
+  "gimmick 2": {
+    "id": 152647,
+    "name": "Gimmick! 2",
+    "main": 3.6,
+    "extra": 7,
+    "complete": 10.9,
+    "count": 7,
+    "confidence": 1
+  },
+  "giraffe and annika": {
+    "id": 75422,
+    "name": "Giraffe and Annika",
+    "main": 5.5,
+    "extra": 7.4,
+    "complete": 10.1,
+    "count": 11,
+    "confidence": 1
+  },
+  "gleamlight": {
+    "id": 84549,
+    "name": "Gleamlight",
+    "main": 1.2,
+    "extra": 2,
+    "complete": 3.4,
+    "count": 8,
+    "confidence": 1
+  },
+  "gnosia": {
+    "id": 77730,
+    "name": "Gnosia",
+    "main": 17.4,
+    "extra": 20.7,
+    "complete": 21.1,
+    "count": 40,
+    "confidence": 1
+  },
+  "go vacation": {
+    "id": 32504,
+    "name": "Go Vacation",
+    "main": 21.1,
+    "extra": 53.4,
+    "complete": 108.1,
+    "count": 8,
+    "confidence": 1
+  },
+  "goblin slayer another adventurer nightmare feast": {
+    "id": 132133,
+    "name": "Goblin Slayer Another Adventurer: Nightmare Feast",
+    "main": 21.8,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "god eater 3": {
+    "id": 64937,
+    "name": "God Eater 3",
+    "main": 22.7,
+    "extra": 35,
+    "complete": 56.1,
+    "count": 59,
+    "confidence": 1
+  },
+  "gods will fall": {
+    "id": 87797,
+    "name": "Gods Will Fall",
+    "main": 4.9,
+    "extra": 6.8,
+    "complete": 10,
+    "count": 18,
+    "confidence": 1
+  },
+  "godstrike": {
+    "id": 91431,
+    "name": "Godstrike",
+    "main": 3,
+    "extra": 3.3,
+    "complete": null,
+    "count": 16,
+    "confidence": 1
+  },
+  "going under": {
+    "id": 76552,
+    "name": "Going Under",
+    "main": 9.4,
+    "extra": 13.8,
+    "complete": 25.8,
+    "count": 100,
+    "confidence": 1
+  },
+  "golden force": {
+    "id": 90463,
+    "name": "Golden Force",
+    "main": 2.2,
+    "extra": 3.8,
+    "complete": 10,
+    "count": 1,
+    "confidence": 1
+  },
+  "golem gates": {
+    "id": 57143,
+    "name": "Golem Gates",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "golf peaks": {
+    "id": 63170,
+    "name": "Golf Peaks",
+    "main": 2.8,
+    "extra": 3.6,
+    "complete": 4.1,
+    "count": 41,
+    "confidence": 1
+  },
+  "golf story": {
+    "id": 48283,
+    "name": "Golf Story",
+    "main": 15.3,
+    "extra": 18.1,
+    "complete": 20.5,
+    "count": 174,
+    "confidence": 1
+  },
+  "gonner": {
+    "id": 40236,
+    "name": "GoNNER",
+    "main": 7.5,
+    "extra": 8.9,
+    "complete": 9.7,
+    "count": 7,
+    "confidence": 1
+  },
+  "good job": {
+    "id": 76159,
+    "name": "Good Job!",
+    "main": 6.2,
+    "extra": 7.3,
+    "complete": 13.1,
+    "count": 38,
+    "confidence": 1
+  },
+  "gori cuddly carnage": {
+    "id": 110165,
+    "name": "Gori: Cuddly Carnage",
+    "main": 7.3,
+    "extra": 9.6,
+    "complete": 14.8,
+    "count": 35,
+    "confidence": 1
+  },
+  "gorogoa": {
+    "id": 37003,
+    "name": "Gorogoa",
+    "main": 1.8,
+    "extra": 2.1,
+    "complete": 2.6,
+    "count": 886,
+    "confidence": 1
+  },
+  "gothic 2 classic": {
+    "id": 4029,
+    "name": "Gothic II: Gold Edition",
+    "main": 35.3,
+    "extra": 57.9,
+    "complete": 85,
+    "count": 45,
+    "confidence": 1
+  },
+  "graceful explosion machine": {
+    "id": 44890,
+    "name": "Graceful Explosion Machine",
+    "main": 4.7,
+    "extra": 8.8,
+    "complete": 16.2,
+    "count": 15,
+    "confidence": 1
+  },
+  "gradius origins": {
+    "id": 165839,
+    "name": "Gradius Origins",
+    "main": 3.9,
+    "extra": 7.3,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "grand theft auto the trilogy the": {
+    "id": 99299,
+    "name": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+    "main": 44.2,
+    "extra": 66.9,
+    "complete": 106.2,
+    "count": 30,
+    "confidence": 1
+  },
+  "grandia hd collection": {
+    "id": 69739,
+    "name": "Grandia HD Collection",
+    "main": 65.9,
+    "extra": 76.9,
+    "complete": 77,
+    "count": 11,
+    "confidence": 1
+  },
+  "grapple dog": {
+    "id": 103697,
+    "name": "Grapple Dog",
+    "main": 9.2,
+    "extra": 11.6,
+    "complete": 15,
+    "count": 35,
+    "confidence": 1
+  },
+  "grapple dogs cosmic canines": {
+    "id": 151059,
+    "name": "Grapple Dogs: Cosmic Canines",
+    "main": 5.9,
+    "extra": 7.6,
+    "complete": 12.3,
+    "count": 8,
+    "confidence": 1
+  },
+  "graveyard keeper": {
+    "id": 57095,
+    "name": "Graveyard Keeper",
+    "main": 46.1,
+    "extra": 56.6,
+    "complete": 73.1,
+    "count": 155,
+    "confidence": 1
+  },
+  "gravitar recharged": {
+    "id": 127756,
+    "name": "Gravitar: Recharged",
+    "main": 2.5,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "greak memories of azur": {
+    "id": 83340,
+    "name": "Greak: Memories of Azur",
+    "main": 6.7,
+    "extra": 8.1,
+    "complete": 9.9,
+    "count": 58,
+    "confidence": 1
+  },
+  "grid autosport": {
+    "id": 19521,
+    "name": "Grid Autosport",
+    "main": 32.4,
+    "extra": 61.8,
+    "complete": 123.7,
+    "count": 43,
+    "confidence": 1
+  },
+  "grimgrimoire oncemore": {
+    "id": 106635,
+    "name": "GrimGrimoire OnceMore",
+    "main": 10.3,
+    "extra": 15.8,
+    "complete": 21.7,
+    "count": 28,
+    "confidence": 1
+  },
+  "grindstone": {
+    "id": 70715,
+    "name": "Grindstone",
+    "main": 32.2,
+    "extra": 45.2,
+    "complete": 45.6,
+    "count": 13,
+    "confidence": 1
+  },
+  "ground divers": {
+    "id": 110527,
+    "name": "Ground Divers!",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "grow song of the evertree": {
+    "id": 94204,
+    "name": "Grow: Song of the Evertree",
+    "main": 25,
+    "extra": 34.9,
+    "complete": 37.6,
+    "count": 6,
+    "confidence": 1
+  },
+  "guacamelee 2": {
+    "id": 59509,
+    "name": "Guacamelee! 2",
+    "main": 8.8,
+    "extra": 11.4,
+    "complete": 15.7,
+    "count": 257,
+    "confidence": 1
+  },
+  "guacamelee super turbo championship": {
+    "id": 19973,
+    "name": "Guacamelee!: Super Turbo Championship Edition",
+    "main": 7,
+    "extra": 10,
+    "complete": 15.9,
+    "count": 605,
+    "confidence": 1
+  },
+  "gunbrella": {
+    "id": 107698,
+    "name": "Gunbrella",
+    "main": 5.3,
+    "extra": 7.1,
+    "complete": 10.5,
+    "count": 48,
+    "confidence": 1
+  },
+  "gunvolt chronicles luminous avenger 9": {
+    "id": 69919,
+    "name": "Gunvolt Chronicles: Luminous Avenger iX",
+    "main": 3.2,
+    "extra": 4.9,
+    "complete": 10.1,
+    "count": 79,
+    "confidence": 1
+  },
+  "gunvolt chronicles luminous avenger 9 2": {
+    "id": 103035,
+    "name": "Gunvolt Chronicles: Luminous Avenger iX 2",
+    "main": 3.4,
+    "extra": 5.5,
+    "complete": 8.7,
+    "count": 30,
+    "confidence": 1
+  },
+  "habroxia 2": {
+    "id": 88004,
+    "name": "Habroxia 2",
+    "main": 2.5,
+    "extra": 3.6,
+    "complete": 8.1,
+    "count": 6,
+    "confidence": 1
+  },
+  "half past fate": {
+    "id": 75220,
+    "name": "Half Past Fate",
+    "main": 4.9,
+    "extra": 5,
+    "complete": 5.5,
+    "count": 14,
+    "confidence": 1
+  },
+  "half past fate romantic distancing": {
+    "id": 115731,
+    "name": "Half Past Fate: Romantic Distancing",
+    "main": 0.7,
+    "extra": 1.1,
+    "complete": 1.1,
+    "count": 3,
+    "confidence": 1
+  },
+  "hamsterdam": {
+    "id": 69686,
+    "name": "Hamsterdam",
+    "main": 2.2,
+    "extra": 4.2,
+    "complete": 7,
+    "count": 13,
+    "confidence": 1
+  },
+  "hand of fate 2": {
+    "id": 50430,
+    "name": "Hand of Fate 2",
+    "main": 22.2,
+    "extra": 44.5,
+    "complete": 101.1,
+    "count": 27,
+    "confidence": 1
+  },
+  "harmony the fall of reverie": {
+    "id": 124008,
+    "name": "Harmony: The Fall of Reverie",
+    "main": 9.4,
+    "extra": 11.7,
+    "complete": 13.6,
+    "count": 29,
+    "confidence": 1
+  },
+  "harvest moon one world": {
+    "id": 89283,
+    "name": "Harvest Moon: One World",
+    "main": 24.5,
+    "extra": 36.1,
+    "complete": 60,
+    "count": 5,
+    "confidence": 1
+  },
+  "harvestella": {
+    "id": 109847,
+    "name": "Harvestella",
+    "main": 47.8,
+    "extra": 69.3,
+    "complete": 100.1,
+    "count": 31,
+    "confidence": 1
+  },
+  "has been heroes": {
+    "id": 44781,
+    "name": "Has-Been Heroes",
+    "main": 17,
+    "extra": 64.2,
+    "complete": 327,
+    "count": 3,
+    "confidence": 1
+  },
+  "hatsune miku project diva mega mix": {
+    "id": 76129,
+    "name": "Hatsune Miku: Project Diva MegaMix+",
+    "main": 15.4,
+    "extra": 33.8,
+    "complete": 105.1,
+    "count": 19,
+    "confidence": 1
+  },
+  "have a nice death": {
+    "id": 101233,
+    "name": "Have a Nice Death",
+    "main": 9.9,
+    "extra": 27.5,
+    "complete": 65,
+    "count": 65,
+    "confidence": 1
+  },
+  "haven": {
+    "id": 80569,
+    "name": "Haven",
+    "main": 10.8,
+    "extra": 14.2,
+    "complete": 18.2,
+    "count": 101,
+    "confidence": 1
+  },
+  "haven park": {
+    "id": 90011,
+    "name": "Haven Park",
+    "main": 3.1,
+    "extra": 3.9,
+    "complete": 4.9,
+    "count": 36,
+    "confidence": 1
+  },
+  "headland": {
+    "id": 106994,
+    "name": "Headland",
+    "main": 2.2,
+    "extra": null,
+    "complete": 6.5,
+    "count": 3,
+    "confidence": 1
+  },
+  "headliner novinews": {
+    "id": 61986,
+    "name": "Headliner: NoviNews",
+    "main": 2.3,
+    "extra": 4.6,
+    "complete": 11.4,
+    "count": 31,
+    "confidence": 1
+  },
+  "heave ho": {
+    "id": 70193,
+    "name": "Heave Ho",
+    "main": 3.9,
+    "extra": 8,
+    "complete": 14.7,
+    "count": 25,
+    "confidence": 1
+  },
+  "heave ho 2": {
+    "id": 182709,
+    "name": "Heave Ho 2",
+    "main": 1.8,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "heaven s vault": {
+    "id": 64421,
+    "name": "Heaven's Vault",
+    "main": 15.6,
+    "extra": 20.2,
+    "complete": 38.2,
+    "count": 61,
+    "confidence": 1
+  },
+  "hello kitty and friends happiness parade": {
+    "id": 121106,
+    "name": "Hello Kitty and Friends: Happiness Parade",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "hello kitty island adventure": {
+    "id": 132795,
+    "name": "Hello Kitty Island Adventure",
+    "main": 26.2,
+    "extra": 74.1,
+    "complete": 214.1,
+    "count": 10,
+    "confidence": 1
+  },
+  "hellpoint": {
+    "id": 68974,
+    "name": "Hellpoint",
+    "main": 16.7,
+    "extra": 24.6,
+    "complete": 38,
+    "count": 38,
+    "confidence": 1
+  },
+  "hero u rogue to redemption": {
+    "id": 58880,
+    "name": "Hero-U: Rogue to Redemption",
+    "main": 25,
+    "extra": 37.8,
+    "complete": 75,
+    "count": 4,
+    "confidence": 1
+  },
+  "heroki": {
+    "id": 59336,
+    "name": "Heroki",
+    "main": 3.8,
+    "extra": 6.2,
+    "complete": 7.8,
+    "count": 1,
+    "confidence": 1
+  },
+  "heroland": {
+    "id": 68362,
+    "name": "Heroland",
+    "main": null,
+    "extra": 37.4,
+    "complete": 66,
+    "count": 0,
+    "confidence": 1
+  },
+  "hexologic": {
+    "id": 57487,
+    "name": "Hexologic",
+    "main": 2.2,
+    "extra": 3.2,
+    "complete": 5,
+    "count": 50,
+    "confidence": 1
+  },
+  "hextech mayhem a league of legends story": {
+    "id": 100426,
+    "name": "Hextech Mayhem: A League of Legends Story",
+    "main": 3.2,
+    "extra": 9.7,
+    "complete": 36.3,
+    "count": 46,
+    "confidence": 1
+  },
+  "hitman blood money reprisal": {
+    "id": 4477,
+    "name": "Hitman: Blood Money",
+    "main": 11.8,
+    "extra": 16.2,
+    "complete": 20.7,
+    "count": 331,
+    "confidence": 1
+  },
+  "hoa": {
+    "id": 90531,
+    "name": "Hoa",
+    "main": 2.3,
+    "extra": 2.7,
+    "complete": 2.7,
+    "count": 103,
+    "confidence": 1
+  },
+  "hob the": {
+    "id": 37105,
+    "name": "Hob",
+    "main": 10.3,
+    "extra": 11.4,
+    "complete": 17,
+    "count": 148,
+    "confidence": 1
+  },
+  "hokko life": {
+    "id": 93038,
+    "name": "Hokko Life",
+    "main": 15.1,
+    "extra": 23.8,
+    "complete": 29.6,
+    "count": 3,
+    "confidence": 1
+  },
+  "homura the crimson warriors": {
+    "id": 174636,
+    "name": "Homura: The Crimson Warriors",
+    "main": 7.6,
+    "extra": null,
+    "complete": 22.7,
+    "count": 1,
+    "confidence": 1
+  },
+  "horace": {
+    "id": 69579,
+    "name": "Horace",
+    "main": 14,
+    "extra": 17.9,
+    "complete": 23.8,
+    "count": 44,
+    "confidence": 1
+  },
+  "horizon chase 2": {
+    "id": 128233,
+    "name": "Horizon Chase 2",
+    "main": 5.2,
+    "extra": 10.7,
+    "complete": 18.9,
+    "count": 14,
+    "confidence": 1
+  },
+  "hot lap racing": {
+    "id": 137628,
+    "name": "Hot Lap Racing",
+    "main": null,
+    "extra": 20.1,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "hot wheels infinite rush": {
+    "id": 187004,
+    "name": "Hot Wheels Infinite Rush",
+    "main": 3,
+    "extra": null,
+    "complete": 4.5,
+    "count": 3,
+    "confidence": 1
+  },
+  "hot wheels unleashed": {
+    "id": 89344,
+    "name": "Hot Wheels Unleashed",
+    "main": 10.3,
+    "extra": 17.2,
+    "complete": 35.7,
+    "count": 107,
+    "confidence": 1
+  },
+  "hotel sowls": {
+    "id": 73963,
+    "name": "Hotel Sowls",
+    "main": 1.9,
+    "extra": 3.1,
+    "complete": 4.6,
+    "count": 6,
+    "confidence": 1
+  },
+  "hotline miami collection": {
+    "id": 74081,
+    "name": "Hotline Miami Collection",
+    "main": 14.2,
+    "extra": 17.2,
+    "complete": 38.6,
+    "count": 25,
+    "confidence": 1
+  },
+  "hotshot racing": {
+    "id": 75537,
+    "name": "Hotshot Racing",
+    "main": 1.5,
+    "extra": 4.6,
+    "complete": 28.3,
+    "count": 83,
+    "confidence": 1
+  },
+  "hover": {
+    "id": 21692,
+    "name": "Hover: Revolt of Gamers",
+    "main": 11.9,
+    "extra": 12.3,
+    "complete": 21.4,
+    "count": 4,
+    "confidence": 1
+  },
+  "howl": {
+    "id": 140766,
+    "name": "Howl",
+    "main": 5.8,
+    "extra": 8.9,
+    "complete": 12.1,
+    "count": 1,
+    "confidence": 1
+  },
+  "hue": {
+    "id": 38008,
+    "name": "HUE",
+    "main": 4.7,
+    "extra": 5.6,
+    "complete": 6.8,
+    "count": 431,
+    "confidence": 1
+  },
+  "human resource machine": {
+    "id": 31008,
+    "name": "Human Resource Machine",
+    "main": 4.4,
+    "extra": 8.2,
+    "complete": 10.1,
+    "count": 67,
+    "confidence": 1
+  },
+  "huntdown": {
+    "id": 67080,
+    "name": "Huntdown",
+    "main": 6.2,
+    "extra": 8,
+    "complete": 29.3,
+    "count": 135,
+    "confidence": 1
+  },
+  "hyper light drifter special": {
+    "id": 13557,
+    "name": "Hyper Light Drifter",
+    "main": 7.8,
+    "extra": 11.7,
+    "complete": 27.1,
+    "count": 581,
+    "confidence": 1
+  },
+  "hyper sentinel": {
+    "id": 66503,
+    "name": "Hyper Sentinel",
+    "main": 1.4,
+    "extra": 3.3,
+    "complete": 15.3,
+    "count": 5,
+    "confidence": 1
+  },
+  "hypercharge unboxed": {
+    "id": 62577,
+    "name": "Hypercharge: Unboxed",
+    "main": 6.9,
+    "extra": 17,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "hyperparasite": {
+    "id": 66472,
+    "name": "HyperParasite",
+    "main": 22.7,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "hypnospace outlaw": {
+    "id": 65593,
+    "name": "Hypnospace Outlaw",
+    "main": 5.9,
+    "extra": 9.7,
+    "complete": 15.7,
+    "count": 171,
+    "confidence": 1
+  },
+  "hyrule warriors age of calamity": {
+    "id": 82895,
+    "name": "Hyrule Warriors: Age of Calamity",
+    "main": 24.9,
+    "extra": 39,
+    "complete": 76.5,
+    "count": 374,
+    "confidence": 1
+  },
+  "hyrule warriors age of imprisonment": {
+    "id": 166254,
+    "name": "Hyrule Warriors: Age of Imprisonment",
+    "main": 21.8,
+    "extra": 30.1,
+    "complete": 52.7,
+    "count": 80,
+    "confidence": 1
+  },
+  "hyrule warriors": {
+    "id": 52431,
+    "name": "Hyrule Warriors: Definitive Edition",
+    "main": 16.5,
+    "extra": 36.5,
+    "complete": 361.3,
+    "count": 155,
+    "confidence": 1
+  },
+  "i am dead": {
+    "id": 80166,
+    "name": "I Am Dead",
+    "main": 4.1,
+    "extra": 6.1,
+    "complete": 6.4,
+    "count": 30,
+    "confidence": 1
+  },
+  "i am setsuna": {
+    "id": 38137,
+    "name": "I Am Setsuna",
+    "main": 20.3,
+    "extra": 26,
+    "complete": 44.8,
+    "count": 168,
+    "confidence": 1
+  },
+  "i am the hero": {
+    "id": 43962,
+    "name": "I Am The Hero",
+    "main": 1.9,
+    "extra": 2,
+    "complete": 2.6,
+    "count": 8,
+    "confidence": 1
+  },
+  "i and me": {
+    "id": 40313,
+    "name": "I and Me",
+    "main": 4.5,
+    "extra": 5.2,
+    "complete": 5.3,
+    "count": 2,
+    "confidence": 1
+  },
+  "ib": {
+    "id": 4587,
+    "name": "Ib",
+    "main": 2.8,
+    "extra": 4.1,
+    "complete": 7.6,
+    "count": 116,
+    "confidence": 1
+  },
+  "ibb and obb": {
+    "id": 14534,
+    "name": "Ibb and Obb",
+    "main": 6.3,
+    "extra": 8.8,
+    "complete": 17.5,
+    "count": 71,
+    "confidence": 1
+  },
+  "ice age scrat s nutty adventure": {
+    "id": 70032,
+    "name": "Ice Age: Scrat's Nutty Adventure",
+    "main": 3.6,
+    "extra": 5.2,
+    "complete": 10.2,
+    "count": 19,
+    "confidence": 1
+  },
+  "icey": {
+    "id": 41982,
+    "name": "ICEY",
+    "main": 2.6,
+    "extra": 3.2,
+    "complete": 5.4,
+    "count": 90,
+    "confidence": 1
+  },
+  "iconoclasts": {
+    "id": 9939,
+    "name": "Iconoclasts",
+    "main": 11,
+    "extra": 13.3,
+    "complete": 16.3,
+    "count": 292,
+    "confidence": 1
+  },
+  "if found": {
+    "id": 78535,
+    "name": "If Found...",
+    "main": 2.1,
+    "extra": 2.5,
+    "complete": 3.2,
+    "count": 131,
+    "confidence": 1
+  },
+  "ikaruga": {
+    "id": 4616,
+    "name": "Ikaruga",
+    "main": 1.6,
+    "extra": 17.8,
+    "complete": 192.1,
+    "count": 106,
+    "confidence": 1
+  },
+  "ikenfell": {
+    "id": 80165,
+    "name": "Ikenfell",
+    "main": 17.3,
+    "extra": 20.4,
+    "complete": 23.7,
+    "count": 60,
+    "confidence": 1
+  },
+  "immortal redneck": {
+    "id": 45547,
+    "name": "Immortal Redneck",
+    "main": 17,
+    "extra": 22.6,
+    "complete": 62.8,
+    "count": 26,
+    "confidence": 1
+  },
+  "imp of the sun": {
+    "id": 106015,
+    "name": "Imp of the Sun",
+    "main": 5.5,
+    "extra": 7.2,
+    "complete": 8.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "in other waters": {
+    "id": 74940,
+    "name": "In Other Waters",
+    "main": 4.8,
+    "extra": 6.5,
+    "complete": 8.3,
+    "count": 62,
+    "confidence": 1
+  },
+  "inazuma eleven victory road": {
+    "id": 127585,
+    "name": "Inazuma Eleven: Victory Road",
+    "main": 31.2,
+    "extra": 47.3,
+    "complete": 187.8,
+    "count": 53,
+    "confidence": 1
+  },
+  "inbento": {
+    "id": 71961,
+    "name": "inbento",
+    "main": 3.2,
+    "extra": 3.8,
+    "complete": 4.1,
+    "count": 33,
+    "confidence": 1
+  },
+  "indivisible": {
+    "id": 27434,
+    "name": "Indivisible",
+    "main": 18.7,
+    "extra": 22.8,
+    "complete": 27.6,
+    "count": 92,
+    "confidence": 1
+  },
+  "inertial drift": {
+    "id": 82806,
+    "name": "Inertial Drift",
+    "main": 2.1,
+    "extra": 8.3,
+    "complete": 20.5,
+    "count": 58,
+    "confidence": 1
+  },
+  "infernax": {
+    "id": 103475,
+    "name": "Infernax",
+    "main": 6.8,
+    "extra": 8.9,
+    "complete": 16.8,
+    "count": 79,
+    "confidence": 1
+  },
+  "infernium": {
+    "id": 57492,
+    "name": "Infernium",
+    "main": 12,
+    "extra": 21,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "infini": {
+    "id": 78905,
+    "name": "Infini",
+    "main": 9.8,
+    "extra": 10.3,
+    "complete": 25.8,
+    "count": 3,
+    "confidence": 1
+  },
+  "infinite minigolf": {
+    "id": 49886,
+    "name": "Infinite Minigolf",
+    "main": 2.1,
+    "extra": 9.4,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "inmost": {
+    "id": 71190,
+    "name": "INMOST",
+    "main": 3.8,
+    "extra": 4.1,
+    "complete": 7.7,
+    "count": 184,
+    "confidence": 1
+  },
+  "innerspace": {
+    "id": 52091,
+    "name": "InnerSpace",
+    "main": 5.6,
+    "extra": 7.4,
+    "complete": 7.5,
+    "count": 5,
+    "confidence": 1
+  },
+  "into the breach": {
+    "id": 46439,
+    "name": "Into the Breach",
+    "main": 5.8,
+    "extra": 20,
+    "complete": 52.8,
+    "count": 439,
+    "confidence": 1
+  },
+  "ion fury": {
+    "id": 49534,
+    "name": "Ion Fury",
+    "main": 10.1,
+    "extra": 13.3,
+    "complete": 25,
+    "count": 137,
+    "confidence": 1
+  },
+  "irem collection volume 1": {
+    "id": 131649,
+    "name": "irem Collection - Volume 1",
+    "main": 2,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "ironcast": {
+    "id": 25100,
+    "name": "Ironcast",
+    "main": 8.6,
+    "extra": 18.1,
+    "complete": 38.8,
+    "count": 13,
+    "confidence": 1
+  },
+  "irony curtain from matryoshka with love": {
+    "id": 67275,
+    "name": "Irony Curtain: From Matryoshka with Love",
+    "main": 10,
+    "extra": 10.2,
+    "complete": 11.1,
+    "count": 6,
+    "confidence": 1
+  },
+  "islets": {
+    "id": 109289,
+    "name": "Islets",
+    "main": 7.3,
+    "extra": 8.1,
+    "complete": 9.4,
+    "count": 82,
+    "confidence": 1
+  },
+  "it takes two friend s pass": {
+    "id": 80199,
+    "name": "It Takes Two",
+    "main": 12.8,
+    "extra": 14.2,
+    "complete": 16.5,
+    "count": 1792,
+    "confidence": 1
+  },
+  "itta": {
+    "id": 77388,
+    "name": "ITTA",
+    "main": 3.5,
+    "extra": 3.8,
+    "complete": 5.2,
+    "count": 11,
+    "confidence": 1
+  },
+  "ittle dew 2": {
+    "id": 41392,
+    "name": "Ittle Dew 2",
+    "main": 5.1,
+    "extra": 9.7,
+    "complete": 12.5,
+    "count": 9,
+    "confidence": 1
+  },
+  "jack jeanne": {
+    "id": 88918,
+    "name": "Jack Jeanne",
+    "main": 25.8,
+    "extra": 77.6,
+    "complete": 202.9,
+    "count": 7,
+    "confidence": 1
+  },
+  "jay and silent bob mall brawl": {
+    "id": 77919,
+    "name": "Jay and Silent Bob: Mall Brawl",
+    "main": 3.1,
+    "extra": 5,
+    "complete": 5,
+    "count": 9,
+    "confidence": 1
+  },
+  "jet kave adventure": {
+    "id": 76968,
+    "name": "Jet Kave Adventure",
+    "main": 5,
+    "extra": 6.4,
+    "complete": 7.6,
+    "count": 22,
+    "confidence": 1
+  },
+  "jet lancer": {
+    "id": 76727,
+    "name": "Jet Lancer",
+    "main": 5.7,
+    "extra": 14,
+    "complete": 30.6,
+    "count": 25,
+    "confidence": 1
+  },
+  "joe dever s lone wolf": {
+    "id": 22975,
+    "name": "Joe Dever's Lone Wolf",
+    "main": 14.7,
+    "extra": 18,
+    "complete": 26.9,
+    "count": 10,
+    "confidence": 1
+  },
+  "joggernauts": {
+    "id": 63114,
+    "name": "Joggernauts",
+    "main": 3.2,
+    "extra": 5.1,
+    "complete": 31.4,
+    "count": 2,
+    "confidence": 1
+  },
+  "jotun valhalla": {
+    "id": 30623,
+    "name": "Jotun",
+    "main": 5.2,
+    "extra": 5.7,
+    "complete": 7.4,
+    "count": 242,
+    "confidence": 1
+  },
+  "jotunnslayer hordes of hel": {
+    "id": 153112,
+    "name": "Jotunnslayer: Hordes of Hel",
+    "main": 5.9,
+    "extra": 10.4,
+    "complete": 30.7,
+    "count": 27,
+    "confidence": 1
+  },
+  "journey of the broken circle": {
+    "id": 83195,
+    "name": "Journey of the Broken Circle",
+    "main": 3,
+    "extra": 3.5,
+    "complete": 4.3,
+    "count": 30,
+    "confidence": 1
+  },
+  "jumping joe and friends": {
+    "id": 69079,
+    "name": "Jumping Joe! & Friends",
+    "main": 0.2,
+    "extra": 3.2,
+    "complete": 4.4,
+    "count": 2,
+    "confidence": 1
+  },
+  "just shapes and beats": {
+    "id": 57138,
+    "name": "Just Shapes & Beats",
+    "main": 3.3,
+    "extra": 7.3,
+    "complete": 33.4,
+    "count": 130,
+    "confidence": 1
+  },
+  "kamaeru a frog refuge": {
+    "id": 129902,
+    "name": "Kamaeru: A Frog Refuge",
+    "main": 4.9,
+    "extra": 8.8,
+    "complete": 13.2,
+    "count": 9,
+    "confidence": 1
+  },
+  "kamikaze lassplanes": {
+    "id": 147993,
+    "name": "Kamikaze Lassplanes",
+    "main": 5.6,
+    "extra": null,
+    "complete": 20,
+    "count": 5,
+    "confidence": 1
+  },
+  "kamiko": {
+    "id": 45247,
+    "name": "Kamiko",
+    "main": 1.3,
+    "extra": 2,
+    "complete": 3.3,
+    "count": 189,
+    "confidence": 1
+  },
+  "kao the kangaroo": {
+    "id": 103354,
+    "name": "Kao the Kangaroo",
+    "main": 5.7,
+    "extra": 7.7,
+    "complete": 11.6,
+    "count": 62,
+    "confidence": 1
+  },
+  "katamari damacy reroll": {
+    "id": 62564,
+    "name": "Katamari Damacy Reroll",
+    "main": 4.6,
+    "extra": 5.5,
+    "complete": 24.4,
+    "count": 501,
+    "confidence": 1
+  },
+  "katana zero": {
+    "id": 33020,
+    "name": "Katana ZERO",
+    "main": 4.8,
+    "extra": 6.3,
+    "complete": 14.7,
+    "count": 1554,
+    "confidence": 1
+  },
+  "kaze and the wild masks": {
+    "id": 81515,
+    "name": "Kaze and the Wild Masks",
+    "main": 5.2,
+    "extra": 7.5,
+    "complete": 10.3,
+    "count": 101,
+    "confidence": 1
+  },
+  "keep talking and nobody explodes": {
+    "id": 30933,
+    "name": "Keep Talking and Nobody Explodes",
+    "main": 5.2,
+    "extra": 6.8,
+    "complete": 13.8,
+    "count": 26,
+    "confidence": 1
+  },
+  "poppy playtime chapter 2": null,
+  "2064 read only memories integral": null,
+  "4pgp": null,
+  "aaero": null,
+  "aragami shadow": null,
+  "assault android cactus": null,
+  "cadence of hyrule crypt of the necrodancer featuring the legend of zelda": null,
+  "conga master party": null,
+  "cupid parasite sweet and spicy darling": null,
+  "dear me i was": null,
+  "digimon story cyber sleuth": null,
+  "dnf duel who s next": null,
+  "dragon s dogma 2 dark arisen": null,
+  "egglia rebirth": null,
+  "el hijo a wild west tale": null,
+  "endling extinction is forever": null,
+  "everybody 1 2 switch": null,
+  "figment": null,
+  "final fantasy tactics the ivalice chronicles": null,
+  "galaxy warfighter": null,
+  "gerrrms": null,
+  "golazo": null,
+  "heroes of hammerwatch": null,
+  "jurassic world aftermath collection": null,
+  "another world": {
+    "id": 503,
+    "name": "Another World",
+    "main": 2.3,
+    "extra": 2.5,
+    "complete": 2.6,
+    "count": 234,
+    "confidence": 1
+  },
+  "bafl brakes are for losers": {
+    "id": 47088,
+    "name": "BAFL - Brakes Are For Losers",
+    "main": 0.6,
+    "extra": 2.4,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "black bird": {
+    "id": 62812,
+    "name": "Black Bird",
+    "main": 1,
+    "extra": 4.7,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "blaster master zero 3": {
+    "id": 89554,
+    "name": "Blaster Master Zero 3",
+    "main": 9.6,
+    "extra": 10.4,
+    "complete": 11.4,
+    "count": 16,
+    "confidence": 1
+  },
+  "cathedral": {
+    "id": 71227,
+    "name": "Cathedral",
+    "main": 20.4,
+    "extra": 25.8,
+    "complete": 27.9,
+    "count": 6,
+    "confidence": 1
+  },
+  "croc legend of the gobbos": {
+    "id": 2042,
+    "name": "Croc: Legend of the Gobbos",
+    "main": 5.8,
+    "extra": 8.1,
+    "complete": 9.1,
+    "count": 61,
+    "confidence": 1
+  },
+  "darius cozmic collection arcade": {
+    "id": 100705,
+    "name": "Darius Cozmic Collection Arcade",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "elden ring tarnished": {
+    "id": 68151,
+    "name": "Elden Ring",
+    "main": 60.1,
+    "extra": 101.4,
+    "complete": 136.2,
+    "count": 1763,
+    "confidence": 1
+  },
+  "emio the smiling man famicom detective club": {
+    "id": 153735,
+    "name": "Famicom Detective Club: Emio - The Smiling Man",
+    "main": 11.3,
+    "extra": 13.1,
+    "complete": 13.2,
+    "count": 76,
+    "confidence": 1
+  },
+  "glyph": {
+    "id": 92368,
+    "name": "Glyph",
+    "main": 9,
+    "extra": 10.1,
+    "complete": 11.5,
+    "count": 5,
+    "confidence": 1
+  },
+  "hollow": {
+    "id": 50731,
+    "name": "Hollow",
+    "main": 5.7,
+    "extra": null,
+    "complete": null,
+    "count": 7,
+    "confidence": 1
+  },
+  "tales of arise beyond the dawn": null,
+  "pokémon firered": null,
+  "pokémon leafgreen": null,
+  "88 heroes 98 heroes": null,
+  "assault suits valken declassified": null,
+  "bayonetta and bayonetta 2": null,
+  "chicken police paint it red": null,
+  "code realize ~guardian of rebirth~": null,
+  "devil may cry 3 special": null,
+  "divinity original sin 2": null,
+  "dragon ball z kakarot a new power awakens set": null,
+  "edna and harvey the breakout": null,
+  "everspace stellar": null,
+  "ganryu 2 hakuma kojiro": null,
+  "giga wrecker alt": null,
+  "granblue fantasy relink endless ragnarok": null,
+  "haunted dungeons：hyakki castle": null,
+  "hitman world of assassination signature": null
 }

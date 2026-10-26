@@ -7193,5 +7193,44 @@
   "zombierollerzpinballheroes": {
     "name": "滚弹吧僵尸",
     "source": "steam"
+  },
+  "dinocrisis2": {
+    "name": "恐龙危机2",
+    "source": "wikidata"
+  },
+  "themidnightwalk": {
+    "name": "午夜漫步",
+    "source": "wikidata"
+  },
+  "horizonforbiddenwest": {
+    "name": "地平线 西之绝境",
+    "source": "wikidata"
+  },
+  "deadlypremonition": {
+    "name": "致命预感",
+    "source": "wikidata"
+  },
+  "mariokartworld": {
+    "name": "马力欧卡丁车世界",
+    "source": "wikidata"
+  },
+  "monsterenergysupercross25theofficialvideogame": null,
+  "dododuckie": {
+    "name": "渡渡鸭与折叠世界",
+    "source": "steam"
+  },
+  "mycopunk": {
+    "name": "真菌朋克",
+    "source": "steam"
+  },
+  "cityofbrass": null,
+  "poppyplaytimechapter2": null,
+  "journeyofthebrokencircle": null,
+  "maestro": null,
+  "residentevil4goldedition": null,
+  "tombraiderdefinitiveedition": null,
+  "wetherevolution": {
+    "name": "我们•革命",
+    "source": "steam"
   }
 }

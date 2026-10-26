@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-10-19T07:16:04.029Z",
+  "fetchedAt": "2026-10-26T07:22:47.610Z",
   "games": [
     {
       "productId": "10007645",
@@ -73,8 +73,8 @@
       "releaseDate": "2023-01-18T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005843",
-      "ps4": true,
-      "ps5": false,
+      "ps4": false,
+      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -813,8 +813,8 @@
       "categories": [
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-03-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/w3plTnuSWMWg5jJbIUe6UMLW.png",
+      "releaseDate": "2023-03-22T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/qiiQyVfE5FrUO1loLJZkn7t7.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005432",
       "ps4": true,
       "ps5": true,
@@ -1958,10 +1958,10 @@
         "ADVENTURE",
         "ADVENTURE"
       ],
-      "releaseDate": "2020-07-29T04:00:00Z",
+      "releaseDate": "2022-06-24T02:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2216/nbNXIr7w4moRpBuFCEw1tEci.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/234692",
-      "ps4": true,
+      "ps4": false,
       "ps5": true,
       "tier": 2,
       "lists": [
@@ -2098,6 +2098,25 @@
       "releaseDate": "2024-10-15T00:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/J8z8zZWGd6Kr7IY9kLbzZoi1.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005160",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10018570",
+      "title": "DINO CRISIS 2",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2026-10-20T00:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2807/b04d2b0792659c9d667f4b3e60f73fd612b5355b193b1daa.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10018570",
       "ps4": true,
       "ps5": true,
       "tier": 3,
@@ -2470,8 +2489,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2015-01-28T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/HP0106/CUSA01577_00/yT3jXoR0nGrmYz5Ujq8kbwom3tmLBwymAWGpl8PsrSZDOdxZJMMIDbaSo3Ggto57.png",
+      "releaseDate": "2015-02-24T17:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/UP4108/CUSA01632_00/aYzsdKhQDOGr1T6wwKpbtvB9kAEC9SR0CV5OkJqk7f44jRHhNeGNXGImHagGwz8F.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/221097",
       "ps4": true,
       "ps5": false,
@@ -2491,8 +2510,8 @@
         "ACTION",
         "ACTION"
       ],
-      "releaseDate": "2018-02-12T17:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307TJChobjXkfTgQrS7umR6DE3dN_P44j3H4lLdL7RbU_03jk0DRgzLKx4hFkWN2mavqjUQeCqVrLt87wwgV3cCQIdnSuh.png",
+      "releaseDate": "2018-02-07T17:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307px5pXb_vK4xWtKg8tApWrvsZttZLdeqEcqJN1dVGYqYilY5GtvT4qAgVgEm6fOWs8RFfk8bOrB1eKwookZPKKYMu_7H.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/229001",
       "ps4": true,
       "ps5": false,
@@ -3105,8 +3124,8 @@
         "ACTION",
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-09-28T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/f308c616a571f6b9d78f0fe91fc81255de25db2b23007b6d.png",
+      "releaseDate": "2023-09-27T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/68f65341451958a4e5a709eda046f82ca96d0d5611dd4334.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004920",
       "ps4": true,
       "ps5": true,
@@ -3144,7 +3163,7 @@
         "ROLE_PLAYING_GAMES"
       ],
       "releaseDate": "2020-04-09T17:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307dEuqrDATOr86ceCwmb7NMtMOIauT9NukLGh5w5eM08MNxjdR1jJVINZkvGwDnbkkOreMCAwiXNCB5XT-YJkLrkj5xSc.png",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307hqOe4ElZxoqZZvy_bB58NWBq4ea3GjhlQPmk7b7xIjsEz6mNMRUz9kSCbmZ0vJK2fHSKdiy7Xo-7yLzskROlIs6i53R.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/228744",
       "ps4": true,
       "ps5": true,
@@ -3683,25 +3702,6 @@
       "titleZh": "牧場物語 ～ハーベストムーン"
     },
     {
-      "productId": "230279",
-      "title": "Harvest Moon®: Light of Hope Special Edition",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ROLE_PLAYING_GAMES"
-      ],
-      "releaseDate": "2018-08-30T01:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP1014/CUSA09973_00/ygMUNlPyA67I4OKz7wySdLr1Qz75yzFbDbj8OBGpomRwpm7jia3zDjXM6WXUvfLf.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/230279",
-      "ps4": true,
-      "ps5": false,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": "Harvest Moon®: 希望之光特别版"
-    },
-    {
       "productId": "201902",
       "title": "Heavy Rain™",
       "developer": null,
@@ -3840,6 +3840,25 @@
         "catalog"
       ],
       "titleZh": "Hollow Knight Voidheart Edition"
+    },
+    {
+      "productId": "10000886",
+      "title": "Horizon Forbidden West™",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2022-02-17T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/HO8vkO9pfXhwbHi5WHECQJdN.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10000886",
+      "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
     },
     {
       "productId": "221727",
@@ -4253,26 +4272,6 @@
         "classics"
       ],
       "titleZh": null
-    },
-    {
-      "productId": "10002577",
-      "title": "Jurassic World Evolution 2",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "STRATEGY",
-        "SIMULATION"
-      ],
-      "releaseDate": "2021-11-09T14:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2708/WZhQmSMCGEJgLHhnikOcuMnu.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10002577",
-      "ps4": true,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": "《侏罗纪世界：进化 2》"
     },
     {
       "productId": "10005028",
@@ -4842,6 +4841,26 @@
       "titleZh": null
     },
     {
+      "productId": "10007134",
+      "title": "Mafia: The Old Country",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "releaseDate": "2025-08-07T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10007134",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": "四海兄弟：故乡"
+    },
+    {
       "productId": "202615",
       "title": "Magicka 2: Base Edition",
       "developer": null,
@@ -5271,6 +5290,26 @@
       "titleZh": "MONOPOLY®狂乐派对"
     },
     {
+      "productId": "10009931",
+      "title": "Monster Energy Supercross 25 - The Official Video Game",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SPORTS",
+        "RACING"
+      ],
+      "releaseDate": "2025-04-09T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1409/fa3f9b7d40c4b31a7247bf908a73e99391fe6c465926edd7.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10009931",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "10007582",
       "title": "Monster Hunter Stories",
       "developer": null,
@@ -5355,11 +5394,11 @@
       "categories": [
         "SPORTS"
       ],
-      "releaseDate": "2021-03-11T09:00:00Z",
+      "releaseDate": "2020-10-15T08:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1312/ArKJUruutDZyHHPSeqvDRubF.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10000346",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -5443,6 +5482,26 @@
         "classics"
       ],
       "titleZh": "爆钻小英雄"
+    },
+    {
+      "productId": "10018765",
+      "title": "Mycopunk",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION",
+        "SHOOTER"
+      ],
+      "releaseDate": "2026-10-20T17:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1321/6dafd54c5f7bff9737d2b0c462a8e0852f645571418a3163.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10018765",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
     },
     {
       "productId": "10008667",
@@ -6166,6 +6225,25 @@
       "titleZh": null
     },
     {
+      "productId": "10010437",
+      "title": "Poppy Playtime: Chapter 2",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "HORROR"
+      ],
+      "releaseDate": "2024-09-20T14:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10010437",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "10005985",
       "title": "Prince of Persia The Lost Crown",
       "developer": null,
@@ -6832,25 +6910,6 @@
       "titleZh": "烈文"
     },
     {
-      "productId": "10000504",
-      "title": "Rogue Lords",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ADVENTURE"
-      ],
-      "releaseDate": "2022-05-12T08:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0513/ypvQEl55fsAilYe6RgE2FpUR.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10000504",
-      "ps4": true,
-      "ps5": false,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": null
-    },
-    {
       "productId": "10001348",
       "title": "Roguebook",
       "developer": null,
@@ -6866,6 +6925,27 @@
       "tier": 2,
       "lists": [
         "catalog"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10012956",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "STRATEGY",
+        "SIMULATION",
+        "CASUAL"
+      ],
+      "releaseDate": "2025-03-19T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1021/0522bca1e44b8f950f1372e99b0b85210f5996fc1adaa53d.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10012956",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
       ],
       "titleZh": null
     },
@@ -6925,25 +7005,6 @@
         "catalog"
       ],
       "titleZh": "RuneScape: Dragonwilds 符文世界：龙之荒野"
-    },
-    {
-      "productId": "235029",
-      "title": "Ryu Ga Gotoku 7: Hikari To Yami No Yukue",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ROLE_PLAYING_GAMES"
-      ],
-      "releaseDate": "2020-01-15T17:00:00Z",
-      "image": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA15444_00/157/i_272b00a161cce91d0adc49893d447cc2189f0e19ad73d29b5bc15b50e75603f3/i/icon0_10.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/235029",
-      "ps4": true,
-      "ps5": false,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": "人中之龙7　光与暗的去向"
     },
     {
       "productId": "10008577",
@@ -7177,25 +7238,6 @@
       "storeUrl": "https://store.playstation.com/en-sg/concept/231844",
       "ps4": true,
       "ps5": false,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": null
-    },
-    {
-      "productId": "10005529",
-      "title": "SILENT HILL 2",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "HORROR"
-      ],
-      "releaseDate": "2024-10-07T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2000/IgwsFz9BiBrFvyV7pIWpoVgd.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10005529",
-      "ps4": false,
-      "ps5": true,
       "tier": 2,
       "lists": [
         "catalog"
@@ -8081,6 +8123,25 @@
       "titleZh": null
     },
     {
+      "productId": "234823",
+      "title": "Tales of ARISE - Beyond the Dawn Edition",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ROLE_PLAYING_GAMES"
+      ],
+      "releaseDate": "2023-09-19T22:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1908/d8522effb7b0ca7f025fcaf3caf7a7cb2e87aec1ccd88f6d.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/234823",
+      "ps4": true,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": "破晓传奇 黎明新程普通版"
+    },
+    {
       "productId": "215974",
       "title": "Tearaway™ Unfolded",
       "developer": null,
@@ -8599,6 +8660,26 @@
       "releaseDate": "2023-12-05T05:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10008445",
+      "ps4": false,
+      "ps5": true,
+      "tier": 2,
+      "lists": [
+        "catalog"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "10009390",
+      "title": "The Midnight Walk",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "HORROR",
+        "ADVENTURE"
+      ],
+      "releaseDate": "2025-05-07T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1110/b0815b75af7073ee06d73f71eef4d84f8b1c64b07a34cb53.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10009390",
       "ps4": false,
       "ps5": true,
       "tier": 2,
@@ -10017,7 +10098,7 @@
       "image": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/230658",
       "ps4": true,
-      "ps5": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -10089,7 +10170,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2025-07-24T09:00:00Z",
+      "releaseDate": "2022-05-22T18:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004900",
       "ps4": true,
@@ -10158,25 +10239,6 @@
         "catalog"
       ],
       "titleZh": null
-    },
-    {
-      "productId": "235238",
-      "title": "Yakuza: Like a Dragon",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "UNIQUE"
-      ],
-      "releaseDate": "2021-03-01T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/rnd/202012/2407/qOZjMyrGPXsXdjoOESxaGdIu.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/235238",
-      "ps4": true,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": "人中之龙7　光与暗的去向　国际版"
     },
     {
       "productId": "10001817",

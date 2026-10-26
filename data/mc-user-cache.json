@@ -4826,5 +4826,51 @@
   },
   "blueys-happy-snaps": null,
   "chained-beasts": null,
-  "beyond-these-stars": null
+  "beyond-these-stars": null,
+  "dodo-duckie": {
+    "score": 9.7,
+    "reviewCount": 7,
+    "sentiment": "Universal acclaim"
+  },
+  "mycopunk": null,
+  "monster-energy-supercross-25-the-official-video": {
+    "score": 6.1,
+    "reviewCount": 10,
+    "sentiment": "Mixed or average"
+  },
+  "horizon-forbidden-west": {
+    "score": 8,
+    "reviewCount": 11893,
+    "sentiment": "Generally favorable"
+  },
+  "tales-of-arise-beyond-the-dawn": {
+    "score": 7.7,
+    "reviewCount": 46,
+    "sentiment": "Generally favorable"
+  },
+  "the-midnight-walk": {
+    "score": 8.1,
+    "reviewCount": 159,
+    "sentiment": "Generally favorable"
+  },
+  "mafia-the-old-country": {
+    "score": 7.5,
+    "reviewCount": 1860,
+    "sentiment": "Generally favorable"
+  },
+  "poppy-playtime-chapter-2": {
+    "score": 6.9,
+    "reviewCount": 120,
+    "sentiment": "Mixed or average"
+  },
+  "rollercoaster-tycoon-3-complete-edition": {
+    "score": 7.1,
+    "reviewCount": 22,
+    "sentiment": "Mixed or average"
+  },
+  "dino-crisis-2": {
+    "score": 8.5,
+    "reviewCount": 346,
+    "sentiment": "Generally favorable"
+  }
 }
