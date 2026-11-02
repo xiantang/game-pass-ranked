@@ -1,10 +1,10 @@
 {
   "service": "xgp",
   "market": "SG",
-  "fetchedAt": "2026-10-26T07:22:41.824Z",
-  "scoredAt": "2026-10-26T07:22:46.790Z",
-  "total": 801,
-  "scored": 674,
+  "fetchedAt": "2026-11-02T08:49:44.472Z",
+  "scoredAt": "2026-11-02T08:50:02.465Z",
+  "total": 799,
+  "scored": 672,
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -823,7 +823,7 @@
         "Role playing"
       ],
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
+      "image": "https://store-images.s-microsoft.com/image/apps.24411.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.7f065786-fc9f-4285-a789-0813a431232e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PK8PHLCQDF6",
       "titleZh": "伊莫",
       "shortDescriptionZh": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！\n\n这莫多！形态分支进化，填满你的图鉴！\n\n每只伊莫都会因区域、天气、养成方式和成长线的不同，进化出多样分支形态。从沙滩形态到潮湿形态，从晒日光浴的海湾红，到分支进化为女巫草或“家里蹲”埋埋，生态千差万别。丰富的形态图鉴等待你捕捉收集、培养与研究，构筑独属于你的莫百科！\n\n这莫变！联结变身冒险，探索世界奇妙\n\n在冒险的旅途中，你将与伊莫联结合体，并利用伊莫的各种能力：完成世界上的谜题，赢得每场战斗的胜利，解决遇到的一切问题！不再局限于人类的速度、视野和能力，亲自体验理性与野性共存的蓬勃。与伊莫“联结”合体，用全新",
@@ -6457,47 +6457,6 @@
       }
     },
     {
-      "productId": "9NKK6CX54183",
-      "playAnywhere": true,
-      "title": "Day of the Tentacle Remastered",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "publisher": "Xbox Game Studios",
-      "shortDescription": "A mind-bending, time travel, cartoon puzzle adventure game in which three unlikely friends work together to prevent an evil mutated purple tentacle from taking over the world!",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2020-10-29T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKK6CX54183",
-      "titleZh": null,
-      "shortDescriptionZh": "A mind-bending, time travel, cartoon puzzle adventure game in which three unlikely friends work together to prevent an evil mutated purple tentacle from taking over the world!",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 86,
-        "title": "Day of the Tentacle Remastered",
-        "url": "https://www.metacritic.com/game/day-of-the-tentacle-remastered/",
-        "mustPlay": false,
-        "genres": [
-          "Point-and-Click"
-        ],
-        "confidence": 1,
-        "releaseDate": "2016-03-21",
-        "userScore": 8,
-        "userReviewCount": 201
-      },
-      "titleZhSource": null,
-      "playtime": {
-        "main": 5.2,
-        "extra": 5.8,
-        "complete": 6.4
-      }
-    },
-    {
       "productId": "BSR9NLHVF1KL",
       "playAnywhere": true,
       "title": "DayZ",
@@ -6552,7 +6511,7 @@
         "Other"
       ],
       "releaseDate": "2017-06-23T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
+      "image": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C0N22P73QZ60",
       "titleZh": "黎明杀机",
       "shortDescriptionZh": "永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
@@ -6593,7 +6552,7 @@
         "Other"
       ],
       "releaseDate": "2019-10-31T14:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.35959.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.9f5402c2-ab24-433f-b30b-ef9d6c2d66f7",
+      "image": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NMS4SFNBGBH",
       "titleZh": null,
       "shortDescriptionZh": "永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
@@ -6892,32 +6851,6 @@
       }
     },
     {
-      "productId": "9MXWL7VJ2SJW",
-      "playAnywhere": true,
-      "title": "Dead Static Drive",
-      "developer": "Reuben Games",
-      "publisher": "Reuben Games",
-      "shortDescription": "Grand Theft Cthulhu.",
-      "categories": [
-        "Action & adventure",
-        "Role playing"
-      ],
-      "releaseDate": "2025-11-05T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.5403.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.dda501bf-b544-4d26-a7dd-abbe3ad6d733",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MXWL7VJ2SJW",
-      "titleZh": null,
-      "shortDescriptionZh": "Grand Theft Cthulhu.",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": null,
-      "titleZhSource": null,
-      "playtime": null
-    },
-    {
       "productId": "9PD9SZGNCMDZ",
       "playAnywhere": true,
       "title": "Death Howl",
@@ -7070,47 +7003,6 @@
       "metacritic": null,
       "titleZhSource": "steam",
       "playtime": null
-    },
-    {
-      "productId": "9NHFVWX1V7QJ",
-      "playAnywhere": true,
-      "title": "Deep Rock Galactic",
-      "developer": "Ghost Ship Games",
-      "publisher": "Coffee Stain Publishing",
-      "shortDescription": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
-      "categories": [
-        "Shooter"
-      ],
-      "releaseDate": "2020-05-13T08:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.64496.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.a4caf3fb-c53b-4424-91a6-f6db3488a3c1",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NHFVWX1V7QJ",
-      "titleZh": "深岩银河",
-      "shortDescriptionZh": "Deep Rock Galactic 是一款多人合作科幻型第一人称射击游戏，设有了不起的矮人、100% 可破坏的环境、由程序生成的洞穴以及无数外星怪物群体。 \r\n\r\n",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 85,
-        "title": "Deep Rock Galactic",
-        "url": "https://www.metacritic.com/game/deep-rock-galactic/",
-        "mustPlay": false,
-        "genres": [
-          "FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-05-13",
-        "userScore": 8.3,
-        "userReviewCount": 812
-      },
-      "titleZhSource": "wikidata",
-      "playtime": {
-        "main": 43.1,
-        "extra": 136.9,
-        "complete": 480
-      }
     },
     {
       "productId": "9N18L56XHK8Z",
@@ -8604,7 +8496,7 @@
       "playAnywhere": true,
       "title": "Drop Duchy - Complete Edition",
       "developer": "Sleepy Mill Studio",
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "shortDescription": "Build your duchy piece by piece in this refreshing hybrid rogue-lite game. Use block-dropping mechanics to collect resources, recruit troops to fight against belligerent armies, and let every block shape your realm, leading your path to victory!",
       "categories": [
         "Strategy",
@@ -10933,6 +10825,48 @@
       }
     },
     {
+      "productId": "9NRQVQ7ZRM7Z",
+      "playAnywhere": true,
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "developer": "SQUARE ENIX CO., LTD.",
+      "publisher": "SQUARE ENIX",
+      "shortDescription": "In the bustling city of Midgar, lead Cloud and his allies in their fight against the Shinra Electric Power Company in a legendary tale filled with unforgettable characters and intense battles that fuse fast-paced action with strategic commands.",
+      "categories": [
+        "Role playing",
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-01-22T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.50920.14378305291947412.8d8cbc22-0457-455b-807c-34822c76e54f.91e88811-dea2-4b9e-b0f8-ccebbb29f2aa",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NRQVQ7ZRM7Z",
+      "titleZh": null,
+      "shortDescriptionZh": "身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。\n运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统——\n不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 89,
+        "title": "Final Fantasy VII Remake Intergrade",
+        "url": "https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/",
+        "mustPlay": false,
+        "genres": [
+          "Action RPG"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-01-22",
+        "userScore": 8.4,
+        "userReviewCount": 266
+      },
+      "titleZhSource": null,
+      "playtime": {
+        "main": 32.3,
+        "extra": 41.1,
+        "complete": 85.7
+      }
+    },
+    {
       "productId": "9NBZ7Z3JRXQ8",
       "playAnywhere": true,
       "title": "Firefighting Simulator - The Squad",
@@ -11334,10 +11268,12 @@
         "Other",
         "Shooter",
         "Simulation",
-        "Strategy"
+        "Strategy",
+        "Music",
+        "Tools"
       ],
       "releaseDate": "2019-04-25T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.17283.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.bd4108fb-c5af-4a9a-90c5-9a25a46d76a1",
+      "image": "https://store-images.s-microsoft.com/image/apps.52548.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.a0e057ff-c216-4206-a6b9-65bfc7d54fb0",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/BT5P2X999VH2",
       "titleZh": "堡垒之夜",
       "shortDescriptionZh": "Everything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.",
@@ -11548,47 +11484,6 @@
       "metacritic": null,
       "titleZhSource": "steam",
       "playtime": null
-    },
-    {
-      "productId": "9P3ZRGNQVC7D",
-      "playAnywhere": true,
-      "title": "Full Throttle Remastered",
-      "developer": "Double Fine Productions & Shiny Shoe",
-      "publisher": "Xbox Game Studios",
-      "shortDescription": "A classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle, the butt-kicking leader of biker gang the Polecats who gets caught up in a tale of Motorcycles, Mayhem, and Murder.",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2020-10-29T17:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P3ZRGNQVC7D",
-      "titleZh": null,
-      "shortDescriptionZh": "A classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle, the butt-kicking leader of biker gang the Polecats who gets caught up in a tale of Motorcycles, Mayhem, and Murder.",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 77,
-        "title": "Full Throttle Remastered",
-        "url": "https://www.metacritic.com/game/full-throttle-remastered/",
-        "mustPlay": false,
-        "genres": [
-          "Point-and-Click"
-        ],
-        "confidence": 1,
-        "releaseDate": "2017-04-18",
-        "userScore": 7.4,
-        "userReviewCount": 123
-      },
-      "titleZhSource": null,
-      "playtime": {
-        "main": 4,
-        "extra": 4.5,
-        "complete": 4.6
-      }
     },
     {
       "productId": "BPQZT43FWD49",
@@ -15137,47 +15032,6 @@
       }
     },
     {
-      "productId": "C3553MB4P5TT",
-      "playAnywhere": false,
-      "title": "Lara Croft and the Temple of Osiris",
-      "developer": "Crystal Dynamics",
-      "publisher": "Crystal Dynamics",
-      "shortDescription": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2014-12-09T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.28930.66406861093311956.5a3a6cc5-ae0d-478d-aa71-eeec71b3768a.9075a65b-ad79-49b1-8aaf-6fb3bb771bb3",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/C3553MB4P5TT",
-      "titleZh": "劳拉和俄西里斯神庙",
-      "shortDescriptionZh": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 74,
-        "title": "Lara Croft and the Temple of Osiris",
-        "url": "https://www.metacritic.com/game/lara-croft-and-the-temple-of-osiris/",
-        "mustPlay": false,
-        "genres": [
-          "Linear Action Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2014-12-09",
-        "userScore": 6.6,
-        "userReviewCount": 198
-      },
-      "titleZhSource": "wikidata",
-      "playtime": {
-        "main": 5.3,
-        "extra": 7,
-        "complete": 13.5
-      }
-    },
-    {
       "productId": "9PB301R051CQ",
       "playAnywhere": false,
       "title": "League of Legends",
@@ -15299,47 +15153,6 @@
         "main": 39.2,
         "extra": 90.4,
         "complete": 685
-      }
-    },
-    {
-      "productId": "BRMKDCZT0C4L",
-      "playAnywhere": true,
-      "title": "LEGO® Star Wars™: The Skywalker Saga",
-      "developer": "TT Games",
-      "publisher": "Warner Bros. Games",
-      "shortDescription": "Play through all nine Skywalker saga films in a game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! \r\n\r\n*Purchasers of the digital edition receive an exclusive classic Obi-Wan Kenobi playable character.",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.55407.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.05a242bb-5157-4c74-ab9f-718ee024e76f",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BRMKDCZT0C4L",
-      "titleZh": "乐高 星球大战：天行者传奇",
-      "shortDescriptionZh": "在这款与众不同的全新大作中，一口气体验所有九部传奇系列电影。拥有超过300个可玩角色、100多种载具和23个星球等你探索。一个遥远的星系，从未如此有趣！\r\n\r\n*数码版的购买者将获得一个专属的经典欧比旺·克诺比可使用角色。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 82,
-        "title": "LEGO Star Wars: The Skywalker Saga",
-        "url": "https://www.metacritic.com/game/lego-star-wars-the-skywalker-saga/",
-        "mustPlay": false,
-        "genres": [
-          "Action Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2022-04-05",
-        "userScore": 7.6,
-        "userReviewCount": 964
-      },
-      "titleZhSource": "store",
-      "playtime": {
-        "main": 18.5,
-        "extra": 34.7,
-        "complete": 89.6
       }
     },
     {
@@ -17468,6 +17281,47 @@
       }
     },
     {
+      "productId": "9MVNCSJ14754",
+      "playAnywhere": true,
+      "title": "Mouthwashing",
+      "developer": "Wrong Organ",
+      "publisher": " CRITICAL REFLEX",
+      "shortDescription": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+      "categories": [
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-10-29T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.53631.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.14702d75-4bb9-45eb-ab3e-1aa7bec2490b",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MVNCSJ14754",
+      "titleZh": "缄默祸运",
+      "shortDescriptionZh": "图尔帕号飞船的五名船员被困在空旷的太空中，情况一直在走下坡路。老天对他们弃之不顾。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 88,
+        "title": "Mouthwashing",
+        "url": "https://www.metacritic.com/game/mouthwashing/",
+        "mustPlay": false,
+        "genres": [
+          "First-Person Adventure"
+        ],
+        "confidence": 1,
+        "releaseDate": "2024-09-26",
+        "userScore": 7.9,
+        "userReviewCount": 316
+      },
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 2.5,
+        "extra": 2.9,
+        "complete": 3.6
+      }
+    },
+    {
       "productId": "9P88K6NQW12H",
       "playAnywhere": true,
       "title": "Moving Out 2",
@@ -18474,7 +18328,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2026-08-25T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
+      "image": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N0QWXC09MPT",
       "titleZh": "七日世界",
       "shortDescriptionZh": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse. ",
@@ -19635,6 +19489,47 @@
         "main": 8.4,
         "extra": 31.4,
         "complete": 120.8
+      }
+    },
+    {
+      "productId": "9PGSDFM3JD85",
+      "playAnywhere": false,
+      "title": "Plants vs. Zombies™: Replanted",
+      "developer": "PopCap Games",
+      "publisher": "Electronic Arts",
+      "shortDescription": "The classic Plants vs. Zombies returns in glorious HD! The original battle between Plants and Zombies is back - bigger, brighter, and crazier than ever before! Experience the game that started it all, now remastered with stunning HD graphics and packed with new secrets and content to uncover.",
+      "categories": [
+        "Strategy",
+        "Family & kids"
+      ],
+      "releaseDate": "2025-10-23T16:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.44024.14249493036313298.22c0dae5-4fa6-41f8-a5bd-bfdfcb3e98a0.e9d9cbb7-341e-49bc-9f14-09919dbaae4e",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PGSDFM3JD85",
+      "titleZh": "植物大战僵尸：重植版",
+      "shortDescriptionZh": "经典游戏《植物大战僵尸》回归，高清重制后带来赏心悦目的画面体验！植物与僵尸之间的最初大战回归，比以往任何时候都更加激烈、欢乐、疯狂！体验该系列的开山之作，现已经过高清重制，丰富的全新秘密等你发现。",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 73,
+        "title": "Plants vs. Zombies: Replanted",
+        "url": "https://www.metacritic.com/game/plants-vs-zombies-replanted/",
+        "mustPlay": false,
+        "genres": [
+          "Defense"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-10-23",
+        "userScore": 6,
+        "userReviewCount": 62
+      },
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5,
+        "extra": 9.6,
+        "complete": 50.7
       }
     },
     {
@@ -21804,6 +21699,34 @@
       "xboxSeries": false,
       "metacritic": null,
       "titleZhSource": "store",
+      "playtime": null
+    },
+    {
+      "productId": "9NK039GWVTVC",
+      "playAnywhere": true,
+      "title": "Scramble Knights Online (Game Preview)",
+      "developer": "Funktronic Labs",
+      "publisher": "Funktronic Labs",
+      "shortDescription": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nAdventure with friends in this MMO-lite action RPG! Explore the shared online kingdom of Terracott as a knight-in-training. Team up to conquer dungeons, slay monsters, discover rare loot, and return home to forge powerful new gear before setting out on your next quest.",
+      "categories": [
+        "Action & adventure",
+        "Role playing",
+        "Multi-player Online Battle Arena",
+        "Other"
+      ],
+      "releaseDate": "2025-12-10T10:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.4371.13666925911831228.39a643d8-0904-4270-b0a3-7b063f9c1c1d.2a4489c3-fa20-45ec-a31a-bdd0ae8e1d4f",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK039GWVTVC",
+      "titleZh": null,
+      "shortDescriptionZh": "这款游戏仍在开发阶段。随着时间推移，内容可能会发生变动，且最终可能不会以完整成品的形态发布。请仅在您能接受当前未完成状态的前提下购买。\n\n在这款轻量级 MMO 动作 ARPG 中与好友并肩冒险！化身见习骑士，探索共享在线王国特拉科特（Terracott）。组队征服地牢、击败怪物并搜刮稀有战利品；满载而归后锻造强力新装备，随时准备迎接下一次远征！",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": null,
+      "titleZhSource": null,
       "playtime": null
     },
     {
@@ -24602,6 +24525,43 @@
       }
     },
     {
+      "productId": "9PKFL1XJT73S",
+      "playAnywhere": true,
+      "title": "Terrible Lizards",
+      "developer": "WDR Studios",
+      "publisher": "Digital Pajamas",
+      "shortDescription": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
+      "categories": [
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-10-29T17:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.39250.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.9aafbae6-8834-48f7-b413-2e0e49f377b9",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PKFL1XJT73S",
+      "titleZh": "恐怖蜥蜴",
+      "shortDescriptionZh": "《恐怖蜥蜴》是一款恐怖跑酷游戏，故事发生在66号公路旁的一个老旧景点……在这个园区的地下潜伏着黑暗而又邪恶的存在。为了逃出生天，你必须依靠敏捷身手穿越各种险峻地形，揭开道尔顿恐龙乐园隐藏的可怖秘密。你最好赶紧跑起来。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 78,
+        "title": "Terrible Lizards",
+        "url": "https://www.metacritic.com/game/terrible-lizards/",
+        "mustPlay": false,
+        "genres": [
+          "Survival"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": 6.9,
+        "userReviewCount": 10
+      },
+      "titleZhSource": "steam",
+      "playtime": null
+    },
+    {
       "productId": "9N0P25WJHM8C",
       "playAnywhere": true,
       "title": "The Alters",
@@ -25987,6 +25947,48 @@
         "main": 3.7,
         "extra": null,
         "complete": null
+      }
+    },
+    {
+      "productId": "9PNRLJNDPP4G",
+      "playAnywhere": true,
+      "title": "The Séance of Blake Manor",
+      "developer": "Spooky Doorway",
+      "publisher": "Raw Fury",
+      "shortDescription": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "categories": [
+        "Action & adventure",
+        "Puzzle & trivia"
+      ],
+      "releaseDate": "2026-10-27T15:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.16621.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.56c0b677-c7a4-41bb-ba89-862d2a38f74d",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PNRLJNDPP4G",
+      "titleZh": null,
+      "shortDescriptionZh": "《The Séance of Blake Manor》的故事发生在 1897 年的爱尔兰，一场超自然悬疑案件骤然开幕。偏远酒店中谜团重重、异事频发，名叫伊芙琳·迪恩的女子更是不知所踪，来龙去脉需要你着手调查。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true,
+      "metacritic": {
+        "score": 89,
+        "title": "The Seance of Blake Manor",
+        "url": "https://www.metacritic.com/game/the-seance-of-blake-manor/",
+        "mustPlay": false,
+        "genres": [
+          "First-Person Adventure"
+        ],
+        "confidence": 0.917,
+        "releaseDate": "2025-10-27",
+        "userScore": 8.3,
+        "userReviewCount": 52
+      },
+      "titleZhSource": null,
+      "playtime": {
+        "main": 15.6,
+        "extra": 20.1,
+        "complete": 21.8
       }
     },
     {
@@ -28185,7 +28187,7 @@
         "Action & adventure"
       ],
       "releaseDate": "2022-12-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
+      "image": "https://store-images.s-microsoft.com/image/apps.43432.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.96ac9b34-3c66-40bf-a23c-7251edc524dc",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NKCCHCFTHV2",
       "titleZh": "无畏契约",
       "shortDescriptionZh": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.\r\n\r\nWith Game Pass, members will unlock: \r\n●\tAll current Agents \r\n●\tDay-one access to every new Agent as they're released\r\n●\t20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
@@ -28830,48 +28832,6 @@
       }
     },
     {
-      "productId": "9NWQ686JB33G",
-      "playAnywhere": true,
-      "title": "Wartales",
-      "developer": "Shiro Games",
-      "publisher": "Shiro Games",
-      "shortDescription": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!",
-      "categories": [
-        "Role playing",
-        "Strategy"
-      ],
-      "releaseDate": "2023-10-31T13:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.55567.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.85dd1ece-9871-428e-bdef-f545c2c8425e",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NWQ686JB33G",
-      "titleZh": "战争传说",
-      "shortDescriptionZh": "《战争传说》是一款开放世界 RPG 游戏，你将带领一群雇佣兵在浩大的中世纪宇宙中进行探索，寻觅财富。探索世界，招募同伴，领取赏金，揭开先民之墓的秘密！",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 79,
-        "title": "Wartales",
-        "url": "https://www.metacritic.com/game/wartales/",
-        "mustPlay": false,
-        "genres": [
-          "Western RPG"
-        ],
-        "confidence": 1,
-        "releaseDate": "2023-04-12",
-        "userScore": 7.6,
-        "userReviewCount": 140
-      },
-      "titleZhSource": "wikidata",
-      "playtime": {
-        "main": 41.9,
-        "extra": 80,
-        "complete": 159.5
-      }
-    },
-    {
       "productId": "BQ9T0JF0D3L4",
       "playAnywhere": false,
       "title": "Wasteland 3",
@@ -29433,43 +29393,6 @@
         "extra": 53.3,
         "complete": 120.5
       }
-    },
-    {
-      "productId": "9N6VS1BMZ3BW",
-      "playAnywhere": true,
-      "title": "Wildgate",
-      "developer": "Moonshot Games",
-      "publisher": "Dreamhaven, Inc.",
-      "shortDescription": "Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.",
-      "categories": [
-        "Shooter"
-      ],
-      "releaseDate": "2025-07-22T15:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.38613.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.4d84c881-27c2-4b19-a64d-e13604baf39e",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N6VS1BMZ3BW",
-      "titleZh": "无主星渊",
-      "shortDescriptionZh": "《Wildgate》是一款结合了星舰战术作战与快节奏第一人称动作的多人 PvP 射击游戏。在危险环境中腾挪躲闪，搜寻强大武器与星舰升级资源，带上遗珍逃离这片星域……或是血战到底，直到只余最后一艘星舰。",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "xboxOne": false,
-      "xboxSeries": true,
-      "metacritic": {
-        "score": 72,
-        "title": "Wildgate",
-        "url": "https://www.metacritic.com/game/wildgate/",
-        "mustPlay": false,
-        "genres": [
-          "Tactical FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-07-22",
-        "userScore": 7,
-        "userReviewCount": 13
-      },
-      "titleZhSource": "store",
-      "playtime": null
     },
     {
       "productId": "9P1ZW5K4S44V",
@@ -30118,7 +30041,7 @@
         "Strategy"
       ],
       "releaseDate": "2019-08-12T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.60607.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.24b4045e-7d64-4463-a2f1-6649df3a878e",
+      "image": "https://store-images.s-microsoft.com/image/apps.58624.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.ebfac970-41f8-4252-a1ae-17d5e1993994",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1ZT6N30L1WH",
       "titleZh": null,
       "shortDescriptionZh": "在《战舰世界：传奇》中体验史诗海军行动，这是一款免费的全球多人在线游戏，指挥历史上最伟大的军舰征服大海！招募传奇指挥官，升级您的战舰，和来自全球的玩家合作或对战，争夺海上霸权。",

@@ -1,10 +1,10 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-10-26T07:22:47.610Z",
-  "scoredAt": "2026-10-26T07:22:59.191Z",
-  "total": 523,
-  "scored": 445,
+  "fetchedAt": "2026-11-02T08:50:02.903Z",
+  "scoredAt": "2026-11-02T08:50:03.000Z",
+  "total": 519,
+  "scored": 441,
   "games": [
     {
       "productId": "10007645",
@@ -215,8 +215,8 @@
       "publisher": null,
       "categories": [
         "FAMILY",
-        "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ADVENTURE"
       ],
       "releaseDate": "2019-02-24T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP3678/CUSA10859_00/BEzr6mNHFKnZFD6tAUo2kcZ62wf5JzaGI0xVl3xc0onozdNBF9RoOtzNHaJLE58U.png",
@@ -295,8 +295,8 @@
       "publisher": null,
       "categories": [
         "SHOOTER",
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2016-04-26T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP9000/CUSA00062_00/8kRHcVcBnkj3YKFmtiHR9tvZjk0xRVJ3vP2MsK8csuKwwxEIVFg56EL9T5QhUlFd.png",
@@ -1049,8 +1049,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2016-11-17T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP0001/CUSA04893_00/H0JPbrxm1gXaDzo3mytbzo6ojEq3pfFUymmiLIzqSXsoMRbLF3ecdu7ZaDbhaS8D.png",
@@ -1432,8 +1432,8 @@
       "categories": [
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-03-22T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/qiiQyVfE5FrUO1loLJZkn7t7.png",
+      "releaseDate": "2023-03-23T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/w3plTnuSWMWg5jJbIUe6UMLW.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005432",
       "ps4": true,
       "ps5": true,
@@ -1612,8 +1612,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
         "CASUAL",
+        "ADVENTURE",
         "ACTION"
       ],
       "releaseDate": "2024-03-04T16:00:00Z",
@@ -1690,8 +1690,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ROLE_PLAYING_GAMES",
         "STRATEGY",
+        "ROLE_PLAYING_GAMES",
         "ROLE_PLAYING_GAMES"
       ],
       "releaseDate": "2019-02-19T17:00:00Z",
@@ -1806,8 +1806,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2015-11-23T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0522/0qBPvJ5xqVxay9Ia0LviK6wG.png",
@@ -2180,8 +2180,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2016-08-16T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP9000/CUSA04325_00/ffKSxYe1YysmD8B2tEmgnobb6z7TbI0ZoqWWjUfIo6GBnlCkc38BX2X4nfX9WvIe.png",
@@ -2279,9 +2279,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
+        "UNIQUE",
         "ROLE_PLAYING_GAMES",
-        "UNIQUE"
+        "ADVENTURE"
       ],
       "releaseDate": "2018-11-05T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP4133/CUSA04850_00/y0n6uUWPHS1LBIzZPZqCPXdSSzPGOO6nlYOe0SVz0kqtz4B0C1cuQzxJTl7wn08f.png",
@@ -2420,9 +2420,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "ROLE_PLAYING_GAMES",
         "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ACTION"
       ],
       "releaseDate": "2020-02-05T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/11307v1uYSXSy3LvUEpQN-TcDy_STT7uGhKgye0YTyT1a3GAwnThF6FzB7Yg6S8hyMtG0p_CYDiJBdoLvY7X6O58T-U8hqIE.png",
@@ -2567,8 +2567,8 @@
       "publisher": null,
       "categories": [
         "SIMULATION",
-        "SIMULATION",
-        "SIMULATOR"
+        "SIMULATOR",
+        "SIMULATION"
       ],
       "releaseDate": "2023-02-15T09:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP4139/CUSA06407_00/AUGjjbhpZHp2OWTNQPMUXCvs8RToNKPO.png",
@@ -2785,8 +2785,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2019-10-08T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1319/OAfdktSY0lt4WJhTyMVeX6Xe.png",
@@ -3387,7 +3387,7 @@
         "ACTION"
       ],
       "releaseDate": "2020-11-11T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/e98238835ada32e22b4e21455b4206cacd19070ea359763f.png",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2118/4448362515c1c03644cae01d08e4784b30224f81e6c25514.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/227319",
       "ps4": true,
       "ps5": true,
@@ -3766,8 +3766,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
       ],
       "releaseDate": "2016-08-23T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP0082/CUSA01799_00/9PXwMB4T1BH0PNvlKzCBpYYMNGCqmcIYa012scagvuKdstRNKsCKHYrbyNmeS3t7.png",
@@ -4329,9 +4329,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "ROLE_PLAYING_GAMES",
         "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ACTION"
       ],
       "releaseDate": "2021-07-25T16:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP0031/CUSA14503_00/d0WHFQQ9fWRCi2CsBy2c6FtulKft5pEU.png",
@@ -4627,8 +4627,8 @@
         "ACTION",
         "ACTION"
       ],
-      "releaseDate": "2018-02-07T17:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307px5pXb_vK4xWtKg8tApWrvsZttZLdeqEcqJN1dVGYqYilY5GtvT4qAgVgEm6fOWs8RFfk8bOrB1eKwookZPKKYMu_7H.png",
+      "releaseDate": "2018-02-12T17:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307TJChobjXkfTgQrS7umR6DE3dN_P44j3H4lLdL7RbU_03jk0DRgzLKx4hFkWN2mavqjUQeCqVrLt87wwgV3cCQIdnSuh.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/229001",
       "ps4": true,
       "ps5": false,
@@ -4664,8 +4664,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "ACTION",
-        "SIMULATION"
+        "SIMULATION",
+        "ACTION"
       ],
       "releaseDate": "2016-11-08T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP0001/CUSA04876_00/ZU22RcGou5A14pZo9iQviUYFdFJcDjHYjntZfITWVOL10ddph5Q9dqT3hI1g3HA6.png",
@@ -4705,8 +4705,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2018-12-10T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP0367/CUSA12546_00/c4brrSq1JcETH8mnhmZxshY7XLulINfiC1GHHOsyMWK5WoK3fnpYyc1Sm9RZQj0e.png",
@@ -4745,8 +4745,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2019-04-10T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/11307NgrudNEG18OvRR-NFkqtkOeB26wWiJSCSaqQrzsDIE8nZH_owxPNU2dMPQneCSlnDvigY-_Vth6EPTdFxFA_i4dQVuh.png",
@@ -5157,8 +5157,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "SIMULATION",
-        "SPORTS"
+        "SPORTS",
+        "SIMULATION"
       ],
       "releaseDate": "2017-08-28T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP9000/CUSA07372_00/z6IympWw14PQbDSlS5JYNQ1BQSTNlWDZcqNqvl66nC34KDsu502zYrc38GHV54RU.png",
@@ -5482,8 +5482,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
-        "SHOOTER"
+        "SHOOTER",
+        "ADVENTURE"
       ],
       "releaseDate": "2018-07-25T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP0001/CUSA00462_00/OPzG8aG5jQWeg68qJzipxeTqz4ZwvOx3b28JEZxzRpIjeIYYDkPZRHvSOqjOetug.png",
@@ -5522,8 +5522,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ADVENTURE",
+        "ACTION",
         "SHOOTER"
       ],
       "releaseDate": "2018-03-26T16:00:00Z",
@@ -5564,8 +5564,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2019-02-14T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP0001/CUSA13885_00/6yP7K3zP9oVpHHVsViNZHK0Tg8ZK33EwDtKAGa8SrZlAjQXTCnHoE16hGeuCowEs.png",
@@ -5667,8 +5667,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2022-02-28T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2813/Os6biEZBZHzt6GU8qqo5eSMT.png",
@@ -5782,8 +5782,8 @@
         "ACTION",
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-09-27T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/68f65341451958a4e5a709eda046f82ca96d0d5611dd4334.png",
+      "releaseDate": "2023-09-28T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/f308c616a571f6b9d78f0fe91fc81255de25db2b23007b6d.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004920",
       "ps4": true,
       "ps5": true,
@@ -6367,8 +6367,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2019-06-26T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2814/ZPk1yCEEJU6fIIzhxwvMsTY3.png",
@@ -6445,8 +6445,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "SPORTS"
+        "SPORTS",
+        "ACTION"
       ],
       "releaseDate": "2020-06-02T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1414/rit1KAnxB1hlwgjlGmWUH1js.png",
@@ -6662,8 +6662,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2017-01-17T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/UQRzoZKzI3PjOYfPa2XOqS19.png",
@@ -6701,8 +6701,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2015-12-09T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/2lfQr4uLgI8usrz5anG6a9wC.png",
@@ -6778,8 +6778,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2020-01-08T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/11307KXmVt360Pb72T2d3Mp89z6yTAkqeOX0sfuiDP_mXNWk8iTalrBRemSC0REaqR5YbaZ921ZIBJTuZXpQNKkaK1kZLXpV.png",
@@ -6855,8 +6855,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2016-03-01T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0518/rfaNTagTT8uQV0YfxNNLbzr0.png",
@@ -7616,9 +7616,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "SHOOTER",
         "ADVENTURE",
-        "SHOOTER"
+        "ACTION"
       ],
       "releaseDate": "2017-12-05T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP9000/CUSA08423_00/mzEWGtYq2b4al2oSmPpoHUXHWKPhWmC6FY9nXXXK5dmQOVtbrquW7p5S5o8BWKJp.png",
@@ -7732,8 +7732,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ADVENTURE",
+        "ACTION",
         "ACTION"
       ],
       "releaseDate": "2017-12-05T17:00:00Z",
@@ -8526,8 +8526,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2015-06-14T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP1018/CUSA01513_00/lyvr8YhDKQYdERYG40uyVK0QY3SEpaT4XRlIPj51v2OV1RT9eVQeb6w10TgUPufj.png",
@@ -8565,8 +8565,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "FAMILY"
+        "FAMILY",
+        "ACTION"
       ],
       "releaseDate": "2016-01-26T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP1018/CUSA02107_00/fmy5KL6I90CXWNhpAiaJhxGAsbo8qFPksLsxOHhbxtz8d1Bg40BKApgtLLxdZ2HG.png",
@@ -8604,8 +8604,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2017-09-27T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP1018/CUSA09065_00/r0EGDnTclMtBgz9OzsjfyJnZFkeuNlDh8Zqzlxhhy7OTmPPnkIjZVyJiSbjbt2Vg.png",
@@ -8681,9 +8681,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
+        "UNIQUE",
         "FAMILY",
-        "UNIQUE"
+        "ADVENTURE"
       ],
       "releaseDate": "2017-03-07T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/2918/zFjG0QdOKIPBcQtfPmMIppfb.png",
@@ -9066,8 +9066,8 @@
       "publisher": null,
       "categories": [
         "PUZZLE",
-        "ARCADE",
-        "PUZZLE"
+        "PUZZLE",
+        "ARCADE"
       ],
       "releaseDate": "2022-05-25T08:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP4008/CUSA05079_00/LcxCyhRYpMabNCFbXAhHG4orJEP650IA.png",
@@ -9093,9 +9093,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "ROLE_PLAYING_GAMES",
         "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ACTION"
       ],
       "releaseDate": "2020-12-06T16:00:00Z",
       "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png",
@@ -9324,8 +9324,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2019-10-24T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/113078TPiEMeQQHdPmvQANjY8jmqWVPMT7BID-21VeqO-iQMtsqwjJni-XwguZ5mKE2ABtq_IFrbP5khxIFIummeYBsN5fb3.png",
@@ -9586,40 +9586,6 @@
       }
     },
     {
-      "productId": "202807",
-      "title": "Metro 2033 Redux full game",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2014-08-26T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/202807",
-      "ps4": true,
-      "ps5": false,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": "地铁2033 重制版",
-      "metacritic": {
-        "score": 90,
-        "title": "Metro: 2033 Redux",
-        "url": "https://www.metacritic.com/game/metro-2033-redux/",
-        "mustPlay": false,
-        "genres": [
-          "FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2014-08-25",
-        "userScore": 8.1,
-        "userReviewCount": 2594
-      },
-      "titleZhSource": "steam",
-      "playtime": null
-    },
-    {
       "productId": "231769",
       "title": "Metro Exodus",
       "developer": null,
@@ -9657,82 +9623,6 @@
         "main": 15.9,
         "extra": 24,
         "complete": 41.8
-      }
-    },
-    {
-      "productId": "202806",
-      "title": "Metro Redux full game",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2014-08-26T16:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP2047/CUSA00683_00/bVYSYLavzhXqvByWDXtPgKJNpIsFZXVs.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/202806",
-      "ps4": true,
-      "ps5": false,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": "制品版",
-      "metacritic": {
-        "score": 83,
-        "title": "Metro Redux",
-        "url": "https://www.metacritic.com/game/metro-redux/",
-        "mustPlay": false,
-        "genres": [
-          "Compilation"
-        ],
-        "confidence": 1,
-        "releaseDate": "2014-08-26",
-        "userScore": 8.1,
-        "userReviewCount": 1097
-      },
-      "titleZhSource": "store",
-      "playtime": {
-        "main": 17.1,
-        "extra": 23.1,
-        "complete": 51.9
-      }
-    },
-    {
-      "productId": "226459",
-      "title": "Metro: Last Light Redux full game",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2014-08-26T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/xRBuhxOu8IbVAV32S8Ow9Eiv.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/226459",
-      "ps4": true,
-      "ps5": false,
-      "tier": 3,
-      "lists": [
-        "classics"
-      ],
-      "titleZh": "制品版",
-      "metacritic": {
-        "score": 76,
-        "title": "Metro: Last Light Redux",
-        "url": "https://www.metacritic.com/game/metro-last-light-redux/",
-        "mustPlay": false,
-        "genres": [
-          "FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2014-08-25",
-        "userScore": 7.9,
-        "userReviewCount": 1210
-      },
-      "titleZhSource": "store",
-      "playtime": {
-        "main": 9.8,
-        "extra": 13.5,
-        "complete": 27.7
       }
     },
     {
@@ -10623,7 +10513,7 @@
       "releaseDate": "2021-04-05T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/x11L6rvYTz3IvbuvlDnryUJO.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/227431",
-      "ps4": false,
+      "ps4": true,
       "ps5": true,
       "tier": 2,
       "lists": [
@@ -10831,8 +10721,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "FAMILY",
-        "SIMULATION"
+        "SIMULATION",
+        "FAMILY"
       ],
       "releaseDate": "2020-11-11T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/2700/hKBAhyUmI0fv5JrDxITp5rRJ.png",
@@ -11020,8 +10910,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "ADVENTURE",
-        "MUSIC/RHYTHM"
+        "MUSIC/RHYTHM",
+        "ADVENTURE"
       ],
       "releaseDate": "2017-07-31T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/11307_auzY_A9D5yfJQuY68DbISNJ3Mk_l66TdVYRGNECA1gKdqb7WU1mK9Ff_02HZIRVk_Oao3c6Z2jJrmkpeWQTWcmmz3W.png",
@@ -11240,8 +11130,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
-        "PUZZLE"
+        "PUZZLE",
+        "ADVENTURE"
       ],
       "releaseDate": "2020-12-03T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2419/Wx4cGzMJgk9yklXbz4f0zg9Z.png",
@@ -11526,9 +11416,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "STRATEGY",
         "ADVENTURE",
-        "STRATEGY"
+        "ACTION"
       ],
       "releaseDate": "2016-06-29T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP4415/CUSA03481_00/TnFtlO0Nu7hhfXlr8gO3wyApvZOwzhKrEfLJyY3e9kXAYc5qwvMEW6i4D2VpHJAB.png",
@@ -12083,8 +11973,8 @@
       "publisher": null,
       "categories": [
         "FIGHTING",
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2019-10-01T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/113070Njw0Az1uGfKHoDWUGOFycDye2BlWMvVfCCzIZ-FSrYHn2uFMmyfxZpdgm26no9iEagUOp2PRNgYAm1ojkaHLQOcSox.png",
@@ -12630,8 +12520,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
       ],
       "releaseDate": "2016-10-11T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP0082/CUSA05794_00/MTcd1tnswkrnDxKPflO1sylhMoI4ViJgUUGp1RsmOj0IGzrkVBoaYOzsN4zsgfd7.png",
@@ -12748,8 +12638,8 @@
       "releaseDate": "2022-02-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1813/FHhoyE3vgSQ9MZqIlxK8XMT9.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001348",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -13240,8 +13130,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ADVENTURE",
+        "ACTION",
         "ACTION"
       ],
       "releaseDate": "2016-05-16T17:00:00Z",
@@ -13280,8 +13170,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2018-02-05T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2319/XtqYrG2LWer39eExYBsh9J5x.png",
@@ -13944,8 +13834,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2018-05-21T15:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP4133/CUSA08982_00/grq7LHG31ghGqfQvYNfj828OBbMDsNYxc9lrpANGodYPm3VHqmypsExOXApTpKwJ.png",
@@ -13983,8 +13873,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ARCADE",
-        "SHOOTER"
+        "SHOOTER",
+        "ARCADE"
       ],
       "releaseDate": "2019-03-25T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP0001/CUSA15388_00/4y4nEwrwbqlScvQ0PQ6LaBR3tcxW9Pdf.png",
@@ -14248,8 +14138,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ADVENTURE",
+        "ACTION",
         "ACTION"
       ],
       "releaseDate": "2022-06-17T20:00:00Z",
@@ -14288,8 +14178,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "ADVENTURE",
+        "ACTION",
         "RACING"
       ],
       "releaseDate": "2022-06-17T20:00:00Z",
@@ -14363,8 +14253,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "SIMULATION",
-        "SPORTS"
+        "SPORTS",
+        "SIMULATION"
       ],
       "releaseDate": "2016-12-04T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP0001/CUSA05526_00/frtZRU5ndknfD21HgC2u7YOyoaBNkcl1nwJ0sajWVDDsl1pjYcZ9Pi6uNp0WJCJl.png",
@@ -14639,8 +14529,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "SIMULATION",
-        "STRATEGY"
+        "STRATEGY",
+        "SIMULATION"
       ],
       "releaseDate": "2022-07-27T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0306/yx9KDAhA1cLTnDzu1ZtJLfSG.png",
@@ -14708,44 +14598,6 @@
         "main": 2.8,
         "extra": 3.9,
         "complete": 9.3
-      }
-    },
-    {
-      "productId": "10001404",
-      "title": "Syberia - The World Before",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ADVENTURE"
-      ],
-      "releaseDate": "2023-12-11T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2115/H4VoqAkqQ4wMgqlIYdN2WLTD.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10001404",
-      "ps4": true,
-      "ps5": true,
-      "tier": 2,
-      "lists": [
-        "catalog"
-      ],
-      "titleZh": "塞伯利亚之谜：世界之前",
-      "metacritic": {
-        "score": 81,
-        "title": "Syberia: The World Before",
-        "url": "https://www.metacritic.com/game/syberia-the-world-before/",
-        "mustPlay": false,
-        "genres": [
-          "Point-and-Click"
-        ],
-        "confidence": 1,
-        "releaseDate": "2022-03-18",
-        "userScore": 8.3,
-        "userReviewCount": 216
-      },
-      "titleZhSource": "wikidata",
-      "playtime": {
-        "main": 13.4,
-        "extra": 14.3,
-        "complete": 16.1
       }
     },
     {
@@ -15544,9 +15396,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "HORROR",
         "ADVENTURE",
-        "HORROR"
+        "ACTION"
       ],
       "releaseDate": "2017-10-12T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0100/iLBYSuHyeGG5CVXTkSm4MKTo.png",
@@ -15610,8 +15462,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
         "PUZZLE",
+        "ADVENTURE",
         "ADVENTURE"
       ],
       "releaseDate": "2022-06-15T21:00:00Z",
@@ -15688,8 +15540,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2016-12-05T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2318/3jnbbEumNaIlpdlyrq7pQUXe.png",
@@ -15727,8 +15579,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2015-05-11T16:00:00Z",
       "image": "https://image.api.playstation.com/cdn/HP9000/CUSA00560_00/xwqyYoul8osA5GpfnSqPWWRJUEQaWq0AikWHmpcmUBm0ufUDdzBd7aj1jjUQNWdv.png",
@@ -15827,8 +15679,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2018-07-25T15:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1020/FKgazVvG7BcWouCr39mIiXkW.png",
@@ -16138,9 +15990,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "ROLE_PLAYING_GAMES",
         "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ACTION"
       ],
       "releaseDate": "2017-06-19T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP4133/CUSA04849_00/cWR0qqaxh2wKonvdhmQ0E3t4EG9DA8iVMFHzyrq3vFzpmg0ItTwg58FAnOfDkajF.png",
@@ -16178,8 +16030,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
       ],
       "releaseDate": "2019-09-23T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/cfn/11307iBIb6fbbM82mMaI7rSNkPx-_W49UQ4T3qcKdndTcVBwvkxUM4-tXLGrkVIACRAEFJVrtc7tzWrVQ0SogPzb9mI_cKA8.png",
@@ -16256,9 +16108,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "ROLE_PLAYING_GAMES",
         "ADVENTURE",
-        "ROLE_PLAYING_GAMES"
+        "ACTION"
       ],
       "releaseDate": "2016-11-29T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP4133/CUSA03803_00/e37l4s8HJDemvVhVsmNkgUYdUPH5mEQyJXdyUrAAWKZSyKCkROTcbsBx01lDujgU.png",
@@ -16667,8 +16519,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "SHOOTER",
+        "ACTION",
         "SHOOTER"
       ],
       "releaseDate": "2019-10-03T17:00:00Z",
@@ -17179,8 +17031,8 @@
       "publisher": null,
       "categories": [
         "ARCADE",
-        "ARCADE",
-        "RACING"
+        "RACING",
+        "ARCADE"
       ],
       "releaseDate": "2019-02-25T15:00:00Z",
       "image": "https://image.api.playstation.com/cdn/JP0001/CUSA09595_00/UhAu5YkY2rs9HP7bdenDclyn4qgXi8dCDcTDLpg85BpsR8QlRyzp296amxyAsvyz.png",
@@ -17505,8 +17357,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ADVENTURE"
+        "ADVENTURE",
+        "ACTION"
       ],
       "releaseDate": "2018-11-21T17:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
@@ -17760,8 +17612,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ADVENTURE",
-        "PUZZLE"
+        "PUZZLE",
+        "ADVENTURE"
       ],
       "releaseDate": "2014-06-25T16:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP0001/CUSA00478_00/7iLF8pcDZI706eKbaB6d1nYRDMKZWaXB.png",
@@ -17840,8 +17692,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
       ],
       "releaseDate": "2018-06-04T15:00:00Z",
       "image": "https://image.api.playstation.com/cdn/UP4133/CUSA03293_00/rXbqrpzDh6GbxRWmkimQU1GbcWkl9YBa3VBJipYAOXV9PbvOVdWlbiyYmzqPRtN7.png",
@@ -18112,9 +17964,9 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
+        "UNIQUE",
         "ADVENTURE",
-        "UNIQUE"
+        "ACTION"
       ],
       "releaseDate": "2020-11-11T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0206/LYdG6IjoOU7r1pYYIs13NoJA.png",
@@ -18153,8 +18005,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "ROLE_PLAYING_GAMES"
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
       ],
       "releaseDate": "2018-07-25T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/JP0001/CUSA00022_00/HO3GDIbSRPhT1k7Dzgbr51fF2NguVRFdviSulD9DfTEWBoPNlrzV45nAmX54Gtp7.png",
@@ -18547,8 +18399,8 @@
       "publisher": null,
       "categories": [
         "ACTION",
-        "SHOOTER",
-        "SIMULATION"
+        "SIMULATION",
+        "SHOOTER"
       ],
       "releaseDate": "2019-07-25T15:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0605/s9anMLJErDUXJTbBOoKSiqiv.png",
@@ -18586,8 +18438,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
         "SHOOTER",
+        "ACTION",
         "ACTION"
       ],
       "releaseDate": "2017-10-26T17:00:00Z",
@@ -18626,8 +18478,8 @@
       "developer": null,
       "publisher": null,
       "categories": [
-        "ACTION",
-        "SHOOTER"
+        "SHOOTER",
+        "ACTION"
       ],
       "releaseDate": "2019-04-16T17:00:00Z",
       "image": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png",
@@ -18667,7 +18519,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2023-06-20T00:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004898",
       "ps4": true,
@@ -18689,7 +18541,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2025-07-24T09:00:00Z",
+      "releaseDate": "2022-05-22T18:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004899",
       "ps4": true,

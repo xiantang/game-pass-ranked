@@ -7232,5 +7232,76 @@
   "wetherevolution": {
     "name": "我们•革命",
     "source": "steam"
-  }
+  },
+  "astrologaster": {
+    "name": "占星",
+    "source": "wikidata"
+  },
+  "aithesomniumfiles": {
+    "name": "AI：梦境档案",
+    "source": "wikidata"
+  },
+  "mouthwashing": {
+    "name": "缄默祸运",
+    "source": "wikidata"
+  },
+  "deathendrequest2": {
+    "name": "死亡终局 轮回试炼2",
+    "source": "wikidata"
+  },
+  "cupidparasite": {
+    "name": "共生邱比特",
+    "source": "wikidata"
+  },
+  "oninaki": {
+    "name": "鬼哭之邦",
+    "source": "wikidata"
+  },
+  "monsterhunterrise": {
+    "name": "怪物猎人 崛起",
+    "source": "wikidata"
+  },
+  "snkheroinestagteamfrenzy": {
+    "name": "SNK女中豪杰 ～狂暴双打～",
+    "source": "wikidata"
+  },
+  "starshiptroopersultimatebugwar": {
+    "name": "星河战队：终焉虫潮",
+    "source": "wikidata"
+  },
+  "villageintheshade": {
+    "name": "静谧田园",
+    "source": "wikidata"
+  },
+  "scrambleknightsonlinegamepreview": null,
+  "terriblelizards": {
+    "name": "恐怖蜥蜴",
+    "source": "steam"
+  },
+  "androdunos2": null,
+  "theseanceofblakemanor": null,
+  "bigbangprowrestling": null,
+  "castofthesevengodsends": null,
+  "cozycaravan": null,
+  "diabloivageofhatredcollection": null,
+  "disneypixartoystoryretroroundup": null,
+  "fightingforcecollection": null,
+  "jurassicworldevolutioncompleteedition": null,
+  "neogeopocketcolorselectionvol1": null,
+  "maryskelterfinale": null,
+  "pokemonfriends": null,
+  "rezerostartinglifeinanotherworldtheprophecyofthethrone": null,
+  "rayman30thanniversaryedition": {
+    "name": "雷曼：30 周年纪念版",
+    "source": "steam"
+  },
+  "supermonkeyballbananablitzhd": {
+    "name": "现尝好滋味！超级猴子球",
+    "source": "steam"
+  },
+  "redfactionguerrillaremarstered": null,
+  "thelegendofsteelempire": null,
+  "thejackboxpartypack5": null,
+  "unboxnewbiesadventure": null,
+  "werewolftheapocalypseheartoftheforest": null
 }

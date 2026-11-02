@@ -12639,5 +12639,77 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "plants vs zombies replanted": {
+    "title": "Plants vs. Zombies: Replanted",
+    "slug": "plants-vs-zombies-replanted",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/plants-vs-zombies-replanted/",
+    "releaseDate": "2025-10-23",
+    "genres": [
+      "Defense"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "the séance of blake manor": {
+    "title": "The Seance of Blake Manor",
+    "slug": "the-seance-of-blake-manor",
+    "score": 89,
+    "url": "https://www.metacritic.com/game/the-seance-of-blake-manor/",
+    "releaseDate": "2025-10-27",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 0.917
+  },
+  "terrible lizards": {
+    "title": "Terrible Lizards",
+    "slug": "terrible-lizards",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/terrible-lizards/",
+    "releaseDate": "2026-10-29",
+    "genres": [
+      "Survival"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "final fantasy 7 remake intergrade": {
+    "title": "Final Fantasy VII Remake Intergrade",
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "score": 89,
+    "url": "https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/",
+    "releaseDate": "2026-01-22",
+    "genres": [
+      "Action RPG"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "scramble knights online": {
+    "title": "Scramble Knights Online",
+    "slug": "scramble-knights-online",
+    "score": null,
+    "url": "https://www.metacritic.com/game/scramble-knights-online/",
+    "releaseDate": "TBA",
+    "genres": [
+      "MOBA"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mouthwashing": {
+    "title": "Mouthwashing",
+    "slug": "mouthwashing",
+    "score": 88,
+    "url": "https://www.metacritic.com/game/mouthwashing/",
+    "releaseDate": "2024-09-26",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

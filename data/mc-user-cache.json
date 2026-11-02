@@ -4872,5 +4872,31 @@
     "score": 8.5,
     "reviewCount": 346,
     "sentiment": "Generally favorable"
+  },
+  "plants-vs-zombies-replanted": {
+    "score": 6,
+    "reviewCount": 62,
+    "sentiment": "Mixed or average"
+  },
+  "final-fantasy-vii-remake-intergrade": {
+    "score": 8.4,
+    "reviewCount": 266,
+    "sentiment": "Generally favorable"
+  },
+  "terrible-lizards": {
+    "score": 6.9,
+    "reviewCount": 10,
+    "sentiment": "Mixed or average"
+  },
+  "the-seance-of-blake-manor": {
+    "score": 8.3,
+    "reviewCount": 52,
+    "sentiment": "Generally favorable"
+  },
+  "scramble-knights-online": null,
+  "mouthwashing": {
+    "score": 7.9,
+    "reviewCount": 316,
+    "sentiment": "Generally favorable"
   }
 }
