@@ -4898,5 +4898,25 @@
     "score": 7.9,
     "reviewCount": 316,
     "sentiment": "Generally favorable"
+  },
+  "mysims": {
+    "score": 6.9,
+    "reviewCount": 31,
+    "sentiment": "Mixed or average"
+  },
+  "mysims-kingdom": {
+    "score": 7.3,
+    "reviewCount": 29,
+    "sentiment": "Mixed or average"
+  },
+  "far-cry-3-classic-edition": null,
+  "escape-academy-2-back-2-school": null,
+  "football-manager-27": null,
+  "gravhounds": null,
+  "pit-of-goblin": null,
+  "tomb-raider-iv-vi-remastered": {
+    "score": 7.8,
+    "reviewCount": 89,
+    "sentiment": "Generally favorable"
   }
 }

@@ -21543,5 +21543,4232 @@
   "resident evil 2 cloud": null,
   "resident evil 4 gold": null,
   "sniper elite 3": null,
-  "snipperclips cut it out together": null
+  "snipperclips cut it out together": null,
+  "escape academy 2 back 2 school": {
+    "id": 169292,
+    "name": "Escape Academy 2: Back 2 School",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "football manager 27": {
+    "id": 192812,
+    "name": "Football Manager 27",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "mysims": {
+    "id": 6306,
+    "name": "MySims",
+    "main": 12.6,
+    "extra": 15.6,
+    "complete": 26.2,
+    "count": 16,
+    "confidence": 1
+  },
+  "mysims kingdom": {
+    "id": 14135,
+    "name": "MySims Kingdom",
+    "main": 9.9,
+    "extra": 17.4,
+    "complete": 19.4,
+    "count": 15,
+    "confidence": 1
+  },
+  "pit of goblin": {
+    "id": 177189,
+    "name": "Pit of Goblin",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "tomb raider 4 6": {
+    "id": 157979,
+    "name": "Tomb Raider IV-VI Remastered",
+    "main": 35.3,
+    "extra": 49.7,
+    "complete": 72.1,
+    "count": 10,
+    "confidence": 1
+  },
+  "chivalware": {
+    "id": 186791,
+    "name": "Chivalware",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "godzilla destroy all monsters melee": {
+    "id": 187123,
+    "name": "Godzilla: Destroy All Monsters Melee Remastered",
+    "main": 1,
+    "extra": 3.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "joe and mac retro collection": {
+    "id": 169369,
+    "name": "Joe & Mac Retro Collection",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "kingdom hearts melody of memory": {
+    "id": 80123,
+    "name": "Kingdom Hearts: Melody of Memory",
+    "main": 9.2,
+    "extra": 16.4,
+    "complete": 52.5,
+    "count": 183,
+    "confidence": 1
+  },
+  "kingdoms of amalur re reckoning": {
+    "id": 79015,
+    "name": "Kingdoms of Amalur: Re-Reckoning",
+    "main": 23.4,
+    "extra": 54.9,
+    "complete": 102,
+    "count": 34,
+    "confidence": 1
+  },
+  "kirby air riders": {
+    "id": 166263,
+    "name": "Kirby Air Riders",
+    "main": 3.9,
+    "extra": 14.3,
+    "complete": 56.4,
+    "count": 94,
+    "confidence": 1
+  },
+  "kirby and the forgotten land": {
+    "id": 98273,
+    "name": "Kirby and the Forgotten Land",
+    "main": 10.3,
+    "extra": 15.4,
+    "complete": 25.9,
+    "count": 617,
+    "confidence": 1
+  },
+  "kirby fighters 2": {
+    "id": 83639,
+    "name": "Kirby Fighters 2",
+    "main": 4,
+    "extra": 8.5,
+    "complete": 32.2,
+    "count": 12,
+    "confidence": 1
+  },
+  "lego batman legacy of the dark knight": {
+    "id": 172962,
+    "name": "LEGO Batman: Legacy of the Dark Knight",
+    "main": 13,
+    "extra": 19.7,
+    "complete": 34.7,
+    "count": 163,
+    "confidence": 1
+  },
+  "lego bricktales": {
+    "id": 112736,
+    "name": "Lego Bricktales",
+    "main": 10,
+    "extra": 13,
+    "complete": 15.7,
+    "count": 24,
+    "confidence": 1
+  },
+  "lego builder s journey": {
+    "id": 73040,
+    "name": "LEGO Builder's Journey",
+    "main": 2.4,
+    "extra": 2.6,
+    "complete": 2.6,
+    "count": 378,
+    "confidence": 1
+  },
+  "lego harry potter collection": {
+    "id": 47803,
+    "name": "LEGO Harry Potter Collection",
+    "main": 26.8,
+    "extra": 32.1,
+    "complete": 52.5,
+    "count": 56,
+    "confidence": 1
+  },
+  "lego marvel super heroes": {
+    "id": 14130,
+    "name": "LEGO Marvel Super Heroes",
+    "main": 12.3,
+    "extra": 24,
+    "complete": 39.4,
+    "count": 480,
+    "confidence": 1
+  },
+  "lone ruin": {
+    "id": 109778,
+    "name": "Lone Ruin",
+    "main": 1.9,
+    "extra": 4,
+    "complete": 5,
+    "count": 6,
+    "confidence": 1
+  },
+  "loop hero": {
+    "id": 86112,
+    "name": "Loop Hero",
+    "main": 28.6,
+    "extra": 37,
+    "complete": 54.7,
+    "count": 221,
+    "confidence": 1
+  },
+  "loop8 summer of gods": {
+    "id": 113906,
+    "name": "Loop8: Summer of Gods",
+    "main": 12.6,
+    "extra": 19.3,
+    "complete": 34,
+    "count": 8,
+    "confidence": 1
+  },
+  "lorelei and the laser eyes": {
+    "id": 109862,
+    "name": "Lorelei and the Laser Eyes",
+    "main": 17,
+    "extra": 20,
+    "complete": 23.3,
+    "count": 95,
+    "confidence": 1
+  },
+  "lost ember": {
+    "id": 66972,
+    "name": "Lost Ember",
+    "main": 4.1,
+    "extra": 5.9,
+    "complete": 11.1,
+    "count": 70,
+    "confidence": 1
+  },
+  "mario rabbids sparks of hope": {
+    "id": 93886,
+    "name": "Mario + Rabbids Sparks of Hope",
+    "main": 21.4,
+    "extra": 33.3,
+    "complete": 45.1,
+    "count": 116,
+    "confidence": 1
+  },
+  "mario golf super rush": {
+    "id": 88749,
+    "name": "Mario Golf: Super Rush",
+    "main": 8.1,
+    "extra": 12.4,
+    "complete": 51.5,
+    "count": 126,
+    "confidence": 1
+  },
+  "mario kart 8": {
+    "id": 43480,
+    "name": "Mario Kart 8 Deluxe",
+    "main": 6.3,
+    "extra": 22.7,
+    "complete": 53.8,
+    "count": 468,
+    "confidence": 1
+  },
+  "mario kart live home circuit": {
+    "id": 84023,
+    "name": "Mario Kart Live: Home Circuit",
+    "main": 4,
+    "extra": 6.8,
+    "complete": 17,
+    "count": 5,
+    "confidence": 1
+  },
+  "mario kart world": {
+    "id": 162277,
+    "name": "Mario Kart World",
+    "main": 4.2,
+    "extra": 16.6,
+    "complete": 54.9,
+    "count": 430,
+    "confidence": 1
+  },
+  "metal max xeno reborn": {
+    "id": 109084,
+    "name": "Metal Max Xeno Reborn",
+    "main": 15.6,
+    "extra": 25.5,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "metroid dread": {
+    "id": 94075,
+    "name": "Metroid Dread",
+    "main": 9.3,
+    "extra": 11.7,
+    "complete": 13.8,
+    "count": 1491,
+    "confidence": 1
+  },
+  "metroid prime 4 beyond": {
+    "id": 46437,
+    "name": "Metroid Prime 4: Beyond",
+    "main": 13.3,
+    "extra": 16.1,
+    "complete": 17.9,
+    "count": 223,
+    "confidence": 1
+  },
+  "metroid prime": {
+    "id": 5953,
+    "name": "Metroid Prime",
+    "main": 13.8,
+    "extra": 15.9,
+    "complete": 17.8,
+    "count": 853,
+    "confidence": 1
+  },
+  "moomintroll winter s warmth": {
+    "id": 169476,
+    "name": "Moomintroll: Winter's Warmth",
+    "main": 4.4,
+    "extra": 7,
+    "complete": 10.6,
+    "count": 10,
+    "confidence": 1
+  },
+  "moonlight peaks": {
+    "id": 131812,
+    "name": "Moonlight Peaks",
+    "main": 66.9,
+    "extra": 114.4,
+    "complete": 130,
+    "count": 1,
+    "confidence": 1
+  },
+  "morphies law": {
+    "id": 38203,
+    "name": "Morphies Law",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "morphite": {
+    "id": 52663,
+    "name": "Morphite",
+    "main": 10.5,
+    "extra": 35.1,
+    "complete": 98.4,
+    "count": 3,
+    "confidence": 1
+  },
+  "mortal kombat 11": {
+    "id": 62931,
+    "name": "Mortal Kombat 11",
+    "main": 6.3,
+    "extra": 18.4,
+    "complete": 61.1,
+    "count": 590,
+    "confidence": 1
+  },
+  "mortal kombat legacy kollection": {
+    "id": 169174,
+    "name": "Mortal Kombat: Legacy Kollection",
+    "main": 7.5,
+    "extra": 10.7,
+    "complete": 18.4,
+    "count": 8,
+    "confidence": 1
+  },
+  "naruto shippuden ninja storm trilogy": {
+    "id": 51722,
+    "name": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+    "main": 30.8,
+    "extra": 54.1,
+    "complete": 84.6,
+    "count": 8,
+    "confidence": 1
+  },
+  "natsu mon 20th century summer kid": {
+    "id": 132118,
+    "name": "Natsu-Mon: 20th Century Summer Kid",
+    "main": 16,
+    "extra": 31.3,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "nba 2k26": {
+    "id": 68855,
+    "name": "NBA 2K20",
+    "main": 49.9,
+    "extra": 123.8,
+    "complete": 301.8,
+    "count": 23,
+    "confidence": 1
+  },
+  "nba 2k27": {
+    "id": 68855,
+    "name": "NBA 2K20",
+    "main": 49.9,
+    "extra": 123.8,
+    "complete": 301.8,
+    "count": 23,
+    "confidence": 1
+  },
+  "nelke and the legendary alchemists ~ateliers of the new world~": {
+    "id": 65953,
+    "name": "Nelke & The Legendary Alchemists: Ateliers of the New World",
+    "main": 29.9,
+    "extra": 45.1,
+    "complete": 80.6,
+    "count": 7,
+    "confidence": 1
+  },
+  "ninja gaiden master collection": {
+    "id": 89284,
+    "name": "Ninja Gaiden: Master Collection",
+    "main": 27.9,
+    "extra": 34.6,
+    "complete": 106,
+    "count": 8,
+    "confidence": 1
+  },
+  "ninja shodown": {
+    "id": 80350,
+    "name": "Ninja Shodown",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "ninjala": {
+    "id": 77486,
+    "name": "Ninjala",
+    "main": 1.5,
+    "extra": null,
+    "complete": 1.5,
+    "count": 2,
+    "confidence": 1
+  },
+  "nintendo switch 2 welcome tour": {
+    "id": 166266,
+    "name": "Nintendo Switch 2 Welcome Tour",
+    "main": 5.4,
+    "extra": 8,
+    "complete": 10.3,
+    "count": 34,
+    "confidence": 1
+  },
+  "nintendo switch sports": {
+    "id": 103824,
+    "name": "Nintendo Switch Sports",
+    "main": 3.8,
+    "extra": 13.2,
+    "complete": 111.7,
+    "count": 41,
+    "confidence": 1
+  },
+  "olliolli world": {
+    "id": 91070,
+    "name": "OlliOlli World",
+    "main": 5.4,
+    "extra": 12,
+    "complete": 56.2,
+    "count": 106,
+    "confidence": 1
+  },
+  "olliolli switch stance": {
+    "id": 82794,
+    "name": "OlliOlli: Switch Stance",
+    "main": 5.8,
+    "extra": 19,
+    "complete": null,
+    "count": 8,
+    "confidence": 1
+  },
+  "olympia soirée": {
+    "id": 87225,
+    "name": "Olympia Soirée",
+    "main": 17,
+    "extra": 35.9,
+    "complete": 56,
+    "count": 8,
+    "confidence": 1
+  },
+  "once upon a jester": {
+    "id": 116753,
+    "name": "Once Upon a Jester",
+    "main": 3.2,
+    "extra": 3.8,
+    "complete": 3.8,
+    "count": 22,
+    "confidence": 1
+  },
+  "once upon a katamari": {
+    "id": 171891,
+    "name": "Once Upon a Katamari",
+    "main": 7.3,
+    "extra": 11.7,
+    "complete": 21.3,
+    "count": 62,
+    "confidence": 1
+  },
+  "oxenfree 2 lost signals": {
+    "id": 91131,
+    "name": "Oxenfree II: Lost Signals",
+    "main": 6,
+    "extra": 7.7,
+    "complete": 16.6,
+    "count": 114,
+    "confidence": 1
+  },
+  "persona 5 tactica": {
+    "id": 129806,
+    "name": "Persona 5 Tactica",
+    "main": 24.1,
+    "extra": 30.6,
+    "complete": 39.8,
+    "count": 126,
+    "confidence": 1
+  },
+  "planet alpha": {
+    "id": 60334,
+    "name": "Planet Alpha",
+    "main": 5.1,
+    "extra": 6.2,
+    "complete": 6.4,
+    "count": 60,
+    "confidence": 1
+  },
+  "please touch the artwork": {
+    "id": 103055,
+    "name": "Please, Touch the Artwork",
+    "main": 2.7,
+    "extra": 3.2,
+    "complete": 3.4,
+    "count": 11,
+    "confidence": 1
+  },
+  "please touch the artwork 2": {
+    "id": 145791,
+    "name": "Please, Touch The Artwork 2",
+    "main": 0.9,
+    "extra": 0.9,
+    "complete": 1,
+    "count": 31,
+    "confidence": 1
+  },
+  "pocket rumble": {
+    "id": 34934,
+    "name": "Pocket Rumble",
+    "main": 1.3,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "pocky and rocky reshrined": {
+    "id": 103353,
+    "name": "Pocky & Rocky Reshrined",
+    "main": 2.6,
+    "extra": 3.9,
+    "complete": 7,
+    "count": 47,
+    "confidence": 1
+  },
+  "pode": {
+    "id": 54684,
+    "name": "Pode",
+    "main": 4.6,
+    "extra": 6,
+    "complete": 6.3,
+    "count": 9,
+    "confidence": 1
+  },
+  "poi explorer": {
+    "id": 34230,
+    "name": "Poi",
+    "main": 5.7,
+    "extra": 6.9,
+    "complete": 8.8,
+    "count": 24,
+    "confidence": 1
+  },
+  "prinny presents nis classics volume 2 makai kingdom reclaimed and rebound zhp unlosing ranger vs darkdeath evilman": {
+    "id": 108270,
+    "name": "Prinny Presents: NIS Classics - Volume 2",
+    "main": 38,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "process of elimination": {
+    "id": 113892,
+    "name": "Process of Elimination",
+    "main": 17,
+    "extra": 23.1,
+    "complete": 23.5,
+    "count": 13,
+    "confidence": 1
+  },
+  "project warlock": {
+    "id": 48457,
+    "name": "Project Warlock",
+    "main": 6.4,
+    "extra": 8.1,
+    "complete": 13.6,
+    "count": 133,
+    "confidence": 1
+  },
+  "record of lodoss war deedlit in wonder labyrinth": {
+    "id": 76217,
+    "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+    "main": 6.2,
+    "extra": 7.1,
+    "complete": 8.7,
+    "count": 211,
+    "confidence": 1
+  },
+  "red faction guerrilla re mars tered": {
+    "id": 58222,
+    "name": "Red Faction: Guerrilla Re-Mars-tered",
+    "main": 11.1,
+    "extra": 18.6,
+    "complete": 42.5,
+    "count": 83,
+    "confidence": 1
+  },
+  "red wings aces of the sky": {
+    "id": 90099,
+    "name": "Red Wings: Aces of the Sky",
+    "main": 5.1,
+    "extra": 9,
+    "complete": 15.6,
+    "count": 10,
+    "confidence": 1
+  },
+  "regalia of men and monarchs royal": {
+    "id": 72370,
+    "name": "Regalia: Of Men and Monarchs - Royal Edition",
+    "main": 28.2,
+    "extra": 28.5,
+    "complete": 35.8,
+    "count": 3,
+    "confidence": 1
+  },
+  "river city girls": {
+    "id": 69993,
+    "name": "River City Girls",
+    "main": 7,
+    "extra": 8.6,
+    "complete": 15.8,
+    "count": 191,
+    "confidence": 1
+  },
+  "river city girls 2": {
+    "id": 94082,
+    "name": "River City Girls 2",
+    "main": 12.5,
+    "extra": 15.6,
+    "complete": 22.9,
+    "count": 32,
+    "confidence": 1
+  },
+  "river city girls zero": {
+    "id": 94083,
+    "name": "River City Girls Zero",
+    "main": 3.4,
+    "extra": 4,
+    "complete": 4,
+    "count": 21,
+    "confidence": 1
+  },
+  "river city saga three kingdoms": {
+    "id": 111141,
+    "name": "River City Saga: Three Kingdoms",
+    "main": 9.7,
+    "extra": 18.9,
+    "complete": 37,
+    "count": 2,
+    "confidence": 1
+  },
+  "semblance": {
+    "id": 57591,
+    "name": "Semblance",
+    "main": 3.9,
+    "extra": 4.5,
+    "complete": 4.8,
+    "count": 16,
+    "confidence": 1
+  },
+  "shin megami tensei 5 vengeance": {
+    "id": 145836,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "main": 45.3,
+    "extra": 70,
+    "complete": 114.5,
+    "count": 99,
+    "confidence": 1
+  },
+  "shining resonance refrain": {
+    "id": 55566,
+    "name": "Shining Resonance Refrain",
+    "main": 30.1,
+    "extra": 41.3,
+    "complete": 64.3,
+    "count": 47,
+    "confidence": 1
+  },
+  "shinobi art of vengeance": {
+    "id": 163815,
+    "name": "Shinobi: Art of Vengeance",
+    "main": 10,
+    "extra": 13.9,
+    "complete": 18,
+    "count": 73,
+    "confidence": 1
+  },
+  "shinsekai into the depths": {
+    "id": 71962,
+    "name": "Shinsekai: Into the Depths",
+    "main": 9.8,
+    "extra": 10.3,
+    "complete": 14.3,
+    "count": 18,
+    "confidence": 1
+  },
+  "shiren the wanderer the mystery dungeon of serpentcoil island": {
+    "id": 138190,
+    "name": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+    "main": 12.5,
+    "extra": 46.4,
+    "complete": null,
+    "count": 13,
+    "confidence": 1
+  },
+  "sky children of the light": {
+    "id": 68383,
+    "name": "Sky: Children of the Light",
+    "main": 5.1,
+    "extra": 11.6,
+    "complete": 32.4,
+    "count": 46,
+    "confidence": 1
+  },
+  "slay the spire": {
+    "id": 51390,
+    "name": "Slay the Spire",
+    "main": 12.5,
+    "extra": 47.4,
+    "complete": 191,
+    "count": 742,
+    "confidence": 1
+  },
+  "slime san": {
+    "id": 44018,
+    "name": "Slime-san",
+    "main": 9.1,
+    "extra": 20.6,
+    "complete": 46.9,
+    "count": 11,
+    "confidence": 1
+  },
+  "sonic racing crossworlds open network test": {
+    "id": 160622,
+    "name": "Sonic Racing: CrossWorlds",
+    "main": 4.5,
+    "extra": 17.7,
+    "complete": 65.4,
+    "count": 92,
+    "confidence": 1
+  },
+  "sonic superstars": {
+    "id": 129786,
+    "name": "Sonic Superstars",
+    "main": 5.2,
+    "extra": 9.4,
+    "complete": 17.8,
+    "count": 165,
+    "confidence": 1
+  },
+  "soulblight": {
+    "id": 56395,
+    "name": "Soulblight",
+    "main": 8.2,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "souldiers": {
+    "id": 104457,
+    "name": "Souldiers",
+    "main": 25.5,
+    "extra": 35.1,
+    "complete": 53.7,
+    "count": 23,
+    "confidence": 1
+  },
+  "south of the circle": {
+    "id": 84578,
+    "name": "South of the Circle",
+    "main": 3.6,
+    "extra": 3.7,
+    "complete": 3.9,
+    "count": 90,
+    "confidence": 1
+  },
+  "star wars pinball": {
+    "id": 65798,
+    "name": "Star Wars Pinball",
+    "main": 10,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "star wars republic commando": {
+    "id": 9119,
+    "name": "Star Wars: Republic Commando",
+    "main": 8.7,
+    "extra": 9.9,
+    "complete": 10.2,
+    "count": 437,
+    "confidence": 1
+  },
+  "star wars dark forces remaster": {
+    "id": 9100,
+    "name": "Star Wars: Dark Forces",
+    "main": 8.4,
+    "extra": 10.1,
+    "complete": 11.8,
+    "count": 262,
+    "confidence": 1
+  },
+  "steins;gate re boot": {
+    "id": 177552,
+    "name": "Steins;Gate RE:BOOT",
+    "main": 25,
+    "extra": null,
+    "complete": 34.3,
+    "count": 1,
+    "confidence": 1
+  },
+  "steins;gate re boot content": {
+    "id": 177552,
+    "name": "Steins;Gate RE:BOOT",
+    "main": 25,
+    "extra": null,
+    "complete": 34.3,
+    "count": 1,
+    "confidence": 1
+  },
+  "stubbs the zombie in rebel without a pulse": {
+    "id": 9284,
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "main": 6,
+    "extra": 7.7,
+    "complete": 9.1,
+    "count": 108,
+    "confidence": 1
+  },
+  "subnautica below zero": {
+    "id": 64768,
+    "name": "Subnautica: Below Zero",
+    "main": 20.2,
+    "extra": 26.4,
+    "complete": 30.9,
+    "count": 279,
+    "confidence": 1
+  },
+  "subsurface circular": {
+    "id": 48311,
+    "name": "Subsurface Circular",
+    "main": 2,
+    "extra": 2.3,
+    "complete": 2.4,
+    "count": 193,
+    "confidence": 1
+  },
+  "suicide guy": {
+    "id": 47380,
+    "name": "Suicide Guy",
+    "main": 3.1,
+    "extra": 3.5,
+    "complete": 4.3,
+    "count": 30,
+    "confidence": 1
+  },
+  "suicide guy sleepin deeply": {
+    "id": 66806,
+    "name": "Suicide Guy: Sleepin' Deeply",
+    "main": 1.9,
+    "extra": 2,
+    "complete": 2.4,
+    "count": 7,
+    "confidence": 1
+  },
+  "super monkey ball banana blitz hd": {
+    "id": 71587,
+    "name": "Super Monkey Ball: Banana Blitz HD",
+    "main": 4.9,
+    "extra": 6,
+    "complete": 7.4,
+    "count": 56,
+    "confidence": 1
+  },
+  "super one more jump": {
+    "id": 54779,
+    "name": "Super One More Jump",
+    "main": 5.9,
+    "extra": 8.1,
+    "complete": 9.5,
+    "count": 6,
+    "confidence": 1
+  },
+  "survival kids": {
+    "id": 166282,
+    "name": "Survival Kids",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "sushi striker the way of sushido": {
+    "id": 57420,
+    "name": "Sushi Striker: The Way of Sushido",
+    "main": 15,
+    "extra": 25.9,
+    "complete": 44.8,
+    "count": 23,
+    "confidence": 1
+  },
+  "swim out": {
+    "id": 59443,
+    "name": "Swim Out",
+    "main": null,
+    "extra": 2.8,
+    "complete": 6.4,
+    "count": 0,
+    "confidence": 1
+  },
+  "sword of the necromancer": {
+    "id": 82602,
+    "name": "Sword of the Necromancer",
+    "main": 8.4,
+    "extra": 9.6,
+    "complete": 16,
+    "count": 7,
+    "confidence": 1
+  },
+  "sword of the necromancer resurrection": {
+    "id": 82602,
+    "name": "Sword of the Necromancer",
+    "main": 8.4,
+    "extra": 9.6,
+    "complete": 16,
+    "count": 7,
+    "confidence": 1
+  },
+  "syberia": {
+    "id": 9521,
+    "name": "Syberia",
+    "main": 9.6,
+    "extra": 11.3,
+    "complete": 12.1,
+    "count": 313,
+    "confidence": 1
+  },
+  "sympathy kiss": {
+    "id": 112727,
+    "name": "Sympathy Kiss",
+    "main": 4,
+    "extra": 20.2,
+    "complete": 29.2,
+    "count": 4,
+    "confidence": 1
+  },
+  "tactics ogre reborn": {
+    "id": 111710,
+    "name": "Tactics Ogre: Reborn",
+    "main": 54.1,
+    "extra": 97,
+    "complete": 176.2,
+    "count": 51,
+    "confidence": 1
+  },
+  "tadpole treble encore": {
+    "id": 90833,
+    "name": "Tadpole Treble Encore",
+    "main": 1.8,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "taiko no tatsujin rhythm festival": {
+    "id": 109665,
+    "name": "Taiko no Tatsujin: Rhythm Festival",
+    "main": 10.6,
+    "extra": 32.7,
+    "complete": 33.7,
+    "count": 20,
+    "confidence": 1
+  },
+  "taiko no tatsujin rhythmic adventure pack": {
+    "id": 86724,
+    "name": "Taiko no Tatsujin: Rhythmic Adventure Pack",
+    "main": 14.8,
+    "extra": 15.3,
+    "complete": 50,
+    "count": 8,
+    "confidence": 1
+  },
+  "taito milestones": {
+    "id": 106936,
+    "name": "Taito Milestones",
+    "main": 20,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "taito milestones 2": {
+    "id": 141809,
+    "name": "Taito Milestones 2",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "taito milestones 3": {
+    "id": 162591,
+    "name": "Taito Milestones 3",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "tales of berseria": {
+    "id": 33713,
+    "name": "Tales of Berseria",
+    "main": 44.5,
+    "extra": 67.4,
+    "complete": 152.5,
+    "count": 561,
+    "confidence": 1
+  },
+  "tales of symphonia": {
+    "id": 9603,
+    "name": "Tales of Symphonia",
+    "main": 46.6,
+    "extra": 62.5,
+    "complete": 189.7,
+    "count": 363,
+    "confidence": 1
+  },
+  "tales of the shire a the lord of the rings game": {
+    "id": 138137,
+    "name": "Tales of the Shire: A The Lord of the Rings Game",
+    "main": 17,
+    "extra": 20.5,
+    "complete": 39.9,
+    "count": 9,
+    "confidence": 1
+  },
+  "tales of vesperia": {
+    "id": 64159,
+    "name": "Tales of Vesperia: Definitive Edition",
+    "main": 45.4,
+    "extra": 69,
+    "complete": 145.1,
+    "count": 395,
+    "confidence": 1
+  },
+  "tamagotchi plaza": {
+    "id": 165843,
+    "name": "Tamagotchi Plaza",
+    "main": 18.9,
+    "extra": 22,
+    "complete": 24.5,
+    "count": 3,
+    "confidence": 1
+  },
+  "tangle tower": {
+    "id": 70781,
+    "name": "Tangle Tower",
+    "main": 5.5,
+    "extra": 6.1,
+    "complete": 6.2,
+    "count": 101,
+    "confidence": 1
+  },
+  "tangledeep": {
+    "id": 48466,
+    "name": "Tangledeep",
+    "main": 18.4,
+    "extra": 20.2,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "tanuki justice": {
+    "id": 90465,
+    "name": "Tanuki Justice",
+    "main": 1.6,
+    "extra": 4.1,
+    "complete": 5,
+    "count": 12,
+    "confidence": 1
+  },
+  "taxi chaos": {
+    "id": 88985,
+    "name": "Taxi Chaos",
+    "main": null,
+    "extra": 3.5,
+    "complete": 7.9,
+    "count": 0,
+    "confidence": 1
+  },
+  "team sonic racing": {
+    "id": 67297,
+    "name": "Team Sonic Racing",
+    "main": 9,
+    "extra": 13.9,
+    "complete": 26.8,
+    "count": 90,
+    "confidence": 1
+  },
+  "teenage mutant ninja turtles shredder s revenge": {
+    "id": 89573,
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "main": 2.9,
+    "extra": 4.1,
+    "complete": 20.2,
+    "count": 1146,
+    "confidence": 1
+  },
+  "teenage mutant ninja turtles splintered fate": {
+    "id": 137422,
+    "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+    "main": 9,
+    "extra": 20.3,
+    "complete": 30.6,
+    "count": 51,
+    "confidence": 1
+  },
+  "teenage mutant ninja turtles tactical takedown": {
+    "id": 160297,
+    "name": "Teenage Mutant Ninja Turtles: Tactical Takedown",
+    "main": 5.5,
+    "extra": 6.4,
+    "complete": 7.3,
+    "count": 10,
+    "confidence": 1
+  },
+  "teenage mutant ninja turtles the cowabunga collection": {
+    "id": 107321,
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "main": 10.2,
+    "extra": 13.2,
+    "complete": 16.3,
+    "count": 19,
+    "confidence": 1
+  },
+  "temirana the lucky princess and the tragic knights": {
+    "id": 104400,
+    "name": "Temirana: The Lucky Princess and the Tragic Knights",
+    "main": 15,
+    "extra": 30,
+    "complete": 60,
+    "count": 1,
+    "confidence": 1
+  },
+  "temtem": {
+    "id": 58133,
+    "name": "Temtem",
+    "main": 57.8,
+    "extra": 79.2,
+    "complete": 206.3,
+    "count": 34,
+    "confidence": 1
+  },
+  "tens": {
+    "id": 89132,
+    "name": "TENS!",
+    "main": 9,
+    "extra": 10,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "terminator 2d no fate": {
+    "id": 164584,
+    "name": "Terminator 2D: No Fate",
+    "main": 1.2,
+    "extra": 3.5,
+    "complete": 6.8,
+    "count": 111,
+    "confidence": 1
+  },
+  "terror squid": {
+    "id": 123468,
+    "name": "Terror Squid",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "tesla vs lovecraft": {
+    "id": 52846,
+    "name": "Tesla vs Lovecraft",
+    "main": 3,
+    "extra": 7.3,
+    "complete": 13.8,
+    "count": 32,
+    "confidence": 1
+  },
+  "teslagrad": {
+    "id": 15472,
+    "name": "Teslagrad",
+    "main": 5.1,
+    "extra": 5.6,
+    "complete": 7.1,
+    "count": 107,
+    "confidence": 1
+  },
+  "tetris 99": {
+    "id": 64989,
+    "name": "Tetris 99",
+    "main": 7.3,
+    "extra": 27.3,
+    "complete": 54.4,
+    "count": 34,
+    "confidence": 1
+  },
+  "tetris forever": {
+    "id": 155980,
+    "name": "Tetris Forever",
+    "main": 4.5,
+    "extra": 7,
+    "complete": 7.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "tharsis": {
+    "id": 33590,
+    "name": "Tharsis",
+    "main": 2.2,
+    "extra": 4.8,
+    "complete": 12.9,
+    "count": 46,
+    "confidence": 1
+  },
+  "the adventure pals": {
+    "id": 53077,
+    "name": "The Adventure Pals",
+    "main": 8.6,
+    "extra": 10.2,
+    "complete": 11.9,
+    "count": 48,
+    "confidence": 1
+  },
+  "the adventures of elliot the millennium tales": {
+    "id": 171895,
+    "name": "The Adventures of Elliot: The Millennium Tales",
+    "main": 18.5,
+    "extra": 27,
+    "complete": 34.6,
+    "count": 33,
+    "confidence": 1
+  },
+  "the alliance alive hd": {
+    "id": 51422,
+    "name": "The Alliance Alive",
+    "main": 30.9,
+    "extra": 37.4,
+    "complete": 45,
+    "count": 25,
+    "confidence": 1
+  },
+  "the almost gone": {
+    "id": 80269,
+    "name": "The Almost Gone",
+    "main": 2.5,
+    "extra": 2.9,
+    "complete": 5.2,
+    "count": 74,
+    "confidence": 1
+  },
+  "the battle of polytopia": {
+    "id": 50694,
+    "name": "The Battle of Polytopia",
+    "main": 1.3,
+    "extra": 3.4,
+    "complete": 12.6,
+    "count": 18,
+    "confidence": 1
+  },
+  "the book of unwritten tales 2": {
+    "id": 21507,
+    "name": "The Book of Unwritten Tales 2",
+    "main": 19.9,
+    "extra": 23.6,
+    "complete": 26,
+    "count": 33,
+    "confidence": 1
+  },
+  "the bug butcher": {
+    "id": 28555,
+    "name": "The Bug Butcher",
+    "main": 2.3,
+    "extra": 5.5,
+    "complete": 7.4,
+    "count": 23,
+    "confidence": 1
+  },
+  "the caligula effect 2": {
+    "id": 89437,
+    "name": "The Caligula Effect 2",
+    "main": 27.3,
+    "extra": 42.1,
+    "complete": 71.9,
+    "count": 12,
+    "confidence": 1
+  },
+  "the caligula effect overdose": {
+    "id": 60562,
+    "name": "The Caligula Effect: Overdose",
+    "main": 26.7,
+    "extra": 38.4,
+    "complete": 73.6,
+    "count": 30,
+    "confidence": 1
+  },
+  "the centennial case a shijima story": {
+    "id": 107689,
+    "name": "The Centennial Case: A Shijima Story",
+    "main": 15,
+    "extra": 15.7,
+    "complete": 15.9,
+    "count": 6,
+    "confidence": 1
+  },
+  "the colonists": {
+    "id": 65335,
+    "name": "The Colonists",
+    "main": 73,
+    "extra": null,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "the coma 2 vicious sisters": {
+    "id": 75365,
+    "name": "The Coma 2: Vicious Sisters",
+    "main": 8.2,
+    "extra": 8.9,
+    "complete": 11.6,
+    "count": 21,
+    "confidence": 1
+  },
+  "the coma recut": {
+    "id": 49417,
+    "name": "The Coma: Recut",
+    "main": 4.9,
+    "extra": 5.1,
+    "complete": 6.8,
+    "count": 46,
+    "confidence": 1
+  },
+  "the company man": {
+    "id": 94502,
+    "name": "The Company Man",
+    "main": 3.3,
+    "extra": 4.4,
+    "complete": 4.8,
+    "count": 17,
+    "confidence": 1
+  },
+  "the cosmic wheel sisterhood": {
+    "id": 127731,
+    "name": "The Cosmic Wheel Sisterhood",
+    "main": 7.6,
+    "extra": 9.1,
+    "complete": 11.4,
+    "count": 110,
+    "confidence": 1
+  },
+  "the count lucanor": {
+    "id": 35895,
+    "name": "The Count Lucanor",
+    "main": 3.6,
+    "extra": 4.1,
+    "complete": 6,
+    "count": 74,
+    "confidence": 1
+  },
+  "the cruel king and the great hero": {
+    "id": 95792,
+    "name": "The Cruel King and the Great Hero",
+    "main": 15.2,
+    "extra": 23.1,
+    "complete": 37,
+    "count": 10,
+    "confidence": 1
+  },
+  "the dark crystal age of resistance tactics": {
+    "id": 69525,
+    "name": "The Dark Crystal: Age of Resistance Tactics",
+    "main": 14.2,
+    "extra": 18.3,
+    "complete": 21.2,
+    "count": 3,
+    "confidence": 1
+  },
+  "the darkside detective a fumble in the dark": {
+    "id": 47682,
+    "name": "The Darkside Detective",
+    "main": 3.7,
+    "extra": 5.6,
+    "complete": 6.5,
+    "count": 153,
+    "confidence": 1
+  },
+  "the deer god": {
+    "id": 25229,
+    "name": "The Deer God",
+    "main": 3.4,
+    "extra": 5.1,
+    "complete": 9.8,
+    "count": 11,
+    "confidence": 1
+  },
+  "the diofield chronicle": {
+    "id": 105293,
+    "name": "The DioField Chronicle",
+    "main": 25.4,
+    "extra": 31.4,
+    "complete": 32.3,
+    "count": 25,
+    "confidence": 1
+  },
+  "the disney afternoon collection": {
+    "id": 44879,
+    "name": "The Disney Afternoon Collection",
+    "main": 5.8,
+    "extra": 8.5,
+    "complete": 10.5,
+    "count": 10,
+    "confidence": 1
+  },
+  "the drifter": {
+    "id": 151482,
+    "name": "The Drifter",
+    "main": 8.5,
+    "extra": 9,
+    "complete": 9.3,
+    "count": 78,
+    "confidence": 1
+  },
+  "the elder scrolls 5 skyrim": {
+    "id": 116007,
+    "name": "The Elder Scrolls V: Skyrim - Anniversary Edition",
+    "main": 37.5,
+    "extra": 100.4,
+    "complete": 171.6,
+    "count": 25,
+    "confidence": 1
+  },
+  "the end is nigh": {
+    "id": 47066,
+    "name": "The End Is Nigh",
+    "main": 8.3,
+    "extra": 15.7,
+    "complete": 68.1,
+    "count": 65,
+    "confidence": 1
+  },
+  "the escapists 2": {
+    "id": 47540,
+    "name": "The Escapists 2",
+    "main": 17,
+    "extra": 31.9,
+    "complete": 59.7,
+    "count": 35,
+    "confidence": 1
+  },
+  "the escapists": {
+    "id": 111291,
+    "name": "The Escapists: Complete Edition",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "the eternal castle": {
+    "id": 63226,
+    "name": "The Eternal Castle [REMASTERED]",
+    "main": 2.7,
+    "extra": 3.5,
+    "complete": 6.3,
+    "count": 29,
+    "confidence": 1
+  },
+  "the excavation of hob s barrow": {
+    "id": 113470,
+    "name": "The Excavation of Hob's Barrow",
+    "main": 7,
+    "extra": 7.8,
+    "complete": 8,
+    "count": 116,
+    "confidence": 1
+  },
+  "the fall part 2 unbound": {
+    "id": 53283,
+    "name": "The Fall Part 2: Unbound",
+    "main": 7.1,
+    "extra": 7.6,
+    "complete": 10.6,
+    "count": 34,
+    "confidence": 1
+  },
+  "the flame in the flood": {
+    "id": 29911,
+    "name": "The Flame in the Flood",
+    "main": 8.6,
+    "extra": 13.6,
+    "complete": 49.9,
+    "count": 87,
+    "confidence": 1
+  },
+  "the forbidden arts": {
+    "id": 63312,
+    "name": "The Forbidden Arts",
+    "main": null,
+    "extra": 9,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "the friends of ringo ishikawa": {
+    "id": 56806,
+    "name": "The friends of Ringo Ishikawa",
+    "main": 7.7,
+    "extra": 11.3,
+    "complete": 15.9,
+    "count": 25,
+    "confidence": 1
+  },
+  "the game of life 2": {
+    "id": 87366,
+    "name": "The Game of Life 2",
+    "main": 1.6,
+    "extra": 6.5,
+    "complete": 19.4,
+    "count": 12,
+    "confidence": 1
+  },
+  "the good life": {
+    "id": 99075,
+    "name": "The Good Life",
+    "main": 12.7,
+    "extra": 21.6,
+    "complete": 36.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "the great ace attorney chronicles": {
+    "id": 91414,
+    "name": "The Great Ace Attorney Chronicles",
+    "main": 66.6,
+    "extra": 75.5,
+    "complete": 80.3,
+    "count": 224,
+    "confidence": 1
+  },
+  "the hong kong massacre": {
+    "id": 64412,
+    "name": "The Hong Kong Massacre",
+    "main": 3.9,
+    "extra": 6,
+    "complete": 10.4,
+    "count": 54,
+    "confidence": 1
+  },
+  "the house of the dead remake": {
+    "id": 94254,
+    "name": "The House of the Dead: Remake",
+    "main": 0.8,
+    "extra": 2.4,
+    "complete": 6.1,
+    "count": 147,
+    "confidence": 1
+  },
+  "the hundred line last defense academy": {
+    "id": 152379,
+    "name": "The Hundred Line: Last Defense Academy",
+    "main": 35.5,
+    "extra": 80.1,
+    "complete": 165.5,
+    "count": 91,
+    "confidence": 1
+  },
+  "the jackbox party pack 5": {
+    "id": 61888,
+    "name": "The Jackbox Party Pack 5",
+    "main": 3.3,
+    "extra": 3.6,
+    "complete": 4.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "the jackbox party pack 7": {
+    "id": 84086,
+    "name": "The Jackbox Party Pack 7",
+    "main": 3.7,
+    "extra": 7.2,
+    "complete": 16.4,
+    "count": 11,
+    "confidence": 1
+  },
+  "the kids we were": {
+    "id": 100650,
+    "name": "The Kids We Were",
+    "main": 7,
+    "extra": 7.2,
+    "complete": 8.6,
+    "count": 2,
+    "confidence": 1
+  },
+  "the king s bird": {
+    "id": 58024,
+    "name": "The King's Bird",
+    "main": 9.2,
+    "extra": 14.1,
+    "complete": 14.9,
+    "count": 11,
+    "confidence": 1
+  },
+  "the lara croft collection": {
+    "id": 145319,
+    "name": "The Lara Croft Collection",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "the last blade beyond the destiny": {
+    "id": 9992,
+    "name": "The Last Blade: Beyond The Destiny",
+    "main": 0.4,
+    "extra": null,
+    "complete": 11.9,
+    "count": 19,
+    "confidence": 1
+  },
+  "the last campfire": {
+    "id": 69314,
+    "name": "The Last Campfire",
+    "main": 5.2,
+    "extra": 6,
+    "complete": 6.5,
+    "count": 171,
+    "confidence": 1
+  },
+  "the last friend": {
+    "id": 99449,
+    "name": "The Last Friend",
+    "main": 5.5,
+    "extra": 7.1,
+    "complete": 9.9,
+    "count": 2,
+    "confidence": 1
+  },
+  "the last remnant": {
+    "id": 9999,
+    "name": "The Last Remnant",
+    "main": 62.3,
+    "extra": 73.1,
+    "complete": 145.3,
+    "count": 25,
+    "confidence": 1
+  },
+  "the legend of heroes trails beyond the horizon": {
+    "id": 153294,
+    "name": "The Legend of Heroes: Trails beyond the Horizon",
+    "main": 53.7,
+    "extra": 85.7,
+    "complete": 109.7,
+    "count": 18,
+    "confidence": 1
+  },
+  "the legend of heroes trails from zero": {
+    "id": 10599,
+    "name": "The Legend of Heroes: Trails from Zero",
+    "main": 38.5,
+    "extra": 59,
+    "complete": 79.4,
+    "count": 117,
+    "confidence": 1
+  },
+  "the legend of heroes trails into reverie": {
+    "id": 82480,
+    "name": "The Legend of Heroes: Trails into Reverie",
+    "main": 43.6,
+    "extra": 86.4,
+    "complete": 117.6,
+    "count": 89,
+    "confidence": 1
+  },
+  "the legend of heroes trails of cold steel 3": {
+    "id": 55663,
+    "name": "The Legend of Heroes: Trails of Cold Steel III",
+    "main": 60.2,
+    "extra": 97,
+    "complete": 122.8,
+    "count": 85,
+    "confidence": 1
+  },
+  "the legend of heroes trails to azure": {
+    "id": 10598,
+    "name": "The Legend of Heroes: Trails to Azure",
+    "main": 43,
+    "extra": 67.5,
+    "complete": 100.9,
+    "count": 71,
+    "confidence": 1
+  },
+  "the legend of legacy hd": {
+    "id": 29445,
+    "name": "The Legend of Legacy",
+    "main": 32.5,
+    "extra": 49.1,
+    "complete": 74.1,
+    "count": 14,
+    "confidence": 1
+  },
+  "the legend of nayuta boundless trails": {
+    "id": 6426,
+    "name": "The Legend of Nayuta: Boundless Trails",
+    "main": 18.6,
+    "extra": 27,
+    "complete": 48.5,
+    "count": 28,
+    "confidence": 1
+  },
+  "the legend of steel empire": {
+    "id": 13184,
+    "name": "Steel Empire",
+    "main": 1.2,
+    "extra": 1.5,
+    "complete": null,
+    "count": 28,
+    "confidence": 1
+  },
+  "the legend of zelda breath of the wild": {
+    "id": 38019,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "main": 50.3,
+    "extra": 98.4,
+    "complete": 193.6,
+    "count": 2843,
+    "confidence": 1
+  },
+  "the legend of zelda echoes of wisdom": {
+    "id": 152370,
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "main": 21.1,
+    "extra": 26.6,
+    "complete": 34.4,
+    "count": 373,
+    "confidence": 1
+  },
+  "the legend of zelda link s awakening": {
+    "id": 66255,
+    "name": "The Legend of Zelda: Link's Awakening",
+    "main": 14.1,
+    "extra": 16.5,
+    "complete": 20.8,
+    "count": 1008,
+    "confidence": 1
+  },
+  "the legend of zelda ocarina of time": {
+    "id": 187305,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "main": 16.5,
+    "extra": 20.9,
+    "complete": 24.1,
+    "count": 15,
+    "confidence": 1
+  },
+  "the legend of zelda skyward sword hd": {
+    "id": 88748,
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "main": 30.8,
+    "extra": 38.7,
+    "complete": 42.2,
+    "count": 482,
+    "confidence": 1
+  },
+  "the legend of zelda tears of the kingdom": {
+    "id": 72589,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "main": 59.3,
+    "extra": 117.6,
+    "complete": 247.7,
+    "count": 713,
+    "confidence": 1
+  },
+  "the lego movie 2 videogame": {
+    "id": 65199,
+    "name": "The LEGO Movie 2 Videogame",
+    "main": 5.7,
+    "extra": 8.9,
+    "complete": 16.6,
+    "count": 42,
+    "confidence": 1
+  },
+  "the liar princess and the blind prince": {
+    "id": 64700,
+    "name": "The Liar Princess and the Blind Prince",
+    "main": 4.5,
+    "extra": 5.2,
+    "complete": 7.1,
+    "count": 61,
+    "confidence": 1
+  },
+  "the lion s song": {
+    "id": 38571,
+    "name": "The Lion's Song",
+    "main": 3.9,
+    "extra": 5.3,
+    "complete": 24.6,
+    "count": 69,
+    "confidence": 1
+  },
+  "the long reach": {
+    "id": 54166,
+    "name": "The Long Reach",
+    "main": 2.9,
+    "extra": 3.1,
+    "complete": 3.2,
+    "count": 32,
+    "confidence": 1
+  },
+  "the longest five minutes": {
+    "id": 53268,
+    "name": "The Longest 5 Minutes",
+    "main": 8.7,
+    "extra": 11.1,
+    "complete": 15,
+    "count": 9,
+    "confidence": 1
+  },
+  "the low road": {
+    "id": 49682,
+    "name": "The Low Road",
+    "main": 3.1,
+    "extra": 4.2,
+    "complete": 5,
+    "count": 12,
+    "confidence": 1
+  },
+  "the mageseeker a league of legends story": {
+    "id": 124322,
+    "name": "The Mageseeker: A League of Legends Story",
+    "main": 8.8,
+    "extra": 12.3,
+    "complete": 14.6,
+    "count": 23,
+    "confidence": 1
+  },
+  "the making of karateka": {
+    "id": 131579,
+    "name": "The Making of Karateka",
+    "main": 4.1,
+    "extra": 6.1,
+    "complete": 9.2,
+    "count": 8,
+    "confidence": 1
+  },
+  "the messenger": {
+    "id": 60176,
+    "name": "The Messenger",
+    "main": 12,
+    "extra": 14.5,
+    "complete": 16.1,
+    "count": 491,
+    "confidence": 1
+  },
+  "the mooseman": {
+    "id": 44230,
+    "name": "The Mooseman",
+    "main": 1.7,
+    "extra": 2.3,
+    "complete": 3.2,
+    "count": 38,
+    "confidence": 1
+  },
+  "the mummy demastered": {
+    "id": 49860,
+    "name": "The Mummy Demastered",
+    "main": 4.9,
+    "extra": 5.6,
+    "complete": 7,
+    "count": 56,
+    "confidence": 1
+  },
+  "the ninja saviors return of the warriors": {
+    "id": 70500,
+    "name": "The Ninja Saviors: Return of the Warriors",
+    "main": 2,
+    "extra": 4,
+    "complete": 7.1,
+    "count": 40,
+    "confidence": 1
+  },
+  "the padre": {
+    "id": 56275,
+    "name": "The Padre",
+    "main": 5.9,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "the pathless": {
+    "id": 68191,
+    "name": "The Pathless",
+    "main": 6.1,
+    "extra": 9.3,
+    "complete": 12.8,
+    "count": 155,
+    "confidence": 1
+  },
+  "the princess guide": {
+    "id": 65588,
+    "name": "The Princess Guide",
+    "main": 8,
+    "extra": 8.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "the prisoning fletcher s quest": {
+    "id": 174300,
+    "name": "The Prisoning: Fletcher's Quest",
+    "main": 3,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "the ramp": {
+    "id": 96908,
+    "name": "The Ramp",
+    "main": 0.4,
+    "extra": 0.6,
+    "complete": 1,
+    "count": 22,
+    "confidence": 1
+  },
+  "the raven": {
+    "id": 54254,
+    "name": "The Raven - Remastered",
+    "main": 9.9,
+    "extra": 10.9,
+    "complete": 11.5,
+    "count": 39,
+    "confidence": 1
+  },
+  "the red lantern": {
+    "id": 83981,
+    "name": "The Red Lantern",
+    "main": 2.3,
+    "extra": 4.3,
+    "complete": 8.2,
+    "count": 62,
+    "confidence": 1
+  },
+  "the red strings club": {
+    "id": 52548,
+    "name": "The Red Strings Club",
+    "main": 4,
+    "extra": 4.6,
+    "complete": 7,
+    "count": 346,
+    "confidence": 1
+  },
+  "the room": {
+    "id": 10153,
+    "name": "The Room",
+    "main": 2.6,
+    "extra": 2.6,
+    "complete": 2.7,
+    "count": 700,
+    "confidence": 1
+  },
+  "the sexy brutale": {
+    "id": 43037,
+    "name": "The Sexy Brutale",
+    "main": 5.9,
+    "extra": 7.2,
+    "complete": 8.5,
+    "count": 222,
+    "confidence": 1
+  },
+  "the silver case 2425": {
+    "id": 94385,
+    "name": "The Silver Case 2425",
+    "main": 36.2,
+    "extra": 38.2,
+    "complete": 49.8,
+    "count": 4,
+    "confidence": 1
+  },
+  "the sinking city": {
+    "id": 51111,
+    "name": "The Sinking City",
+    "main": 18.8,
+    "extra": 25.7,
+    "complete": 31.7,
+    "count": 76,
+    "confidence": 1
+  },
+  "the smurfs mission vileaf": {
+    "id": 95603,
+    "name": "The Smurfs: Mission Vileaf",
+    "main": 6.2,
+    "extra": 8.7,
+    "complete": 14.5,
+    "count": 36,
+    "confidence": 1
+  },
+  "the stanley parable ultra": {
+    "id": 81950,
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "main": 2.1,
+    "extra": 5.2,
+    "complete": 12.7,
+    "count": 349,
+    "confidence": 1
+  },
+  "the star named eos": {
+    "id": 128263,
+    "name": "The Star Named EOS",
+    "main": 2.4,
+    "extra": 3.1,
+    "complete": 3.2,
+    "count": 25,
+    "confidence": 1
+  },
+  "the stillness of the wind": {
+    "id": 64907,
+    "name": "The Stillness of the Wind",
+    "main": 3.3,
+    "extra": 3.7,
+    "complete": 3.9,
+    "count": 53,
+    "confidence": 1
+  },
+  "the stretchers": {
+    "id": 72075,
+    "name": "The Stretchers",
+    "main": 4.5,
+    "extra": 5.6,
+    "complete": 6.4,
+    "count": 8,
+    "confidence": 1
+  },
+  "the survivalists": {
+    "id": 82561,
+    "name": "The Survivalists",
+    "main": 22.1,
+    "extra": 39.7,
+    "complete": 47.9,
+    "count": 19,
+    "confidence": 1
+  },
+  "the swords of ditto mormo s curse": {
+    "id": 127872,
+    "name": "The Swords of Ditto: Mormo's Curse",
+    "main": 5.4,
+    "extra": 6.4,
+    "complete": 26,
+    "count": 6,
+    "confidence": 1
+  },
+  "the takeover": {
+    "id": 47003,
+    "name": "The TakeOver",
+    "main": 2.5,
+    "extra": 3.3,
+    "complete": 4.5,
+    "count": 38,
+    "confidence": 1
+  },
+  "the touryst": {
+    "id": 70671,
+    "name": "The Touryst",
+    "main": 5,
+    "extra": 5.9,
+    "complete": 6.8,
+    "count": 91,
+    "confidence": 1
+  },
+  "the unexpected quest": {
+    "id": 85607,
+    "name": "The Unexpected Quest",
+    "main": 7.5,
+    "extra": 9,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "the videokid": {
+    "id": 49449,
+    "name": "The VideoKid",
+    "main": 2,
+    "extra": 3.8,
+    "complete": 5,
+    "count": 2,
+    "confidence": 1
+  },
+  "the walking dead streets of survival": {
+    "id": 187474,
+    "name": "The Walking Dead: Streets of Survival",
+    "main": 2.4,
+    "extra": 4.8,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "the way": {
+    "id": 25106,
+    "name": "The Way",
+    "main": 6.5,
+    "extra": 7.9,
+    "complete": 8.1,
+    "count": 44,
+    "confidence": 1
+  },
+  "the witcher 3 wild hunt": {
+    "id": 40171,
+    "name": "The Witcher 3: Wild Hunt - Remastered",
+    "main": 56.9,
+    "extra": 123.5,
+    "complete": 188.7,
+    "count": 523,
+    "confidence": 1
+  },
+  "the wonderful 101": {
+    "id": 74898,
+    "name": "The Wonderful 101: Remastered",
+    "main": 15.1,
+    "extra": 19.4,
+    "complete": 32.9,
+    "count": 89,
+    "confidence": 1
+  },
+  "the world ends with you final remix": {
+    "id": 54242,
+    "name": "The World Ends with You: Final Remix",
+    "main": 17.2,
+    "extra": 26,
+    "complete": 81.7,
+    "count": 160,
+    "confidence": 1
+  },
+  "the world next door": {
+    "id": 65840,
+    "name": "The World Next Door",
+    "main": 3.3,
+    "extra": 4.1,
+    "complete": 4.7,
+    "count": 40,
+    "confidence": 1
+  },
+  "thea the awakening": {
+    "id": 30642,
+    "name": "Thea: The Awakening",
+    "main": 18.9,
+    "extra": 39.6,
+    "complete": 73.9,
+    "count": 13,
+    "confidence": 1
+  },
+  "theatrhythm final bar line": {
+    "id": 113558,
+    "name": "Theatrhythm Final Bar Line",
+    "main": 12.9,
+    "extra": 32.6,
+    "complete": 60.7,
+    "count": 75,
+    "confidence": 1
+  },
+  "there is no game wrong dimension": {
+    "id": 81637,
+    "name": "There Is No Game: Wrong Dimension",
+    "main": 5,
+    "extra": 5.6,
+    "complete": 6.2,
+    "count": 343,
+    "confidence": 1
+  },
+  "thief of thieves season one": {
+    "id": 60457,
+    "name": "Thief of Thieves: Season One",
+    "main": 5.4,
+    "extra": 6.4,
+    "complete": 9.9,
+    "count": 7,
+    "confidence": 1
+  },
+  "thimbleweed park": {
+    "id": 44263,
+    "name": "Thimbleweed Park",
+    "main": 10.5,
+    "extra": 14.2,
+    "complete": 16,
+    "count": 273,
+    "confidence": 1
+  },
+  "this is the police": {
+    "id": 36888,
+    "name": "This is the Police",
+    "main": 19.9,
+    "extra": 23.9,
+    "complete": 33.3,
+    "count": 94,
+    "confidence": 1
+  },
+  "this war of mine": {
+    "id": 75006,
+    "name": "This War Of Mine: Complete Edition",
+    "main": 10.9,
+    "extra": 23.6,
+    "complete": 64.1,
+    "count": 21,
+    "confidence": 1
+  },
+  "thoth": {
+    "id": 40388,
+    "name": "THOTH",
+    "main": 1.5,
+    "extra": 2.3,
+    "complete": 6.1,
+    "count": 36,
+    "confidence": 1
+  },
+  "thronebreaker the witcher tales": {
+    "id": 61381,
+    "name": "Thronebreaker: The Witcher Tales",
+    "main": 28,
+    "extra": 36.7,
+    "complete": 42.4,
+    "count": 80,
+    "confidence": 1
+  },
+  "thumper": {
+    "id": 40500,
+    "name": "Thumper",
+    "main": 7.8,
+    "extra": 13.9,
+    "complete": 18.2,
+    "count": 137,
+    "confidence": 1
+  },
+  "time flies": {
+    "id": 109127,
+    "name": "Time Flies",
+    "main": 1.5,
+    "extra": 1.7,
+    "complete": 2.4,
+    "count": 10,
+    "confidence": 1
+  },
+  "time recoil": {
+    "id": 52571,
+    "name": "Time Recoil",
+    "main": 3.3,
+    "extra": null,
+    "complete": null,
+    "count": 10,
+    "confidence": 1
+  },
+  "timespinner": {
+    "id": 26279,
+    "name": "Timespinner",
+    "main": 5.9,
+    "extra": 8.7,
+    "complete": 12.2,
+    "count": 92,
+    "confidence": 1
+  },
+  "tiny barbarian dx": {
+    "id": 18235,
+    "name": "Tiny Barbarian DX",
+    "main": 10,
+    "extra": 10.8,
+    "complete": 11.3,
+    "count": 6,
+    "confidence": 1
+  },
+  "tiny metal": {
+    "id": 51662,
+    "name": "Tiny Metal",
+    "main": 11.4,
+    "extra": 24,
+    "complete": null,
+    "count": 7,
+    "confidence": 1
+  },
+  "tiny metal full metal rumble": {
+    "id": 70234,
+    "name": "Tiny Metal: Full Metal Rumble",
+    "main": null,
+    "extra": 37.5,
+    "complete": 115,
+    "count": 0,
+    "confidence": 1
+  },
+  "tiny thor": {
+    "id": 80447,
+    "name": "Tiny Thor",
+    "main": 10.1,
+    "extra": 10.7,
+    "complete": 18.8,
+    "count": 4,
+    "confidence": 1
+  },
+  "tinykin": {
+    "id": 93960,
+    "name": "Tinykin",
+    "main": 6.1,
+    "extra": 7.9,
+    "complete": 9.9,
+    "count": 203,
+    "confidence": 1
+  },
+  "titan quest": {
+    "id": 39689,
+    "name": "Titan Quest: Anniversary Edition",
+    "main": 31.1,
+    "extra": 46.9,
+    "complete": 121.5,
+    "count": 87,
+    "confidence": 1
+  },
+  "to the moon": {
+    "id": 10387,
+    "name": "To the Moon",
+    "main": 4.1,
+    "extra": 4.5,
+    "complete": 4.6,
+    "count": 1729,
+    "confidence": 1
+  },
+  "to the moon sigmund minisode 1": {
+    "id": 10387,
+    "name": "To the Moon",
+    "main": 4.1,
+    "extra": 4.5,
+    "complete": 4.6,
+    "count": 1729,
+    "confidence": 1
+  },
+  "to the moon sigmund minisode 2": {
+    "id": 10387,
+    "name": "To the Moon",
+    "main": 4.1,
+    "extra": 4.5,
+    "complete": 4.6,
+    "count": 1729,
+    "confidence": 1
+  },
+  "toem": {
+    "id": 86977,
+    "name": "Toem",
+    "main": 3.4,
+    "extra": 4.5,
+    "complete": 6.1,
+    "count": 287,
+    "confidence": 1
+  },
+  "toem 2": {
+    "id": 160496,
+    "name": "TOEM 2",
+    "main": 3.5,
+    "extra": 3.6,
+    "complete": 4.2,
+    "count": 8,
+    "confidence": 1
+  },
+  "together": {
+    "id": 101563,
+    "name": "Fly Together!",
+    "main": null,
+    "extra": 11.2,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "tohu": {
+    "id": 87694,
+    "name": "TOHU",
+    "main": 4.6,
+    "extra": 4.7,
+    "complete": 5.1,
+    "count": 25,
+    "confidence": 1
+  },
+  "toki": {
+    "id": 62769,
+    "name": "Toki",
+    "main": 1.4,
+    "extra": 3.6,
+    "complete": 7.9,
+    "count": 25,
+    "confidence": 1
+  },
+  "toki tori": {
+    "id": 33395,
+    "name": "Toki Tori 3D",
+    "main": 6,
+    "extra": 9.3,
+    "complete": 10.4,
+    "count": 32,
+    "confidence": 1
+  },
+  "toki tori 2 nintendo switch": {
+    "id": 10404,
+    "name": "Toki Tori 2+",
+    "main": 9.1,
+    "extra": 17.2,
+    "complete": 25,
+    "count": 32,
+    "confidence": 1
+  },
+  "tokyo mirage sessions #fe encore": {
+    "id": 70161,
+    "name": "Tokyo Mirage Sessions #FE Encore",
+    "main": 37.5,
+    "extra": 50.3,
+    "complete": 62.3,
+    "count": 82,
+    "confidence": 1
+  },
+  "tokyo scramble": {
+    "id": 181669,
+    "name": "Tokyo Scramble",
+    "main": 10.6,
+    "extra": 14.1,
+    "complete": null,
+    "count": 4,
+    "confidence": 1
+  },
+  "tokyo xanadu ex": {
+    "id": 39954,
+    "name": "Tokyo Xanadu eX+",
+    "main": 43,
+    "extra": 58.1,
+    "complete": 93.6,
+    "count": 67,
+    "confidence": 1
+  },
+  "tomb raider i 3 starring lara croft": {
+    "id": 137867,
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "main": 39.5,
+    "extra": 70.2,
+    "complete": 93.7,
+    "count": 34,
+    "confidence": 1
+  },
+  "tomb raider survivor trilogy": {
+    "id": 10469,
+    "name": "Tomb Raider",
+    "main": 11.3,
+    "extra": 15.5,
+    "complete": 20.9,
+    "count": 5011,
+    "confidence": 1
+  },
+  "tomb raider legacy of atlantis": {
+    "id": 10469,
+    "name": "Tomb Raider",
+    "main": 11.3,
+    "extra": 15.5,
+    "complete": 20.9,
+    "count": 5011,
+    "confidence": 1
+  },
+  "tomodachi life living the dream": {
+    "id": 165837,
+    "name": "Tomodachi Life: Living the Dream",
+    "main": 36.4,
+    "extra": 54,
+    "complete": 80.3,
+    "count": 64,
+    "confidence": 1
+  },
+  "tony hawk s pro skater 1 2": {
+    "id": 78213,
+    "name": "Tony Hawk's Pro Skater 1 + 2",
+    "main": 7,
+    "extra": 12.1,
+    "complete": 35.7,
+    "count": 185,
+    "confidence": 1
+  },
+  "torchlight 2": {
+    "id": 10528,
+    "name": "Torchlight II",
+    "main": 20.7,
+    "extra": 29.9,
+    "complete": 77.3,
+    "count": 382,
+    "confidence": 1
+  },
+  "torchlight 3": {
+    "id": 74817,
+    "name": "Torchlight III",
+    "main": 15.7,
+    "extra": 23.5,
+    "complete": 40.1,
+    "count": 36,
+    "confidence": 1
+  },
+  "tormented souls": {
+    "id": 89133,
+    "name": "Tormented Souls",
+    "main": 9.4,
+    "extra": 10.6,
+    "complete": 14,
+    "count": 162,
+    "confidence": 1
+  },
+  "touhou genso wanderer reloaded": {
+    "id": 62076,
+    "name": "Touhou Genso Wanderer: Reloaded",
+    "main": 8.3,
+    "extra": 69.3,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "touhou kobuto 5 burst battle": {
+    "id": 58360,
+    "name": "Touhou Kobuto V: Burst Battle",
+    "main": 1.3,
+    "extra": 4.7,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "touhou spell bubble": {
+    "id": 75590,
+    "name": "Touhou Spell Bubble",
+    "main": 4.3,
+    "extra": 10,
+    "complete": null,
+    "count": 5,
+    "confidence": 1
+  },
+  "touken ranbu warriors": {
+    "id": 98368,
+    "name": "Touken Ranbu Warriors",
+    "main": 20.3,
+    "extra": 46.6,
+    "complete": 62.8,
+    "count": 5,
+    "confidence": 1
+  },
+  "towa and the guardians of the sacred tree": {
+    "id": 169263,
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "main": null,
+    "extra": 25.3,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "townscaper": {
+    "id": 80672,
+    "name": "Townscaper",
+    "main": 0.8,
+    "extra": 0.9,
+    "complete": 2.8,
+    "count": 80,
+    "confidence": 1
+  },
+  "trailblazers": {
+    "id": 56340,
+    "name": "Trailblazers",
+    "main": 8.3,
+    "extra": 14.5,
+    "complete": 16.2,
+    "count": 3,
+    "confidence": 1
+  },
+  "trails in the sky 1st chapter": {
+    "id": 156025,
+    "name": "Trails in the Sky 1st Chapter",
+    "main": 40.8,
+    "extra": 57.9,
+    "complete": 74.9,
+    "count": 70,
+    "confidence": 1
+  },
+  "trails in the sky 2nd chapter": {
+    "id": 179203,
+    "name": "Trails in the Sky 2nd Chapter",
+    "main": 47.1,
+    "extra": 76,
+    "complete": 87,
+    "count": 15,
+    "confidence": 1
+  },
+  "transistor": {
+    "id": 17617,
+    "name": "Transistor",
+    "main": 6,
+    "extra": 8.4,
+    "complete": 15.7,
+    "count": 1378,
+    "confidence": 1
+  },
+  "travis strikes again no more heroes": {
+    "id": 64234,
+    "name": "Travis Strikes Again: No More Heroes",
+    "main": 9.3,
+    "extra": 11.7,
+    "complete": 16.7,
+    "count": 68,
+    "confidence": 1
+  },
+  "triangle strategy": {
+    "id": 88750,
+    "name": "Triangle Strategy",
+    "main": 34.5,
+    "extra": 48.7,
+    "complete": 103.9,
+    "count": 286,
+    "confidence": 1
+  },
+  "tricky towers": {
+    "id": 38919,
+    "name": "Tricky Towers",
+    "main": 9.7,
+    "extra": 19.5,
+    "complete": 37.2,
+    "count": 14,
+    "confidence": 1
+  },
+  "trigger witch": {
+    "id": 96594,
+    "name": "Trigger Witch",
+    "main": 8.2,
+    "extra": 9.2,
+    "complete": 10.4,
+    "count": 9,
+    "confidence": 1
+  },
+  "trine 4 the nightmare prince": {
+    "id": 62027,
+    "name": "Trine 4: The Nightmare Prince",
+    "main": 10.2,
+    "extra": 12.8,
+    "complete": 15.6,
+    "count": 135,
+    "confidence": 1
+  },
+  "trinity trigger": {
+    "id": 108458,
+    "name": "Trinity Trigger",
+    "main": 17.4,
+    "extra": 21.9,
+    "complete": 35.8,
+    "count": 18,
+    "confidence": 1
+  },
+  "trinity trigger dx": {
+    "id": 108458,
+    "name": "Trinity Trigger",
+    "main": 17.4,
+    "extra": 21.9,
+    "complete": 35.8,
+    "count": 18,
+    "confidence": 1
+  },
+  "tropico 6 nintendo switch": {
+    "id": 64849,
+    "name": "Tropico 6",
+    "main": 34.5,
+    "extra": 56.6,
+    "complete": 76.4,
+    "count": 28,
+    "confidence": 1
+  },
+  "truxton extreme": {
+    "id": 169608,
+    "name": "Truxton Extreme",
+    "main": null,
+    "extra": 7.6,
+    "complete": 20,
+    "count": 0,
+    "confidence": 1
+  },
+  "tumbleseed": {
+    "id": 45539,
+    "name": "TumbleSeed",
+    "main": 5.5,
+    "extra": 6.1,
+    "complete": 7.3,
+    "count": 8,
+    "confidence": 1
+  },
+  "turnip boy commits tax evasion": {
+    "id": 80383,
+    "name": "Turnip Boy Commits Tax Evasion",
+    "main": 2.1,
+    "extra": 2.7,
+    "complete": 3.3,
+    "count": 501,
+    "confidence": 1
+  },
+  "turok 3 shadow of oblivion": {
+    "id": 10706,
+    "name": "Turok 3: Shadow of Oblivion",
+    "main": 4.3,
+    "extra": 5.7,
+    "complete": 9.6,
+    "count": 42,
+    "confidence": 1
+  },
+  "two point hospital": {
+    "id": 60043,
+    "name": "Two Point Hospital",
+    "main": 37.6,
+    "extra": 73.4,
+    "complete": 127.9,
+    "count": 45,
+    "confidence": 1
+  },
+  "two point hospital full health collection": {
+    "id": 60043,
+    "name": "Two Point Hospital",
+    "main": 37.6,
+    "extra": 73.4,
+    "complete": 127.9,
+    "count": 45,
+    "confidence": 1
+  },
+  "ty the tasmanian tiger 4 bush rescue returns": {
+    "id": 32874,
+    "name": "TY the Tasmanian Tiger 4",
+    "main": 3.7,
+    "extra": 7.3,
+    "complete": 9.9,
+    "count": 9,
+    "confidence": 1
+  },
+  "ufouria 2 the saga": {
+    "id": 139550,
+    "name": "Ufouria: The Saga 2",
+    "main": 3.4,
+    "extra": 5.9,
+    "complete": 6.9,
+    "count": 14,
+    "confidence": 1
+  },
+  "ultra age": {
+    "id": 97133,
+    "name": "Ultra Age",
+    "main": 6.2,
+    "extra": 7.9,
+    "complete": 9,
+    "count": 20,
+    "confidence": 1
+  },
+  "ultra kaiju monster rancher": {
+    "id": 115191,
+    "name": "Ultra Kaiju Monster Rancher",
+    "main": 27.8,
+    "extra": 37.3,
+    "complete": 58.2,
+    "count": 2,
+    "confidence": 1
+  },
+  "ultra street fighter 2 the final challengers": {
+    "id": 46066,
+    "name": "Ultra Street Fighter II: The Final Challengers",
+    "main": 1.2,
+    "extra": 2.6,
+    "complete": 13.2,
+    "count": 31,
+    "confidence": 1
+  },
+  "umurangi generation special": {
+    "id": 78648,
+    "name": "Umurangi Generation",
+    "main": 2.5,
+    "extra": 3.6,
+    "complete": 4.9,
+    "count": 89,
+    "confidence": 1
+  },
+  "unavowed": {
+    "id": 54219,
+    "name": "Unavowed",
+    "main": 9.6,
+    "extra": 11.6,
+    "complete": 20.9,
+    "count": 126,
+    "confidence": 1
+  },
+  "unbound worlds apart": {
+    "id": 93977,
+    "name": "Unbound: Worlds Apart",
+    "main": 5.8,
+    "extra": 8.1,
+    "complete": 10.8,
+    "count": 29,
+    "confidence": 1
+  },
+  "unbox newbie s adventure": {
+    "id": 40024,
+    "name": "Unbox: Newbie's Adventure",
+    "main": 5.7,
+    "extra": 8.1,
+    "complete": 12.4,
+    "count": 17,
+    "confidence": 1
+  },
+  "under night in birth exe late": {
+    "id": 75349,
+    "name": "Under Night In-Birth Exe:Late[cl-r]",
+    "main": 3,
+    "extra": 23,
+    "complete": 109,
+    "count": 18,
+    "confidence": 1
+  },
+  "under the island": {
+    "id": 147283,
+    "name": "Under the Island",
+    "main": 7.6,
+    "extra": 11.8,
+    "complete": 18,
+    "count": 4,
+    "confidence": 1
+  },
+  "undermine": {
+    "id": 69349,
+    "name": "UnderMine",
+    "main": 17.9,
+    "extra": 28.8,
+    "complete": 62.5,
+    "count": 63,
+    "confidence": 1
+  },
+  "undertale": {
+    "id": 30385,
+    "name": "Undertale",
+    "main": 7,
+    "extra": 11.3,
+    "complete": 20.7,
+    "count": 2622,
+    "confidence": 1
+  },
+  "unicorn overlord": {
+    "id": 137780,
+    "name": "Unicorn Overlord",
+    "main": 46.5,
+    "extra": 63,
+    "complete": 74.6,
+    "count": 97,
+    "confidence": 1
+  },
+  "unpacking": {
+    "id": 69666,
+    "name": "Unpacking",
+    "main": 3.6,
+    "extra": 4.2,
+    "complete": 4.3,
+    "count": 1148,
+    "confidence": 1
+  },
+  "unruly heroes": {
+    "id": 64458,
+    "name": "Unruly Heroes",
+    "main": 8.8,
+    "extra": 11.7,
+    "complete": 15.8,
+    "count": 33,
+    "confidence": 1
+  },
+  "urban trial playground": {
+    "id": 59910,
+    "name": "Urban Trial Playground",
+    "main": 2.5,
+    "extra": 3.9,
+    "complete": 6.1,
+    "count": 13,
+    "confidence": 1
+  },
+  "urban trial tricky": {
+    "id": 93998,
+    "name": "Urban Trial Tricky",
+    "main": 2.8,
+    "extra": 3,
+    "complete": 3.1,
+    "count": 3,
+    "confidence": 1
+  },
+  "5 rally 4": {
+    "id": 63561,
+    "name": "V-Rally 4",
+    "main": 21.2,
+    "extra": null,
+    "complete": null,
+    "count": 8,
+    "confidence": 1
+  },
+  "va 11 hall a cyberpunk bartender action": {
+    "id": 25099,
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "main": 11.1,
+    "extra": 13.6,
+    "complete": 18.2,
+    "count": 403,
+    "confidence": 1
+  },
+  "vagante": {
+    "id": 24968,
+    "name": "Vagante",
+    "main": 40.7,
+    "extra": 44.8,
+    "complete": 56.2,
+    "count": 5,
+    "confidence": 1
+  },
+  "valfaris": {
+    "id": 64699,
+    "name": "Valfaris",
+    "main": 7.2,
+    "extra": 9.3,
+    "complete": 19.9,
+    "count": 116,
+    "confidence": 1
+  },
+  "valfaris mecha therion": {
+    "id": 64699,
+    "name": "Valfaris",
+    "main": 7.2,
+    "extra": 9.3,
+    "complete": 19.9,
+    "count": 116,
+    "confidence": 1
+  },
+  "valkyria chronicles": {
+    "id": 36967,
+    "name": "Valkyria Chronicles",
+    "main": 30.3,
+    "extra": 38.1,
+    "complete": 58.7,
+    "count": 350,
+    "confidence": 1
+  },
+  "valkyria chronicles 4": {
+    "id": 50789,
+    "name": "Valkyria Chronicles 4",
+    "main": 36.9,
+    "extra": 50.3,
+    "complete": 72.9,
+    "count": 141,
+    "confidence": 1
+  },
+  "vambrace cold soul": {
+    "id": 67877,
+    "name": "Vambrace: Cold Soul",
+    "main": 7.7,
+    "extra": 18.4,
+    "complete": 33.3,
+    "count": 3,
+    "confidence": 1
+  },
+  "variable barricade": {
+    "id": 87226,
+    "name": "Variable Barricade",
+    "main": 32.2,
+    "extra": 35.8,
+    "complete": 54.7,
+    "count": 5,
+    "confidence": 1
+  },
+  "vasara collection": {
+    "id": 69708,
+    "name": "VASARA Collection",
+    "main": 0.9,
+    "extra": 5.8,
+    "complete": 12,
+    "count": 2,
+    "confidence": 1
+  },
+  "vectronom": {
+    "id": 67684,
+    "name": "Vectronom",
+    "main": 2.3,
+    "extra": 3.2,
+    "complete": 6.4,
+    "count": 18,
+    "confidence": 1
+  },
+  "velocity2x": {
+    "id": 20803,
+    "name": "Velocity 2X",
+    "main": 5.5,
+    "extra": 9.8,
+    "complete": 26.1,
+    "count": 80,
+    "confidence": 1
+  },
+  "vengeful guardian moonrider": {
+    "id": 112587,
+    "name": "Vengeful Guardian: Moonrider",
+    "main": 2.9,
+    "extra": 3.3,
+    "complete": 6.4,
+    "count": 33,
+    "confidence": 1
+  },
+  "venture kid": {
+    "id": 56216,
+    "name": "Venture Kid",
+    "main": 1.7,
+    "extra": 1.9,
+    "complete": 2.5,
+    "count": 3,
+    "confidence": 1
+  },
+  "very very valet": {
+    "id": 92661,
+    "name": "Very Very Valet",
+    "main": 3.2,
+    "extra": 3.6,
+    "complete": 5.6,
+    "count": 5,
+    "confidence": 1
+  },
+  "vesta": {
+    "id": 52794,
+    "name": "Vesta",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "village in the shade": {
+    "id": 183708,
+    "name": "Village in the Shade",
+    "main": 78.1,
+    "extra": 82.4,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "vitamin connection": {
+    "id": 75359,
+    "name": "Vitamin Connection",
+    "main": 5.3,
+    "extra": null,
+    "complete": 9.1,
+    "count": 8,
+    "confidence": 1
+  },
+  "viviette": {
+    "id": 64229,
+    "name": "Viviette",
+    "main": 3.9,
+    "extra": 4.4,
+    "complete": 6,
+    "count": 18,
+    "confidence": 1
+  },
+  "voez": {
+    "id": 39815,
+    "name": "VOEZ",
+    "main": 13.4,
+    "extra": 20.8,
+    "complete": 50,
+    "count": 8,
+    "confidence": 1
+  },
+  "voice of cards the beasts of burden": {
+    "id": 113077,
+    "name": "Voice of Cards: The Beasts of Burden",
+    "main": 14,
+    "extra": 18.1,
+    "complete": 24.9,
+    "count": 7,
+    "confidence": 1
+  },
+  "voice of cards the forsaken maiden": {
+    "id": 104135,
+    "name": "Voice of Cards: The Forsaken Maiden",
+    "main": 19.4,
+    "extra": 23.7,
+    "complete": 31.8,
+    "count": 24,
+    "confidence": 1
+  },
+  "voice of cards the isle dragon roars": {
+    "id": 98276,
+    "name": "Voice of Cards: The Isle Dragon Roars",
+    "main": 13.1,
+    "extra": 15.1,
+    "complete": 19.6,
+    "count": 73,
+    "confidence": 1
+  },
+  "void trrlm ; void terrarium": {
+    "id": 80747,
+    "name": "void tRrLM(); //Void Terrarium",
+    "main": 23.6,
+    "extra": 31.6,
+    "complete": 44.5,
+    "count": 17,
+    "confidence": 1
+  },
+  "vostok inc": {
+    "id": 49634,
+    "name": "Vostok Inc.",
+    "main": 13.2,
+    "extra": 26,
+    "complete": 170,
+    "count": 4,
+    "confidence": 1
+  },
+  "vroom in the night sky": {
+    "id": 44560,
+    "name": "Vroom in the Night Sky",
+    "main": 1.5,
+    "extra": null,
+    "complete": 2.2,
+    "count": 1,
+    "confidence": 1
+  },
+  "vvvvvv": {
+    "id": 10992,
+    "name": "VVVVVV",
+    "main": 2.4,
+    "extra": 3.4,
+    "complete": 5,
+    "count": 705,
+    "confidence": 1
+  },
+  "wallachia reign of dracula": {
+    "id": 86104,
+    "name": "Wallachia: Reign of Dracula",
+    "main": 6.6,
+    "extra": null,
+    "complete": 7.5,
+    "count": 2,
+    "confidence": 1
+  },
+  "wandersong": {
+    "id": 61375,
+    "name": "Wandersong",
+    "main": 9.4,
+    "extra": 11.2,
+    "complete": 11.9,
+    "count": 121,
+    "confidence": 1
+  },
+  "warborn": {
+    "id": 81990,
+    "name": "WARBORN",
+    "main": null,
+    "extra": null,
+    "complete": 14.3,
+    "count": 0,
+    "confidence": 1
+  },
+  "warframe": {
+    "id": 11037,
+    "name": "Warframe",
+    "main": 113.8,
+    "extra": 656.5,
+    "complete": 1637.4,
+    "count": 66,
+    "confidence": 1
+  },
+  "wargroove": {
+    "id": 61653,
+    "name": "Wargroove",
+    "main": 20,
+    "extra": 38.1,
+    "complete": 84.3,
+    "count": 106,
+    "confidence": 1
+  },
+  "wargroove 2": {
+    "id": 137783,
+    "name": "Wargroove 2",
+    "main": 18.3,
+    "extra": 23.5,
+    "complete": 30.3,
+    "count": 13,
+    "confidence": 1
+  },
+  "warhammer 40 000 mechanicus": {
+    "id": 62616,
+    "name": "Warhammer 40,000: Mechanicus",
+    "main": 19,
+    "extra": 30.2,
+    "complete": 48.2,
+    "count": 44,
+    "confidence": 1
+  },
+  "warhammer 40 000 shootas blood and teef": {
+    "id": 114929,
+    "name": "Warhammer 40,000: Shootas, Blood & Teef",
+    "main": 3.7,
+    "extra": 5.5,
+    "complete": 8,
+    "count": 54,
+    "confidence": 1
+  },
+  "warioware get it together": {
+    "id": 94076,
+    "name": "WarioWare: Get It Together!",
+    "main": 2.6,
+    "extra": 4.8,
+    "complete": 30.7,
+    "count": 232,
+    "confidence": 1
+  },
+  "warioware move it": {
+    "id": 130451,
+    "name": "WarioWare: Move It!",
+    "main": 2.1,
+    "extra": 3.7,
+    "complete": 6,
+    "count": 109,
+    "confidence": 1
+  },
+  "warplanes ww2 dogfight": {
+    "id": 84480,
+    "name": "Warplanes: WW2 Dogfight",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "warriors orochi 4": {
+    "id": 61392,
+    "name": "Warriors Orochi 4",
+    "main": 16.9,
+    "extra": 40.9,
+    "complete": 93.9,
+    "count": 16,
+    "confidence": 1
+  },
+  "wasteland 2 director s cut": {
+    "id": 11099,
+    "name": "Wasteland 2",
+    "main": 41.2,
+    "extra": 64.3,
+    "complete": 100.9,
+    "count": 44,
+    "confidence": 1
+  },
+  "wayward strand": {
+    "id": 80215,
+    "name": "Wayward Strand",
+    "main": 3.8,
+    "extra": 4.1,
+    "complete": 5.8,
+    "count": 8,
+    "confidence": 1
+  },
+  "we are ofk": {
+    "id": 93906,
+    "name": "We Are OFK",
+    "main": 6,
+    "extra": 6.2,
+    "complete": 7.7,
+    "count": 13,
+    "confidence": 1
+  },
+  "werewolf the apocalypse heart of the forest": {
+    "id": 84435,
+    "name": "Werewolf: The Apocalypse - Heart of the Forest",
+    "main": 2.9,
+    "extra": 3.1,
+    "complete": 8.9,
+    "count": 62,
+    "confidence": 1
+  },
+  "west of loathing": {
+    "id": 48134,
+    "name": "West of Loathing",
+    "main": 7.9,
+    "extra": 12.4,
+    "complete": 20.5,
+    "count": 89,
+    "confidence": 1
+  },
+  "what remains of edith finch": {
+    "id": 45392,
+    "name": "What Remains of Edith Finch",
+    "main": 2.1,
+    "extra": 2.5,
+    "complete": 2.9,
+    "count": 2616,
+    "confidence": 1
+  },
+  "what the golf": {
+    "id": 70701,
+    "name": "WHAT THE GOLF?",
+    "main": 3.5,
+    "extra": 6,
+    "complete": 8.9,
+    "count": 154,
+    "confidence": 1
+  },
+  "when ski lifts go wrong": {
+    "id": 68904,
+    "name": "When Ski Lifts Go Wrong",
+    "main": 7.7,
+    "extra": 16.2,
+    "complete": 38.1,
+    "count": 7,
+    "confidence": 1
+  },
+  "when the past was around": {
+    "id": 83376,
+    "name": "When The Past Was Around",
+    "main": 1.7,
+    "extra": 2,
+    "complete": 2,
+    "count": 136,
+    "confidence": 1
+  },
+  "where the water tastes like wine": {
+    "id": 53717,
+    "name": "Where the Water Tastes Like Wine",
+    "main": 11.3,
+    "extra": 15,
+    "complete": 26,
+    "count": 12,
+    "confidence": 1
+  },
+  "whipseey and the lost atlas": {
+    "id": 72690,
+    "name": "Whipseey and the Lost Atlas",
+    "main": 1.2,
+    "extra": 1.3,
+    "complete": 1.6,
+    "count": 6,
+    "confidence": 1
+  },
+  "wide ocean big jacket": {
+    "id": 75015,
+    "name": "Wide Ocean Big Jacket",
+    "main": 1,
+    "extra": 1.3,
+    "complete": 1.3,
+    "count": 83,
+    "confidence": 1
+  },
+  "wild hearts s": {
+    "id": 114088,
+    "name": "Wild Hearts",
+    "main": 39.3,
+    "extra": 53.3,
+    "complete": 120.5,
+    "count": 27,
+    "confidence": 1
+  },
+  "windjammers": {
+    "id": 11185,
+    "name": "Windjammers",
+    "main": 0.6,
+    "extra": 4,
+    "complete": 8.3,
+    "count": 34,
+    "confidence": 1
+  },
+  "windjammers 2": {
+    "id": 92905,
+    "name": "Windjammers 2",
+    "main": 1.2,
+    "extra": 5.9,
+    "complete": 24.6,
+    "count": 43,
+    "confidence": 1
+  },
+  "winds of change": {
+    "id": 69908,
+    "name": "Winds of Change",
+    "main": 12.1,
+    "extra": 18.2,
+    "complete": 26.6,
+    "count": 2,
+    "confidence": 1
+  },
+  "windscape": {
+    "id": 48848,
+    "name": "Windscape",
+    "main": 6,
+    "extra": 6,
+    "complete": 10,
+    "count": 1,
+    "confidence": 1
+  },
+  "wingspan": {
+    "id": 83257,
+    "name": "Wingspan",
+    "main": 1.8,
+    "extra": 11.3,
+    "complete": 76.6,
+    "count": 22,
+    "confidence": 1
+  },
+  "winter s wish spirits of edo": {
+    "id": 128655,
+    "name": "Winter's Wish: Spirits of Edo",
+    "main": 10.7,
+    "extra": 40.1,
+    "complete": 44,
+    "count": 2,
+    "confidence": 1
+  },
+  "witcheye": {
+    "id": 69719,
+    "name": "Witcheye",
+    "main": 2.3,
+    "extra": 3.2,
+    "complete": 4.6,
+    "count": 16,
+    "confidence": 1
+  },
+  "witchspring3 the story of eirudy": {
+    "id": 125919,
+    "name": "WitchSpring3 Re:Fine - The Story of Eirudy -",
+    "main": 13.2,
+    "extra": 15,
+    "complete": 24.8,
+    "count": 1,
+    "confidence": 1
+  },
+  "within the blade": {
+    "id": 52902,
+    "name": "Within the Blade",
+    "main": 4.3,
+    "extra": 8.7,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "wizard of legend": {
+    "id": 26294,
+    "name": "Wizard of Legend",
+    "main": 8.7,
+    "extra": 16.2,
+    "complete": 26.4,
+    "count": 62,
+    "confidence": 1
+  },
+  "wonder boy collection": {
+    "id": 125915,
+    "name": "Wonder Boy Anniversary Collection",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "wonder boy asha in monster world": {
+    "id": 82173,
+    "name": "Wonder Boy: Asha in Monster World",
+    "main": 4.3,
+    "extra": 6.2,
+    "complete": 7.2,
+    "count": 19,
+    "confidence": 1
+  },
+  "wonder boy the dragon s trap": {
+    "id": 45210,
+    "name": "Wonder Boy: The Dragon's Trap",
+    "main": 5.1,
+    "extra": 5.8,
+    "complete": 7.6,
+    "count": 189,
+    "confidence": 1
+  },
+  "woodo": {
+    "id": 93929,
+    "name": "Woodo",
+    "main": 4,
+    "extra": 5,
+    "complete": 5.2,
+    "count": 16,
+    "confidence": 1
+  },
+  "world of final fantasy maxima": {
+    "id": 40502,
+    "name": "World of Final Fantasy",
+    "main": 35.2,
+    "extra": 48.1,
+    "complete": 82.5,
+    "count": 136,
+    "confidence": 1
+  },
+  "world of goo": {
+    "id": 11283,
+    "name": "World of Goo",
+    "main": 6,
+    "extra": 8.1,
+    "complete": 14.1,
+    "count": 266,
+    "confidence": 1
+  },
+  "world of goo 2": {
+    "id": 141874,
+    "name": "World of Goo 2",
+    "main": 7.8,
+    "extra": 8.3,
+    "complete": 27.2,
+    "count": 38,
+    "confidence": 1
+  },
+  "world of horror": {
+    "id": 67201,
+    "name": "World of Horror",
+    "main": 1.6,
+    "extra": 6.1,
+    "complete": 47.5,
+    "count": 44,
+    "confidence": 1
+  },
+  "world to the west": {
+    "id": 45306,
+    "name": "World to the West",
+    "main": 10.8,
+    "extra": 13.3,
+    "complete": 18.2,
+    "count": 8,
+    "confidence": 1
+  },
+  "world war battle of the bulge": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war combat guardian": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war d day 1944": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war d day part one": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war d day part two": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war fury wave": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world war prologue": {
+    "id": 64828,
+    "name": "World War Z",
+    "main": 7.5,
+    "extra": 14,
+    "complete": 47.2,
+    "count": 161,
+    "confidence": 1
+  },
+  "world s end club": {
+    "id": 74174,
+    "name": "World's End Club",
+    "main": 11.4,
+    "extra": 13.7,
+    "complete": 15.6,
+    "count": 33,
+    "confidence": 1
+  },
+  "worldend syndrome": {
+    "id": 52746,
+    "name": "World End Syndrome",
+    "main": 13.4,
+    "extra": 20.5,
+    "complete": 25.3,
+    "count": 16,
+    "confidence": 1
+  },
+  "worm jazz": {
+    "id": 114024,
+    "name": "Worm Jazz",
+    "main": null,
+    "extra": null,
+    "complete": 11.5,
+    "count": 0,
+    "confidence": 1
+  },
+  "worms w m d": {
+    "id": 39481,
+    "name": "Worms W.M.D",
+    "main": 14.4,
+    "extra": 25.7,
+    "complete": 48.7,
+    "count": 14,
+    "confidence": 1
+  },
+  "wrc 8 fia world rally championship": {
+    "id": 70659,
+    "name": "WRC 8: FIA World Rally Championship",
+    "main": 17.4,
+    "extra": 29.1,
+    "complete": 36.1,
+    "count": 17,
+    "confidence": 1
+  },
+  "writhe": {
+    "id": 148213,
+    "name": "Writhe",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "wulverblade": {
+    "id": 21732,
+    "name": "Wulverblade",
+    "main": 3.8,
+    "extra": 8.2,
+    "complete": 17.6,
+    "count": 16,
+    "confidence": 1
+  },
+  "wunderling dx": {
+    "id": 75997,
+    "name": "Wunderling",
+    "main": 4,
+    "extra": 7.5,
+    "complete": 11.2,
+    "count": 5,
+    "confidence": 1
+  },
+  "wwe 2k battlegrounds": {
+    "id": 80731,
+    "name": "WWE 2K Battlegrounds",
+    "main": 8.3,
+    "extra": 9.5,
+    "complete": 15.2,
+    "count": 12,
+    "confidence": 1
+  },
+  "wwe 2k25": {
+    "id": 161867,
+    "name": "WWE 2K25",
+    "main": 11.3,
+    "extra": 39.3,
+    "complete": 155.7,
+    "count": 15,
+    "confidence": 1
+  },
+  "xcom 2 collection": {
+    "id": 110797,
+    "name": "XCOM 2 Collection",
+    "main": 60,
+    "extra": 85.2,
+    "complete": 392.3,
+    "count": 3,
+    "confidence": 1
+  },
+  "xel": {
+    "id": 109368,
+    "name": "XEL",
+    "main": 7.4,
+    "extra": 10.5,
+    "complete": 11.6,
+    "count": 4,
+    "confidence": 1
+  },
+  "xenoblade chronicles 2": {
+    "id": 42835,
+    "name": "Xenoblade Chronicles 2",
+    "main": 61.8,
+    "extra": 104.9,
+    "complete": 254.9,
+    "count": 1062,
+    "confidence": 1
+  },
+  "xenoblade chronicles 3": {
+    "id": 103825,
+    "name": "Xenoblade Chronicles 3",
+    "main": 62.2,
+    "extra": 102.4,
+    "complete": 173.8,
+    "count": 375,
+    "confidence": 1
+  },
+  "xenoblade chronicles": {
+    "id": 11401,
+    "name": "Xenoblade Chronicles",
+    "main": 56.1,
+    "extra": 82.5,
+    "complete": 141.9,
+    "count": 1366,
+    "confidence": 1
+  },
+  "xenoblade chronicles 10": {
+    "id": 158672,
+    "name": "Xenoblade Chronicles X: Definitive Edition",
+    "main": 65.4,
+    "extra": 99.7,
+    "complete": 151.6,
+    "count": 81,
+    "confidence": 1
+  },
+  "xeodrifter": {
+    "id": 23155,
+    "name": "Xeodrifter",
+    "main": 3.1,
+    "extra": 3.2,
+    "complete": 3.7,
+    "count": 91,
+    "confidence": 1
+  },
+  "yakuza kiwami": {
+    "id": 39484,
+    "name": "Yakuza Kiwami",
+    "main": 18,
+    "extra": 33.1,
+    "complete": 84.5,
+    "count": 1112,
+    "confidence": 1
+  },
+  "yakuza kiwami 2": {
+    "id": 49620,
+    "name": "Yakuza Kiwami 2",
+    "main": 18.5,
+    "extra": 36.3,
+    "complete": 80.1,
+    "count": 671,
+    "confidence": 1
+  },
+  "yakuza kiwami 3 and dark ties": {
+    "id": 174901,
+    "name": "Yakuza Kiwami 3 & Dark Ties",
+    "main": 15.9,
+    "extra": 32,
+    "complete": 50.8,
+    "count": 27,
+    "confidence": 1
+  },
+  "yars rising": {
+    "id": 148928,
+    "name": "Yars Rising",
+    "main": 7.4,
+    "extra": 10.4,
+    "complete": 12.6,
+    "count": 9,
+    "confidence": 1
+  },
+  "yes your grace": {
+    "id": 71500,
+    "name": "Yes, Your Grace",
+    "main": 6.3,
+    "extra": 8.3,
+    "complete": 11.5,
+    "count": 213,
+    "confidence": 1
+  },
+  "yestermorrow": {
+    "id": 85653,
+    "name": "Yestermorrow",
+    "main": 6,
+    "extra": 8.8,
+    "complete": 13.7,
+    "count": 1,
+    "confidence": 1
+  },
+  "yiik a postmodern rpg": {
+    "id": 63089,
+    "name": "YIIK: A Post-Modern RPG",
+    "main": 21.7,
+    "extra": 28.7,
+    "complete": 34.8,
+    "count": 12,
+    "confidence": 1
+  },
+  "yoku s island express": {
+    "id": 56962,
+    "name": "Yoku's Island Express",
+    "main": 5.7,
+    "extra": 8.1,
+    "complete": 11.3,
+    "count": 305,
+    "confidence": 1
+  },
+  "yomawari lost in the dark": {
+    "id": 108360,
+    "name": "Yomawari: Lost in the Dark",
+    "main": 12.6,
+    "extra": 15.3,
+    "complete": 19.2,
+    "count": 5,
+    "confidence": 1
+  },
+  "yomawari the long night collection": {
+    "id": 64678,
+    "name": "Yomawari: The Long Night Collection",
+    "main": 14,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "yonder the cloud catcher chronicles": {
+    "id": 47516,
+    "name": "Yonder: The Cloud Catcher Chronicles",
+    "main": 9.8,
+    "extra": 13.3,
+    "complete": 24.2,
+    "count": 44,
+    "confidence": 1
+  },
+  "yono and the celestial elephants": {
+    "id": 49685,
+    "name": "Yono and the Celestial Elephants",
+    "main": 5.1,
+    "extra": 5.6,
+    "complete": 7.9,
+    "count": 20,
+    "confidence": 1
+  },
+  "yooka laylee": {
+    "id": 26277,
+    "name": "Yooka-Laylee",
+    "main": 15.4,
+    "extra": 20.5,
+    "complete": 24.8,
+    "count": 169,
+    "confidence": 1
+  },
+  "yooka laylee and the impossible lair": {
+    "id": 68031,
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "main": 12.9,
+    "extra": 16,
+    "complete": 21.7,
+    "count": 101,
+    "confidence": 1
+  },
+  "yooka replaylee": {
+    "id": 151774,
+    "name": "Yooka-Replaylee",
+    "main": 8.2,
+    "extra": 12.9,
+    "complete": 17.5,
+    "count": 27,
+    "confidence": 1
+  },
+  "yoshi and the mysterious book": {
+    "id": 174349,
+    "name": "Yoshi and the Mysterious Book",
+    "main": 9,
+    "extra": 17.9,
+    "complete": 49.2,
+    "count": 61,
+    "confidence": 1
+  },
+  "yoshi s crafted world": {
+    "id": 46441,
+    "name": "Yoshi's Crafted World",
+    "main": 8.3,
+    "extra": 16.4,
+    "complete": 35.6,
+    "count": 288,
+    "confidence": 1
+  },
+  "young souls": {
+    "id": 97616,
+    "name": "Young Souls",
+    "main": 8.9,
+    "extra": 11.5,
+    "complete": 12.3,
+    "count": 17,
+    "confidence": 1
+  },
+  "ys 9 monstrum nox": {
+    "id": 70939,
+    "name": "Ys IX: Monstrum Nox",
+    "main": 27.6,
+    "extra": 39.8,
+    "complete": 53.3,
+    "count": 85,
+    "confidence": 1
+  },
+  "ys memoire the oath in felghana": {
+    "id": 11474,
+    "name": "Ys: The Oath in Felghana",
+    "main": 10.8,
+    "extra": 13.5,
+    "complete": 20.8,
+    "count": 228,
+    "confidence": 1
+  },
+  "ys origin": {
+    "id": 11466,
+    "name": "Ys Origin",
+    "main": 11.5,
+    "extra": 22.2,
+    "complete": 35.8,
+    "count": 399,
+    "confidence": 1
+  },
+  "ys 10 nordics": {
+    "id": 118898,
+    "name": "Ys X: Nordics",
+    "main": 25.7,
+    "extra": 45.2,
+    "complete": 59.6,
+    "count": 49,
+    "confidence": 1
+  },
+  "ys 10 proud nordics": {
+    "id": 118898,
+    "name": "Ys X: Nordics",
+    "main": 25.7,
+    "extra": 45.2,
+    "complete": 59.6,
+    "count": 49,
+    "confidence": 1
+  },
+  "yu gi oh early days collection": {
+    "id": 156017,
+    "name": "Yu-Gi-Oh! Early Days Collection",
+    "main": 2.6,
+    "extra": null,
+    "complete": 42.4,
+    "count": 1,
+    "confidence": 1
+  },
+  "yu gi oh legacy of the duelist link evolution": {
+    "id": 71071,
+    "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+    "main": 55.9,
+    "extra": 84.5,
+    "complete": 136.4,
+    "count": 27,
+    "confidence": 1
+  },
+  "yu gi oh rush duel dawn of the battle royale": {
+    "id": 101302,
+    "name": "Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!!",
+    "main": 13.3,
+    "extra": 24.8,
+    "complete": 40,
+    "count": 9,
+    "confidence": 1
+  },
+  "yurukill the calumniation games": {
+    "id": 108267,
+    "name": "Yurukill: The Calumniation Games",
+    "main": 13.6,
+    "extra": 18.7,
+    "complete": 25.9,
+    "count": 33,
+    "confidence": 1
+  },
+  "zarvot": {
+    "id": 63454,
+    "name": "Zarvot",
+    "main": 3,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "zombie army trilogy": {
+    "id": 24608,
+    "name": "Zombie Army Trilogy",
+    "main": 13.3,
+    "extra": 19.6,
+    "complete": 36.3,
+    "count": 95,
+    "confidence": 1
+  },
+  "zombie rollerz pinball heroes": {
+    "id": 106266,
+    "name": "Zombie Rollerz: Pinball Heroes",
+    "main": 1.7,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "farcry 3 classic": null,
+  "gravhounds": null,
+  "disney pixar toy story 3": null,
+  "marvel s guardians of the galaxy encore": null,
+  "project nimbus": null,
+  "slayaway camp butcher s cut": null,
+  "synthetik": null,
+  "the next penelope": null,
+  "tiny racer": null,
+  "toejam and earl back in the groove": null,
+  "we love katamari reroll royal reverie": null,
+  "xenoblade chronicles 2 torna ~ the golden country": null,
+  "necrobarista final pour": {
+    "id": 62984,
+    "name": "Necrobarista",
+    "main": 4.1,
+    "extra": 5.6,
+    "complete": 6.9,
+    "count": 32,
+    "confidence": 1
+  },
+  "redout": {
+    "id": 39800,
+    "name": "Redout",
+    "main": 10.5,
+    "extra": 20.4,
+    "complete": 49.8,
+    "count": 16,
+    "confidence": 1
+  },
+  "redout space assault": {
+    "id": 67843,
+    "name": "Redout: Space Assault",
+    "main": 6.5,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "romancing saga 3 destinies united": {
+    "id": 191044,
+    "name": "Romancing SaGa 3: Destinies United",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "sleep tight": {
+    "id": 70112,
+    "name": "Sleep Tight",
+    "main": 6,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "the bunker": {
+    "id": 39830,
+    "name": "The Bunker",
+    "main": 2,
+    "extra": 2.3,
+    "complete": 3.2,
+    "count": 99,
+    "confidence": 1
+  },
+  "the fall": {
+    "id": 19475,
+    "name": "The Fall",
+    "main": 3.4,
+    "extra": 4.2,
+    "complete": 4.7,
+    "count": 266,
+    "confidence": 1
+  },
+  "the house in fata morgana dreams of the revenants": {
+    "id": 109821,
+    "name": "The House in Fata Morgana: Dreams of the Revenants Edition",
+    "main": 30.6,
+    "extra": 36.9,
+    "complete": 52.2,
+    "count": 43,
+    "confidence": 1
+  },
+  "the legend of heroes trails of cold steel 4": {
+    "id": 69471,
+    "name": "The Legend of Heroes: Trails of Cold Steel IV",
+    "main": 60.8,
+    "extra": 103.2,
+    "complete": 137.5,
+    "count": 69,
+    "confidence": 1
+  },
+  "townsmen a kingdom rebuilt": {
+    "id": 65529,
+    "name": "Townsmen - A Kingdom Rebuilt",
+    "main": 5.3,
+    "extra": 25.1,
+    "complete": 92.2,
+    "count": 6,
+    "confidence": 1
+  },
+  "tsukihime a piece of blue glass moon": {
+    "id": 95864,
+    "name": "TSUKIHIME -A piece of blue glass moon-",
+    "main": 31.6,
+    "extra": 50.7,
+    "complete": 60.5,
+    "count": 36,
+    "confidence": 1
+  },
+  "tt isle of man ride on the edge 2": {
+    "id": 91831,
+    "name": "TT Isle of Man - Ride on the Edge 2",
+    "main": 6.6,
+    "extra": null,
+    "complete": null,
+    "count": 3,
+    "confidence": 1
+  },
+  "turok": {
+    "id": 10704,
+    "name": "Turok",
+    "main": 7.1,
+    "extra": 8.8,
+    "complete": 9.9,
+    "count": 51,
+    "confidence": 1
+  },
+  "turok origins": {
+    "id": 160595,
+    "name": "Turok: Origins",
+    "main": null,
+    "extra": null,
+    "complete": null,
+    "count": 0,
+    "confidence": 1
+  },
+  "ultracore": {
+    "id": 75047,
+    "name": "Ultracore",
+    "main": 2.6,
+    "extra": 11.6,
+    "complete": null,
+    "count": 2,
+    "confidence": 1
+  },
+  "vaccine": {
+    "id": 47339,
+    "name": "Vaccine",
+    "main": 5,
+    "extra": null,
+    "complete": null,
+    "count": 1,
+    "confidence": 1
+  },
+  "wildfire": {
+    "id": 25808,
+    "name": "Wildfire",
+    "main": 6.8,
+    "extra": 11,
+    "complete": 20.6,
+    "count": 17,
+    "confidence": 1
+  },
+  "windbound": {
+    "id": 76551,
+    "name": "Windbound",
+    "main": 14.1,
+    "extra": 15.4,
+    "complete": 19.6,
+    "count": 23,
+    "confidence": 1
+  },
+  "yakuza 0 director s cut": {
+    "id": 174903,
+    "name": "Yakuza 0 Director's Cut",
+    "main": 31.1,
+    "extra": 55.5,
+    "complete": 121.8,
+    "count": 51,
+    "confidence": 1
+  },
+  "marvel s guardians of the galaxy cloud": null,
+  "pac man championship 2 plus": null,
+  "planescape torment and icewind dale": null,
+  "prinny presents nis classics volume 3 la pucelle ragnarok rhapsody a musical adventure": null,
+  "resident evil village cloud": null,
+  "root double before crime after days xtend": null,
+  "star wars outlaws gold": null,
+  "star wars episode i jedi power battles": null,
+  "stellar blade": null,
+  "the binding of isaac afterbirth": null,
+  "victor vran overkill": null,
+  "youtubers life omg": null
 }

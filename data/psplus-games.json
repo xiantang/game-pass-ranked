@@ -1,10 +1,10 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-11-02T08:50:02.903Z",
-  "scoredAt": "2026-11-02T08:50:03.000Z",
-  "total": 519,
-  "scored": 441,
+  "fetchedAt": "2026-11-09T09:02:21.887Z",
+  "scoredAt": "2026-11-09T09:02:23.896Z",
+  "total": 521,
+  "scored": 443,
   "games": [
     {
       "productId": "10007645",
@@ -1432,8 +1432,8 @@
       "categories": [
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-03-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/w3plTnuSWMWg5jJbIUe6UMLW.png",
+      "releaseDate": "2023-03-22T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/qiiQyVfE5FrUO1loLJZkn7t7.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005432",
       "ps4": true,
       "ps5": true,
@@ -1616,11 +1616,11 @@
         "ADVENTURE",
         "ACTION"
       ],
-      "releaseDate": "2024-03-04T16:00:00Z",
+      "releaseDate": "2023-10-18T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1811/5229d8907463bde18583fdccfcaaa98cd7e6be2cff107f67.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10006478",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -3430,8 +3430,9 @@
       "storeUrl": "https://store.playstation.com/en-sg/concept/201061",
       "ps4": true,
       "ps5": true,
-      "tier": 2,
+      "tier": 1,
       "lists": [
+        "monthly",
         "catalog"
       ],
       "titleZh": "死亡岛2",
@@ -4587,8 +4588,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2015-02-24T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP4108/CUSA01632_00/aYzsdKhQDOGr1T6wwKpbtvB9kAEC9SR0CV5OkJqk7f44jRHhNeGNXGImHagGwz8F.png",
+      "releaseDate": "2015-01-28T17:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/HP0106/CUSA01577_00/yT3jXoR0nGrmYz5Ujq8kbwom3tmLBwymAWGpl8PsrSZDOdxZJMMIDbaSo3Ggto57.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/221097",
       "ps4": true,
       "ps5": false,
@@ -4777,40 +4778,6 @@
         "extra": 17.6,
         "complete": 26.9
       }
-    },
-    {
-      "productId": "10008165",
-      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2024-05-22T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10008165",
-      "ps4": true,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
-      ],
-      "titleZh": "地球再次变四方？！ 数码方块地球防卫军2",
-      "metacritic": {
-        "score": 81,
-        "title": "Earth Defense Force: World Brothers 2",
-        "url": "https://www.metacritic.com/game/earth-defense-force-world-brothers-2/",
-        "mustPlay": false,
-        "genres": [
-          "Third Person Shooter"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-09-26",
-        "userScore": 7,
-        "userReviewCount": 7
-      },
-      "titleZhSource": "store",
-      "playtime": null
     },
     {
       "productId": "10004656",
@@ -5284,44 +5251,6 @@
       },
       "titleZhSource": "steam",
       "playtime": null
-    },
-    {
-      "productId": "10011830",
-      "title": "F1® 25",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "RACING"
-      ],
-      "releaseDate": "2025-05-30T15:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/44c15449fbe9485987e27e2fa2c86008a7b4a89d9ab7e0a8.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10011830",
-      "ps4": false,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
-      ],
-      "titleZh": null,
-      "metacritic": {
-        "score": 80,
-        "title": "F1 25",
-        "url": "https://www.metacritic.com/game/f1-25/",
-        "mustPlay": false,
-        "genres": [
-          "Auto Racing Sim"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-05-30",
-        "userScore": 7.3,
-        "userReviewCount": 135
-      },
-      "titleZhSource": null,
-      "playtime": {
-        "main": 6.6,
-        "extra": 35.9,
-        "complete": 169.9
-      }
     },
     {
       "productId": "231804",
@@ -7376,46 +7305,6 @@
       },
       "titleZhSource": "store",
       "playtime": null
-    },
-    {
-      "productId": "234014",
-      "title": "Hunt: Showdown 1896",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "SHOOTER",
-        "SHOOTER",
-        "ACTION"
-      ],
-      "releaseDate": "2025-09-24T11:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0715/8d589eb7d8efc65df7430505f95c270040659e6d75fcb13c.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/234014",
-      "ps4": false,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
-      ],
-      "titleZh": "恶灵猎杀：紧要关头",
-      "metacritic": {
-        "score": 80,
-        "title": "Hunt: Showdown 1896",
-        "url": "https://www.metacritic.com/game/hunt-showdown-1896/",
-        "mustPlay": false,
-        "genres": [
-          "Tactical FPS"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-08-15",
-        "userScore": 7.5,
-        "userReviewCount": 106
-      },
-      "titleZhSource": "wikidata",
-      "playtime": {
-        "main": 55.8,
-        "extra": 321.5,
-        "complete": 630.8
-      }
     },
     {
       "productId": "234423",
@@ -9586,6 +9475,42 @@
       }
     },
     {
+      "productId": "202807",
+      "title": "METRO 2033 Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION",
+        "SHOOTER"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202807",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "地铁2033 重制版",
+      "metacritic": {
+        "score": 90,
+        "title": "Metro: 2033 Redux",
+        "url": "https://www.metacritic.com/game/metro-2033-redux/",
+        "mustPlay": false,
+        "genres": [
+          "FPS"
+        ],
+        "confidence": 1,
+        "releaseDate": "2014-08-25",
+        "userScore": 8.1,
+        "userReviewCount": 2594
+      },
+      "titleZhSource": "steam",
+      "playtime": null
+    },
+    {
       "productId": "231769",
       "title": "Metro Exodus",
       "developer": null,
@@ -9623,6 +9548,85 @@
         "main": 15.9,
         "extra": 24,
         "complete": 41.8
+      }
+    },
+    {
+      "productId": "226459",
+      "title": "METRO Last Light Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION",
+        "SHOOTER"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/d0c2b40c5db44a73d3b3605fdd9a07f80df8fd33716a93c3.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/226459",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "地铁：最后的曙光 重制版",
+      "metacritic": {
+        "score": 76,
+        "title": "Metro: Last Light Redux",
+        "url": "https://www.metacritic.com/game/metro-last-light-redux/",
+        "mustPlay": false,
+        "genres": [
+          "FPS"
+        ],
+        "confidence": 1,
+        "releaseDate": "2014-08-25",
+        "userScore": 7.9,
+        "userReviewCount": 1210
+      },
+      "titleZhSource": "steam",
+      "playtime": {
+        "main": 9.8,
+        "extra": 13.5,
+        "complete": 27.7
+      }
+    },
+    {
+      "productId": "202806",
+      "title": "METRO Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2111/0280a6d70e309b7cb3509600a500b728ada3626192e19b74.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202806",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": "地铁：回归",
+      "metacritic": {
+        "score": 83,
+        "title": "Metro Redux",
+        "url": "https://www.metacritic.com/game/metro-redux/",
+        "mustPlay": false,
+        "genres": [
+          "Compilation"
+        ],
+        "confidence": 1,
+        "releaseDate": "2014-08-26",
+        "userScore": 8.1,
+        "userReviewCount": 1097
+      },
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 17.1,
+        "extra": 23.1,
+        "complete": 51.9
       }
     },
     {
@@ -9872,6 +9876,44 @@
         "main": 3.3,
         "extra": 32.5,
         "complete": 96.8
+      }
+    },
+    {
+      "productId": "10012399",
+      "title": "Monster Train 2",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "STRATEGY"
+      ],
+      "releaseDate": "2025-05-21T14:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10012399",
+      "ps4": false,
+      "ps5": true,
+      "tier": 1,
+      "lists": [
+        "monthly"
+      ],
+      "titleZh": "怪物火车2",
+      "metacritic": {
+        "score": 87,
+        "title": "Monster Train 2",
+        "url": "https://www.metacritic.com/game/monster-train-2/",
+        "mustPlay": false,
+        "genres": [
+          "Card Battle"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-05-21",
+        "userScore": 7.8,
+        "userReviewCount": 76
+      },
+      "titleZhSource": "store",
+      "playtime": {
+        "main": 5.7,
+        "extra": 37.5,
+        "complete": 133.9
       }
     },
     {
@@ -12949,8 +12991,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2021-06-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1906/OyFoipBrxdT15fukONDXZ551.png",
+      "releaseDate": "2021-07-26T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2602/jIRiYO758aoaUYTX77Wsx2lb.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001263",
       "ps4": true,
       "ps5": false,
@@ -13072,8 +13114,9 @@
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001738",
       "ps4": true,
       "ps5": false,
-      "tier": 2,
+      "tier": 1,
       "lists": [
+        "monthly",
         "catalog"
       ],
       "titleZh": null,
@@ -16753,6 +16796,44 @@
       }
     },
     {
+      "productId": "10009064",
+      "title": "Tomb Raider IV-VI Remastered",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2025-12-10T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10009064",
+      "ps4": true,
+      "ps5": true,
+      "tier": 1,
+      "lists": [
+        "monthly"
+      ],
+      "titleZh": "古墓丽影IV–VI复刻版",
+      "metacritic": {
+        "score": 70,
+        "title": "Tomb Raider IV-VI Remastered",
+        "url": "https://www.metacritic.com/game/tomb-raider-iv-vi-remastered/",
+        "mustPlay": false,
+        "genres": [
+          "Compilation"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-02-14",
+        "userScore": 7.8,
+        "userReviewCount": 89
+      },
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 35.3,
+        "extra": 49.7,
+        "complete": 72.1
+      }
+    },
+    {
       "productId": "10013616",
       "title": "Tomb Raider: Anniversary",
       "developer": null,
@@ -18519,7 +18600,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2025-07-24T09:00:00Z",
+      "releaseDate": "2023-06-20T00:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004898",
       "ps4": true,
@@ -18541,7 +18622,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2022-05-22T18:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004899",
       "ps4": true,

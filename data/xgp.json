@@ -1,6 +1,6 @@
 {
   "market": "SG",
-  "fetchedAt": "2026-11-02T08:49:44.472Z",
+  "fetchedAt": "2026-11-09T09:02:20.015Z",
   "games": [
     {
       "productId": "9NPDN9R45JX4",
@@ -55,7 +55,8 @@
       "shortDescription": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "categories": [
         "Strategy",
-        "Role playing"
+        "Role playing",
+        "Card & board"
       ],
       "releaseDate": "2025-08-14T13:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
@@ -2768,13 +2769,13 @@
       "title": "Call of Duty®: Warzone™",
       "developer": null,
       "publisher": "Activision Publishing Inc.",
-      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
+      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including Battle Royale and Resurgence.",
       "categories": [],
       "releaseDate": "2022-11-14T18:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
+      "image": "https://store-images.s-microsoft.com/image/apps.56274.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.787de075-0bde-451b-a3f1-3123e78bc327",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NNFG8BQRCXL",
       "titleZh": "使命召唤®：战争地带™",
-      "shortDescriptionZh": "欢迎来到《使命召唤®：战争地带™》，这是一个免费畅玩、规模庞大的竞技场。体验刺激的游戏模式和全新游戏功能，包括“惊魂夜”重制版的宁湾镇、生存游戏、黑色行动生存游戏和重生模式。",
+      "shortDescriptionZh": "欢迎来到《使命召唤®：战争地带™》，这是一个免费畅玩、规模庞大的竞技场。体验刺激的游戏模式和全新游戏功能，包括生存游戏和重生模式。",
       "platforms": [
         "console",
         "pc"
@@ -5147,6 +5148,29 @@
       "xboxSeries": true
     },
     {
+      "productId": "9P743P6195Q5",
+      "playAnywhere": false,
+      "title": "Escape Academy 2: Back 2 School",
+      "developer": "Coin Crew Games",
+      "publisher": "iam8bit Presents",
+      "shortDescription": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "categories": [
+        "Puzzle & trivia",
+        "Action & adventure"
+      ],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.32075.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.303a41a4-14bb-4486-a564-6e3cc7dbf83a",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P743P6195Q5",
+      "titleZh": null,
+      "shortDescriptionZh": "《逃脱学院 2：再返校园》开讲啦！探索翻修一新的校园，解开谜题，逃离危机四伏的密室，揭露那和学校本身历史同样悠久的古老阴谋——可别等到铃声响起。单人成趣亦可，多人同乐也行，无论线上游玩还是本地合作，赶紧开始解谜吧！",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9NKBDN695GTT",
       "playAnywhere": true,
       "title": "Escape Simulator",
@@ -5546,13 +5570,13 @@
       "title": "FAR CRY 3",
       "developer": "Ubisoft Montreal, MASSIVE Entertainment & Ubisoft Shanghaï",
       "publisher": "Ubisoft",
-      "shortDescription": "Far Cry 3 is an open world first-person shooter set on an island unlike any other. A place where heavily armed warlords traffic in slaves. Where outsiders are hunted for ransom. And as you embark on a desperate quest to rescue your friends, you realize that the only way to escape this darkness… is to embrace it",
+      "shortDescription": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
       "categories": [],
       "releaseDate": "2026-07-21T14:00:00.0000000Z",
       "image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NXWKGRHT31F",
       "titleZh": "《孤岛惊魂® 3》",
-      "shortDescriptionZh": "《孤岛惊魂3》是一款开放世界第一人称射击游戏，背景设定是一座与众不同的岛屿。为了解救朋友，你踏上了一段艰难的旅程，而你意识到要逃离这个地狱的唯一办法竟然是融入其中",
+      "shortDescriptionZh": "作为杰森·布洛迪，你被困在洛克群岛。你必须利用强大的军械库，在这个无法无天的热带开放世界中杀出一条血路，拯救你的朋友，并逃离这款备受赞誉、极具冲击力的第一人称射击游戏所呈现的疯狂世界。",
       "platforms": [
         "pc"
       ],
@@ -5594,28 +5618,6 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NVJ4L71DF5Q",
       "titleZh": "Far Cry® 3 Blood Dragon Classic Edition",
       "shortDescriptionZh": "時間是 2007 年，依然是未來。透過「經典版」暢玩廣受好評的《極地戰嚎 3：血龍》——把妹、擊殺壞人並拯救世界",
-      "platforms": [
-        "console"
-      ],
-      "xboxOne": true,
-      "xboxSeries": true
-    },
-    {
-      "productId": "BV2ZVP7PJZWL",
-      "playAnywhere": false,
-      "title": "Far Cry 3 Classic Edition",
-      "developer": null,
-      "publisher": "Ubisoft",
-      "shortDescription": "(Re-)experience Far Cry 3 Classic Edition, now available in 60 FPS on Xbox Series X|S. Create your own adventure in a single-player, open world island of danger and discovery as you journey through the dark side of humanity.",
-      "categories": [
-        "Action & adventure",
-        "Shooter"
-      ],
-      "releaseDate": "2018-06-26T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BV2ZVP7PJZWL",
-      "titleZh": "孤島驚魂®3 經典版",
-      "shortDescriptionZh": "《Far Cry®3》经典版在当代的游戏主机上重现洛克群岛。\r\n发现岛上的血腥秘密；利用环境优势；对抗凶残而疯狂的居民以拯救你的朋友。\r\n小心这座美丽又神秘的疯狂岛屿——想要逃出生天，你需要的可不只是运气而已！",
       "platforms": [
         "console"
       ],
@@ -5799,6 +5801,28 @@
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/C1DDW4PRF6K5",
       "titleZh": null,
       "shortDescriptionZh": "於世界核災 17 年之後，潛入徹底變化的末日後希望郡\n與倖存者夥伴一起，領導對抗新的危險威脅——攔路強盜，與他們橫行霸道的頭目雙胞胎戰鬥。",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
+      "productId": "BV2ZVP7PJZWL",
+      "playAnywhere": false,
+      "title": "FARCRY 3 Classic Edition",
+      "developer": null,
+      "publisher": "Ubisoft",
+      "shortDescription": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed, visceral first-person shooter. Now in 60 FPS on Xbox Series X|S!",
+      "categories": [
+        "Action & adventure",
+        "Shooter"
+      ],
+      "releaseDate": "2018-06-26T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/BV2ZVP7PJZWL",
+      "titleZh": "《極地戰嚎 3》經典版",
+      "shortDescriptionZh": "你將以「傑森．布洛迪」的身分受困於「洛克島」，在這片無法無天的熱帶開放世界中奮戰，運用強大的武器拯救朋友，逃離這款廣受好評、衝擊感十足的第一人稱射擊遊戲所描繪的瘋狂深淵。現已可在 Xbox Series X|S 以 60 FPS 遊玩！",
       "platforms": [
         "console"
       ],
@@ -6137,6 +6161,28 @@
       "xboxSeries": true
     },
     {
+      "productId": "9N8RKWJT32L4",
+      "playAnywhere": true,
+      "title": "Firefighting Simulator: Ignite",
+      "developer": "weltenbauer. Software Entwicklung GmbH",
+      "publisher": "astragon Entertainment GmbH",
+      "shortDescription": "Face unpredictable dangers, fight perilous fires with your crew, and save lives in Firefighting Simulator: Ignite. Step into the boots of a U.S. firefighter and play with up to 3 friends or with the help of your NPC controlled crew members. ",
+      "categories": [
+        "Simulation"
+      ],
+      "releaseDate": "2025-09-09T08:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.32408.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.cabef57c-c072-408a-a400-ef040fd8bca9",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N8RKWJT32L4",
+      "titleZh": "消防模拟：火苗燃动",
+      "shortDescriptionZh": "在《Firefighting Simulator: Ignite》中面对无法预测的危险，与队员一起扑灭可怕的火灾并挽救生命。扮演美国消防员，与最多3名好友同玩，或借助游戏系统操控的队员的力量来游玩。 ",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9N7MVHP2R7VP",
       "playAnywhere": true,
       "title": "FixForce",
@@ -6226,6 +6272,28 @@
       ],
       "xboxOne": true,
       "xboxSeries": true
+    },
+    {
+      "productId": "9N4NKMXDZCX6",
+      "playAnywhere": false,
+      "title": "Football Manager 27",
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "shortDescription": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. \r\nFM27 is where your footballing beliefs become a reality. Make The Call.",
+      "categories": [
+        "Simulation",
+        "Sports"
+      ],
+      "releaseDate": "2026-11-10T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.47586.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.40797f8e-48ea-47e2-aab8-9ea6e13f5a79",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N4NKMXDZCX6",
+      "titleZh": null,
+      "shortDescriptionZh": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。\r\n在《FM27》中让自己的足球理念成为现实。做出决断。",
+      "platforms": [
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": false
     },
     {
       "productId": "9N3DWR830CVN",
@@ -6431,10 +6499,10 @@
         "Shooter"
       ],
       "releaseDate": "2025-04-29T10:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.16868.13848987134544813.7c1bc445-ee84-4289-ab2e-4ee6990764e8.3e3a1229-cf14-4c88-af69-ef4ea095b75a",
+      "image": "https://store-images.s-microsoft.com/image/apps.25465.13848987134544813.b9397189-e630-434e-b4ea-da4764f01b90.c8470771-5d33-4194-9c26-0745775b3361",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW715J1P29D",
       "titleZh": null,
-      "shortDescriptionZh": "《界外狂潮》是一款全新的多人战术射击游戏，玩家将化身能力各异的界外之子，通过碎片卡改写战斗规则，逆转战场局势——此刻，规则由你定义！\n\n捏碎规则，出奇制胜 \n投身于界外狂潮的战斗，用海量碎片卡彻底打破战场法则！\n调转枪口，痛击队友？先别急——对友军开枪就能提升攻速，战友情，此刻无需多言；\n生命垂危，亟需治疗？不要紧——下蹲生蛋，吃掉即可恢复血量，“打鸡血”，从未如此具象！\n卡组间配合与克制的极致博弈，为经典爆破模式注入全新战术维度。\n所有卡牌，永久免费。即刻加入，体验界外战场的无限可能！ \n\n界外之子，破界来袭 \n火箭狂人、陷阱大师、隐形刺客、机甲天才……\n界外之子们风格各异，不同技能，让你应对界外战场各种突发状况。 \n每赛季持续更新！\n\n打破平局，以一挑五 \n比赛平局，苦战加时？不如来场激动人心的“点球大战”！\n选择上兵伐谋，田忌赛马？还是做个真正勇士，以一敌五？\n枪法与意识的纯粹对决，",
+      "shortDescriptionZh": "全​新玩法体验将于11月5日上线\n在全新玩法边界行者中接取订单，穿越不断变化的世界，沿途邂逅生物、各方势力与其他玩家。完成配送，将资源带回家园；或加入碎片对决，投身快节奏的5v5战术射击对局，用卡牌改写战斗规则。\n\n以全新方式体验界外狂潮\n边界行者为界外狂潮带来全新的多人送货冒险体验。\n接取订单，整装出发，踏上属于自己的旅程。在与生物、各方势力和其他玩家的互动中完成配送，将资源带回家园，升级装备、载具与基地。\n\n在不断变化的碎片世界中生存\n世界始终在变化。\n天气、生物、资源与势力活动都会随时间变化。昨天还安全的路线，今天可能危机四伏。探索广阔而充满生机的环境，每次出发，都需要新的计划。\n\n生物、对手与艰难抉择\n危险不只来自旅途本身。\n你将面对敌对生物、各有盘算的 NPC 势力，以及与其他玩家难以预料的遭遇。何时避开威胁、把握机会、尝试接触或正面交战，由你决定。\n\n为下一段旅程积蓄力量\n每一",
       "platforms": [
         "console",
         "pc"
@@ -6950,6 +7018,30 @@
         "console"
       ],
       "xboxOne": true,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9PBG4MTM3JJC",
+      "playAnywhere": true,
+      "title": "GRAVHOUNDS (Game Preview)",
+      "developer": "Octopus Panic, Inc",
+      "publisher": "Octopus Panic, Inc",
+      "shortDescription": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. \nGRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow. ",
+      "categories": [
+        "Shooter",
+        "Action & adventure",
+        "Strategy"
+      ],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.40166.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.b6227c5c-14b9-457f-b75f-e717dcd817f6",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9PBG4MTM3JJC",
+      "titleZh": "GRAVHOUNDS (游戏预览版)",
+      "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。 GRAVHOUNDS是一款可供1-4名玩家合作游玩的动作建造游戏。你们将共同降落至敌对星球，应对遵循真实物理法则的混乱场面，建造并守护基地，并要在沦为外星人的食物之前，尽可能地带着所有物品撤离！坚守的时间越久，危险就越大……但奖励也越丰厚。",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
       "xboxSeries": true
     },
     {
@@ -9895,6 +9987,56 @@
       "xboxSeries": true
     },
     {
+      "productId": "9N74KFV7253H",
+      "playAnywhere": false,
+      "title": "MySims™",
+      "developer": "Maxis",
+      "publisher": "Electronic Arts",
+      "shortDescription": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
+      "categories": [
+        "Simulation",
+        "Action & adventure",
+        "Family & kids",
+        "Other",
+        "Classics"
+      ],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.60612.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.e9ab6f16-67a2-4818-a235-000490801ab1",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N74KFV7253H",
+      "titleZh": null,
+      "shortDescriptionZh": "探索《MySims™》的美丽新世界——在这款重新发行的怀旧经典游戏中，享受全新升级的画面，让你的世界焕然一新！搬到一个可爱迷人的小镇，施展你的创造力，并在当地人的协助下让小镇重新繁荣起来！",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
+      "productId": "9N8RS7CW8CGL",
+      "playAnywhere": false,
+      "title": "MySims™ Kingdom",
+      "developer": "Maxis",
+      "publisher": "Electronic Arts",
+      "shortDescription": "Explore new lands, and meet new friends in this retro re-release with updated graphics! It's all the things you loved about the first MySims™ game, but with more challenges, puzzles, and things to explore. Can you help revitalize the kingdom?",
+      "categories": [
+        "Simulation",
+        "Action & adventure",
+        "Family & kids",
+        "Other",
+        "Classics"
+      ],
+      "releaseDate": "9998-12-30T00:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.39038.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.d479a5d0-2b40-4cc5-9ed3-acfb4d37de04",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N8RS7CW8CGL",
+      "titleZh": null,
+      "shortDescriptionZh": "在这款重新发行的怀旧经典游戏中，享受全新升级的画面，结识新朋友！除了汇集首款《MySims™》游戏中所有备受欢迎的元素，更有全新挑战、谜题和内容等着你去探索。你能重振王国雄风吗？",
+      "platforms": [
+        "console"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
+    },
+    {
       "productId": "9P8SQQJ5T94B",
       "playAnywhere": false,
       "title": "NARAKA: BLADEPOINT",
@@ -10958,6 +11100,28 @@
       ],
       "xboxOne": false,
       "xboxSeries": false
+    },
+    {
+      "productId": "9MW4MFG0192L",
+      "playAnywhere": true,
+      "title": "PIT OF GOBLIN",
+      "developer": "Friendly Foe",
+      "publisher": "Friendly Foe, Bright Gambit",
+      "shortDescription": "Ever dreamt of being the lowest of the low, living a life so nasty and gnarly that even the rats look down on you? Well, in Pit of Goblin, that’s every day! Slap on your stinkiest boots and dive into crumbling crypts, ghastly caverns, and ghost-infested ruins. Every step is fraught with peril and surprise! Your purpose is feeding the King Queen’s bottomless gut. The best part? You can drag your go",
+      "categories": [
+        "Action & adventure"
+      ],
+      "releaseDate": "2026-11-03T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.9831.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.6ec243d5-63f7-4a8a-bf58-7a0bd6fcd318",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9MW4MFG0192L",
+      "titleZh": null,
+      "shortDescriptionZh": "是否曾想象过成为最低等的存在，过着连老鼠都瞧不起的肮脏生活？在《地精之渊》中，这就是你的日常！穿上你那臭气熏天的靴子，深入快要崩塌的坟墓、阴森恐怖的洞穴和鬼魂肆虐的废墟，每一步都充满危险与惊悚！你的目标是满足地精王的无底胃口。万幸的是，你可以拖着你的地精伙伴们陪你一起受苦！\n\n携手合作或制造混乱\n与最多五名地精伙伴组队。团队合作至关重要……当然，除非你是那种喜欢捣乱的地精！你们是会团结一致，还是会偷偷搞恶作剧？无论如何，这都将是地精式的混乱。\n每一次在地渊中的磕磕绊绊，都是一段独一无二的地精传奇，无论你是在机敏地规避着致命的陷阱，还是无奈地被自己那双硕大的脚丫绊个跟头。每一次探险，都是一段不可复制的经历！\n随着探索的不断深入，面临的挑战也将越发艰巨。但别忘了，你还得设法找到出路……如果你还想活到明天的话。\n\n出于贪婪，还是精于策略？\n四处搜寻食物，然后决定是否要将辛苦得来的战利品上交给地精",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "xboxOne": false,
+      "xboxSeries": true
     },
     {
       "productId": "9PK5WS0HXQKQ",
@@ -12776,7 +12940,7 @@
         "Multi-player Online Battle Arena"
       ],
       "releaseDate": "9998-12-30T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.25253.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.3bd1beb4-cbc8-4159-9f66-48c6fb2f4159",
+      "image": "https://store-images.s-microsoft.com/image/apps.62277.14402893629943553.6e6c7d04-2186-4859-a2b8-45f1f1799a2e.8d2666eb-bd71-4d2b-be65-e0c1ace35c98",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NV8W1KJSQLL",
       "titleZh": "《神之浩劫2》",
       "shortDescriptionZh": "此游戏是在制品。 可能会随时间更改，亦可能会作为最终产品发布。 请仅在您熟悉此未完成游戏的当前状态下购买。 \n\n《神之浩劫2》由Unreal Engine 5打造，在这款传奇第三人称动作MOBA续作中，玩家将化身为神，并掀起战争的狂澜。如果你热衷于激烈的竞争、火爆的动作、技能驱动的战斗、回报满满的团队合作，或者热爱神话传说，那么你就能明白为什么超过4千万玩家都喜爱《神之浩劫》",
@@ -14729,20 +14893,18 @@
       "xboxSeries": true
     },
     {
-      "productId": "9P1WJCK9B8S6",
+      "productId": "9NCQ70MVCK24",
       "playAnywhere": false,
       "title": "The Rogue Prince of Persia™",
       "developer": null,
       "publisher": "Ubisoft",
-      "shortDescription": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia – or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
-      "categories": [
-        "Action & adventure"
-      ],
-      "releaseDate": "2025-08-20T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.44243.14503626044492977.7208f0d9-85c4-4e8b-ae05-bd4b875bf1b3.2f032f23-1ee7-4b0c-9709-c9a11ca6de6f",
-      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9P1WJCK9B8S6",
+      "shortDescription": "In this challenging, fast-paced roguelite, every death is a unique chance to rewrite fate, save Persia or die trying. Master fluid, acrobatic combat and parkour as you explore your kingdom to right your wrongs!",
+      "categories": [],
+      "releaseDate": "2026-07-21T14:00:00.0000000Z",
+      "image": "https://store-images.s-microsoft.com/image/apps.44243.14620929402526007.656881f4-d1bd-48f8-9226-dedf1c328133.13ec49a5-44ec-478b-84a0-f6590987e1d1",
+      "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NCQ70MVCK24",
       "titleZh": "波斯王子：Rogue™",
-      "shortDescriptionZh": "在这款充满挑战的快节奏肉鸽游戏里，每一次死亡都是改写命运、拯救波斯的独特机会——不成功，便成仁。掌握特技般的流畅战斗和跑酷技巧，探索你的王国，弥补自己犯下的错误！",
+      "shortDescriptionZh": "在这款充满挑战的快节奏肉鸽游戏中，每一次死亡都是改写命运、拯救波斯的独特机会——不成功，便成仁。掌握特技般的流畅战斗和跑酷技巧，探索你的王国，弥补自己犯下的错误！",
       "platforms": [
         "pc"
       ],
@@ -16230,8 +16392,8 @@
     },
     {
       "productId": "9N9K5QP9G3GL",
-      "playAnywhere": false,
-      "title": "VOID/BREAKER (Game Preview)",
+      "playAnywhere": true,
+      "title": "VOID/BREAKER",
       "developer": "Stubby Games",
       "publisher": "Playstack",
       "shortDescription": "Adrenaline-Fueled Roguelite FPS",
@@ -16240,15 +16402,16 @@
         "Action & adventure"
       ],
       "releaseDate": "2026-11-04T00:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.20544.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.75e42099-ab23-4790-9d28-58ea2fa9077d",
+      "image": "https://store-images.s-microsoft.com/image/apps.8077.13536036111571877.6e9314d2-c36f-4ec9-ad65-425453b390bd.43f1c606-e026-4cd5-8eab-759d0b1b550e",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N9K5QP9G3GL",
-      "titleZh": "VOID/BREAKER (游戏预览版)",
+      "titleZh": null,
       "shortDescriptionZh": "让人肾上腺素狂飙的 Roguelite 第一人称射击游戏",
       "platforms": [
+        "console",
         "pc"
       ],
       "xboxOne": false,
-      "xboxSeries": false
+      "xboxSeries": true
     },
     {
       "productId": "9NQMVR9WL9FW",
@@ -17101,7 +17264,7 @@
         "Shooter"
       ],
       "releaseDate": "2026-05-26T07:00:00.0000000Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.46446.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.86215b6f-798f-45e3-bcde-737ebc123907",
+      "image": "https://store-images.s-microsoft.com/image/apps.28387.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.7bd00d59-6fb9-4b0a-b3d2-eed534f2e0c1",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9N11JM7F5CXK",
       "titleZh": null,
       "shortDescriptionZh": "World of Tanks: HEAT是一款免费的PvP坦克射击游戏，融合了强大的英雄能力和火爆的团队战斗。驾驶可自定义坦克，施展特工技能，在兼具战术博弈与第一人称射击游戏风格激情的线上战斗中主宰战局。",
@@ -17125,7 +17288,7 @@
         "Simulation"
       ],
       "releaseDate": "2017-11-03T18:08:36.1008660Z",
-      "image": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
+      "image": "https://store-images.s-microsoft.com/image/apps.24728.13660342589962425.83c35c19-74e3-4695-9f5e-d36d0fcd1705.d32f03d7-3c2e-4a7c-9399-971eb467f09f",
       "storeUrl": "https://www.xbox.com/en-us/games/store/_/9NK9K07FDPJV",
       "titleZh": null,
       "shortDescriptionZh": "Build a Fleet—Rule the Sea!\n\nKey Features:\n• Over 800 historical ships recreated in breathtaking, true-to-life detail.\n• Five different ship types—submarines, destroyers, cruisers, battleships, and aircraft carriers—all offering distinct gameplay challenges.\n• Tech Tree with 13 distinct nations and dozens of branches to explore.\n• Epic multiplayer naval battles between massive fleets across a mult",

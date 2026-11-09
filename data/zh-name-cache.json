@@ -7303,5 +7303,39 @@
   "thelegendofsteelempire": null,
   "thejackboxpartypack5": null,
   "unboxnewbiesadventure": null,
-  "werewolftheapocalypseheartoftheforest": null
+  "werewolftheapocalypseheartoftheforest": null,
+  "footballmanager27": {
+    "name": "足球经理27",
+    "source": "wikidata"
+  },
+  "tombraiderivviremastered": {
+    "name": "古墓丽影IV–VI复刻版",
+    "source": "wikidata"
+  },
+  "thelegendofzeldaocarinaoftime": {
+    "name": "塞尔达传说 时之笛",
+    "source": "wikidata"
+  },
+  "gravhoundsgamepreview": null,
+  "escapeacademy2back2school": {
+    "name": "逃脱学院 2：再返校园",
+    "source": "steam"
+  },
+  "mysims": null,
+  "pitofgoblin": null,
+  "mysimskingdom": null,
+  "voidbreaker": {
+    "name": "虚空破坏者",
+    "source": "steam"
+  },
+  "chivalware": {
+    "name": "骑士盘骑士",
+    "source": "steam"
+  },
+  "disneypixartoystory3completeedition": null,
+  "godzilladestroyallmonstersmeleeremastered": null,
+  "marvelsguardiansofthegalaxyencoreedition": null,
+  "joeandmacretrocollection": null,
+  "stellarbladecompleteedition": null,
+  "steinsgatereboot": null
 }

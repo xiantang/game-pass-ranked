@@ -12711,5 +12711,101 @@
     ],
     "mustPlay": false,
     "confidence": 1
+  },
+  "gravhounds": {
+    "title": "GRAVHOUNDS",
+    "slug": "gravhounds",
+    "score": null,
+    "url": "https://www.metacritic.com/game/gravhounds/",
+    "releaseDate": "TBA - Early Access",
+    "genres": [
+      "Tactical Third Person Shooter"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mysims": {
+    "title": "MySims",
+    "slug": "mysims",
+    "score": 68,
+    "url": "https://www.metacritic.com/game/mysims/",
+    "releaseDate": "2007-09-18",
+    "genres": [
+      "Virtual Life"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "football manager 27": {
+    "title": "Football Manager 27",
+    "slug": "football-manager-27",
+    "score": 82,
+    "url": "https://www.metacritic.com/game/football-manager-27/",
+    "releaseDate": "2026-11-10",
+    "genres": [
+      "Soccer Management"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "mysims kingdom": {
+    "title": "MySims Kingdom",
+    "slug": "mysims-kingdom",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/mysims-kingdom/",
+    "releaseDate": "2008-10-28",
+    "genres": [
+      "Virtual Life"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "farcry 3 classic": {
+    "title": "Far Cry 3: Classic Edition",
+    "slug": "far-cry-3-classic-edition",
+    "score": null,
+    "url": "https://www.metacritic.com/game/far-cry-3-classic-edition/",
+    "releaseDate": "Q2 2027",
+    "genres": [
+      "FPS"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "escape academy 2 back 2 school": {
+    "title": "Escape Academy 2: Back 2 School",
+    "slug": "escape-academy-2-back-2-school",
+    "score": 73,
+    "url": "https://www.metacritic.com/game/escape-academy-2-back-2-school/",
+    "releaseDate": "2026-11-05",
+    "genres": [
+      "First-Person Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "pit of goblin": {
+    "title": "Pit of Goblin",
+    "slug": "pit-of-goblin",
+    "score": null,
+    "url": "https://www.metacritic.com/game/pit-of-goblin/",
+    "releaseDate": "2026-11-03",
+    "genres": [
+      "Action Adventure"
+    ],
+    "mustPlay": false,
+    "confidence": 1
+  },
+  "tomb raider 4 6": {
+    "title": "Tomb Raider IV-VI Remastered",
+    "slug": "tomb-raider-iv-vi-remastered",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/tomb-raider-iv-vi-remastered/",
+    "releaseDate": "2025-02-14",
+    "genres": [
+      "Compilation"
+    ],
+    "mustPlay": false,
+    "confidence": 1
   }
 }

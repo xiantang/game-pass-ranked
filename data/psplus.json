@@ -1,7 +1,7 @@
 {
   "service": "psplus",
   "market": "SG",
-  "fetchedAt": "2026-11-02T08:50:02.903Z",
+  "fetchedAt": "2026-11-09T09:02:21.887Z",
   "games": [
     {
       "productId": "10007645",
@@ -813,8 +813,8 @@
       "categories": [
         "ROLE_PLAYING_GAMES"
       ],
-      "releaseDate": "2023-03-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/w3plTnuSWMWg5jJbIUe6UMLW.png",
+      "releaseDate": "2023-03-22T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0107/qiiQyVfE5FrUO1loLJZkn7t7.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10005432",
       "ps4": true,
       "ps5": true,
@@ -914,11 +914,11 @@
         "ADVENTURE",
         "ACTION"
       ],
-      "releaseDate": "2024-03-04T16:00:00Z",
+      "releaseDate": "2023-10-18T16:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1811/5229d8907463bde18583fdccfcaaa98cd7e6be2cff107f67.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10006478",
-      "ps4": false,
-      "ps5": true,
+      "ps4": true,
+      "ps5": false,
       "tier": 2,
       "lists": [
         "catalog"
@@ -1885,8 +1885,9 @@
       "storeUrl": "https://store.playstation.com/en-sg/concept/201061",
       "ps4": true,
       "ps5": true,
-      "tier": 2,
+      "tier": 1,
       "lists": [
+        "monthly",
         "catalog"
       ],
       "titleZh": null
@@ -2489,8 +2490,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2015-02-24T17:00:00Z",
-      "image": "https://image.api.playstation.com/cdn/UP4108/CUSA01632_00/aYzsdKhQDOGr1T6wwKpbtvB9kAEC9SR0CV5OkJqk7f44jRHhNeGNXGImHagGwz8F.png",
+      "releaseDate": "2015-01-28T17:00:00Z",
+      "image": "https://image.api.playstation.com/cdn/HP0106/CUSA01577_00/yT3jXoR0nGrmYz5Ujq8kbwom3tmLBwymAWGpl8PsrSZDOdxZJMMIDbaSo3Ggto57.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/221097",
       "ps4": true,
       "ps5": false,
@@ -2584,25 +2585,6 @@
         "catalog"
       ],
       "titleZh": null
-    },
-    {
-      "productId": "10008165",
-      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "ACTION"
-      ],
-      "releaseDate": "2024-05-22T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10008165",
-      "ps4": true,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
-      ],
-      "titleZh": "地球再次变四方？！ 数码方块地球防卫军2"
     },
     {
       "productId": "10004656",
@@ -2851,25 +2833,6 @@
       "tier": 2,
       "lists": [
         "catalog"
-      ],
-      "titleZh": null
-    },
-    {
-      "productId": "10011830",
-      "title": "F1® 25",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "RACING"
-      ],
-      "releaseDate": "2025-05-30T15:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/44c15449fbe9485987e27e2fa2c86008a7b4a89d9ab7e0a8.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/10011830",
-      "ps4": false,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
       ],
       "titleZh": null
     },
@@ -3978,27 +3941,6 @@
         "ubisoft"
       ],
       "titleZh": "《饥饿鲨：世界》"
-    },
-    {
-      "productId": "234014",
-      "title": "Hunt: Showdown 1896",
-      "developer": null,
-      "publisher": null,
-      "categories": [
-        "SHOOTER",
-        "SHOOTER",
-        "ACTION"
-      ],
-      "releaseDate": "2025-09-24T11:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0715/8d589eb7d8efc65df7430505f95c270040659e6d75fcb13c.png",
-      "storeUrl": "https://store.playstation.com/en-sg/concept/234014",
-      "ps4": false,
-      "ps5": true,
-      "tier": 1,
-      "lists": [
-        "monthly"
-      ],
-      "titleZh": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows"
     },
     {
       "productId": "234423",
@@ -5173,6 +5115,27 @@
       "titleZh": null
     },
     {
+      "productId": "202807",
+      "title": "METRO 2033 Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION",
+        "SHOOTER"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202807",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "231769",
       "title": "Metro Exodus",
       "developer": null,
@@ -5190,6 +5153,47 @@
       "tier": 2,
       "lists": [
         "catalog"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "226459",
+      "title": "METRO Last Light Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION",
+        "SHOOTER"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/d0c2b40c5db44a73d3b3605fdd9a07f80df8fd33716a93c3.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/226459",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
+      ],
+      "titleZh": null
+    },
+    {
+      "productId": "202806",
+      "title": "METRO Redux",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "SHOOTER",
+        "ACTION"
+      ],
+      "releaseDate": "2026-10-29T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2111/0280a6d70e309b7cb3509600a500b728ada3626192e19b74.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/202806",
+      "ps4": true,
+      "ps5": true,
+      "tier": 3,
+      "lists": [
+        "classics"
       ],
       "titleZh": null
     },
@@ -5328,6 +5332,25 @@
         "catalog"
       ],
       "titleZh": null
+    },
+    {
+      "productId": "10012399",
+      "title": "Monster Train 2",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "STRATEGY"
+      ],
+      "releaseDate": "2025-05-21T14:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10012399",
+      "ps4": false,
+      "ps5": true,
+      "tier": 1,
+      "lists": [
+        "monthly"
+      ],
+      "titleZh": "《怪物火车2》"
     },
     {
       "productId": "10000346",
@@ -7035,8 +7058,8 @@
       "categories": [
         "ACTION"
       ],
-      "releaseDate": "2021-06-23T16:00:00Z",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1906/OyFoipBrxdT15fukONDXZ551.png",
+      "releaseDate": "2021-07-26T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2602/jIRiYO758aoaUYTX77Wsx2lb.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001263",
       "ps4": true,
       "ps5": false,
@@ -7101,8 +7124,9 @@
       "storeUrl": "https://store.playstation.com/en-sg/concept/10001738",
       "ps4": true,
       "ps5": false,
-      "tier": 2,
+      "tier": 1,
       "lists": [
+        "monthly",
         "catalog"
       ],
       "titleZh": null
@@ -9075,6 +9099,25 @@
       "titleZh": "TOMB RAIDER DEFINITIVE EDITION 制品版"
     },
     {
+      "productId": "10009064",
+      "title": "Tomb Raider IV-VI Remastered",
+      "developer": null,
+      "publisher": null,
+      "categories": [
+        "ACTION"
+      ],
+      "releaseDate": "2025-12-10T16:00:00Z",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+      "storeUrl": "https://store.playstation.com/en-sg/concept/10009064",
+      "ps4": true,
+      "ps5": true,
+      "tier": 1,
+      "lists": [
+        "monthly"
+      ],
+      "titleZh": null
+    },
+    {
       "productId": "10013616",
       "title": "Tomb Raider: Anniversary",
       "developer": null,
@@ -10037,7 +10080,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2025-07-24T09:00:00Z",
+      "releaseDate": "2023-06-20T00:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004898",
       "ps4": true,
@@ -10056,7 +10099,7 @@
       "categories": [
         "STRATEGY"
       ],
-      "releaseDate": "2022-05-22T18:00:00Z",
+      "releaseDate": "2025-07-24T09:00:00Z",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
       "storeUrl": "https://store.playstation.com/en-sg/concept/10004899",
       "ps4": true,

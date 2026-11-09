@@ -1,10 +1,10 @@
 {
   "service": "switch",
   "market": "US",
-  "fetchedAt": "2026-11-02T08:50:05.487Z",
-  "scoredAt": "2026-11-02T08:50:43.931Z",
-  "total": 20698,
-  "scored": 2335,
+  "fetchedAt": "2026-11-09T09:02:28.000Z",
+  "scoredAt": "2026-11-09T09:02:52.178Z",
+  "total": 20777,
+  "scored": 2347,
   "games": [
     {
       "productId": "70010000039876",
@@ -2075,7 +2075,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-04-24",
-        "userScore": 7,
+        "userScore": 7.1,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -2492,7 +2492,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-09-29",
-        "userScore": 7.2,
+        "userScore": 7.1,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -3204,7 +3204,7 @@
         "Shooting"
       ],
       "releaseDate": "2025-08-05T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000100327/8b5c7e57415661b479f834f4a91be0d78539adab29fdee2870e79c8c33640bfa",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000100327/daa52fed28e4de36074db411b15a8f340428dfbe76abe71f3a96ad71d18f0372",
       "storeUrl": "https://www.nintendo.com/us/store/products/apex-legends-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -3435,76 +3435,6 @@
         "main": 24.9,
         "extra": 28.4,
         "complete": 46
-      }
-    },
-    {
-      "productId": "70010000022855",
-      "title": "Arcade Spirits",
-      "developer": null,
-      "publisher": "PQube",
-      "categories": [
-        "Narrative adventure"
-      ],
-      "releaseDate": "2020-05-01T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/85efe1e89e99498ebcb7db6b2cec7ae1_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/arcade-spirits-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 75,
-        "title": "Arcade Spirits",
-        "url": "https://www.metacritic.com/game/arcade-spirits/",
-        "mustPlay": false,
-        "genres": [
-          "Visual Novel"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-05-01",
-        "userScore": 6,
-        "userReviewCount": null
-      },
-      "titleZh": null,
-      "titleZhSource": null,
-      "playtime": {
-        "main": 8.3,
-        "extra": 11.2,
-        "complete": 17.7
-      }
-    },
-    {
-      "productId": "70010000049579",
-      "title": "Arcade Spirits: The New Challengers",
-      "developer": "Fiction Factory Games",
-      "publisher": "PQube",
-      "categories": [
-        "Narrative adventure"
-      ],
-      "releaseDate": "2022-05-27T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c9dbbbe148d749f8a50d95be7d0bc757_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/arcade-spirits-the-new-challengers-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 75,
-        "title": "Arcade Spirits",
-        "url": "https://www.metacritic.com/game/arcade-spirits/",
-        "mustPlay": false,
-        "genres": [
-          "Visual Novel"
-        ],
-        "confidence": 0.97,
-        "releaseDate": "2020-05-01",
-        "userScore": 6,
-        "userReviewCount": null
-      },
-      "titleZh": null,
-      "titleZhSource": null,
-      "playtime": {
-        "main": 8.3,
-        "extra": 11.2,
-        "complete": 17.7
       }
     },
     {
@@ -4143,7 +4073,7 @@
       "productId": "70010000061304",
       "title": "ASTLIBRA Revision",
       "developer": null,
-      "publisher": "WhisperGames",
+      "publisher": "Treasure Boy",
       "categories": [
         "Action",
         "Role playing"
@@ -4946,7 +4876,7 @@
       }
     },
     {
-      "productId": "70010000085991",
+      "productId": "70010000122665",
       "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
       "developer": null,
       "publisher": "KOEI TECMO AMERICA",
@@ -4954,12 +4884,12 @@
         "Action",
         "Role playing"
       ],
-      "releaseDate": "2025-03-21T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/11d79e539f7f48b198d58249ac250bdc_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
+      "releaseDate": "2026-06-09T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000122665/af6f5242ce0eb4939700857afee78179f10500b9b4d6dfb2b02c6ece4a54c38b",
+      "storeUrl": "https://www.nintendo.com/us/store/products/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-nintendo-switch-2-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": true,
       "metacritic": {
         "score": 76,
         "title": "Atelier Yumia: The Alchemist of Memories & The Envisioned Land",
@@ -4982,7 +4912,7 @@
       }
     },
     {
-      "productId": "70010000122665",
+      "productId": "70010000085991",
       "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
       "developer": null,
       "publisher": "KOEI TECMO AMERICA",
@@ -4990,12 +4920,12 @@
         "Action",
         "Role playing"
       ],
-      "releaseDate": "2026-06-09T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000122665/af6f5242ce0eb4939700857afee78179f10500b9b4d6dfb2b02c6ece4a54c38b",
-      "storeUrl": "https://www.nintendo.com/us/store/products/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-nintendo-switch-2-edition-switch-2/",
-      "switch1": false,
-      "switch2": true,
-      "switch2Edition": true,
+      "releaseDate": "2025-03-21T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/11d79e539f7f48b198d58249ac250bdc_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
       "metacritic": {
         "score": 76,
         "title": "Atelier Yumia: The Alchemist of Memories & The Envisioned Land",
@@ -8375,18 +8305,19 @@
       }
     },
     {
-      "productId": "70010000112751",
+      "productId": "70010000106964",
       "title": "Bluey's Happy Snaps",
       "developer": "Gameloft",
       "publisher": "Gameloft",
       "categories": [
+        "Action",
         "Adventure"
       ],
       "releaseDate": "2026-10-15T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000112751/02afff4da73057ef545816736890404304431dd93abc2997965fcd4fe36ae9b4",
-      "storeUrl": "https://www.nintendo.com/us/store/products/blueys-happy-snaps-switch-2/",
-      "switch1": false,
-      "switch2": true,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch/70010000106964/f612aa16c62301f4f972ddaeca9d44e8e9bc1d51218907ed42c137485a6bfb54",
+      "storeUrl": "https://www.nintendo.com/us/store/products/blueys-happy-snaps-switch/",
+      "switch1": true,
+      "switch2": false,
       "switch2Edition": false,
       "metacritic": {
         "score": 78,
@@ -8406,19 +8337,18 @@
       "playtime": null
     },
     {
-      "productId": "70010000106964",
+      "productId": "70010000112751",
       "title": "Bluey's Happy Snaps",
       "developer": "Gameloft",
       "publisher": "Gameloft",
       "categories": [
-        "Action",
         "Adventure"
       ],
       "releaseDate": "2026-10-15T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch/70010000106964/f612aa16c62301f4f972ddaeca9d44e8e9bc1d51218907ed42c137485a6bfb54",
-      "storeUrl": "https://www.nintendo.com/us/store/products/blueys-happy-snaps-switch/",
-      "switch1": true,
-      "switch2": false,
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000112751/02afff4da73057ef545816736890404304431dd93abc2997965fcd4fe36ae9b4",
+      "storeUrl": "https://www.nintendo.com/us/store/products/blueys-happy-snaps-switch-2/",
+      "switch1": false,
+      "switch2": true,
       "switch2Edition": false,
       "metacritic": {
         "score": 78,
@@ -9261,7 +9191,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-08-27",
-        "userScore": 6.2,
+        "userScore": 5.8,
         "userReviewCount": null
       },
       "titleZh": "幻想大陆战记 深渊",
@@ -9855,7 +9785,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-06-13",
-        "userScore": 8,
+        "userScore": 7.9,
         "userReviewCount": null
       },
       "titleZh": "凯登丝勇闯海拉鲁",
@@ -9918,7 +9848,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-12-15",
-        "userScore": 5.4,
+        "userScore": 5.2,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -10068,6 +9998,41 @@
         "main": 7.7,
         "extra": 8.3,
         "complete": 9.1
+      }
+    },
+    {
+      "productId": "70010000015466",
+      "title": "Candleman",
+      "developer": null,
+      "publisher": "Candleman Games",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2019-10-03T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fa3006911f114ab2a79d9efda9e594a0_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/candleman-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 75,
+        "title": "Candleman",
+        "url": "https://www.metacritic.com/game/candleman/",
+        "mustPlay": false,
+        "genres": [
+          "3D Platformer"
+        ],
+        "confidence": 1,
+        "releaseDate": "2019-10-03",
+        "userScore": 8.1,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.4,
+        "extra": 6.4,
+        "complete": 7.2
       }
     },
     {
@@ -10755,7 +10720,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-15",
-        "userScore": 6.6,
+        "userScore": 7,
         "userReviewCount": null
       },
       "titleZh": "恶魔城：贝尔蒙特的诅咒",
@@ -11574,6 +11539,37 @@
       }
     },
     {
+      "productId": "70010000134878",
+      "title": "Chivalware",
+      "developer": "Regal Pigeon",
+      "publisher": "Dotemu",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000134878/f70e7ebbd2c736ca3ad4e6548a09e0b4bfd005d94b49fa13bf564c3b72d1dad8",
+      "storeUrl": "https://www.nintendo.com/us/store/products/chivalware-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 79,
+        "title": "Chivalware",
+        "url": "https://www.metacritic.com/game/chivalware/",
+        "mustPlay": false,
+        "genres": [
+          "Real-Time Tactics"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-05",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": "骑士盘骑士",
+      "titleZhSource": "steam",
+      "playtime": null
+    },
+    {
       "productId": "70010000069170",
       "title": "Chocobo GP",
       "developer": "株式会社アリカ",
@@ -11775,7 +11771,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-09-06",
-        "userScore": 5.4,
+        "userScore": 5.5,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -12022,6 +12018,41 @@
       "titleZh": null,
       "titleZhSource": null,
       "playtime": null
+    },
+    {
+      "productId": "70010000014882",
+      "title": "City of Brass",
+      "developer": "Uppercut Games Pty Ltd",
+      "publisher": "Uppercut Games",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2019-02-08T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/66a4339d021541489eddc4758dfc61be_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/city-of-brass-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 75,
+        "title": "City of Brass",
+        "url": "https://www.metacritic.com/game/city-of-brass/",
+        "mustPlay": false,
+        "genres": [
+          "Action Adventure"
+        ],
+        "confidence": 1,
+        "releaseDate": "2019-02-08",
+        "userScore": 6.6,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": {
+        "main": 4.5,
+        "extra": 12.5,
+        "complete": 26.3
+      }
     },
     {
       "productId": "70010000009924",
@@ -13187,7 +13218,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2021-04-08",
-        "userScore": 6.6,
+        "userScore": 6.4,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -13222,7 +13253,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2021-04-08",
-        "userScore": 6.6,
+        "userScore": 6.4,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -13258,7 +13289,7 @@
         ],
         "confidence": 0.97,
         "releaseDate": "2021-04-08",
-        "userScore": 6.6,
+        "userScore": 6.4,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -13294,7 +13325,7 @@
         ],
         "confidence": 0.97,
         "releaseDate": "2021-04-08",
-        "userScore": 6.6,
+        "userScore": 6.4,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -16029,7 +16060,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-03-13",
-        "userScore": 7.7,
+        "userScore": 7.4,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -16888,7 +16919,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-07-15T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/1e7a88a1b40b48a99700c40f6f1d945e_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/67bb34377fad42ccaa933866f38036de_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/denshattack-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -17125,19 +17156,19 @@
       }
     },
     {
-      "productId": "70010000114729",
+      "productId": "70010000037631",
       "title": "Destroy All Humans!",
-      "developer": null,
+      "developer": "Black Forest Games",
       "publisher": "THQ Nordic",
       "categories": [
         "Action",
-        "Adventure"
+        "Shooting"
       ],
-      "releaseDate": "2026-06-23T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/dc438f124acf443a9adf8d4dc3d8da61_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/destroy-all-humans-switch-2/",
-      "switch1": false,
-      "switch2": true,
+      "releaseDate": "2021-06-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/17b1d9cd9a5547eca1e2b8747d5e47da_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/destroy-all-humans-switch/",
+      "switch1": true,
+      "switch2": false,
       "switch2Edition": false,
       "metacritic": {
         "score": 66,
@@ -17161,19 +17192,19 @@
       }
     },
     {
-      "productId": "70010000037631",
+      "productId": "70010000114729",
       "title": "Destroy All Humans!",
-      "developer": "Black Forest Games",
+      "developer": null,
       "publisher": "THQ Nordic",
       "categories": [
         "Action",
-        "Shooting"
+        "Adventure"
       ],
-      "releaseDate": "2021-06-29T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/17b1d9cd9a5547eca1e2b8747d5e47da_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/destroy-all-humans-switch/",
-      "switch1": true,
-      "switch2": false,
+      "releaseDate": "2026-06-23T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/dc438f124acf443a9adf8d4dc3d8da61_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/destroy-all-humans-switch-2/",
+      "switch1": false,
+      "switch2": true,
       "switch2Edition": false,
       "metacritic": {
         "score": 66,
@@ -17426,7 +17457,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-06-23",
-        "userScore": 7.7,
+        "userScore": 7.6,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -18488,6 +18519,68 @@
       "playtime": null
     },
     {
+      "productId": "70010000109118",
+      "title": "Disney/Pixar Toy Story 3 Complete Edition",
+      "developer": "Digital Eclipse",
+      "publisher": "Atari",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2026-10-15T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/66e4b6e6ec7447bd963193f538a3fb21_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/disney-pixar-toy-story-3-complete-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 71,
+        "title": "Disney/Pixar Toy Story 3 Complete Edition",
+        "url": "https://www.metacritic.com/game/disney-pixar-toy-story-3-complete-edition/",
+        "mustPlay": false,
+        "genres": [
+          "3D Platformer"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-15",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000109113",
+      "title": "Disney/Pixar Toy Story 3 Complete Edition",
+      "developer": "Digital Eclipse",
+      "publisher": "Atari",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2026-10-15T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9b5d39a4f03942c4b4cb1ad15106c7d4_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/disney-pixar-toy-story-3-complete-edition-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 71,
+        "title": "Disney/Pixar Toy Story 3 Complete Edition",
+        "url": "https://www.metacritic.com/game/disney-pixar-toy-story-3-complete-edition/",
+        "mustPlay": false,
+        "genres": [
+          "3D Platformer"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-15",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
       "productId": "70010000109103",
       "title": "Disney/Pixar Toy Story: Retro Roundup!",
       "developer": "Digital Eclipse",
@@ -18499,7 +18592,7 @@
         "Shooting"
       ],
       "releaseDate": "2026-10-15T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/95639815082c43788c7e5128ceacebfe_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/216211ff778845d9971bfd3ce580c4e5_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/disney-pixar-toy-story-retro-roundup-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -18533,7 +18626,7 @@
         "Shooting"
       ],
       "releaseDate": "2026-10-15T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7a32eb0743104c91af6861ac6e919083_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/63d6516512a14409b34752f1627991c4_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/disney-pixar-toy-story-retro-roundup-switch/",
       "switch1": true,
       "switch2": false,
@@ -20243,7 +20336,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-02-05",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "勇者斗恶龙VII Reimagined",
@@ -20278,7 +20371,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-02-05",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "勇者斗恶龙VII Reimagined",
@@ -20454,7 +20547,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-09",
-        "userScore": 8.9,
+        "userScore": 9,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -22742,7 +22835,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-02-24",
-        "userScore": 5.7,
+        "userScore": 5.8,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -22777,7 +22870,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2021-05-14",
-        "userScore": 7.9,
+        "userScore": 8.2,
         "userReviewCount": null
       },
       "titleZh": "Famicom侦探俱乐部 站在身后的少女",
@@ -24123,7 +24216,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-01-22",
-        "userScore": 8.4,
+        "userScore": 8.3,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -24443,7 +24536,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-09-17",
-        "userScore": 8.4,
+        "userScore": 8.5,
         "userReviewCount": null
       },
       "titleZh": "火焰之纹章 万缕千丝",
@@ -25689,7 +25782,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2023-02-23",
-        "userScore": 7.4,
+        "userScore": 7.5,
         "userReviewCount": null
       },
       "titleZh": "少女魔净",
@@ -26311,7 +26404,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-02-19",
-        "userScore": 6.1,
+        "userScore": 6.2,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -27006,7 +27099,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2024-11-15",
-        "userScore": null,
+        "userScore": 6.3,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -27118,6 +27211,68 @@
         "extra": 3.3,
         "complete": null
       }
+    },
+    {
+      "productId": "70010000116349",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "developer": "Pipeworks Studios",
+      "publisher": "Atari",
+      "categories": [
+        "Fighting"
+      ],
+      "releaseDate": "2026-11-03T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000116349/378e4d4abf185d3d738bd03c63b68b74045ef8cec6200017eec7ab16c078581d",
+      "storeUrl": "https://www.nintendo.com/us/store/products/godzilla-destroy-all-monsters-melee-remastered-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 72,
+        "title": "Godzilla: Destroy All Monsters Melee Remastered",
+        "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
+        "mustPlay": false,
+        "genres": [
+          "3D Fighting"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-03",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000116343",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "developer": "Pipeworks Studios",
+      "publisher": "Atari",
+      "categories": [
+        "Fighting"
+      ],
+      "releaseDate": "2026-11-03T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch/70010000116343/378e4d4abf185d3d738bd03c63b68b74045ef8cec6200017eec7ab16c078581d",
+      "storeUrl": "https://www.nintendo.com/us/store/products/godzilla-destroy-all-monsters-melee-remastered-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 72,
+        "title": "Godzilla: Destroy All Monsters Melee Remastered",
+        "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
+        "mustPlay": false,
+        "genres": [
+          "3D Fighting"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-03",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "70010000028039",
@@ -27731,7 +27886,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-02-10",
-        "userScore": 6.5,
+        "userScore": 6.6,
         "userReviewCount": null
       },
       "titleZh": "狗钩",
@@ -28364,7 +28519,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-09-17",
-        "userScore": 8.9,
+        "userScore": 9,
         "userReviewCount": null
       },
       "titleZh": "哈迪斯",
@@ -29829,7 +29984,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2025-06-05",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "霍格沃茨之遗",
@@ -29866,7 +30021,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2025-06-05",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "霍格沃茨之遗",
@@ -31726,7 +31881,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-05-12",
-        "userScore": 8.8,
+        "userScore": 8.7,
         "userReviewCount": null
       },
       "titleZh": "夺宝奇兵：古老之圈",
@@ -32623,6 +32778,68 @@
         "extra": 14,
         "complete": 30.6
       }
+    },
+    {
+      "productId": "70010000134739",
+      "title": "Joe & Mac Retro Collection",
+      "developer": "Red Art Games",
+      "publisher": "RED ART GAMES",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000134739/bbf7abd1d440ea2f8164022d144cde0045a9ea9eb00544ab6c7e4fe45102c998",
+      "storeUrl": "https://www.nintendo.com/us/store/products/joe-and-mac-retro-collection-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 72,
+        "title": "Joe & Mac Retro Collection",
+        "url": "https://www.metacritic.com/game/joe-and-mac-retro-collection/",
+        "mustPlay": false,
+        "genres": [
+          "Compilation"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000097868",
+      "title": "Joe & Mac Retro Collection",
+      "developer": "Red Art Games",
+      "publisher": "RED ART GAMES",
+      "categories": [
+        "Action"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5ddc9038b960451db1a37b5852f996b3_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/joe-and-mac-retro-collection-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 72,
+        "title": "Joe & Mac Retro Collection",
+        "url": "https://www.metacritic.com/game/joe-and-mac-retro-collection/",
+        "mustPlay": false,
+        "genres": [
+          "Compilation"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "70010000005325",
@@ -33582,7 +33799,11 @@
       },
       "titleZh": "王国之心 记忆旋律",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.2,
+        "extra": 16.4,
+        "complete": 52.5
+      }
     },
     {
       "productId": "70010000000670",
@@ -33590,7 +33811,7 @@
       "developer": "Fury Studios",
       "publisher": "Raw Fury",
       "categories": [
-        "Strategy"
+        "Simulation"
       ],
       "releaseDate": "2018-12-11T00:00:00.000Z",
       "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/eeee40fa6e504027a253182df42c403a_1024",
@@ -33649,7 +33870,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 23.4,
+        "extra": 54.9,
+        "complete": 102
+      }
     },
     {
       "productId": "70010000103775",
@@ -33682,7 +33907,11 @@
       },
       "titleZh": "卡比的驭天飞行者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.9,
+        "extra": 14.3,
+        "complete": 56.4
+      }
     },
     {
       "productId": "70010000046405",
@@ -33714,7 +33943,11 @@
       },
       "titleZh": "星之卡比 探索发现",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10.3,
+        "extra": 15.4,
+        "complete": 25.9
+      }
     },
     {
       "productId": "70010000096829",
@@ -33746,7 +33979,11 @@
       },
       "titleZh": "星之卡比 探索发现",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10.3,
+        "extra": 15.4,
+        "complete": 25.9
+      }
     },
     {
       "productId": "70010000034635",
@@ -33777,7 +34014,11 @@
       },
       "titleZh": "卡比斗士2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 8.5,
+        "complete": 32.2
+      }
     },
     {
       "productId": "70010000002365",
@@ -34885,7 +35126,11 @@
       },
       "titleZh": "乐高蝙蝠侠：黑暗骑士之遗",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13,
+        "extra": 19.7,
+        "complete": 34.7
+      }
     },
     {
       "productId": "70010000052111",
@@ -34916,7 +35161,11 @@
       },
       "titleZh": "乐高积木传说",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10,
+        "extra": 13,
+        "complete": 15.7
+      }
     },
     {
       "productId": "70010000040359",
@@ -34948,7 +35197,11 @@
       },
       "titleZh": "乐高：建造者之旅",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.4,
+        "extra": 2.6,
+        "complete": 2.6
+      }
     },
     {
       "productId": "70010000000187",
@@ -35052,7 +35305,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 26.8,
+        "extra": 32.1,
+        "complete": 52.5
+      }
     },
     {
       "productId": "70010000013536",
@@ -35084,7 +35341,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 26.8,
+        "extra": 32.1,
+        "complete": 52.5
+      }
     },
     {
       "productId": "70010000020489",
@@ -35152,7 +35413,11 @@
       },
       "titleZh": "乐高漫威超级英雄",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.3,
+        "extra": 24,
+        "complete": 39.4
+      }
     },
     {
       "productId": "70010000000730",
@@ -36548,7 +36813,11 @@
       },
       "titleZh": "孤寂废墟",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.9,
+        "extra": 4,
+        "complete": 5
+      }
     },
     {
       "productId": "70010000019471",
@@ -36616,7 +36885,11 @@
       },
       "titleZh": "循环英雄",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 28.6,
+        "extra": 37,
+        "complete": 54.7
+      }
     },
     {
       "productId": "70010000056170",
@@ -36649,7 +36922,11 @@
       },
       "titleZh": "LOOP8 降神",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.6,
+        "extra": 19.3,
+        "complete": 34
+      }
     },
     {
       "productId": "70010000054304",
@@ -36681,7 +36958,11 @@
       },
       "titleZh": "罗蕾莱与激光眼",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 20,
+        "complete": 23.3
+      }
     },
     {
       "productId": "70010000124243",
@@ -36713,7 +36994,11 @@
       },
       "titleZh": "罗蕾莱与激光眼",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 20,
+        "complete": 23.3
+      }
     },
     {
       "productId": "70010000023391",
@@ -36745,7 +37030,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 5.9,
+        "complete": 11.1
+      }
     },
     {
       "productId": "70010000010308",
@@ -37475,7 +37764,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-09-02",
-        "userScore": 7.5,
+        "userScore": 7.7,
         "userReviewCount": null
       },
       "titleZh": "来自深渊 朝向黑暗的双星",
@@ -37962,7 +38251,11 @@
       },
       "titleZh": "马力欧+疯狂兔子 星耀之愿",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 21.4,
+        "extra": 33.3,
+        "complete": 45.1
+      }
     },
     {
       "productId": "70010000038622",
@@ -37995,7 +38288,11 @@
       },
       "titleZh": "马力欧高尔夫 超级冲冲冲",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.1,
+        "extra": 12.4,
+        "complete": 51.5
+      }
     },
     {
       "productId": "70010000000153",
@@ -38027,7 +38324,11 @@
       },
       "titleZh": "马力欧卡丁车8 豪华版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.3,
+        "extra": 22.7,
+        "complete": 53.8
+      }
     },
     {
       "productId": "70010000012352",
@@ -38058,7 +38359,11 @@
       },
       "titleZh": "马力欧卡丁车实况：家庭赛车场",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 6.8,
+        "complete": 17
+      }
     },
     {
       "productId": "70010000095431",
@@ -38090,7 +38395,11 @@
       },
       "titleZh": "马力欧卡丁车世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.2,
+        "extra": 16.6,
+        "complete": 54.9
+      }
     },
     {
       "productId": "70010000042934",
@@ -38154,7 +38463,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-06-10",
-        "userScore": 4.7,
+        "userScore": 4.6,
         "userReviewCount": null
       },
       "titleZh": "马力欧激战前锋 战斗联赛",
@@ -38477,6 +38786,71 @@
         "extra": 10.1,
         "complete": 14.3
       }
+    },
+    {
+      "productId": "70010000042762",
+      "title": "Marvel's Guardians of the Galaxy: Cloud Version",
+      "developer": null,
+      "publisher": "Eidos Montreal",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooting"
+      ],
+      "releaseDate": "2021-10-26T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/523606dd264e4920be573ae017a2a347_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-cloud-version-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 81,
+        "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+        "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+        "mustPlay": false,
+        "genres": [
+          "Linear Action Adventure"
+        ],
+        "confidence": 0.872,
+        "releaseDate": "2026-11-05",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000119217",
+      "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+      "developer": "Eidos-Montréal",
+      "publisher": "CDE Entertainment",
+      "categories": [
+        "Action",
+        "Shooting"
+      ],
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000119217/e5e428d9a5f68f04f29fdce424ee4b76c903814e1a6c825f8e21b3634bcafbe9",
+      "storeUrl": "https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-encore-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 81,
+        "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+        "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+        "mustPlay": false,
+        "genres": [
+          "Linear Action Adventure"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-05",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
     },
     {
       "productId": "70010000015135",
@@ -39345,7 +39719,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 15.6,
+        "extra": 25.5,
+        "complete": null
+      }
     },
     {
       "productId": "70070000019989",
@@ -39415,7 +39793,11 @@
       },
       "titleZh": "密特罗德 生存恐惧",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.3,
+        "extra": 11.7,
+        "complete": 13.8
+      }
     },
     {
       "productId": "70010000104849",
@@ -39448,7 +39830,11 @@
       },
       "titleZh": "密特罗德 究极4 穿越未知",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.3,
+        "extra": 16.1,
+        "complete": 17.9
+      }
     },
     {
       "productId": "70010000084766",
@@ -39481,7 +39867,11 @@
       },
       "titleZh": "密特罗德 究极4 穿越未知",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.3,
+        "extra": 16.1,
+        "complete": 17.9
+      }
     },
     {
       "productId": "70010000063709",
@@ -39514,7 +39904,11 @@
       },
       "titleZh": "密特罗德 究极 复刻版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.8,
+        "extra": 15.9,
+        "complete": 17.8
+      }
     },
     {
       "productId": "70070000040132",
@@ -39532,7 +39926,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 82,
+        "score": 81,
         "title": "Middle-earth: Shadow Bundle",
         "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
         "mustPlay": false,
@@ -39564,7 +39958,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 82,
+        "score": 81,
         "title": "Middle-earth: Shadow Bundle",
         "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
         "mustPlay": false,
@@ -40615,7 +41009,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2018-12-04",
-        "userScore": 7.8,
+        "userScore": 7.7,
         "userReviewCount": null
       },
       "titleZh": "怪物男孩与诅咒王国",
@@ -40992,7 +41386,11 @@
       },
       "titleZh": "姆明：暖心冬日",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.4,
+        "extra": 7,
+        "complete": 10.6
+      }
     },
     {
       "productId": "70010000115660",
@@ -41023,7 +41421,11 @@
       },
       "titleZh": "姆明：暖心冬日",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.4,
+        "extra": 7,
+        "complete": 10.6
+      }
     },
     {
       "productId": "70010000109827",
@@ -41225,7 +41627,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.5,
+        "extra": 35.1,
+        "complete": 98.4
+      }
     },
     {
       "productId": "70010000015154",
@@ -41256,7 +41662,11 @@
       },
       "titleZh": "真人快打11",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.3,
+        "extra": 18.4,
+        "complete": 61.1
+      }
     },
     {
       "productId": "70010000098412",
@@ -41289,7 +41699,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 10.7,
+        "complete": 18.4
+      }
     },
     {
       "productId": "70010000094535",
@@ -41322,7 +41736,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 10.7,
+        "complete": 18.4
+      }
     },
     {
       "productId": "70010000017646",
@@ -42086,7 +42504,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2024-11-19",
-        "userScore": 7.4,
+        "userScore": 7.2,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -42428,7 +42846,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 30.8,
+        "extra": 54.1,
+        "complete": 84.6
+      }
     },
     {
       "productId": "70010000080587",
@@ -42494,7 +42916,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 49.9,
+        "extra": 123.8,
+        "complete": 301.8
+      }
     },
     {
       "productId": "70010000098957",
@@ -42527,7 +42953,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 49.9,
+        "extra": 123.8,
+        "complete": 301.8
+      }
     },
     {
       "productId": "70010000116953",
@@ -42560,7 +42990,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 49.9,
+        "extra": 123.8,
+        "complete": 301.8
+      }
     },
     {
       "productId": "70010000041912",
@@ -42591,7 +43025,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 5.6,
+        "complete": 6.9
+      }
     },
     {
       "productId": "70010000029278",
@@ -42659,7 +43097,11 @@
       },
       "titleZh": "奈尔克与传说之炼金术士们 ～新大地之炼金工房～",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 29.9,
+        "extra": 45.1,
+        "complete": 80.6
+      }
     },
     {
       "productId": "70010000015335",
@@ -43073,7 +43515,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-08-13",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "绝不放弃",
@@ -43848,7 +44290,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 27.9,
+        "extra": 34.6,
+        "complete": 106
+      }
     },
     {
       "productId": "70010000041848",
@@ -43879,7 +44325,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 27.9,
+        "extra": 34.6,
+        "complete": 106
+      }
     },
     {
       "productId": "70010000086459",
@@ -44009,7 +44459,11 @@
       },
       "titleZh": "Nintendo Switch 2秘密展",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.4,
+        "extra": 8,
+        "complete": 10.3
+      }
     },
     {
       "productId": "70010000049931",
@@ -44042,7 +44496,11 @@
       },
       "titleZh": "Nintendo Switch 运动",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.8,
+        "extra": 13.2,
+        "complete": 111.7
+      }
     },
     {
       "productId": "70010000125145",
@@ -44070,7 +44528,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-22",
-        "userScore": 8.4,
+        "userScore": 8.5,
         "userReviewCount": null
       },
       "titleZh": "Nintendo Switch 运动 度假胜地",
@@ -44878,7 +45336,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-10-28",
-        "userScore": 7.5,
+        "userScore": 7.4,
         "userReviewCount": null
       },
       "titleZh": "海之号角2：失落王国的骑士",
@@ -45477,7 +45935,11 @@
       },
       "titleZh": "奥力奥力世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.4,
+        "extra": 12,
+        "complete": 56.2
+      }
     },
     {
       "productId": "70010000012153",
@@ -45509,7 +45971,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.8,
+        "extra": 19,
+        "complete": null
+      }
     },
     {
       "productId": "70010000038432",
@@ -45540,7 +46006,11 @@
       },
       "titleZh": "奥林匹亚的晚宴",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 35.9,
+        "complete": 56
+      }
     },
     {
       "productId": "70010000056720",
@@ -45571,7 +46041,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.2,
+        "extra": 3.8,
+        "complete": 3.8
+      }
     },
     {
       "productId": "70010000121543",
@@ -45602,7 +46076,11 @@
       },
       "titleZh": "从前从前有个块魂",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.3,
+        "extra": 11.7,
+        "complete": 21.3
+      }
     },
     {
       "productId": "70010000091584",
@@ -45633,7 +46111,11 @@
       },
       "titleZh": "从前从前有个块魂",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.3,
+        "extra": 11.7,
+        "complete": 21.3
+      }
     },
     {
       "productId": "70010000033184",
@@ -45791,7 +46273,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-23",
-        "userScore": 6.6,
+        "userScore": 5.9,
         "userReviewCount": null
       },
       "titleZh": "海贼王 海洋盛宴",
@@ -45826,7 +46308,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-23",
-        "userScore": 6.6,
+        "userScore": 5.9,
         "userReviewCount": null
       },
       "titleZh": "海贼王 海洋盛宴",
@@ -46074,7 +46556,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-09-04",
-        "userScore": 9.5,
+        "userScore": 9.4,
         "userReviewCount": null
       },
       "titleZh": "鬼武者 Way of the Sword",
@@ -46181,7 +46663,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-09-01",
-        "userScore": 6.9,
+        "userScore": 7,
         "userReviewCount": null
       },
       "titleZh": "欧布精灵",
@@ -47126,7 +47608,11 @@
       },
       "titleZh": "淡夜未央2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 7.7,
+        "complete": 16.6
+      }
     },
     {
       "productId": "70010000004842",
@@ -47780,7 +48266,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-10-28",
-        "userScore": 7.9,
+        "userScore": 8.3,
         "userReviewCount": null
       },
       "titleZh": "UFO找工作",
@@ -48161,7 +48647,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2025-10-23",
-        "userScore": 7.6,
+        "userScore": 7.7,
         "userReviewCount": null
       },
       "titleZh": "女神异闻录3 Reload",
@@ -48232,7 +48718,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2023-01-19",
-        "userScore": 8.6,
+        "userScore": 8.7,
         "userReviewCount": null
       },
       "titleZh": "女神异闻录4 黄金版",
@@ -48344,7 +48830,11 @@
       },
       "titleZh": "女神异闻录5 战略版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 24.1,
+        "extra": 30.6,
+        "complete": 39.8
+      }
     },
     {
       "productId": "70010000028540",
@@ -49158,7 +49648,11 @@
       "title": "Pikmin 4",
       "developer": null,
       "publisher": "Nintendo",
-      "categories": [],
+      "categories": [
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
       "releaseDate": "2026-11-12T00:00:00.000Z",
       "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000135059/a11858d1cda9e1760a7360a0613a382c8e38e2d53cc4162916d7c96151e0b30a",
       "storeUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
@@ -49669,7 +50163,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 6.2,
+        "complete": 6.4
+      }
     },
     {
       "productId": "70010000027858",
@@ -49806,7 +50304,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.7,
+        "extra": 3.2,
+        "complete": 3.4
+      }
     },
     {
       "productId": "70010000089250",
@@ -49837,7 +50339,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 0.9,
+        "extra": 0.9,
+        "complete": 1
+      }
     },
     {
       "productId": "70010000000243",
@@ -49899,7 +50405,11 @@
       },
       "titleZh": "奇々怪界 黒マントの谜",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 2.6,
+        "extra": 3.9,
+        "complete": 7
+      }
     },
     {
       "productId": "70010000005922",
@@ -49932,7 +50442,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.6,
+        "extra": 6,
+        "complete": 6.3
+      }
     },
     {
       "productId": "70010000000727",
@@ -49963,7 +50477,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.7,
+        "extra": 6.9,
+        "complete": 8.8
+      }
     },
     {
       "productId": "70010000034327",
@@ -50057,7 +50575,7 @@
         ],
         "confidence": 0.875,
         "releaseDate": "2026-04-08",
-        "userScore": 5.1,
+        "userScore": 5.2,
         "userReviewCount": null
       },
       "titleZh": "宝可梦冠军",
@@ -50508,7 +51026,7 @@
         ],
         "confidence": 0.846,
         "releaseDate": "2022-11-18",
-        "userScore": 4.2,
+        "userScore": 4.3,
         "userReviewCount": null
       },
       "titleZh": "宝可梦 紫",
@@ -51201,7 +51719,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 23.1,
+        "complete": 23.5
+      }
     },
     {
       "productId": "70010000018530",
@@ -51265,7 +51787,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6.4,
+        "extra": 8.1,
+        "complete": 13.6
+      }
     },
     {
       "productId": "70010000061953",
@@ -52551,7 +53077,11 @@
       },
       "titleZh": "罗德斯岛战记 蒂德莉特的奇境迷宫冒险",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.2,
+        "extra": 7.1,
+        "complete": 8.7
+      }
     },
     {
       "productId": "70010000014594",
@@ -52583,7 +53113,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 11.1,
+        "extra": 18.6,
+        "complete": 42.5
+      }
     },
     {
       "productId": "70010000020697",
@@ -52614,7 +53148,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 9,
+        "complete": 15.6
+      }
     },
     {
       "productId": "70010000013733",
@@ -52645,7 +53183,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.5,
+        "extra": 20.4,
+        "complete": 49.8
+      }
     },
     {
       "productId": "70010000027344",
@@ -52676,7 +53218,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6.5,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "70010000003634",
@@ -52709,7 +53255,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 28.2,
+        "extra": 28.5,
+        "complete": 35.8
+      }
     },
     {
       "productId": "70010000038005",
@@ -52773,7 +53323,7 @@
         ],
         "confidence": 0.828,
         "releaseDate": "2026-10-16",
-        "userScore": 8.7,
+        "userScore": 8.6,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -52806,7 +53356,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-16",
-        "userScore": 8.7,
+        "userScore": 8.6,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -52945,7 +53495,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 90,
+        "score": 89,
         "title": "Resident Evil 4: Gold Edition",
         "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
         "mustPlay": false,
@@ -52954,7 +53504,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-16",
-        "userScore": 8.9,
+        "userScore": 9.1,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -53940,7 +54490,11 @@
       },
       "titleZh": "热血硬派国夫君外传 热血少女",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7,
+        "extra": 8.6,
+        "complete": 15.8
+      }
     },
     {
       "productId": "70010000047444",
@@ -53966,12 +54520,16 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-12-15",
-        "userScore": 6,
+        "userScore": 6.1,
         "userReviewCount": null
       },
       "titleZh": "热血硬派国夫君外传 热血少女2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.5,
+        "extra": 15.6,
+        "complete": 22.9
+      }
     },
     {
       "productId": "70010000044515",
@@ -54002,7 +54560,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.4,
+        "extra": 4,
+        "complete": 4
+      }
     },
     {
       "productId": "70010000048789",
@@ -55727,7 +56289,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-05-10",
-        "userScore": 6.1,
+        "userScore": 6.2,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -55905,7 +56467,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2023-08-29",
-        "userScore": 8.4,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "欢乐森巴：欢乐摇摇派对",
@@ -56592,7 +57154,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 93,
+        "score": 92,
         "title": "Sektori",
         "url": "https://www.metacritic.com/game/sektori/",
         "mustPlay": false,
@@ -56601,7 +57163,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-05-14",
-        "userScore": 6,
+        "userScore": 5.9,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -56669,7 +57231,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.9,
+        "extra": 4.5,
+        "complete": 4.8
+      }
     },
     {
       "productId": "70010000000973",
@@ -57325,7 +57891,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2025-08-19",
-        "userScore": 6.5,
+        "userScore": 6.6,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -57397,7 +57963,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2020-05-28",
-        "userScore": 7.7,
+        "userScore": 7.8,
         "userReviewCount": null
       },
       "titleZh": "桑塔与七赛莲",
@@ -57884,7 +58450,11 @@
       },
       "titleZh": "真·女神转生V Vengeance",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 45.3,
+        "extra": 70,
+        "complete": 114.5
+      }
     },
     {
       "productId": "70010000007062",
@@ -57916,7 +58486,11 @@
       },
       "titleZh": "光明之响 龙奏回音",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 30.1,
+        "extra": 41.3,
+        "complete": 64.3
+      }
     },
     {
       "productId": "70010000115231",
@@ -57947,7 +58521,11 @@
       },
       "titleZh": "超级忍 反攻的斩击",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10,
+        "extra": 13.9,
+        "complete": 18
+      }
     },
     {
       "productId": "70010000066783",
@@ -57978,7 +58556,11 @@
       },
       "titleZh": "超级忍 反攻的斩击",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10,
+        "extra": 13.9,
+        "complete": 18
+      }
     },
     {
       "productId": "70010000026633",
@@ -58009,7 +58591,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.8,
+        "extra": 10.3,
+        "complete": 14.3
+      }
     },
     {
       "productId": "70010000070925",
@@ -58043,41 +58629,10 @@
       },
       "titleZh": "千变的迷宫 风来的希炼6 蛇蜷岛探险谭",
       "titleZhSource": "wikidata",
-      "playtime": null
-    },
-    {
-      "productId": "70010000031738",
-      "title": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
-      "developer": null,
-      "publisher": "Spike Chunsoft US",
-      "categories": [
-        "Role playing"
-      ],
-      "releaseDate": "2020-12-02T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/200cdb17ddcc43deae4adaa226671581_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 75,
-        "title": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
-        "url": "https://www.metacritic.com/game/shiren-the-wanderer-the-tower-of-fortune-and-the/",
-        "mustPlay": false,
-        "genres": [
-          "Roguelike"
-        ],
-        "confidence": 1,
-        "releaseDate": "2020-12-02",
-        "userScore": 8.3,
-        "userReviewCount": null
-      },
-      "titleZh": "不可思议的迷宫 风来的西林5 命运塔与命运的骰子",
-      "titleZhSource": "wikidata",
       "playtime": {
-        "main": 26.1,
-        "extra": 43.7,
-        "complete": 158.4
+        "main": 12.5,
+        "extra": 46.4,
+        "complete": null
       }
     },
     {
@@ -58346,7 +58901,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2017-03-03",
-        "userScore": 8.3,
+        "userScore": 8.2,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -58656,7 +59211,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 88,
+        "score": 84,
         "title": "Silver Pines",
         "url": "https://www.metacritic.com/game/silver-pines/",
         "mustPlay": false,
@@ -58665,7 +59220,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-08",
-        "userScore": 6.6,
+        "userScore": 7.1,
         "userReviewCount": null
       },
       "titleZh": "银松镇",
@@ -58686,13 +59241,13 @@
         "Adventure"
       ],
       "releaseDate": "2026-10-08T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7142e3dff07247c79088c0a0fe47da5f_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c638c639cff3462b9a673e7bcbabe821_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/silver-pines-switch/",
       "switch1": true,
       "switch2": false,
       "switch2Edition": false,
       "metacritic": {
-        "score": 88,
+        "score": 84,
         "title": "Silver Pines",
         "url": "https://www.metacritic.com/game/silver-pines/",
         "mustPlay": false,
@@ -58701,7 +59256,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-08",
-        "userScore": 6.6,
+        "userScore": 7.1,
         "userReviewCount": null
       },
       "titleZh": "银松镇",
@@ -59298,7 +59853,11 @@
       },
       "titleZh": "Sky光·遇",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 11.6,
+        "complete": 32.4
+      }
     },
     {
       "productId": "70010000012389",
@@ -59331,7 +59890,11 @@
       },
       "titleZh": "杀戮尖塔",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.5,
+        "extra": 47.4,
+        "complete": 191
+      }
     },
     {
       "productId": "70010000003828",
@@ -59426,7 +59989,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.1,
+        "extra": 20.6,
+        "complete": 46.9
+      }
     },
     {
       "productId": "70010000047018",
@@ -59808,7 +60375,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2017-03-03",
-        "userScore": 8.4,
+        "userScore": 8.3,
         "userReviewCount": null
       },
       "titleZh": null,
@@ -60065,7 +60632,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-06-09T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3095e94d355741adbe1893dbecb6a86d_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/974c358a683e4105b595fe8342214b56_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/snowrunner-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -60537,7 +61104,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2022-06-23",
-        "userScore": 7,
+        "userScore": 7.1,
         "userReviewCount": null
       },
       "titleZh": "索尼克 起源",
@@ -60648,7 +61215,11 @@
       },
       "titleZh": "索尼克赛车 交叉世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.5,
+        "extra": 17.7,
+        "complete": 65.4
+      }
     },
     {
       "productId": "70010000069430",
@@ -60680,7 +61251,11 @@
       },
       "titleZh": "索尼克 超级巨星",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.2,
+        "extra": 9.4,
+        "complete": 17.8
+      }
     },
     {
       "productId": "70010000069536",
@@ -60706,7 +61281,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2024-10-25",
-        "userScore": 9.1,
+        "userScore": 9,
         "userReviewCount": null
       },
       "titleZh": "索尼克×夏特 世代重启",
@@ -60741,7 +61316,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2024-10-25",
-        "userScore": 9.1,
+        "userScore": 9,
         "userReviewCount": null
       },
       "titleZh": "索尼克×夏特 世代重启",
@@ -60814,7 +61389,11 @@
       },
       "titleZh": "英灵士魂",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 25.5,
+        "extra": 35.1,
+        "complete": 53.7
+      }
     },
     {
       "productId": "70010000048617",
@@ -60845,7 +61424,11 @@
       },
       "titleZh": "极圈以南",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.6,
+        "extra": 3.7,
+        "complete": 3.9
+      }
     },
     {
       "productId": "70010000001331",
@@ -61428,7 +62011,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2017-07-21",
-        "userScore": 8.5,
+        "userScore": 8.4,
         "userReviewCount": null
       },
       "titleZh": "斯普拉遁2",
@@ -61500,7 +62083,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-07-23",
-        "userScore": 9.3,
+        "userScore": 9.2,
         "userReviewCount": null
       },
       "titleZh": "斯普拉遁 涂击队",
@@ -61753,7 +62336,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-06-25",
-        "userScore": 8.2,
+        "userScore": 8.3,
         "userReviewCount": null
       },
       "titleZh": "星际火狐",
@@ -62074,7 +62657,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "70010000028811",
@@ -62106,7 +62693,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.7,
+        "extra": 9.9,
+        "complete": 10.2
+      }
     },
     {
       "productId": "70010000067538",
@@ -62174,7 +62765,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.4,
+        "extra": 10.1,
+        "complete": 11.8
+      }
     },
     {
       "productId": "70010000067895",
@@ -63020,6 +63615,197 @@
       }
     },
     {
+      "productId": "70010000127298",
+      "title": "STEINS;GATE RE:BOOT",
+      "developer": null,
+      "publisher": "Spike Chunsoft US",
+      "categories": [
+        "Narrative adventure"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/989737d43e9d4de5bdfe32e6630b0e84_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 78,
+        "title": "STEINS;GATE RE:BOOT",
+        "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+        "mustPlay": false,
+        "genres": [
+          "Visual Novel"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000127391",
+      "title": "STEINS;GATE RE:BOOT",
+      "developer": "MAGES",
+      "publisher": "Spike Chunsoft US",
+      "categories": [
+        "Narrative adventure"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3658825856b64d07bcc5cf731cf7c9d4_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 78,
+        "title": "STEINS;GATE RE:BOOT",
+        "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+        "mustPlay": false,
+        "genres": [
+          "Visual Novel"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000133021",
+      "title": "STEINS;GATE RE:BOOT DIGITAL CONTENT",
+      "developer": "MAGES",
+      "publisher": "Spike Chunsoft US",
+      "categories": [
+        "Application"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5b5f69b3fbb94c2bad5dfa536d53ea02_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-digital-content-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 78,
+        "title": "STEINS;GATE RE:BOOT",
+        "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+        "mustPlay": false,
+        "genres": [
+          "Visual Novel"
+        ],
+        "confidence": 0.831,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70070000040911",
+      "title": "STEINS;GATE RE:BOOT Digital Deluxe Edition",
+      "developer": null,
+      "publisher": "Spike Chunsoft US",
+      "categories": [
+        "Application",
+        "Narrative adventure",
+        "Role playing"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70070000040911/53b2dbb7f1d154b953d3581ead18699de987716da03f6c1111df57103f1e2efd",
+      "storeUrl": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-digital-deluxe-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 78,
+        "title": "STEINS;GATE RE:BOOT",
+        "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+        "mustPlay": false,
+        "genres": [
+          "Visual Novel"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70070000040912",
+      "title": "STEINS;GATE RE:BOOT Digital Deluxe Edition",
+      "developer": null,
+      "publisher": "Spike Chunsoft US",
+      "categories": [
+        "Application",
+        "Narrative adventure",
+        "Role playing"
+      ],
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch/70070000040912/53b2dbb7f1d154b953d3581ead18699de987716da03f6c1111df57103f1e2efd",
+      "storeUrl": "https://www.nintendo.com/us/store/products/steins-gate-re-boot-digital-deluxe-edition-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 78,
+        "title": "STEINS;GATE RE:BOOT",
+        "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+        "mustPlay": false,
+        "genres": [
+          "Visual Novel"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-10-29",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
+      "productId": "70010000123388",
+      "title": "Stellar Blade Complete Edition",
+      "developer": null,
+      "publisher": "SHIFT UP",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/614421e4ec954be5b3b95e0cf5be16e0_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 81,
+        "title": "Stellar Blade: Complete Edition",
+        "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+        "mustPlay": false,
+        "genres": [
+          "Action Adventure"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-05",
+        "userScore": 8.6,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": null
+    },
+    {
       "productId": "70010000001019",
       "title": "Steredenn: Binary Stars",
       "developer": "Pixelnest",
@@ -63299,7 +64085,7 @@
       }
     },
     {
-      "productId": "70010000080179",
+      "productId": "70010000097148",
       "title": "STORY OF SEASONS: Grand Bazaar",
       "developer": "Marvelous",
       "publisher": "Marvelous (XSEED)",
@@ -63309,11 +64095,11 @@
         "Simulation"
       ],
       "releaseDate": "2025-08-27T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2034d870117041b8887e81e94e64e2a1_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/story-of-seasons-grand-bazaar-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ae17e6cdb57c47a1be12a523de63ac8f_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/story-of-seasons-grand-bazaar-nintendo-switch-2-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": true,
       "metacritic": {
         "score": 81,
         "title": "Story of Seasons: Grand Bazaar",
@@ -63336,7 +64122,7 @@
       }
     },
     {
-      "productId": "70010000097148",
+      "productId": "70010000080179",
       "title": "STORY OF SEASONS: Grand Bazaar",
       "developer": "Marvelous",
       "publisher": "Marvelous (XSEED)",
@@ -63346,11 +64132,11 @@
         "Simulation"
       ],
       "releaseDate": "2025-08-27T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ae17e6cdb57c47a1be12a523de63ac8f_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/story-of-seasons-grand-bazaar-nintendo-switch-2-edition-switch-2/",
-      "switch1": false,
-      "switch2": true,
-      "switch2Edition": true,
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2034d870117041b8887e81e94e64e2a1_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/story-of-seasons-grand-bazaar-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
       "metacritic": {
         "score": 81,
         "title": "Story of Seasons: Grand Bazaar",
@@ -63685,7 +64471,11 @@
       },
       "titleZh": "僵尸斯塔布斯",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 7.7,
+        "complete": 9.1
+      }
     },
     {
       "productId": "70010000033019",
@@ -63717,7 +64507,11 @@
       },
       "titleZh": "深海迷航：冰点之下",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 20.2,
+        "extra": 26.4,
+        "complete": 30.9
+      }
     },
     {
       "productId": "70010000117823",
@@ -63749,7 +64543,11 @@
       },
       "titleZh": "深海迷航：冰点之下",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 20.2,
+        "extra": 26.4,
+        "complete": 30.9
+      }
     },
     {
       "productId": "70010000003977",
@@ -63780,7 +64578,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2,
+        "extra": 2.3,
+        "complete": 2.4
+      }
     },
     {
       "productId": "70010000008184",
@@ -63811,7 +64613,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.1,
+        "extra": 3.5,
+        "complete": 4.3
+      }
     },
     {
       "productId": "70070000031784",
@@ -63844,7 +64650,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.1,
+        "extra": 3.5,
+        "complete": 4.3
+      }
     },
     {
       "productId": "70010000013965",
@@ -63876,7 +64686,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.9,
+        "extra": 2,
+        "complete": 2.4
+      }
     },
     {
       "productId": "70010000065640",
@@ -64882,7 +65696,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2023-11-17",
-        "userScore": 7.9,
+        "userScore": 8,
         "userReviewCount": null
       },
       "titleZh": "超级马力欧RPG",
@@ -64937,7 +65751,7 @@
         "Action"
       ],
       "releaseDate": "2026-03-31T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5b12a77b0a914bf78bc9094d3009b2a8_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e4be42d96e9a4bfeaf48be6dc2cdba48_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/super-meat-boy-3d-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -65172,7 +65986,11 @@
       },
       "titleZh": "现尝好滋味！超级猴子球",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 4.9,
+        "extra": 6,
+        "complete": 7.4
+      }
     },
     {
       "productId": "70010000016686",
@@ -65265,7 +66083,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.9,
+        "extra": 8.1,
+        "complete": 9.5
+      }
     },
     {
       "productId": "70010000012332",
@@ -65502,7 +66324,11 @@
       },
       "titleZh": "超回转 寿司强食者 寿司道之路",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15,
+        "extra": 25.9,
+        "complete": 44.8
+      }
     },
     {
       "productId": "70010000005387",
@@ -65565,7 +66391,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.4,
+        "extra": 9.6,
+        "complete": 16
+      }
     },
     {
       "productId": "70010000082144",
@@ -65597,7 +66427,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.4,
+        "extra": 9.6,
+        "complete": 16
+      }
     },
     {
       "productId": "70010000000650",
@@ -65628,7 +66462,11 @@
       },
       "titleZh": "赛伯利亚",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.6,
+        "extra": 11.3,
+        "complete": 12.1
+      }
     },
     {
       "productId": "70010000068584",
@@ -65659,7 +66497,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 20.2,
+        "complete": 29.2
+      }
     },
     {
       "productId": "70010000020583",
@@ -65723,7 +66565,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 54.1,
+        "extra": 97,
+        "complete": 176.2
+      }
     },
     {
       "productId": "70010000033573",
@@ -65786,7 +66632,11 @@
       },
       "titleZh": "太鼓之达人 咚咚雷音祭",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10.6,
+        "extra": 32.7,
+        "complete": 33.7
+      }
     },
     {
       "productId": "70010000059602",
@@ -65818,7 +66668,11 @@
       },
       "titleZh": "太鼓之达人 咚咚雷音祭",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10.6,
+        "extra": 32.7,
+        "complete": 33.7
+      }
     },
     {
       "productId": "70010000032290",
@@ -65850,7 +66704,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 14.8,
+        "extra": 15.3,
+        "complete": 50
+      }
     },
     {
       "productId": "70010000047977",
@@ -66014,7 +66872,11 @@
       },
       "titleZh": "绯夜传奇 Remastered",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 44.5,
+        "extra": 67.4,
+        "complete": 152.5
+      }
     },
     {
       "productId": "70010000044345",
@@ -66083,7 +66945,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 46.6,
+        "extra": 62.5,
+        "complete": 189.7
+      }
     },
     {
       "productId": "70010000120682",
@@ -66116,7 +66982,11 @@
       },
       "titleZh": "指环王：夏尔传说",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 20.5,
+        "complete": 39.9
+      }
     },
     {
       "productId": "70010000076839",
@@ -66149,7 +67019,11 @@
       },
       "titleZh": "指环王：夏尔传说",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 20.5,
+        "complete": 39.9
+      }
     },
     {
       "productId": "70010000004645",
@@ -66181,38 +67055,11 @@
       },
       "titleZh": "薄暮传说 复刻版",
       "titleZhSource": "wikidata",
-      "playtime": null
-    },
-    {
-      "productId": "70010000097142",
-      "title": "Tamagotchi Plaza",
-      "developer": null,
-      "publisher": "Bandai Namco Entertainment",
-      "categories": [
-        "Adventure"
-      ],
-      "releaseDate": "2025-06-27T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a356d30b274e4ec6830ade8f3b0e566d_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/tamagotchi-plaza-nintendo-switch-2-edition-switch-2/",
-      "switch1": false,
-      "switch2": true,
-      "switch2Edition": true,
-      "metacritic": {
-        "score": 64,
-        "title": "Tamagotchi Plaza",
-        "url": "https://www.metacritic.com/game/tamagotchi-plaza/",
-        "mustPlay": false,
-        "genres": [
-          "Virtual Life"
-        ],
-        "confidence": 1,
-        "releaseDate": "2025-06-27",
-        "userScore": null,
-        "userReviewCount": null
-      },
-      "titleZh": "欢迎光临！塔麻歌子开心镇",
-      "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 45.4,
+        "extra": 69,
+        "complete": 145.1
+      }
     },
     {
       "productId": "70010000064036",
@@ -66243,7 +67090,46 @@
       },
       "titleZh": "欢迎光临！塔麻歌子开心镇",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.9,
+        "extra": 22,
+        "complete": 24.5
+      }
+    },
+    {
+      "productId": "70010000097142",
+      "title": "Tamagotchi Plaza",
+      "developer": null,
+      "publisher": "Bandai Namco Entertainment",
+      "categories": [
+        "Adventure"
+      ],
+      "releaseDate": "2025-06-27T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a356d30b274e4ec6830ade8f3b0e566d_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/tamagotchi-plaza-nintendo-switch-2-edition-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": true,
+      "metacritic": {
+        "score": 64,
+        "title": "Tamagotchi Plaza",
+        "url": "https://www.metacritic.com/game/tamagotchi-plaza/",
+        "mustPlay": false,
+        "genres": [
+          "Virtual Life"
+        ],
+        "confidence": 1,
+        "releaseDate": "2025-06-27",
+        "userScore": null,
+        "userReviewCount": null
+      },
+      "titleZh": "欢迎光临！塔麻歌子开心镇",
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 18.9,
+        "extra": 22,
+        "complete": 24.5
+      }
     },
     {
       "productId": "70010000022631",
@@ -66274,7 +67160,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.5,
+        "extra": 6.1,
+        "complete": 6.2
+      }
     },
     {
       "productId": "70010000003094",
@@ -66305,7 +67195,11 @@
       },
       "titleZh": "纷乱深渊",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 18.4,
+        "extra": 20.2,
+        "complete": null
+      }
     },
     {
       "productId": "70010000034605",
@@ -66336,7 +67230,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.6,
+        "extra": 4.1,
+        "complete": 5
+      }
     },
     {
       "productId": "70010000030429",
@@ -66398,7 +67296,11 @@
       },
       "titleZh": "音速小子 搭档组队大赛车",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9,
+        "extra": 13.9,
+        "complete": 26.8
+      }
     },
     {
       "productId": "70010000039366",
@@ -66429,39 +67331,11 @@
       },
       "titleZh": "忍者神龟：施莱德的复仇",
       "titleZhSource": "wikidata",
-      "playtime": null
-    },
-    {
-      "productId": "70010000078903",
-      "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
-      "developer": null,
-      "publisher": "Super Evil Mega",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
-      "releaseDate": "2024-07-17T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b3c85ba825764a6fadf5b3d08a230db1_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/teenage-mutant-ninja-turtles-splintered-fate-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 73,
-        "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
-        "url": "https://www.metacritic.com/game/teenage-mutant-ninja-turtles-splintered-fate/",
-        "mustPlay": false,
-        "genres": [
-          "3D Beat-'Em-Up"
-        ],
-        "confidence": 1,
-        "releaseDate": "2024-07-17",
-        "userScore": 7.3,
-        "userReviewCount": null
-      },
-      "titleZh": "忍者龟 Splintered Fate",
-      "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.9,
+        "extra": 4.1,
+        "complete": 20.2
+      }
     },
     {
       "productId": "70010000112327",
@@ -66493,7 +67367,47 @@
       },
       "titleZh": "忍者龟 Splintered Fate",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9,
+        "extra": 20.3,
+        "complete": 30.6
+      }
+    },
+    {
+      "productId": "70010000078903",
+      "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "developer": null,
+      "publisher": "Super Evil Mega",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "releaseDate": "2024-07-17T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b3c85ba825764a6fadf5b3d08a230db1_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/teenage-mutant-ninja-turtles-splintered-fate-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 73,
+        "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+        "url": "https://www.metacritic.com/game/teenage-mutant-ninja-turtles-splintered-fate/",
+        "mustPlay": false,
+        "genres": [
+          "3D Beat-'Em-Up"
+        ],
+        "confidence": 1,
+        "releaseDate": "2024-07-17",
+        "userScore": 7.3,
+        "userReviewCount": null
+      },
+      "titleZh": "忍者龟 Splintered Fate",
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 9,
+        "extra": 20.3,
+        "complete": 30.6
+      }
     },
     {
       "productId": "70010000098666",
@@ -66525,7 +67439,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.5,
+        "extra": 6.4,
+        "complete": 7.3
+      }
     },
     {
       "productId": "70010000042351",
@@ -66557,7 +67475,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.2,
+        "extra": 13.2,
+        "complete": 16.3
+      }
     },
     {
       "productId": "70010000019233",
@@ -66650,7 +67572,11 @@
       },
       "titleZh": "腾兽岛",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 57.8,
+        "extra": 79.2,
+        "complete": 206.3
+      }
     },
     {
       "productId": "70010000033015",
@@ -66713,7 +67639,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.2,
+        "extra": 3.5,
+        "complete": 6.8
+      }
     },
     {
       "productId": "70010000001702",
@@ -66811,7 +67741,11 @@
       },
       "titleZh": "科学vs狂怒",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3,
+        "extra": 7.3,
+        "complete": 13.8
+      }
     },
     {
       "productId": "70010000001904",
@@ -66843,7 +67777,11 @@
       },
       "titleZh": "特斯拉学徒",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 5.6,
+        "complete": 7.1
+      }
     },
     {
       "productId": "70010000062778",
@@ -66874,7 +67812,11 @@
       },
       "titleZh": "特斯拉学徒",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 5.6,
+        "complete": 7.1
+      }
     },
     {
       "productId": "70010000018547",
@@ -66900,12 +67842,16 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-02-13",
-        "userScore": 8,
+        "userScore": 8.1,
         "userReviewCount": null
       },
       "titleZh": "俄罗斯方块99",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.3,
+        "extra": 27.3,
+        "complete": 54.4
+      }
     },
     {
       "productId": "70010000038380",
@@ -66971,7 +67917,11 @@
       },
       "titleZh": "俄罗斯方块永恒版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.5,
+        "extra": 7,
+        "complete": 7.5
+      }
     },
     {
       "productId": "70010000064959",
@@ -67038,7 +67988,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.2,
+        "extra": 4.8,
+        "complete": 12.9
+      }
     },
     {
       "productId": "70010000009864",
@@ -67070,7 +68024,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.6,
+        "extra": 10.2,
+        "complete": 11.9
+      }
     },
     {
       "productId": "70010000116884",
@@ -67102,7 +68060,11 @@
       },
       "titleZh": "冒险家艾略特的千年奇谭",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.5,
+        "extra": 27,
+        "complete": 34.6
+      }
     },
     {
       "productId": "70010000018918",
@@ -67133,7 +68095,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 30.9,
+        "extra": 37.4,
+        "complete": 45
+      }
     },
     {
       "productId": "70010000028285",
@@ -67165,7 +68131,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.5,
+        "extra": 2.9,
+        "complete": 5.2
+      }
     },
     {
       "productId": "70010000045464",
@@ -67196,7 +68166,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.3,
+        "extra": 3.4,
+        "complete": 12.6
+      }
     },
     {
       "productId": "70010000000076",
@@ -67259,7 +68233,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 19.9,
+        "extra": 23.6,
+        "complete": 26
+      }
     },
     {
       "productId": "70010000009624",
@@ -67291,7 +68269,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.3,
+        "extra": 5.5,
+        "complete": 7.4
+      }
     },
     {
       "productId": "70010000003975",
@@ -67322,7 +68304,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2,
+        "extra": 2.3,
+        "complete": 3.2
+      }
     },
     {
       "productId": "70010000039570",
@@ -67353,7 +68339,11 @@
       },
       "titleZh": "卡里古拉2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 27.3,
+        "extra": 42.1,
+        "complete": 71.9
+      }
     },
     {
       "productId": "70010000011786",
@@ -67384,7 +68374,11 @@
       },
       "titleZh": "卡里古拉",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 26.7,
+        "extra": 38.4,
+        "complete": 73.6
+      }
     },
     {
       "productId": "70010000048050",
@@ -67415,7 +68409,11 @@
       },
       "titleZh": "春逝百年抄",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15,
+        "extra": 15.7,
+        "complete": 15.9
+      }
     },
     {
       "productId": "70010000038215",
@@ -67478,7 +68476,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.2,
+        "extra": 8.9,
+        "complete": 11.6
+      }
     },
     {
       "productId": "70010000033058",
@@ -67510,7 +68512,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.9,
+        "extra": 5.1,
+        "complete": 6.8
+      }
     },
     {
       "productId": "70010000045017",
@@ -67541,7 +68547,11 @@
       },
       "titleZh": "打工人",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.3,
+        "extra": 4.4,
+        "complete": 4.8
+      }
     },
     {
       "productId": "70010000064689",
@@ -67572,7 +68582,11 @@
       },
       "titleZh": "宇宙之轮姐妹会",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.6,
+        "extra": 9.1,
+        "complete": 11.4
+      }
     },
     {
       "productId": "70010000001218",
@@ -67604,7 +68618,11 @@
       },
       "titleZh": "卢卡诺伯爵",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 3.6,
+        "extra": 4.1,
+        "complete": 6
+      }
     },
     {
       "productId": "70010000100032",
@@ -67704,7 +68722,11 @@
       },
       "titleZh": "邪恶国王与出色勇者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15.2,
+        "extra": 23.1,
+        "complete": 37
+      }
     },
     {
       "productId": "70010000020838",
@@ -67736,7 +68758,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 14.2,
+        "extra": 18.3,
+        "complete": 21.2
+      }
     },
     {
       "productId": "70010000005044",
@@ -67829,7 +68855,11 @@
       },
       "titleZh": "黑暗侦探",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.7,
+        "extra": 5.6,
+        "complete": 6.5
+      }
     },
     {
       "productId": "70010000003225",
@@ -67860,7 +68890,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.4,
+        "extra": 5.1,
+        "complete": 9.8
+      }
     },
     {
       "productId": "70010000045379",
@@ -67892,7 +68926,11 @@
       },
       "titleZh": "神领编年史",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 25.4,
+        "extra": 31.4,
+        "complete": 32.3
+      }
     },
     {
       "productId": "70010000107122",
@@ -67924,7 +68962,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.8,
+        "extra": 8.5,
+        "complete": 10.5
+      }
     },
     {
       "productId": "70010000107127",
@@ -67956,7 +68998,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.8,
+        "extra": 8.5,
+        "complete": 10.5
+      }
     },
     {
       "productId": "70010000127963",
@@ -67987,7 +69033,11 @@
       },
       "titleZh": "漂泊者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.5,
+        "extra": 9,
+        "complete": 9.3
+      }
     },
     {
       "productId": "70010000091814",
@@ -68018,7 +69068,11 @@
       },
       "titleZh": "漂泊者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.5,
+        "extra": 9,
+        "complete": 9.3
+      }
     },
     {
       "productId": "70010000103529",
@@ -68087,7 +69141,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 37.5,
+        "extra": 100.4,
+        "complete": 171.6
+      }
     },
     {
       "productId": "70010000103193",
@@ -68119,7 +69177,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 37.5,
+        "extra": 100.4,
+        "complete": 171.6
+      }
     },
     {
       "productId": "70010000002182",
@@ -68150,7 +69212,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.3,
+        "extra": 15.7,
+        "complete": 68.1
+      }
     },
     {
       "productId": "70010000001064",
@@ -68182,7 +69248,11 @@
       },
       "titleZh": "逃脱者2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17,
+        "extra": 31.9,
+        "complete": 59.7
+      }
     },
     {
       "productId": "70010000012431",
@@ -68246,7 +69316,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.7,
+        "extra": 3.5,
+        "complete": 6.3
+      }
     },
     {
       "productId": "70010000061404",
@@ -68277,7 +69351,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7,
+        "extra": 7.8,
+        "complete": 8
+      }
     },
     {
       "productId": "70010000010359",
@@ -68308,7 +69386,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.4,
+        "extra": 4.2,
+        "complete": 4.7
+      }
     },
     {
       "productId": "70010000000442",
@@ -68339,7 +69421,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.1,
+        "extra": 7.6,
+        "complete": 10.6
+      }
     },
     {
       "productId": "70010000001202",
@@ -68370,7 +69456,11 @@
       },
       "titleZh": "洪潮之焰",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 8.6,
+        "extra": 13.6,
+        "complete": 49.9
+      }
     },
     {
       "productId": "70010000016983",
@@ -68435,7 +69525,11 @@
       },
       "titleZh": "石河伦吾的朋友们",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.7,
+        "extra": 11.3,
+        "complete": 15.9
+      }
     },
     {
       "productId": "70010000036188",
@@ -68466,7 +69560,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.6,
+        "extra": 6.5,
+        "complete": 19.4
+      }
     },
     {
       "productId": "70010000003142",
@@ -68532,7 +69630,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 12.7,
+        "extra": 21.6,
+        "complete": 36.6
+      }
     },
     {
       "productId": "70010000024294",
@@ -68564,7 +69666,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 66.6,
+        "extra": 75.5,
+        "complete": 80.3
+      }
     },
     {
       "productId": "70010000035893",
@@ -68596,7 +69702,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.9,
+        "extra": 6,
+        "complete": 10.4
+      }
     },
     {
       "productId": "70010000028543",
@@ -68627,7 +69737,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 30.6,
+        "extra": 36.9,
+        "complete": 52.2
+      }
     },
     {
       "productId": "70010000039731",
@@ -68658,7 +69772,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 0.8,
+        "extra": 2.4,
+        "complete": 6.1
+      }
     },
     {
       "productId": "70010000091116",
@@ -68691,7 +69809,11 @@
       },
       "titleZh": "百日战纪 -最终防卫学园-",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 35.5,
+        "extra": 80.1,
+        "complete": 165.5
+      }
     },
     {
       "productId": "70070000027042",
@@ -68725,7 +69847,11 @@
       },
       "titleZh": "百日战纪 -最终防卫学园-",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 35.5,
+        "extra": 80.1,
+        "complete": 165.5
+      }
     },
     {
       "productId": "70010000008322",
@@ -68756,7 +69882,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.3,
+        "extra": 3.6,
+        "complete": 4.6
+      }
     },
     {
       "productId": "70010000028423",
@@ -68787,7 +69917,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.7,
+        "extra": 7.2,
+        "complete": 16.4
+      }
     },
     {
       "productId": "70010000045374",
@@ -68850,7 +69984,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.2,
+        "extra": 14.1,
+        "complete": 14.9
+      }
     },
     {
       "productId": "70010000055794",
@@ -68914,7 +70052,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 0.4,
+        "extra": null,
+        "complete": 11.9
+      }
     },
     {
       "productId": "70010000028625",
@@ -68945,7 +70087,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.2,
+        "extra": 6,
+        "complete": 6.5
+      }
     },
     {
       "productId": "70010000039144",
@@ -69008,7 +70154,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 62.3,
+        "extra": 73.1,
+        "complete": 145.3
+      }
     },
     {
       "productId": "70010000100738",
@@ -69040,7 +70190,11 @@
       },
       "titleZh": "英雄传说 界之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 53.7,
+        "extra": 85.7,
+        "complete": 109.7
+      }
     },
     {
       "productId": "70010000090109",
@@ -69073,7 +70227,11 @@
       },
       "titleZh": "英雄传说 界之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 53.7,
+        "extra": 85.7,
+        "complete": 109.7
+      }
     },
     {
       "productId": "70010000042851",
@@ -69104,7 +70262,11 @@
       },
       "titleZh": "英雄传说VII",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 38.5,
+        "extra": 59,
+        "complete": 79.4
+      }
     },
     {
       "productId": "70010000119917",
@@ -69137,7 +70299,11 @@
       },
       "titleZh": "英雄传说VII",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 38.5,
+        "extra": 59,
+        "complete": 79.4
+      }
     },
     {
       "productId": "70010000042843",
@@ -69168,7 +70334,11 @@
       },
       "titleZh": "英雄传说 创之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 43.6,
+        "extra": 86.4,
+        "complete": 117.6
+      }
     },
     {
       "productId": "70010000025930",
@@ -69199,7 +70369,11 @@
       },
       "titleZh": "英雄传说 闪之轨迹III",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 60.2,
+        "extra": 97,
+        "complete": 122.8
+      }
     },
     {
       "productId": "70010000027604",
@@ -69230,7 +70404,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 60.8,
+        "extra": 103.2,
+        "complete": 137.5
+      }
     },
     {
       "productId": "70010000043349",
@@ -69261,7 +70439,11 @@
       },
       "titleZh": "英雄传说：碧之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 43,
+        "extra": 67.5,
+        "complete": 100.9
+      }
     },
     {
       "productId": "70010000119919",
@@ -69292,7 +70474,11 @@
       },
       "titleZh": "英雄传说：碧之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 43,
+        "extra": 67.5,
+        "complete": 100.9
+      }
     },
     {
       "productId": "70010000069798",
@@ -69325,7 +70511,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 32.5,
+        "extra": 49.1,
+        "complete": 74.1
+      }
     },
     {
       "productId": "70010000065034",
@@ -69357,7 +70547,11 @@
       },
       "titleZh": "那由多之轨迹",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.6,
+        "extra": 27,
+        "complete": 48.5
+      }
     },
     {
       "productId": "70010000062559",
@@ -69386,7 +70580,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.2,
+        "extra": 1.5,
+        "complete": null
+      }
     },
     {
       "productId": "70010000000025",
@@ -69418,7 +70616,11 @@
       },
       "titleZh": "塞尔达传说 旷野之息",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 50.3,
+        "extra": 98.4,
+        "complete": 193.6
+      }
     },
     {
       "productId": "70010000096817",
@@ -69450,7 +70652,11 @@
       },
       "titleZh": "塞尔达传说 旷野之息",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 50.3,
+        "extra": 98.4,
+        "complete": 193.6
+      }
     },
     {
       "productId": "70010000084618",
@@ -69482,7 +70688,11 @@
       },
       "titleZh": "塞尔达传说 智能的再现",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 21.1,
+        "extra": 26.6,
+        "complete": 34.4
+      }
     },
     {
       "productId": "70010000020033",
@@ -69514,7 +70724,47 @@
       },
       "titleZh": "塞尔达传说 织梦岛",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 14.1,
+        "extra": 16.5,
+        "complete": 20.8
+      }
+    },
+    {
+      "productId": "70010000130792",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "developer": null,
+      "publisher": "Nintendo",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/upload/c_fill,ar_3:4,w_400,q_auto,f_auto/store/software/switch2/70010000130792/da79eecb8ff4a1918790e0084cfcf8581a40f4864854e7a95615f5d43f41f937",
+      "storeUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+      "switch1": false,
+      "switch2": true,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 96,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
+        "mustPlay": false,
+        "genres": [
+          "Open-World Action"
+        ],
+        "confidence": 1,
+        "releaseDate": "2026-11-05",
+        "userScore": 9.6,
+        "userReviewCount": null
+      },
+      "titleZh": "塞尔达传说 时之笛",
+      "titleZhSource": "wikidata",
+      "playtime": {
+        "main": 16.5,
+        "extra": 20.9,
+        "complete": 24.1
+      }
     },
     {
       "productId": "70010000038612",
@@ -69546,7 +70796,11 @@
       },
       "titleZh": "塞尔达传说 御天之剑HD",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 30.8,
+        "extra": 38.7,
+        "complete": 42.2
+      }
     },
     {
       "productId": "70010000063714",
@@ -69578,7 +70832,11 @@
       },
       "titleZh": "塞尔达传说 王国之泪",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 59.3,
+        "extra": 117.6,
+        "complete": 247.7
+      }
     },
     {
       "productId": "70010000096821",
@@ -69610,7 +70868,11 @@
       },
       "titleZh": "塞尔达传说 王国之泪",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 59.3,
+        "extra": 117.6,
+        "complete": 247.7
+      }
     },
     {
       "productId": "70010000013359",
@@ -69642,7 +70904,11 @@
       },
       "titleZh": "乐高玩电影2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.7,
+        "extra": 8.9,
+        "complete": 16.6
+      }
     },
     {
       "productId": "70010000012127",
@@ -69674,7 +70940,11 @@
       },
       "titleZh": "说谎公主与盲眼王子",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.5,
+        "extra": 5.2,
+        "complete": 7.1
+      }
     },
     {
       "productId": "70010000010149",
@@ -69705,7 +70975,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.9,
+        "extra": 5.3,
+        "complete": 24.6
+      }
     },
     {
       "productId": "70010000011602",
@@ -69744,6 +71018,42 @@
       }
     },
     {
+      "productId": "70010000002881",
+      "title": "The Long Reach",
+      "developer": "Painted Black Games",
+      "publisher": "Silver Lining",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "releaseDate": "2018-03-15T00:00:00.000Z",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c048cc0e442d4973a69a32641867a988_1024",
+      "storeUrl": "https://www.nintendo.com/us/store/products/the-long-reach-switch/",
+      "switch1": true,
+      "switch2": false,
+      "switch2Edition": false,
+      "metacritic": {
+        "score": 58,
+        "title": "The Long Reach",
+        "url": "https://www.metacritic.com/game/the-long-reach/",
+        "mustPlay": false,
+        "genres": [
+          "Survival"
+        ],
+        "confidence": 1,
+        "releaseDate": "2018-03-15",
+        "userScore": 6.1,
+        "userReviewCount": null
+      },
+      "titleZh": null,
+      "titleZhSource": null,
+      "playtime": {
+        "main": 2.9,
+        "extra": 3.1,
+        "complete": 3.2
+      }
+    },
+    {
       "productId": "70010000001227",
       "title": "The Longest Five Minutes",
       "developer": null,
@@ -69772,7 +71082,11 @@
       },
       "titleZh": "世界最长的5分钟",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.7,
+        "extra": 11.1,
+        "complete": 15
+      }
     },
     {
       "productId": "70010000013022",
@@ -69803,7 +71117,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.1,
+        "extra": 4.2,
+        "complete": 5
+      }
     },
     {
       "productId": "70010000059943",
@@ -69835,7 +71153,11 @@
       },
       "titleZh": "联盟外传：狙魔者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.8,
+        "extra": 12.3,
+        "complete": 14.6
+      }
     },
     {
       "productId": "70010000065141",
@@ -69867,7 +71189,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 6.1,
+        "complete": 9.2
+      }
     },
     {
       "productId": "70010000012840",
@@ -69898,7 +71224,11 @@
       },
       "titleZh": "信使",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 12,
+        "extra": 14.5,
+        "complete": 16.1
+      }
     },
     {
       "productId": "70010000009766",
@@ -69930,7 +71260,11 @@
       },
       "titleZh": "麋鹿人",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.7,
+        "extra": 2.3,
+        "complete": 3.2
+      }
     },
     {
       "productId": "70010000002701",
@@ -69962,7 +71296,11 @@
       },
       "titleZh": "木乃伊：降质",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.9,
+        "extra": 5.6,
+        "complete": 7
+      }
     },
     {
       "productId": "70010000003756",
@@ -70025,7 +71363,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2,
+        "extra": 4,
+        "complete": 7.1
+      }
     },
     {
       "productId": "70010000028872",
@@ -70125,7 +71467,11 @@
       },
       "titleZh": "无路之旅",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.1,
+        "extra": 9.3,
+        "complete": 12.8
+      }
     },
     {
       "productId": "70010000012129",
@@ -70220,7 +71566,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 0.4,
+        "extra": 0.6,
+        "complete": 1
+      }
     },
     {
       "productId": "70010000013987",
@@ -70251,7 +71601,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.9,
+        "extra": 10.9,
+        "complete": 11.5
+      }
     },
     {
       "productId": "70010000018544",
@@ -70282,7 +71636,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.3,
+        "extra": 4.3,
+        "complete": 8.2
+      }
     },
     {
       "productId": "70010000016348",
@@ -70313,7 +71671,11 @@
       },
       "titleZh": "红弦俱乐部",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 4.6,
+        "complete": 7
+      }
     },
     {
       "productId": "70010000100337",
@@ -70415,7 +71777,11 @@
       },
       "titleZh": "谜室",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.6,
+        "extra": 2.6,
+        "complete": 2.7
+      }
     },
     {
       "productId": "70010000000959",
@@ -70446,7 +71812,11 @@
       },
       "titleZh": "性感的残酷",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.9,
+        "extra": 7.2,
+        "complete": 8.5
+      }
     },
     {
       "productId": "70010000038404",
@@ -70477,7 +71847,11 @@
       },
       "titleZh": "银色事件2425",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 36.2,
+        "extra": 38.2,
+        "complete": 49.8
+      }
     },
     {
       "productId": "70010000019162",
@@ -70509,7 +71883,11 @@
       },
       "titleZh": "沉没之城",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.8,
+        "extra": 25.7,
+        "complete": 31.7
+      }
     },
     {
       "productId": "70010000037809",
@@ -70541,7 +71919,11 @@
       },
       "titleZh": "蓝精灵：毒叶大作战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.2,
+        "extra": 8.7,
+        "complete": 14.5
+      }
     },
     {
       "productId": "70010000020362",
@@ -70572,7 +71954,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.1,
+        "extra": 5.2,
+        "complete": 12.7
+      }
     },
     {
       "productId": "70010000072429",
@@ -70603,7 +71989,11 @@
       },
       "titleZh": "未晓星程",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 2.4,
+        "extra": 3.1,
+        "complete": 3.2
+      }
     },
     {
       "productId": "70010000013242",
@@ -70629,12 +72019,16 @@
         ],
         "confidence": 1,
         "releaseDate": "2019-02-07",
-        "userScore": 5.5,
+        "userScore": 5.4,
         "userReviewCount": null
       },
       "titleZh": "寂静的风",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.3,
+        "extra": 3.7,
+        "complete": 3.9
+      }
     },
     {
       "productId": "70010000008109",
@@ -70666,7 +72060,11 @@
       },
       "titleZh": "担架拍档",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.5,
+        "extra": 5.6,
+        "complete": 6.4
+      }
     },
     {
       "productId": "70010000018413",
@@ -70698,7 +72096,11 @@
       },
       "titleZh": "岛屿生存者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 22.1,
+        "extra": 39.7,
+        "complete": 47.9
+      }
     },
     {
       "productId": "70010000017137",
@@ -70730,7 +72132,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.4,
+        "extra": 6.4,
+        "complete": 26
+      }
     },
     {
       "productId": "70010000026089",
@@ -70761,7 +72167,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.5,
+        "extra": 3.3,
+        "complete": 4.5
+      }
     },
     {
       "productId": "70010000018012",
@@ -70792,7 +72202,11 @@
       },
       "titleZh": "旅行者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5,
+        "extra": 5.9,
+        "complete": 6.8
+      }
     },
     {
       "productId": "70010000104768",
@@ -70823,7 +72237,11 @@
       },
       "titleZh": "旅行者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5,
+        "extra": 5.9,
+        "complete": 6.8
+      }
     },
     {
       "productId": "70010000033837",
@@ -70979,7 +72397,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6.5,
+        "extra": 7.9,
+        "complete": 8.1
+      }
     },
     {
       "productId": "70010000020983",
@@ -71011,7 +72433,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 56.9,
+        "extra": 123.5,
+        "complete": 188.7
+      }
     },
     {
       "productId": "70010000128692",
@@ -71043,7 +72469,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 56.9,
+        "extra": 123.5,
+        "complete": 188.7
+      }
     },
     {
       "productId": "70010000025251",
@@ -71074,7 +72504,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 15.1,
+        "extra": 19.4,
+        "complete": 32.9
+      }
     },
     {
       "productId": "70010000011853",
@@ -71106,7 +72540,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 17.2,
+        "extra": 26,
+        "complete": 81.7
+      }
     },
     {
       "productId": "70010000017146",
@@ -71138,7 +72576,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.3,
+        "extra": 4.1,
+        "complete": 4.7
+      }
     },
     {
       "productId": "70010000015765",
@@ -71169,7 +72611,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 18.9,
+        "extra": 39.6,
+        "complete": 73.9
+      }
     },
     {
       "productId": "70010000056360",
@@ -71200,7 +72646,11 @@
       },
       "titleZh": "节奏剧场 Final Bar Line",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.9,
+        "extra": 32.6,
+        "complete": 60.7
+      }
     },
     {
       "productId": "70010000038968",
@@ -71231,7 +72681,11 @@
       },
       "titleZh": "这儿没游戏：错误的维度",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5,
+        "extra": 5.6,
+        "complete": 6.2
+      }
     },
     {
       "productId": "70010000022866",
@@ -71263,7 +72717,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.4,
+        "extra": 6.4,
+        "complete": 9.9
+      }
     },
     {
       "productId": "70010000000494",
@@ -71294,7 +72752,11 @@
       },
       "titleZh": "银莲公园",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 10.5,
+        "extra": 14.2,
+        "complete": 16
+      }
     },
     {
       "productId": "70010000001162",
@@ -71326,39 +72788,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
-    },
-    {
-      "productId": "70010000007744",
-      "title": "This is the Police 2",
-      "developer": "Weappy",
-      "publisher": "THQ Nordic",
-      "categories": [
-        "Adventure",
-        "Strategy"
-      ],
-      "releaseDate": "2018-09-25T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/171e40a771724d4ab6f8f17b5f2038c8_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/this-is-the-police-2-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 58,
-        "title": "This is the Police 2",
-        "url": "https://www.metacritic.com/game/this-is-the-police-2/",
-        "mustPlay": false,
-        "genres": [
-          "Virtual Career"
-        ],
-        "confidence": 1,
-        "releaseDate": "2018-09-25",
-        "userScore": 5.2,
-        "userReviewCount": null
-      },
-      "titleZh": null,
-      "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 19.9,
+        "extra": 23.9,
+        "complete": 33.3
+      }
     },
     {
       "productId": "70010000012862",
@@ -71389,7 +72823,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.9,
+        "extra": 23.6,
+        "complete": 64.1
+      }
     },
     {
       "productId": "70010000022754",
@@ -71421,7 +72859,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.5,
+        "extra": 2.3,
+        "complete": 6.1
+      }
     },
     {
       "productId": "70010000026350",
@@ -71453,7 +72895,11 @@
       },
       "titleZh": "巫师之昆特牌：王权的陨落",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 28,
+        "extra": 36.7,
+        "complete": 42.4
+      }
     },
     {
       "productId": "70010000000317",
@@ -71484,7 +72930,11 @@
       },
       "titleZh": "游戏",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.8,
+        "extra": 13.9,
+        "complete": 18.2
+      }
     },
     {
       "productId": "70010000072122",
@@ -71517,7 +72967,11 @@
       },
       "titleZh": "逝者如斯蝇",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.5,
+        "extra": 1.7,
+        "complete": 2.4
+      }
     },
     {
       "productId": "70010000000908",
@@ -71549,7 +73003,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.3,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "70010000019106",
@@ -71581,7 +73039,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.9,
+        "extra": 8.7,
+        "complete": 12.2
+      }
     },
     {
       "productId": "70010000036014",
@@ -71648,7 +73110,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10,
+        "extra": 10.8,
+        "complete": 11.3
+      }
     },
     {
       "productId": "70010000099518",
@@ -71715,7 +73181,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 11.4,
+        "extra": 24,
+        "complete": null
+      }
     },
     {
       "productId": "70010000018850",
@@ -71809,7 +73279,11 @@
       },
       "titleZh": "小雷神",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 10.1,
+        "extra": 10.7,
+        "complete": 18.8
+      }
     },
     {
       "productId": "70010000046218",
@@ -71841,7 +73315,11 @@
       },
       "titleZh": "小眷灵",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.1,
+        "extra": 7.9,
+        "complete": 9.9
+      }
     },
     {
       "productId": "70010000003582",
@@ -71873,7 +73351,11 @@
       },
       "titleZh": "泰坦之旅",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 31.1,
+        "extra": 46.9,
+        "complete": 121.5
+      }
     },
     {
       "productId": "70010000023414",
@@ -71904,7 +73386,11 @@
       },
       "titleZh": "去月球",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 4.5,
+        "complete": 4.6
+      }
     },
     {
       "productId": "70010000090478",
@@ -71935,7 +73421,11 @@
       },
       "titleZh": "去月球",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 4.5,
+        "complete": 4.6
+      }
     },
     {
       "productId": "70010000090480",
@@ -71966,7 +73456,11 @@
       },
       "titleZh": "去月球",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.1,
+        "extra": 4.5,
+        "complete": 4.6
+      }
     },
     {
       "productId": "70010000012844",
@@ -72029,7 +73523,11 @@
       },
       "titleZh": "摄影冒险",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.4,
+        "extra": 4.5,
+        "complete": 6.1
+      }
     },
     {
       "productId": "70010000127393",
@@ -72060,7 +73558,11 @@
       },
       "titleZh": "摄影冒险2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.5,
+        "extra": 3.6,
+        "complete": 4.2
+      }
     },
     {
       "productId": "70010000120156",
@@ -72091,7 +73593,11 @@
       },
       "titleZh": "摄影冒险2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.5,
+        "extra": 3.6,
+        "complete": 4.2
+      }
     },
     {
       "productId": "70010000036937",
@@ -72154,7 +73660,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.6,
+        "extra": 4.7,
+        "complete": 5.1
+      }
     },
     {
       "productId": "70010000009845",
@@ -72185,7 +73695,11 @@
       },
       "titleZh": "JuJu伝说",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.4,
+        "extra": 3.6,
+        "complete": 7.9
+      }
     },
     {
       "productId": "70010000006562",
@@ -72217,7 +73731,11 @@
       },
       "titleZh": "小鸡快跑",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 9.3,
+        "complete": 10.4
+      }
     },
     {
       "productId": "70010000003925",
@@ -72249,7 +73767,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.1,
+        "extra": 17.2,
+        "complete": 25
+      }
     },
     {
       "productId": "70010000022886",
@@ -72280,7 +73802,11 @@
       },
       "titleZh": "幻影异闻录♯FE Encore",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 37.5,
+        "extra": 50.3,
+        "complete": 62.3
+      }
     },
     {
       "productId": "70010000101000",
@@ -72311,7 +73837,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.6,
+        "extra": 14.1,
+        "complete": null
+      }
     },
     {
       "productId": "70010000078609",
@@ -72344,7 +73874,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 43,
+        "extra": 58.1,
+        "complete": 93.6
+      }
     },
     {
       "productId": "70010000068310",
@@ -72376,7 +73910,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 39.5,
+        "extra": 70.2,
+        "complete": 93.7
+      }
     },
     {
       "productId": "70010000107392",
@@ -72409,7 +73947,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 39.5,
+        "extra": 70.2,
+        "complete": 93.7
+      }
     },
     {
       "productId": "70010000108193",
@@ -72516,7 +74058,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 11.3,
+        "extra": 15.5,
+        "complete": 20.9
+      }
     },
     {
       "productId": "70010000120170",
@@ -72545,7 +74091,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 11.3,
+        "extra": 15.5,
+        "complete": 20.9
+      }
     },
     {
       "productId": "70010000116663",
@@ -72576,7 +74126,11 @@
       },
       "titleZh": "Tomodachi Life 朋友收集 梦想生活",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 36.4,
+        "extra": 54,
+        "complete": 80.3
+      }
     },
     {
       "productId": "70010000026221",
@@ -72607,7 +74161,11 @@
       },
       "titleZh": "Tony Hawk 滑板高手 1+2高清重制版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7,
+        "extra": 12.1,
+        "complete": 35.7
+      }
     },
     {
       "productId": "70010000098339",
@@ -72711,7 +74269,11 @@
       },
       "titleZh": "火炬之光II",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 20.7,
+        "extra": 29.9,
+        "complete": 77.3
+      }
     },
     {
       "productId": "70010000025192",
@@ -72743,7 +74305,11 @@
       },
       "titleZh": "火炬之光：边境",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15.7,
+        "extra": 23.5,
+        "complete": 40.1
+      }
     },
     {
       "productId": "70010000036167",
@@ -72775,7 +74341,11 @@
       },
       "titleZh": "受折磨的灵魂",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 9.4,
+        "extra": 10.6,
+        "complete": 14
+      }
     },
     {
       "productId": "70010000010571",
@@ -72807,7 +74377,11 @@
       },
       "titleZh": "不可思议的幻想乡TOD -RELOADED-",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 8.3,
+        "extra": 69.3,
+        "complete": null
+      }
     },
     {
       "productId": "70010000000697",
@@ -72838,7 +74412,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.3,
+        "extra": 4.7,
+        "complete": null
+      }
     },
     {
       "productId": "70010000034924",
@@ -72871,7 +74449,11 @@
       },
       "titleZh": "东方咒术泡泡",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 4.3,
+        "extra": 10,
+        "complete": null
+      }
     },
     {
       "productId": "70010000048015",
@@ -72902,7 +74484,11 @@
       },
       "titleZh": "刀剑乱舞无双",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 20.3,
+        "extra": 46.6,
+        "complete": 62.8
+      }
     },
     {
       "productId": "70010000091310",
@@ -72965,7 +74551,11 @@
       },
       "titleZh": "城镇叠叠乐",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 0.8,
+        "extra": 0.9,
+        "complete": 2.8
+      }
     },
     {
       "productId": "70010000014545",
@@ -72996,7 +74586,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.3,
+        "extra": 25.1,
+        "complete": 92.2
+      }
     },
     {
       "productId": "70010000003758",
@@ -73028,7 +74622,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.3,
+        "extra": 14.5,
+        "complete": 16.2
+      }
     },
     {
       "productId": "70010000106034",
@@ -73061,7 +74659,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 40.8,
+        "extra": 57.9,
+        "complete": 74.9
+      }
     },
     {
       "productId": "70010000098734",
@@ -73094,7 +74696,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 40.8,
+        "extra": 57.9,
+        "complete": 74.9
+      }
     },
     {
       "productId": "70010000133406",
@@ -73126,7 +74732,11 @@
       },
       "titleZh": "空之轨迹 the 2nd",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 47.1,
+        "extra": 76,
+        "complete": 87
+      }
     },
     {
       "productId": "70010000120176",
@@ -73158,7 +74768,11 @@
       },
       "titleZh": "空之轨迹 the 2nd",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 47.1,
+        "extra": 76,
+        "complete": 87
+      }
     },
     {
       "productId": "70010000013383",
@@ -73190,7 +74804,11 @@
       },
       "titleZh": "晶体管",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 8.4,
+        "complete": 15.7
+      }
     },
     {
       "productId": "70010000015123",
@@ -73221,7 +74839,11 @@
       },
       "titleZh": "特拉维斯再战江湖：英雄不再",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.3,
+        "extra": 11.7,
+        "complete": 16.7
+      }
     },
     {
       "productId": "70010000021006",
@@ -73325,7 +74947,11 @@
       },
       "titleZh": "三角战略",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 34.5,
+        "extra": 48.7,
+        "complete": 103.9
+      }
     },
     {
       "productId": "70010000003656",
@@ -73356,7 +74982,11 @@
       },
       "titleZh": "难死塔",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.7,
+        "extra": 19.5,
+        "complete": 37.2
+      }
     },
     {
       "productId": "70010000038561",
@@ -73389,7 +75019,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.2,
+        "extra": 9.2,
+        "complete": 10.4
+      }
     },
     {
       "productId": "70010000015262",
@@ -73421,7 +75055,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.2,
+        "extra": 12.8,
+        "complete": 15.6
+      }
     },
     {
       "productId": "70010000058952",
@@ -73453,7 +75091,11 @@
       },
       "titleZh": "圣塔神记",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17.4,
+        "extra": 21.9,
+        "complete": 35.8
+      }
     },
     {
       "productId": "70010000130274",
@@ -73485,7 +75127,11 @@
       },
       "titleZh": "圣塔神记",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17.4,
+        "extra": 21.9,
+        "complete": 35.8
+      }
     },
     {
       "productId": "70010000028441",
@@ -73516,7 +75162,11 @@
       },
       "titleZh": "海岛大亨6",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 34.5,
+        "extra": 56.6,
+        "complete": 76.4
+      }
     },
     {
       "productId": "70010000118169",
@@ -73578,7 +75228,11 @@
       },
       "titleZh": "月姬 -A piece of blue glass moon-",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 31.6,
+        "extra": 50.7,
+        "complete": 60.5
+      }
     },
     {
       "productId": "70010000022802",
@@ -73611,7 +75265,11 @@
       },
       "titleZh": "NS Switch 曼岛摩托车赛 边缘竞速",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6.6,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "70010000000162",
@@ -73642,7 +75300,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.5,
+        "extra": 6.1,
+        "complete": 7.3
+      }
     },
     {
       "productId": "70010000045589",
@@ -73710,7 +75372,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.1,
+        "extra": 2.7,
+        "complete": 3.3
+      }
     },
     {
       "productId": "70010000017340",
@@ -73742,7 +75408,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.1,
+        "extra": 8.8,
+        "complete": 9.9
+      }
     },
     {
       "productId": "70010000060478",
@@ -73773,7 +75443,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4.3,
+        "extra": 5.7,
+        "complete": 9.6
+      }
     },
     {
       "productId": "70010000103782",
@@ -73868,7 +75542,11 @@
       },
       "titleZh": "双点医院",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 37.6,
+        "extra": 73.4,
+        "complete": 127.9
+      }
     },
     {
       "productId": "70010000125000",
@@ -73879,7 +75557,7 @@
         "Simulation"
       ],
       "releaseDate": "2026-09-16T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ce6097c89cd84747a63a8083d6ca06f0_1024",
+      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5f98c62200524f698bd6e9676b628d52_1024",
       "storeUrl": "https://www.nintendo.com/us/store/products/two-point-hospital-full-health-collection-switch-2/",
       "switch1": false,
       "switch2": true,
@@ -73899,7 +75577,11 @@
       },
       "titleZh": "双点医院",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 37.6,
+        "extra": 73.4,
+        "complete": 127.9
+      }
     },
     {
       "productId": "70010000104115",
@@ -73925,7 +75607,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2025-10-28",
-        "userScore": null,
+        "userScore": 8.5,
         "userReviewCount": null
       },
       "titleZh": "双点博物馆",
@@ -73965,7 +75647,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.7,
+        "extra": 7.3,
+        "complete": 9.9
+      }
     },
     {
       "productId": "70010000077099",
@@ -73996,7 +75682,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.4,
+        "extra": 5.9,
+        "complete": 6.9
+      }
     },
     {
       "productId": "70010000043327",
@@ -74027,7 +75717,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6.2,
+        "extra": 7.9,
+        "complete": 9
+      }
     },
     {
       "productId": "70010000057747",
@@ -74089,7 +75783,11 @@
       },
       "titleZh": "终极快打旋风 II：最终挑战者",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.2,
+        "extra": 2.6,
+        "complete": 13.2
+      }
     },
     {
       "productId": "70010000018856",
@@ -74152,7 +75850,11 @@
       },
       "titleZh": "摄追赤红末世代",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.5,
+        "extra": 3.6,
+        "complete": 4.9
+      }
     },
     {
       "productId": "70010000040750",
@@ -74183,7 +75885,11 @@
       },
       "titleZh": "秘密结社",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.6,
+        "extra": 11.6,
+        "complete": 20.9
+      }
     },
     {
       "productId": "70010000036648",
@@ -74215,7 +75921,11 @@
       },
       "titleZh": "游离于世界之海",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.8,
+        "extra": 8.1,
+        "complete": 10.8
+      }
     },
     {
       "productId": "70010000001314",
@@ -74247,7 +75957,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.7,
+        "extra": 8.1,
+        "complete": 12.4
+      }
     },
     {
       "productId": "70010000021505",
@@ -74278,7 +75992,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3,
+        "extra": 23,
+        "complete": 109
+      }
     },
     {
       "productId": "70010000115815",
@@ -74309,7 +76027,11 @@
       },
       "titleZh": "碧屿之下 妮娅与不思议齿轮",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 7.6,
+        "extra": 11.8,
+        "complete": 18
+      }
     },
     {
       "productId": "70010000035334",
@@ -74340,7 +76062,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 17.9,
+        "extra": 28.8,
+        "complete": 62.5
+      }
     },
     {
       "productId": "70010000009921",
@@ -74371,7 +76097,11 @@
       },
       "titleZh": "传说之下",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7,
+        "extra": 11.3,
+        "complete": 20.7
+      }
     },
     {
       "productId": "70010000065249",
@@ -74404,7 +76134,11 @@
       },
       "titleZh": "圣兽之王",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 46.5,
+        "extra": 63,
+        "complete": 74.6
+      }
     },
     {
       "productId": "70010000034088",
@@ -74467,7 +76201,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.6,
+        "extra": 4.2,
+        "complete": 4.3
+      }
     },
     {
       "productId": "70010000015568",
@@ -74534,7 +76272,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 8.8,
+        "extra": 11.7,
+        "complete": 15.8
+      }
     },
     {
       "productId": "70010000014141",
@@ -74600,7 +76342,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.5,
+        "extra": 3.9,
+        "complete": 6.1
+      }
     },
     {
       "productId": "70010000021262",
@@ -74632,7 +76378,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.8,
+        "extra": 3,
+        "complete": 3.1
+      }
     },
     {
       "productId": "70010000010689",
@@ -74664,7 +76414,11 @@
       },
       "titleZh": "越野英雄4",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 21.2,
+        "extra": null,
+        "complete": null
+      }
     },
     {
       "productId": "70010000016732",
@@ -74695,7 +76449,11 @@
       },
       "titleZh": "VA-11 Hall-A：赛博朋克酒保行动",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 11.1,
+        "extra": 13.6,
+        "complete": 18.2
+      }
     },
     {
       "productId": "70010000000845",
@@ -74758,7 +76516,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 40.7,
+        "extra": 44.8,
+        "complete": 56.2
+      }
     },
     {
       "productId": "70010000022576",
@@ -74789,7 +76551,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.2,
+        "extra": 9.3,
+        "complete": 19.9
+      }
     },
     {
       "productId": "70010000045746",
@@ -74820,7 +76586,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.2,
+        "extra": 9.3,
+        "complete": 19.9
+      }
     },
     {
       "productId": "70010000010488",
@@ -74889,7 +76659,11 @@
       },
       "titleZh": "战场女武神",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 30.3,
+        "extra": 38.1,
+        "complete": 58.7
+      }
     },
     {
       "productId": "70010000009798",
@@ -74922,7 +76696,11 @@
       },
       "titleZh": "战场女武神4",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 36.9,
+        "extra": 50.3,
+        "complete": 72.9
+      }
     },
     {
       "productId": "70010000018942",
@@ -74954,7 +76732,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.7,
+        "extra": 18.4,
+        "complete": 33.3
+      }
     },
     {
       "productId": "70010000059002",
@@ -75057,7 +76839,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 32.2,
+        "extra": 35.8,
+        "complete": 54.7
+      }
     },
     {
       "productId": "70010000010288",
@@ -75120,7 +76906,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.3,
+        "extra": 3.2,
+        "complete": 6.4
+      }
     },
     {
       "productId": "70010000011805",
@@ -75152,7 +76942,11 @@
       },
       "titleZh": "速度2X",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.5,
+        "extra": 9.8,
+        "complete": 26.1
+      }
     },
     {
       "productId": "70010000057821",
@@ -75219,7 +77013,11 @@
       },
       "titleZh": "逆袭：月亮骑士",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.9,
+        "extra": 3.3,
+        "complete": 6.4
+      }
     },
     {
       "productId": "70010000018779",
@@ -75250,7 +77048,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.7,
+        "extra": 1.9,
+        "complete": 2.5
+      }
     },
     {
       "productId": "70010000036326",
@@ -75282,7 +77084,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.2,
+        "extra": 3.6,
+        "complete": 5.6
+      }
     },
     {
       "productId": "70010000002652",
@@ -75363,7 +77169,7 @@
       "switch2": true,
       "switch2Edition": false,
       "metacritic": {
-        "score": 86,
+        "score": 84,
         "title": "Village in the Shade",
         "url": "https://www.metacritic.com/game/village-in-the-shade/",
         "mustPlay": false,
@@ -75372,7 +77178,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-27",
-        "userScore": 9,
+        "userScore": 9.2,
         "userReviewCount": null
       },
       "titleZh": "静谧田园",
@@ -75395,7 +77201,7 @@
       "switch2": false,
       "switch2Edition": false,
       "metacritic": {
-        "score": 86,
+        "score": 84,
         "title": "Village in the Shade",
         "url": "https://www.metacritic.com/game/village-in-the-shade/",
         "mustPlay": false,
@@ -75404,7 +77210,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2026-10-27",
-        "userScore": 9,
+        "userScore": 9.2,
         "userReviewCount": null
       },
       "titleZh": "静谧田园",
@@ -75475,7 +77281,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.3,
+        "extra": null,
+        "complete": 9.1
+      }
     },
     {
       "productId": "70010000015364",
@@ -75506,7 +77316,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.9,
+        "extra": 4.4,
+        "complete": 6
+      }
     },
     {
       "productId": "70010000000156",
@@ -75537,7 +77351,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 13.4,
+        "extra": 20.8,
+        "complete": 50
+      }
     },
     {
       "productId": "70010000045094",
@@ -75569,7 +77387,11 @@
       },
       "titleZh": "卡牌之声 被囚禁的魔物",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 14,
+        "extra": 18.1,
+        "complete": 24.9
+      }
     },
     {
       "productId": "70010000045141",
@@ -75601,7 +77423,11 @@
       },
       "titleZh": "卡牌之声 残缺的巫女",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 19.4,
+        "extra": 23.7,
+        "complete": 31.8
+      }
     },
     {
       "productId": "70010000024395",
@@ -75633,7 +77459,11 @@
       },
       "titleZh": "卡牌之声 龙啸之岛",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.1,
+        "extra": 15.1,
+        "complete": 19.6
+      }
     },
     {
       "productId": "70010000027672",
@@ -75664,7 +77494,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 23.6,
+        "extra": 31.6,
+        "complete": 44.5
+      }
     },
     {
       "productId": "70010000002734",
@@ -75697,7 +77531,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 13.2,
+        "extra": 26,
+        "complete": 170
+      }
     },
     {
       "productId": "70010000000123",
@@ -75759,7 +77597,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.4,
+        "extra": 3.4,
+        "complete": 5
+      }
     },
     {
       "productId": "70010000032952",
@@ -75822,7 +77664,11 @@
       },
       "titleZh": "飘扬之歌",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9.4,
+        "extra": 11.2,
+        "complete": 11.9
+      }
     },
     {
       "productId": "70010000022734",
@@ -75886,7 +77732,11 @@
       },
       "titleZh": "星际战甲",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 113.8,
+        "extra": 656.5,
+        "complete": 1637.4
+      }
     },
     {
       "productId": "70010000009425",
@@ -75919,7 +77769,11 @@
       },
       "titleZh": "星际战甲",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 113.8,
+        "extra": 656.5,
+        "complete": 1637.4
+      }
     },
     {
       "productId": "70010000016646",
@@ -75951,7 +77805,11 @@
       },
       "titleZh": "战律",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 20,
+        "extra": 38.1,
+        "complete": 84.3
+      }
     },
     {
       "productId": "70010000062112",
@@ -75982,7 +77840,11 @@
       },
       "titleZh": "战律2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.3,
+        "extra": 23.5,
+        "complete": 30.3
+      }
     },
     {
       "productId": "70010000021876",
@@ -76014,7 +77876,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 19,
+        "extra": 30.2,
+        "complete": 48.2
+      }
     },
     {
       "productId": "70010000099778",
@@ -76082,7 +77948,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.7,
+        "extra": 5.5,
+        "complete": 8
+      }
     },
     {
       "productId": "70010000042929",
@@ -76114,7 +77984,11 @@
       },
       "titleZh": "分享同乐！瓦力欧制造",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.6,
+        "extra": 4.8,
+        "complete": 30.7
+      }
     },
     {
       "productId": "70010000068678",
@@ -76146,7 +78020,11 @@
       },
       "titleZh": "超级舞动 瓦力欧制造",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.1,
+        "extra": 3.7,
+        "complete": 6
+      }
     },
     {
       "productId": "70010000016668",
@@ -76209,7 +78087,11 @@
       },
       "titleZh": "无双大蛇3",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 16.9,
+        "extra": 40.9,
+        "complete": 93.9
+      }
     },
     {
       "productId": "70010000012901",
@@ -76241,7 +78123,11 @@
       },
       "titleZh": "废土2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 41.2,
+        "extra": 64.3,
+        "complete": 100.9
+      }
     },
     {
       "productId": "70010000051244",
@@ -76272,7 +78158,11 @@
       },
       "titleZh": "无常海滨",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.8,
+        "extra": 4.1,
+        "complete": 5.8
+      }
     },
     {
       "productId": "70010000041844",
@@ -76303,7 +78193,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 6.2,
+        "complete": 7.7
+      }
     },
     {
       "productId": "70010000055851",
@@ -76337,38 +78231,6 @@
       "playtime": null
     },
     {
-      "productId": "70010000019737",
-      "title": "We. The Revolution",
-      "developer": "Polyslash",
-      "publisher": "Klabater",
-      "categories": [
-        "Adventure",
-        "Simulation"
-      ],
-      "releaseDate": "2019-06-25T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3b26d3378a184269867a1b2dae3803cb_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/we-the-revolution-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 75,
-        "title": "We. The Revolution",
-        "url": "https://www.metacritic.com/game/we-the-revolution/",
-        "mustPlay": false,
-        "genres": [
-          "Adventure"
-        ],
-        "confidence": 1,
-        "releaseDate": "2019-06-25",
-        "userScore": 6.7,
-        "userReviewCount": null
-      },
-      "titleZh": "我们•革命",
-      "titleZhSource": "steam",
-      "playtime": null
-    },
-    {
       "productId": "70010000036163",
       "title": "Werewolf: The Apocalypse — Heart of the Forest",
       "developer": "Different Tales",
@@ -76398,7 +78260,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.9,
+        "extra": 3.1,
+        "complete": 8.9
+      }
     },
     {
       "productId": "70010000008531",
@@ -76429,7 +78295,11 @@
       },
       "titleZh": "憎恶之西",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.9,
+        "extra": 12.4,
+        "complete": 20.5
+      }
     },
     {
       "productId": "70010000019333",
@@ -76460,7 +78330,11 @@
       },
       "titleZh": "伊迪·芬奇的秘密",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 2.1,
+        "extra": 2.5,
+        "complete": 2.9
+      }
     },
     {
       "productId": "70010000022226",
@@ -76492,7 +78366,11 @@
       },
       "titleZh": "高什么尔夫",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 3.5,
+        "extra": 6,
+        "complete": 8.9
+      }
     },
     {
       "productId": "70010000013567",
@@ -76524,7 +78402,11 @@
       },
       "titleZh": "当滑雪升降机发生了故障",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 7.7,
+        "extra": 16.2,
+        "complete": 38.1
+      }
     },
     {
       "productId": "70010000034199",
@@ -76555,7 +78437,11 @@
       },
       "titleZh": "往事",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.7,
+        "extra": 2,
+        "complete": 2
+      }
     },
     {
       "productId": "70010000019363",
@@ -76586,7 +78472,11 @@
       },
       "titleZh": "彼处水如酒",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 11.3,
+        "extra": 15,
+        "complete": 26
+      }
     },
     {
       "productId": "70010000020805",
@@ -76617,7 +78507,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 1.2,
+        "extra": 1.3,
+        "complete": 1.6
+      }
     },
     {
       "productId": "70010000026157",
@@ -76648,7 +78542,11 @@
       },
       "titleZh": "阔海宽襟",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1,
+        "extra": 1.3,
+        "complete": 1.3
+      }
     },
     {
       "productId": "70010000097419",
@@ -76679,7 +78577,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 39.3,
+        "extra": 53.3,
+        "complete": 120.5
+      }
     },
     {
       "productId": "70010000030993",
@@ -76710,7 +78612,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 6.8,
+        "extra": 11,
+        "complete": 20.6
+      }
     },
     {
       "productId": "70010000023323",
@@ -76742,7 +78648,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 14.1,
+        "extra": 15.4,
+        "complete": 19.6
+      }
     },
     {
       "productId": "70010000013387",
@@ -76773,7 +78683,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 0.6,
+        "extra": 4,
+        "complete": 8.3
+      }
     },
     {
       "productId": "70010000021926",
@@ -76804,7 +78718,11 @@
       },
       "titleZh": "野外飞盘2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.2,
+        "extra": 5.9,
+        "complete": 24.6
+      }
     },
     {
       "productId": "70010000035828",
@@ -76899,7 +78817,11 @@
       },
       "titleZh": "展翅翱翔",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 1.8,
+        "extra": 11.3,
+        "complete": 76.6
+      }
     },
     {
       "productId": "70010000055825",
@@ -76961,7 +78883,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 2.3,
+        "extra": 3.2,
+        "complete": 4.6
+      }
     },
     {
       "productId": "70010000040859",
@@ -77054,7 +78980,11 @@
       },
       "titleZh": "传说法师",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.7,
+        "extra": 16.2,
+        "complete": 26.4
+      }
     },
     {
       "productId": "70010000129263",
@@ -77225,7 +79155,11 @@
       },
       "titleZh": "神奇小子・爱莎在怪物世界",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 4.3,
+        "extra": 6.2,
+        "complete": 7.2
+      }
     },
     {
       "productId": "70010000044219",
@@ -77289,7 +79223,11 @@
       },
       "titleZh": "神奇男孩 龙之陷阱",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 5.8,
+        "complete": 7.6
+      }
     },
     {
       "productId": "70010000136350",
@@ -77320,7 +79258,11 @@
       },
       "titleZh": "木木屋",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 5,
+        "complete": 5.2
+      }
     },
     {
       "productId": "70010000121595",
@@ -77351,7 +79293,11 @@
       },
       "titleZh": "木木屋",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 5,
+        "complete": 5.2
+      }
     },
     {
       "productId": "70010000013095",
@@ -77382,7 +79328,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 35.2,
+        "extra": 48.1,
+        "complete": 82.5
+      }
     },
     {
       "productId": "70010000000165",
@@ -77413,7 +79363,11 @@
       },
       "titleZh": "粘粘世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 6,
+        "extra": 8.1,
+        "complete": 14.1
+      }
     },
     {
       "productId": "70010000075641",
@@ -77442,7 +79396,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.8,
+        "extra": 8.3,
+        "complete": 27.2
+      }
     },
     {
       "productId": "70010000059936",
@@ -77471,7 +79429,11 @@
       },
       "titleZh": "恐怖的世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 1.6,
+        "extra": 6.1,
+        "complete": 47.5
+      }
     },
     {
       "productId": "70010000000801",
@@ -77503,7 +79465,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.8,
+        "extra": 13.3,
+        "complete": 18.2
+      }
     },
     {
       "productId": "70010000036016",
@@ -77570,7 +79536,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000067870",
@@ -77602,7 +79572,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000125675",
@@ -77633,7 +79607,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000073963",
@@ -77664,7 +79642,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000074972",
@@ -77695,7 +79677,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000084875",
@@ -77726,7 +79712,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000064087",
@@ -77757,7 +79747,11 @@
       },
       "titleZh": "僵尸世界大战",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 7.5,
+        "extra": 14,
+        "complete": 47.2
+      }
     },
     {
       "productId": "70010000050621",
@@ -77821,7 +79815,11 @@
       },
       "titleZh": "世界末日俱乐部",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 11.4,
+        "extra": 13.7,
+        "complete": 15.6
+      }
     },
     {
       "productId": "70010000016052",
@@ -77852,7 +79850,11 @@
       },
       "titleZh": "世界末日症候群",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.4,
+        "extra": 20.5,
+        "complete": 25.3
+      }
     },
     {
       "productId": "70010000033685",
@@ -77915,7 +79917,11 @@
       },
       "titleZh": "百战天虫 WMD",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 14.4,
+        "extra": 25.7,
+        "complete": 48.7
+      }
     },
     {
       "productId": "70010000018910",
@@ -77948,7 +79954,11 @@
       },
       "titleZh": "世界越野冠军赛 8",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 17.4,
+        "extra": 29.1,
+        "complete": 36.1
+      }
     },
     {
       "productId": "70010000029488",
@@ -78011,7 +80021,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.8,
+        "extra": 8.2,
+        "complete": 17.6
+      }
     },
     {
       "productId": "70010000001312",
@@ -78042,7 +80056,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 4,
+        "extra": 7.5,
+        "complete": 11.2
+      }
     },
     {
       "productId": "70070000010681",
@@ -78071,7 +80089,11 @@
       },
       "titleZh": "WWE 2K杀戮战场",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.3,
+        "extra": 9.5,
+        "complete": 15.2
+      }
     },
     {
       "productId": "70010000097826",
@@ -78104,7 +80126,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 11.3,
+        "extra": 39.3,
+        "complete": 155.7
+      }
     },
     {
       "productId": "70010000105175",
@@ -78143,38 +80169,6 @@
       }
     },
     {
-      "productId": "70010000012438",
-      "title": "X-Morph: Defense",
-      "developer": "EXOR Studios",
-      "publisher": "EXOR Studios",
-      "categories": [
-        "Shooting",
-        "Strategy"
-      ],
-      "releaseDate": "2019-02-21T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/420569a7b7a44424884c58a0fdfe5447_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/x-morph-defense-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 75,
-        "title": "X-Morph: Defense",
-        "url": "https://www.metacritic.com/game/x-morph-defense/",
-        "mustPlay": false,
-        "genres": [
-          "Defense"
-        ],
-        "confidence": 1,
-        "releaseDate": "2019-02-21",
-        "userScore": 7.9,
-        "userReviewCount": null
-      },
-      "titleZh": null,
-      "titleZhSource": null,
-      "playtime": null
-    },
-    {
       "productId": "70010000025496",
       "title": "XCOM 2 Collection",
       "developer": "Firaxis Games/Virtuos Games",
@@ -78204,7 +80198,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 60,
+        "extra": 85.2,
+        "complete": 392.3
+      }
     },
     {
       "productId": "70010000041893",
@@ -78236,7 +80234,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.4,
+        "extra": 10.5,
+        "complete": 11.6
+      }
     },
     {
       "productId": "70010000000707",
@@ -78268,7 +80270,11 @@
       },
       "titleZh": "异度神剑2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 61.8,
+        "extra": 104.9,
+        "complete": 254.9
+      }
     },
     {
       "productId": "70010000122691",
@@ -78300,7 +80306,11 @@
       },
       "titleZh": "异度神剑2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 61.8,
+        "extra": 104.9,
+        "complete": 254.9
+      }
     },
     {
       "productId": "70010000014081",
@@ -78327,7 +80337,7 @@
         ],
         "confidence": 1,
         "releaseDate": "2018-09-14",
-        "userScore": 8.4,
+        "userScore": 8.5,
         "userReviewCount": null
       },
       "titleZh": "异度神剑2 黄金之国伊拉",
@@ -78364,7 +80374,11 @@
       },
       "titleZh": "异度神剑3",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 62.2,
+        "extra": 102.4,
+        "complete": 173.8
+      }
     },
     {
       "productId": "70010000122696",
@@ -78393,7 +80407,11 @@
       },
       "titleZh": "异度神剑3",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 62.2,
+        "extra": 102.4,
+        "complete": 173.8
+      }
     },
     {
       "productId": "70010000029711",
@@ -78425,7 +80443,11 @@
       },
       "titleZh": "异度神剑 终极版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 56.1,
+        "extra": 82.5,
+        "complete": 141.9
+      }
     },
     {
       "productId": "70010000088832",
@@ -78457,7 +80479,11 @@
       },
       "titleZh": "异度神剑X 终极版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 65.4,
+        "extra": 99.7,
+        "complete": 151.6
+      }
     },
     {
       "productId": "70010000116669",
@@ -78489,7 +80515,11 @@
       },
       "titleZh": "异度神剑X 终极版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 65.4,
+        "extra": 99.7,
+        "complete": 151.6
+      }
     },
     {
       "productId": "70010000122671",
@@ -78521,7 +80551,11 @@
       },
       "titleZh": "异度神剑 终极版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 56.1,
+        "extra": 82.5,
+        "complete": 141.9
+      }
     },
     {
       "productId": "70010000005344",
@@ -78552,7 +80586,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 3.1,
+        "extra": 3.2,
+        "complete": 3.7
+      }
     },
     {
       "productId": "70010000095215",
@@ -78584,7 +80622,11 @@
       },
       "titleZh": "人中之龙0 誓约的场所 导演剪辑版",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 31.1,
+        "extra": 55.5,
+        "complete": 121.8
+      }
     },
     {
       "productId": "70010000084469",
@@ -78616,7 +80658,11 @@
       },
       "titleZh": "人中之龙",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18,
+        "extra": 33.1,
+        "complete": 84.5
+      }
     },
     {
       "productId": "70010000100315",
@@ -78648,7 +80694,11 @@
       },
       "titleZh": "人中之龙",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18,
+        "extra": 33.1,
+        "complete": 84.5
+      }
     },
     {
       "productId": "70010000100320",
@@ -78680,7 +80730,11 @@
       },
       "titleZh": "人中之龙2",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 18.5,
+        "extra": 36.3,
+        "complete": 80.1
+      }
     },
     {
       "productId": "70010000102005",
@@ -78712,7 +80766,11 @@
       },
       "titleZh": "人中之龙 极3 / 人中之龙3外传 Dark Ties",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15.9,
+        "extra": 32,
+        "complete": 50.8
+      }
     },
     {
       "productId": "70010000076819",
@@ -78744,7 +80802,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 7.4,
+        "extra": 10.4,
+        "complete": 12.6
+      }
     },
     {
       "productId": "70010000027948",
@@ -78776,7 +80838,11 @@
       },
       "titleZh": "遵命, 陛下",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 6.3,
+        "extra": 8.3,
+        "complete": 11.5
+      }
     },
     {
       "productId": "70010000025854",
@@ -78838,7 +80904,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 21.7,
+        "extra": 28.7,
+        "complete": 34.8
+      }
     },
     {
       "productId": "70010000001576",
@@ -78870,7 +80940,11 @@
       },
       "titleZh": "尤库的小岛速递",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 5.7,
+        "extra": 8.1,
+        "complete": 11.3
+      }
     },
     {
       "productId": "70010000053320",
@@ -78902,7 +80976,11 @@
       },
       "titleZh": "夜回三",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 12.6,
+        "extra": 15.3,
+        "complete": 19.2
+      }
     },
     {
       "productId": "70010000011318",
@@ -78966,7 +81044,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 9.8,
+        "extra": 13.3,
+        "complete": 24.2
+      }
     },
     {
       "productId": "70010000000803",
@@ -78998,7 +81080,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 5.1,
+        "extra": 5.6,
+        "complete": 7.9
+      }
     },
     {
       "productId": "70010000003267",
@@ -79030,7 +81116,11 @@
       },
       "titleZh": "尤卡莱莉大冒险",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 15.4,
+        "extra": 20.5,
+        "complete": 24.8
+      }
     },
     {
       "productId": "70010000018416",
@@ -79062,7 +81152,11 @@
       },
       "titleZh": "尤卡莱莉与无妄巢穴",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 12.9,
+        "extra": 16,
+        "complete": 21.7
+      }
     },
     {
       "productId": "70010000098659",
@@ -79094,7 +81188,11 @@
       },
       "titleZh": "尤卡莱莉：回归",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 8.2,
+        "extra": 12.9,
+        "complete": 17.5
+      }
     },
     {
       "productId": "70010000119859",
@@ -79126,7 +81224,11 @@
       },
       "titleZh": "耀西与不可思议的图鉴",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 9,
+        "extra": 17.9,
+        "complete": 49.2
+      }
     },
     {
       "productId": "70010000000734",
@@ -79157,7 +81259,11 @@
       },
       "titleZh": "耀西的手工世界",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.3,
+        "extra": 16.4,
+        "complete": 35.6
+      }
     },
     {
       "productId": "70010000023478",
@@ -79189,7 +81295,11 @@
       },
       "titleZh": "双子星：盛气凌人",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 8.9,
+        "extra": 11.5,
+        "complete": 12.3
+      }
     },
     {
       "productId": "70010000014460",
@@ -79252,40 +81362,11 @@
       },
       "titleZh": "伊苏IX -怪人之夜-",
       "titleZhSource": "wikidata",
-      "playtime": null
-    },
-    {
-      "productId": "70010000094416",
-      "title": "Ys Memoire: Revelations in Celceta",
-      "developer": null,
-      "publisher": "Marvelous (XSEED)",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Role playing"
-      ],
-      "releaseDate": "2026-04-28T00:00:00.000Z",
-      "image": "https://assets.nintendo.com/image/fetch/c_fill,ar_3:4,w_400,q_auto,f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/776d8359ed374f1b9a0b4866b2284888_1024",
-      "storeUrl": "https://www.nintendo.com/us/store/products/ys-memoire-revelations-in-celceta-switch/",
-      "switch1": true,
-      "switch2": false,
-      "switch2Edition": false,
-      "metacritic": {
-        "score": 76,
-        "title": "Ys Memoire: Revelations in Celceta",
-        "url": "https://www.metacritic.com/game/ys-memoire-revelations-in-celceta/",
-        "mustPlay": false,
-        "genres": [
-          "Action RPG"
-        ],
-        "confidence": 1,
-        "releaseDate": "2026-04-28",
-        "userScore": 7.3,
-        "userReviewCount": null
-      },
-      "titleZh": null,
-      "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 27.6,
+        "extra": 39.8,
+        "complete": 53.3
+      }
     },
     {
       "productId": "70010000077674",
@@ -79317,7 +81398,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 10.8,
+        "extra": 13.5,
+        "complete": 20.8
+      }
     },
     {
       "productId": "70010000027094",
@@ -79348,7 +81433,11 @@
       },
       "titleZh": "伊苏：起源",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 11.5,
+        "extra": 22.2,
+        "complete": 35.8
+      }
     },
     {
       "productId": "70010000010603",
@@ -79449,7 +81538,11 @@
       },
       "titleZh": "伊苏X -北境历险-",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 25.7,
+        "extra": 45.2,
+        "complete": 59.6
+      }
     },
     {
       "productId": "70010000103722",
@@ -79481,7 +81574,11 @@
       },
       "titleZh": "伊苏X -诺曼荣光-",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 25.7,
+        "extra": 45.2,
+        "complete": 59.6
+      }
     },
     {
       "productId": "70010000084531",
@@ -79544,7 +81641,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 55.9,
+        "extra": 84.5,
+        "complete": 136.4
+      }
     },
     {
       "productId": "70010000044072",
@@ -79576,7 +81677,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 13.3,
+        "extra": 24.8,
+        "complete": 40
+      }
     },
     {
       "productId": "70010000046658",
@@ -79608,7 +81713,11 @@
       },
       "titleZh": "冤罪执行游戏Yurukill",
       "titleZhSource": "wikidata",
-      "playtime": null
+      "playtime": {
+        "main": 13.6,
+        "extra": 18.7,
+        "complete": 25.9
+      }
     },
     {
       "productId": "70010000014378",
@@ -79708,7 +81817,11 @@
       },
       "titleZh": null,
       "titleZhSource": null,
-      "playtime": null
+      "playtime": {
+        "main": 13.3,
+        "extra": 19.6,
+        "complete": 36.3
+      }
     },
     {
       "productId": "70010000048073",
@@ -79740,7 +81853,11 @@
       },
       "titleZh": "滚弹吧僵尸",
       "titleZhSource": "steam",
-      "playtime": null
+      "playtime": {
+        "main": 1.7,
+        "extra": null,
+        "complete": null
+      }
     }
   ]
 }
